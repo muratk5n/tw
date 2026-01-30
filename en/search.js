@@ -45,7 +45,7 @@ async function searchText() {
 	var article = keyValues[i][0].replace(".md",".html");
 	out +=
 	    '<p><a target="_blank" href="' +
-	    'https://muratk5n.github.io/thirdwave/en/' + article + '">' + article +
+	    'https://muratk5n.github.io/tw/en/' + article + '">' + article +
 	    '</a></p>';
 	
 	document.getElementById("output").innerHTML = out;
