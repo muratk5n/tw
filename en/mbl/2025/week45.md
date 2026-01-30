@@ -1,0 +1,551 @@
+# Week 45
+
+
+TAC: "Many conservatives have declared [Mamdani] an Islamic
+communist. But it’s unlikely the secular Mamdani, who enthusiastically
+campaigned in gay clubs, is a jihadist. The communist accusation has
+more legs, as Mamdani is a self-declared socialist, albeit a
+milquetoast 'democratic' kind. The strong denunciations are driven by
+the understandable desire to paint Mamdani as a dangerous force in
+American politics. Calling him 'woke' or a 'radical leftist' doesn’t
+seem to cut it, so conservatives want to refer to him as something
+newer and more menacing...
+
+Enter the 'Third Worldism' accusation. Hudson Institute fellow Zineb
+Riboua argued Mamdani espouses this ideology in two Substack
+posts.. The article primarily focuses on Mamdani’s opposition to
+Israel rather than his socialism. It insists anti-Zionism lies at the
+heart of Third Worldism. This strongly implies the purpose of
+popularizing the term is to sell a new version of neoconservatism to
+American right-wingers. In order to defeat woke, we must apparently
+back Israel against the mullahs’ cancel culture. It’s unnecessary and
+unwise to connect Israeli support with unrelated domestic matters."
+
+---
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/115/501/328/366/998/542/original/4d5538fc3f42f5f8.jpg'/>
+
+---
+
+TAC: "In a CBS News/YouGov survey released Sunday that sampled 2,124
+U.S. adults interviewed October 29–31, 2025, Trump posted personal
+record lows on the economy and inflation.. And though holders of
+Nvidia stock may be racking in the big money, normal Americans, the
+hundreds of millions who aren’t overleveraged in data centers, useless
+crypto, and computer graphic chips, are struggling to hold on to what
+they have. New numbers from Ritholtz wealth management show just how
+wide the gap between the haves and the have nots has truly become. The
+top 10 percent of US households now own 87 percent of all U.S. stocks,
+with the top 1 percent alone owning 50 percent. By comparison, the
+bottom 50 percent of households hold only 1 percent of all
+U.S. stocks. So while Trump beats his chest about rocketing stocks,
+the vast majority of Americans aren’t benefitting from 'numbers go up'
+at all.
+
+And then there’s the housing market. According to new figures
+published by real estate brokerage firm Redfin, only 2.8 percent of
+homes changed hands in the first nine months of 2025, about 28 per
+1,000. That’s the lowest turnover in at least 30 years. Furthermore,
+only one out of 100 homes in New York and Los Angeles turned over in
+the first eight months of the year. Housing issues and the insolvency
+of the middle and lower class were supposed to be the big programs of
+the MAGA project, not fighting every country over antique religious
+doctrines. But no worry, at some point all the good-hearted AI and
+crypto billionaires will surely bail us all out"
+
+---
+
+WaPo: "Shutdown halts $4 billion program to help poor people heat
+their homes"
+
+---
+
+Politico: "‘There Should Be Flashing Red Lights’: Steve Bannon on
+Mamdani’s Win.. he sees Mamdani’s election as mayor of New York City
+as proof of its staying power — and a sign of the growing
+anti-establishment force on the left that Republicans would be foolish
+to ignore."
+
+---
+
+Mondoweiss: "Take a March 2025 Pew poll as an example... [it] reveals
+that more and more younger Republicans are souring on [Israel]. 50% of
+GOP voters under the age of 50 expressed a negative view of Israel,
+compared to just 35% in 2022. These numbers line up with a number of
+recent polls, including an August 2025 University of Maryland Critical
+Issues survey, which found that just 24% of Republican voters ages
+18-34 sympathize more with Israelis than Palestinians. 'An Entire
+Generation of Americans Is Turning on Israel,' declares a recent
+Politico headline."
+
+---
+
+"@raganwald@social.bau-ha.us
+
+I, for one, welcome all the administrative savings 🇨🇦 can realize by
+not collecting taxes on luxury purchases."
+
+>The Canada budget for 2025 proposes to eliminate the luxury tax on
+>aircraft and boats, which was previously applied to high-value
+>purchases. This change is expected to provide relief to the aviation
+>and boating industries and result in administrative savings for the
+>government
+
+---
+
+Al-Monitor: "SDF commander:.. Syria’s Kurds prepare for threat of war
+as Damascus talks falter"
+
+---
+
+The Guardian: "[UAE]'s diplomatic machine is for the first time
+admitting to mistakes in its Sudan policy after suffering reputational
+damage over its support for the Rapid Support Forces, the Sudanese
+paramilitary group that has carried out mass killings in El Fasher
+since it captured the city late last month... UAE’s senior diplomatic
+envoy.. said the UAE and others had been wrong not to impose sanctions
+on the instigators of the 2021 coup – led jointly by the RSF and the
+army – that overthrew Sudan’s transitional civilian government."
+
+---
+
+
+CNBC: "Supreme Court justices appear skeptical that Trump tariffs are
+legal.. Trump calls the Supreme Court case on his tariffs a matter of
+"life or death" for the United States."
+
+---
+
+Politico: "Supreme Court teases taking away Trump’s favorite foreign
+policy tool"
+
+---
+
+CNBC: "China’s Pony.ai on Thursday saw its shares drop over 14%, while
+rival WeRide fell nearly 12% as the autonomous driving companies began
+trading in Hong Kong... their U.S. plans face headwinds as earlier
+this year the government finalized a rule effectively banning Chinese
+technology in connected vehicles, including self-driving systems."
+
+---
+
+The Lever: "New York’s Sore Winners.. Congressional Democrats from the
+Empire State are less than enthused about New York City Mayor-elect
+Zohran Mamdani."
+
+---
+
+"Why Did ChatGPT Hit a Wall?"
+
+[[-]](https://youtu.be/emHCav2pxLA?t=745)
+
+---
+
+MIT Technology Review: "Goertzel was an influential figure in a fringe
+community of researchers who had dreamed for years of building
+humanlike artificial intelligence, an all-purpose computer program
+that could do many of the things people can do (and do them better)...
+
+And yet for all of LLMs’ remarkable wordplay, Goertzel doesn’t think
+that they do in fact contain sparks of AGI. 'It’s a little surprising
+to me that some people with a deep technical understanding of how
+these tools work under the hood still think that they could become
+human-level AGI,' he says...
+
+We saw this when OpenAI released the much-hyped GPT-5 this summer. AI
+stans were disappointed that the new version of the company’s flagship
+technology wasn’t the step change they expected. But instead of seeing
+that as evidence that AGI wasn’t attainable—or attainable with an LLM,
+at least—believers pushed out their predictions for how soon AGI would
+come. It was coming—just, you know, next time."
+
+---
+
+Culture takes input from religion, but contains other elements other
+than just religious ones... Culture subsumes religion.
+
+---
+
+Catholicism could have seeped into the cultural fabric of America,
+they have the numbers... The Irish, the Italian migration is one
+factor, but most forget another huge wave of migration, the Germans,
+1/3rd of whom were Catholic. And obviously the Hispanic migrants are
+mostly Catholic as well. That means while growing up every American
+would subconciously adapt part-Catholic cultural precepts along with
+the majority Protestan ones (that includes Catholics themselves, they
+will also be part-Catholic in culture, not wholly). US is a
+Catholi-Protestan synthesis, not Judeo-Christian synthesis.
+
+---
+
+Politico: "When Jared Isaacman was the nominee for NASA chief this
+spring, the billionaire entrepreneur wrote an opus proposing drastic
+changes to the agency... The 62-page plan, obtained by POLITICO,
+proposes outsourcing some of NASA’s missions to the private sector and
+treating the government agency more like a business. The draft, known
+as 'Project Athena,' not only showcases Isaacman’s radical vision for
+the space agency. It comes as he reemerges as a potential candidate
+for the position against acting NASA administrator Sean Duffy...
+
+This has concerned some tied to NASA. It’s 'bizarre and careless,'
+said one former NASA official.. Isaacman’s manifesto would radically
+change NASA’s approach to science. He advocates buying science data
+from commercial companies instead of putting up its own satellites,
+referring to it a 'science-as-a-service.'"
+
+---
+
+Cato: "At the center of the government shutdown is a disagreement over
+whether to extend a temporary pandemic-era expansion of the Affordable
+Care Act’s premium tax credits... [The expansion s]ubsidizes insurance
+companies, not patients. Unlike other tax credits that individuals
+claim on their tax returns at the end of the year, most premium tax
+credits are paid in advance, directly to insurance companies, to lower
+the monthly premium bill. These direct subsidies allow the insurance
+industry to shift the vast majority of rising premiums onto
+taxpayers. Paragon Health Institute notes that these subsidies have
+been largely incorporated into insurance company profits. Since the
+premium subsidies were created in the Affordable Care Act, along with
+other industry-favorable spending increases, health insurer stock
+prices have increased more than 1,000 percent (compared with 251
+percent growth for the S&P 500)."
+
+---
+
+"@PoliceStateUK@mastodon.me.uk
+
+How it started:
+
+'Starmer: If you don't like #Labour changes, leave.'
+
+How it's going:
+
+[Message](https://mastodon.me.uk/system/media_attachments/files/115/491/517/886/209/451/original/622232beec61441d.png)
+
+---
+
+BBC: "Zohran Mamdani wins New York mayoral race"
+
+---
+
+AP News: "Former Vice President Dick Cheney dies at 84"
+
+---
+
+"@GeofCox@climatejustice.social
+
+In the latest YouGov poll the Green Party is top on 25% in the 18-49
+age group - Labour is second on 21%, then Reform on 19% and the Tories
+on just 11%."
+
+---
+
+"How THORIUM Reactors Could Solve Our Future Energy Demand"
+
+[[-]](https://youtu.be/-s6_CFPAuP8?t=402)
+
+---
+
+That's a great line.. The rich do that bcz they are fighting for their
+class power, to further its absolute dominance over society, that
+leads them to aim for the other side's destruction.
+
+Mamdani: "Billionaires are willing to spend more money than I would
+ever tax them trying to defeat our campaign"
+
+---
+
+\#Billionaires \#Monopoly
+
+[[-]](https://youtu.be/-VSvaiXeNI8?t=28)
+
+---
+
+TAC: "America’s Magical Thinking on Ukraine and North
+Korea.. U.S. planners need to accept that Kiev is losing its war and
+Pyongyang won’t relinquish its nukes. "
+
+---
+
+TAC: "Trump Endorses Cuomo for NYC Mayor"
+
+---
+
+"@web_goddess@aus.social
+
+.. Wow. Twenty-four years ago I was posting about this cool site I’d
+found called the Wayback Machine.. that had archived 10 billion web
+pages. A couple weeks ago in 2025, they hit a trillion pages... I need
+to send them a donation. They are doing amazing work, and their
+archive has become absolutely essential to the survival of the Open
+Web."
+
+---
+
+It makes sense for sharks to hang around fishermen boats.. Fishermen
+attract the fish with bait, hook it and pull it, shark can just wait
+and jump it at that stage and have a feast. One Oz fisherman reeled in
+a huge nannygai but by the time they pulled it on the boat, half of
+the fish was gone - eaten by shark.
+
+---
+
+"@wingsylver@hachyderm.io
+
+I did a successful install of [free and open source] Linux Mint
+Cinnamon on a laptop at one of the repair cafes near me today.
+
+I enjoyed talking to the customer about Linux, and it was interesting
+to hear that they had already heard and read about some of its many
+upsides. They saw this as an opportunity to learn more about their
+machine, and I hope they do just that.
+
+Windows 10 support has ended now, but it's not too late to find a
+repair cafe or installation event near you."
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+If you're wondering why I've spent years challenging the narrative
+that all ransomware and extortion originates from Russia...
+
+It just doesn't.  The UK and the US, in particular, have home grown
+problems.
+
+Dismantle the ransomware economy.  Orgs secretly paying ransoms should
+never have been normalised."
+
+---
+
+NYT: "In Israel, an Unfamiliar Word Is Heard: Peace.. A new kind of
+Mideast peace process is underway, as a determined Trump
+administration and its allies in the Muslim world seek to broaden a
+tenuous cease-fire between Israel and Hamas."
+
+---
+
+"@PabloMartini@climatejustice.social
+
+The EU continues to move from US tech to open-source-based digital
+sovereignty approaches, with Austria's Ministry of Economy
+successfully shifting from Microsoft 365 to NextCloud.
+
+Woohoooo!"
+
+---
+
+Ally Maynard: "I don't understand this economy when nursing homes are
+so expensive they bankrupt our grandparents but nursing home aides
+need to use food banks.
+
+Daycare is so expensive it eats up one parent's entire paycheck and
+yet daycare providers only make $10/hr and need second jobs.
+
+College costs hundreds of thousands of dollars and puts students into
+debt for life and yet we have thousands of professors living in their
+cars.
+
+Everything we need is astronomically expensive and yet almost none of
+the money we pay is going towards the people actually doing the work
+and providing the services."
+
+---
+
+Travel tubers ran into a tech-libertard cult while investigating the
+famous Malaysian ghost town Forest City. They are the followers of one
+of those Thiel affiliated "visionaries", the author of Network State.
+
+The name sounded familiar, turns out I shared something on it back in
+2021 from a Bloomberg article (below). The cult must have seen the
+empty city and thought "aha!  this is our chance to colonize it, and
+create a fake country wout government"
+
+[[-]](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics)
+
+---
+
+"@SecureOwl@infosec.exchange
+
+Speaking to my dad this morning, a Microsoft Office user and Excel
+wizard for 25+ years.
+
+'What the fuck is this copilot thing they’ve shoehorned into
+everything. it pops up everywhere and it’s absolutely fucking
+useless. how do i turn it off?'"
+
+---
+
+\#AI
+
+[[-]](https://youtu.be/NQEOMgdzBI4)
+
+---
+
+\#ΛCDM \#RiggedfromTheStart
+
+[[-]](https://m.youtube.com/shorts/kTakaXt1gHc)
+
+---
+
+Yahoo Finance: "Ray Dalio sounds alarm over looming ‘civil war’ in US
+— and our power to ‘hurt each other’ has never been greater.. This
+isn’t the first time Dalio has sounded the alarm about America’s
+internal fractures... he wrote: 'From studying 50-plus civil wars and
+revolutions, it became clear that the single most reliable leading
+indicator of civil war or revolution is bankrupt government finances
+combined with big wealth gaps'
+
+And the U.S. is edging dangerously close to that description.
+
+The national debt has climbed to $37.92 trillion, with a debt-to-GDP
+ratio of 125%, up from 100% a decade ago. Dalio has warned that when
+debt rises relative to income, it’s like 'plaque in the arteries' —
+eventually choking off spending.
+
+Meanwhile, wealth inequality has ballooned. The wealthiest 1% of
+Americans now hold 31% of the nation’s net worth — up from 22.8% in
+1989. By contrast, the bottom 50% watched their share shrink from 3.5%
+to just 2.5% over the same period, Federal Reserve data shows"
+
+---
+
+Statista: "In Three Years of War, Almost 7 Million Ukrainians Have Fled"
+
+---
+
+Maybe I should make it map to a new name.. "True Word"? "Thought
+Waves"? I'll leave it undefined, unknown - much like the fate of
+humanity.
+
+---
+
+Site URL change.  now the name of the site is simply TW. 
+
+---
+
+The Guardian: "US military to reduce number of troops in Romania as
+start of European drawdown"
+
+---
+
+I bet the rise of the gerontocracy coincides with the rise of the
+uniparty. Both sides agree on the main economic system, but they need
+a modicum of "battle of ideas" between two things, at least the
+illusion of it, so both parties amp up culture war and superfluous
+divisions, that increases polarization, then boom: Gerontocracy.
+
+Vox: "[T]he median age in the US Senate is over 65 years old. In fact,
+American politicians have aged so much that the United States has been
+dubbed a gerontocracy — a system of government where power is
+concentrated among the elderly..
+
+There are two main reasons why House elections are so uncompetitive:
+polarization and gerrymandering. As Americans became more polarized,
+they became more loyal to their political parties. That meant that
+fewer and fewer Americans split their tickets — voting for, say, a
+Democratic presidential candidate while also voting for a Republican
+candidate for the House or Senate — making congressional districts
+safer during a general election. And more importantly, partisan
+gerrymandering, where lawmakers draw up congressional districts to
+benefit one party, has made competitive elections all the more rare."
+
+---
+
+The Register: "International Criminal Court kicks Microsoft Office to
+the curb.. The ICC will switch from Microsoft's productivity wares to
+openDesk, an open source office and collaboration suite provided by
+the Center for Digital Sovereignty (ZenDiS) on behalf of the German
+Federal Ministry of the Interior."
+
+---
+
+[Link](https://www.dropbox.com/scl/fi/3wqu6zg571d4a717303vl/predator_stealth.gif?rlkey=s8kmwcg5xo24blbaqdxuqn9wk&st=dm3ye1gd&raw=1)
+
+---
+
+Arnold doesn't seem to be fighting against Prop 50 all that
+much... Probably because he knows he will lose, he is being kinda
+stealth about it
+
+---
+
+ABC7: "New polls show Californians overwhelmingly support Prop 50
+ahead of Election Day"
+
+---
+
+\#EU
+
+"@Tutanota@mastodon.social
+
+🚨BREAKING: We've stopped #ChatControl.. !
+
+Until a new Council Presidency tries again...
+
+But for now, we can enjoy our success. Thanks everyone for fighting
+for #privacy along with us! ❤️ 👏'
+
+---
+
+\#HeliumCooled \#NuclearPower
+
+[[-]](https://youtu.be/G7B6dMFyrW0?t=138)
+
+---
+
+John Scalzi: "I have personally found a good way to spot-check “AI” is
+to ask it questions about me and see what it gets wrong, and so, in a
+similar fashion, I popped over to Grokipedia to see what its article
+about me says, and how accurate it might be.
+
+And how accurate is it? As accurate as anything made with an LLM,
+which is to say: meh, not especially, because fundamentally LLMs
+aren’t built for accuracy, they’re built for statistical probability,
+and these really are two separate things. Grok can find out things
+about me on the Internet, and put those things into Grokipedia, but it
+doesn’t appear to have the ability to discriminate between what is
+truth and what’s not. If it shows up enough on the Internet, Grok’s
+happy to print the not truth."
+
+---
+
+Charles K.. That is a good move. 
+
+Reuters: "King Charles strips brother Andrew of titles and his mansion"
+
+---
+
+TR purchase of Eurofighters is an indirect admission the indigeneous
+fighter aircraft Kaan is not ready for prime time.
+
+---
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/115/475/258/497/825/564/original/a991042e6a495aa4.jpg'/>
+
+---
+
+"Why are most Chinese still poor" \#LeiRealTalk
+
+[[-]](https://www.youtube.com/shorts/VwQT29WTDic)
+
+---
+
+\#China \#Globalization \#Firstpost
+
+[[-]](https://youtu.be/B4--AbPUkn0?t=559)
+
+---
+
+The Lever: "How A Pharma Giant Is Looting The Pentagon.. The drug
+intermediary overseeing the military’s TRICARE pharmacy program is
+limiting access to care and overcharging taxpayers hundreds of dollars
+on average per prescription."
+
+---
+
+Politico: "[T]he Biggest Federal Worker Union Broke With Democrats on
+the Shutdown"
+
+---
+

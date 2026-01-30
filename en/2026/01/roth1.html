@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Double Slit from top</title>
+
+  <style>
+    
+  </style>
+
+  
+</head>
+<body>
+  <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Double Slit: Semi-Classical Wave Visualization</title>
+  <style>
+    /* CSS remains the same as the previous correct version */
+    body { font-family: sans-serif; margin: 20px; line-height: 1.4; }
+    #controls {
+      background: #f7f7f7;
+      padding: 15px;
+      border: 1px solid #ccc;
+      border-left: 3px solid #ccc;
+      margin-bottom: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 20px;
+      align-items: baseline;
+      max-width: 750px; /* Limit width of controls area */
+    }
+    .control-item {
+      display: flex;
+      align-items: baseline;
+      gap: 5px;
+      min-width: 240px; /* Adjusted min-width */
+    }
+    .control-item label {
+       width: 160px; /* Adjusted label width */
+       text-align: right;
+       padding-right: 5px;
+       font-size: 0.9em;
+    }
+    .control-item input[type=number] {
+       width: 60px;
+    }
+    #controls p {
+        width: 100%;
+        margin-top: 5px; /* Reduced top margin */
+        margin-bottom: 5px;
+        font-size: 0.9em;
+        color: #333;
+    }
+    #controls button {
+        margin-top: 10px;
+        padding: 8px 15px;
+        cursor: pointer;
+    }
+    canvas {
+      border: 1px solid #444;
+      display: block;
+      margin-bottom: 10px;
+    }
+    #waveCanvas {
+        background-color: #000; /* Black background for wave canvas */
+    }
+    #histCanvas {
+       background-color: #FFF; /* Ensure histogram background is white */
+       border: 1px solid #666; /* Slightly lighter border for histogram */
+    }
+    #container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      align-items: flex-start;
+      margin-bottom: 20px;
+    }
+    .red-dot { color: red; font-weight: bold; }
+    .explanation {
+        background: #eef;
+        padding: 15px;
+        border-left: 3px solid #aac;
+        font-size: 0.95em;
+        max-width: 800px;
+    }
+    .explanation p { /* Style paragraphs within explanation */
+        margin-bottom: 10px;
+    }
+    .explanation code { /* Style for inline code/formulas */
+        background-color: #dde;
+        padding: 1px 3px;
+        border-radius: 3px;
+        font-family: monospace;
+    }
+    .explanation .formula { /* Style for displayed formulas */
+        margin: 8px 0 8px 20px; /* Indent formulas */
+        font-family: monospace;
+        font-size: 1.05em;
+    }
+    .explanation a {
+        color: #0077cc;
+        text-decoration: none;
+    }
+    .explanation a:hover {
+        text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Double-Slit: Semi-Classical Wave Model</h1>
+<p>
+  This simulation visualizes the double-slit experiment using a purely classical wave model for light, interacting with a discrete detector screen, inspired by the semi-classical approach (e.g., Rashkovskiy, SPIE 9570, 2015).
+</p>
+<p>
+  The <strong>left canvas</strong> shows the calculated classical wave amplitude propagating from two slits (white openings) in a barrier (black). Amplitude is color-coded (<span style="color:red;">Red</span>=positive, <span style="color:blue;">Blue</span>=negative, Black=zero).
+  The rightmost column simulates a detector screen. When a "detection" occurs at a specific vertical position (y), a <span class="red-dot">■</span> red square appears momentarily.
+  The <strong>right canvas</strong> plots a histogram (black bars on white background) of these detection events versus y, showing the interference pattern emerging over time.
+</p>
+
+<!-- Controls remain the same -->
+<div id="controls">
+  <div class="control-item">
+    <label for="canvasWidth">Canvas Width (W):</label>
+    <input type="number" id="canvasWidth" value="400" step="10">
+  </div>
+  <div class="control-item">
+    <label for="canvasHeight">Canvas Height (H):</label>
+    <input type="number" id="canvasHeight" value="300" step="10">
+  </div>
+  <div class="control-item">
+    <label for="slitSep">Slit Separation (d):</label>
+    <input type="number" id="slitSep" value="70" step="1">
+  </div>
+   <div class="control-item">
+    <label for="slitWidth">Slit Width:</label>
+    <input type="number" id="slitWidth" value="6" step="1">
+  </div>
+  <div class="control-item">
+    <label for="lambda">Wavelength (lambda):</label>
+    <input type="number" id="lambda" value="30" step="1">
+  </div>
+  <div class="control-item">
+    <label for="waveSpeed">Wave Speed (c):</label>
+    <input type="number" id="waveSpeed" value="2.5" step="0.1">
+  </div>
+  <div class="control-item">
+    <label for="amplitude">Source Amplitude (A0):</label>
+    <input type="number" id="amplitude" value="1.5" step="0.1">
+  </div>
+  <div class="control-item">
+    <label for="probScale">Detection Prob Scale (alpha):</label>
+    <input type="number" id="probScale" value="0.04" step="0.01">
+  </div>
+  <p>
+    Adjust `alpha` to control the frequency of <span class="red-dot">■</span> detection events.
+    High `alpha` leads to faster pattern buildup.
+  </p>
+  <div>
+      <button id="startBtn">Start</button>
+      <button id="stopBtn">Stop</button>
+  </div>
+</div>
+
+<!-- Canvases Container -->
+<div id="container">
+  <canvas id="waveCanvas"></canvas>
+  <canvas id="histCanvas" width="250"></canvas>
+</div>
+
+<!-- Explanation with Formulas -->
+<div class="explanation">
+    <strong>Detection Process (Semi-Classical Model):</strong>
+
+    <p>This simulation follows a semi-classical approach where light is a continuous classical wave, and the detector screen behaves quantum-mechanically (registering discrete events). See <a href="https://vital.lib.tsu.ru/vital/access/services/Download/vtls:000553334/SOURCE1" target="_blank" rel="noopener noreferrer">S.A. Rashkovskiy, SPIE 2015</a> for background.</p>
+
+    <p>1. <strong>Classical Wave Calculation:</strong> At any point <code>(x, y)</code> past the barrier (<code>x > barrierX</code>) and at time <code>t</code>, the wave amplitude is the sum (superposition) of waves from each slit:</p>
+    <div class="formula">A<sub>total</sub>(x, y, t) = A<sub>1</sub> + A<sub>2</sub></div>
+    <p>Where <code>A<sub>1</sub></code> and <code>A<sub>2</sub></code> are the amplitudes from slit 1 (at <code>y<sub>1</sub></code>) and slit 2 (at <code>y<sub>2</sub></code>) respectively, modeled as cylindrical waves spreading in 2D:</p>
+    <div class="formula">A<sub>i</sub> = (A<sub>0</sub> / √r<sub>i</sub>) * cos(k*r<sub>i</sub> - ω*t)</div>
+    <p>Here:</p>
+    <ul>
+        <li><code>A<sub>0</sub></code> is the initial Source Amplitude.</li>
+        <li><code>r<sub>i</sub> = √((x - barrierX)² + (y - y<sub>i</sub>)²)</code> is the distance from slit <code>i</code>.</li>
+        <li><code>1/√r<sub>i</sub></code> represents the amplitude decay for a 2D wave.</li>
+        <li><code>k = 2π/λ</code> is the wave number (where <code>λ</code> is the Wavelength).</li>
+        <li><code>ω = c*k</code> is the angular frequency (where <code>c</code> is the Wave Speed).</li>
+        <li><code>cos(...)</code> describes the wave oscillation in space and time.</li>
+    </ul>
+
+    <p>2. <strong>Classical Intensity:</strong> The classical intensity <code>I</code> of the wave at point <code>(x, y)</code> is proportional to the square of the total amplitude:</p>
+    <div class="formula">I(x, y, t) = [ A<sub>total</sub>(x, y, t) ]²</div>
+
+    <p>3. <strong>Detection Probability:</strong> The detector screen (at <code>x = W-1</code>) consists of discrete elements. The probability <code>P<sub>detect</sub></code> that an element at height <code>y</code> registers a "hit" (<span class="red-dot">■</span>) in a single simulation frame (representing a small time step Δt) is proportional to the instantaneous classical intensity at that point. This aligns with Fermi's Golden Rule where the transition rate is proportional to intensity.</p>
+    <div class="formula">P<sub>detect</sub>(y, t) = α * I(W-1, y, t) = α * [ A<sub>total</sub>(W-1, y, t) ]²</div>
+    <p>Here, <code>α</code> (alpha, the Detection Prob Scale parameter) is a proportionality constant that combines the intrinsic sensitivity of the detector elements and the effective duration (Δt) of a simulation frame.</p>
+
+    <p>4. <strong>Random Event & Histogram:</strong> For each frame and each <code>y</code> on the detector, a random number between 0 and 1 is generated. If <code>Math.random() < P<sub>detect</sub>(y, t)</code>, a detection event is registered at that <code>y</code>, marked by a red square, and the count for that <code>y</code> in the histogram is incremented. Over many frames, the histogram statistically builds up the interference pattern corresponding to the time-averaged classical intensity profile.</p>
+</div>
+
+
+<script>
+// JavaScript (startSimulation, step, drawHistogram, etc.)
+// remains the same as the previous correct version.
+// No changes needed here as the formulas were already implemented.
+
+////////////////////////////////////////////////////////////////////////////////
+// GLOBALS & CONFIG
+////////////////////////////////////////////////////////////////////////////////
+let animationId = null;
+let time = 0;
+const barrierXFraction = 0.1;
+let barrierX = 40; // Adjusted default based on new width
+const detectionMarkerSize = 3;
+
+////////////////////////////////////////////////////////////////////////////////
+// HELPER: Color Mapping for Wave Amplitude
+////////////////////////////////////////////////////////////////////////////////
+function amplitudeToColor(amp, maxAmp) {
+  amp = Math.max(-maxAmp, Math.min(maxAmp, amp));
+  const norm = amp / maxAmp;
+  let r = 0, g = 0, b = 0;
+  if (norm > 0) { r = Math.floor(255 * norm); }
+  else if (norm < 0) { b = Math.floor(255 * (-norm)); }
+  return [r, g, b, 255];
+}
+
+////////////////////////////////////////////////////////////////////////////////
+// HELPER: Draw Detection Marker
+////////////////////////////////////////////////////////////////////////////////
+function drawDetectionMarker(ctx, x, y, size) {
+    ctx.fillStyle = "red";
+    const halfSize = Math.floor(size / 2);
+    ctx.fillRect(x - halfSize, y - halfSize, size, size);
+}
+
+////////////////////////////////////////////////////////////////////////////////
+// MAIN SIMULATION
+////////////////////////////////////////////////////////////////////////////////
+function startSimulation() {
+  stopSimulation();
+
+  const waveCanvas = document.getElementById('waveCanvas');
+  const histCanvas = document.getElementById('histCanvas');
+  const ctxWave = waveCanvas.getContext('2d');
+  const ctxHist = histCanvas.getContext('2d');
+
+  const W = parseInt(document.getElementById('canvasWidth').value, 10);
+  const H = parseInt(document.getElementById('canvasHeight').value, 10);
+  waveCanvas.width = W; waveCanvas.height = H;
+  histCanvas.height = H;
+
+  barrierX = Math.max(1, Math.floor(W * barrierXFraction));
+
+  const d = parseFloat(document.getElementById('slitSep').value);
+  const slitWidth = parseFloat(document.getElementById('slitWidth').value);
+  const lambda = parseFloat(document.getElementById('lambda').value);
+  const c = parseFloat(document.getElementById('waveSpeed').value);
+  const A0 = parseFloat(document.getElementById('amplitude').value);
+  const alpha = parseFloat(document.getElementById('probScale').value);
+
+   if (W <= 10 || H <= 10 || lambda <= 0 || c <= 0 || A0 < 0 || alpha < 0 || slitWidth <= 0 || d < 0 || barrierX >= W - 1) {
+      alert("Invalid parameters. Please check values.");
+      return;
+   }
+
+  const k = 2 * Math.PI / lambda;
+  const omega = c * k;
+  const dt = 0.05;
+  const safeBarrierX = Math.max(1, barrierX);
+ const rMin = Math.max(0.1, barrierX);
+const maxAmpColorNorm = (A0/Math.sqrt(rMin) + A0/Math.sqrt(rMin));
+
+  const hist = new Array(H).fill(0);
+
+  const yCenter = H / 2;
+  const slitHalfWidth = slitWidth / 2;
+  const slit1y = yCenter - d / 2;
+  const slit2y = yCenter + d / 2;
+  const slit1MinY = slit1y - slitHalfWidth;
+  const slit1MaxY = slit1y + slitHalfWidth;
+  const slit2MinY = slit2y - slitHalfWidth;
+  const slit2MaxY = slit2y + slitHalfWidth;
+
+   if (slit1MinY < 0 || slit1MaxY > H || slit2MinY < 0 || slit2MaxY > H) {
+       console.warn("Slits may be partially or fully off canvas vertically. Adjust H or d.");
+   }
+
+  let detectionsThisFrame = [];
+
+  function step() {
+    time += dt;
+    detectionsThisFrame = [];
+
+    const imageData = ctxWave.getImageData(0, 0, W, H);
+    const buf = imageData.data;
+
+    // --- Calculate Wave and Barrier ---
+    for (let y = 0; y < H; y++) {
+      for (let x = 0; x < W; x++) {
+        const idx = 4 * (y * W + x);
+        let R = 0, G = 0, B = 0, A = 255;
+
+        if (x === barrierX) {
+          const isInSlit1 = (y >= slit1MinY && y < slit1MaxY);
+          const isInSlit2 = (y >= slit2MinY && y < slit2MaxY);
+          if (isInSlit1 || isInSlit2) { R = 255; G = 255; B = 255; }
+        } else if (x > barrierX) {
+          const dx = x - barrierX;
+          const dy1 = y - slit1y; const r1 = Math.sqrt(dx * dx + dy1 * dy1);
+          const dy2 = y - slit2y; const r2 = Math.sqrt(dx * dx + dy2 * dy2);
+          const r1Safe = Math.max(0.1, r1);
+          const r2Safe = Math.max(0.1, r2);
+          const amp1 = (A0 * Math.cos(k * r1Safe - omega * time)) / Math.sqrt(r1Safe);
+          const amp2 = (A0 * Math.cos(k * r2Safe - omega * time)) / Math.sqrt(r2Safe);
+          const ampTotal = amp1 + amp2;
+          [R, G, B, A] = amplitudeToColor(ampTotal, maxAmpColorNorm);
+        }
+        buf[idx + 0] = R; buf[idx + 1] = G; buf[idx + 2] = B; buf[idx + 3] = A;
+      }
+    }
+
+    // --- Detection Logic (Rightmost Column) ---
+    const detectX = W - 1;
+    if (detectX > barrierX) {
+        for (let y = 0; y < H; y++) {
+          const dx = detectX - barrierX;
+          const dy1 = y - slit1y; const r1 = Math.sqrt(dx * dx + dy1 * dy1);
+          const dy2 = y - slit2y; const r2 = Math.sqrt(dx * dx + dy2 * dy2);
+          const r1Safe = Math.max(0.1, r1);
+          const r2Safe = Math.max(0.1, r2);
+          const amp1 = (A0 * Math.cos(k * r1Safe - omega * time)) / Math.sqrt(r1Safe);
+          const amp2 = (A0 * Math.cos(k * r2Safe - omega * time)) / Math.sqrt(r2Safe);
+          const ampTotal = amp1 + amp2;
+          const intensity = ampTotal * ampTotal; // This is I(W-1, y, t)
+          const detectionProbability = alpha * intensity; // This is P_detect
+
+          if (Math.random() < detectionProbability) {
+             detectionsThisFrame.push({ x: detectX, y: y });
+             if (y >= 0 && y < H) { hist[y]++; }
+          }
+        }
+    }
+
+    // --- Draw Updated Wave and Markers ---
+    ctxWave.putImageData(imageData, 0, 0);
+    detectionsThisFrame.forEach(det => {
+        drawDetectionMarker(ctxWave, det.x, det.y, detectionMarkerSize);
+    });
+
+    // --- Update Histogram ---
+    drawHistogram(ctxHist, hist, "black");
+
+    // --- Schedule Next Frame ---
+    animationId = requestAnimationFrame(step);
+  }
+
+  // --- Initialize ---
+  for(let i=0; i<H; i++) hist[i] = 0;
+  ctxHist.clearRect(0, 0, histCanvas.width, histCanvas.height);
+  drawHistogram(ctxHist, hist, "black");
+  time = 0;
+  animationId = requestAnimationFrame(step);
+}
+
+// drawHistogram and stopSimulation remain unchanged
+function drawHistogram(ctx, hist, barColor = "black") {
+  const w = ctx.canvas.width;
+  const h = ctx.canvas.height;
+  ctx.fillStyle = 'white';
+  ctx.fillRect(0, 0, w, h);
+
+  const maxCount = Math.max(...hist, 1);
+
+  ctx.strokeStyle = "#888";
+  ctx.lineWidth = 1;
+  ctx.strokeRect(0.5, 0.5, w - 1, h - 1);
+
+  ctx.fillStyle = barColor;
+
+  const numBins = hist.length;
+  if (numBins === 0) return;
+  const barHeight = h / numBins;
+
+  for (let i = 0; i < numBins; i++) {
+    if (hist[i] > 0) {
+        const barLen = (hist[i] / maxCount) * (w - 2);
+        const yPix = i * barHeight;
+        const currentBarHeight = Math.max(1, Math.ceil(barHeight));
+        ctx.fillRect(1, Math.floor(yPix), Math.max(1, Math.floor(barLen)), currentBarHeight);
+    }
+  }
+}
+
+function stopSimulation() {
+  if (animationId) {
+    cancelAnimationFrame(animationId);
+    animationId = null;
+  }
+}
+
+document.getElementById('startBtn').addEventListener('click', startSimulation);
+document.getElementById('stopBtn').addEventListener('click', stopSimulation);
+
+</script>
+
+</body>
+</html>
+
+  <script>
+    
+  </script>
+</body>
+</html>

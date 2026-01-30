@@ -1,0 +1,777 @@
+# Week 6
+
+Lee Fang, Unherd: "[2024/11] The battlelines on immigration have
+hardened predictably. Left-leaning voters proudly display 'refugees
+welcome' yard signs, while Donald Trump supporters cheer his pledge to
+implement 'largest deportation operation in the history of our
+country'. Amid such partisan attitudes, it has become heretical to
+suggest that the Democrats need to be tougher on immigration.
+
+But they must. In the long run, progressives have no choice but to
+acknowledge that huge infusions of migrants stress welfare systems and
+depress wages for low-skill workers, while damaging social
+cohesion. Only by accepting this, and making the case for border
+security and less tolerance for migrant rule-breaking, can the Left
+reconnect with its blue-collar roots"
+
+---
+
+That's good - no need to antagonize Russia at this point.
+
+Newsweek: "The U.S. attorney general has disbanded an anti-Russian
+oligarch sanctions task force to shift resources to anti-cartel
+activities."
+
+---
+
+H2 Central: "Avalon Renovables plans an investment of 8 billion euros
+in green hydrogen and derivative projects and the creation of 10,000
+jobs in Andalusia Madrid"
+
+---
+
+Informed Comment: "Eva Lavesque at Arabian Gulf Business Insight
+reports that Chinese solar firms are eyeing the Middle East market to
+offset declining US margins. The solar giant Trinasolar shipped 240
+gigawatts of solar modules worldwide in the first three quarters of
+2024... The US only produced 4 gigawatts of solar panel PV modules in
+the first two quarters of 2024. That is, we are not even in the same
+league as China. We’re a podunk farm team for solar panel
+manufacturing and China is the winner of the world series"
+
+---
+
+<img width='340' src='https://pbs.twimg.com/media/Gi5DzKiWAAA2UgH?format=jpg&name=small'/>
+
+---
+
+Work for the goverment. Why not? Be a public servant.
+
+---
+
+What to recommend to high school students? Don't quit high
+school. Finish high school. Go to college. Don't be an enterpreneur,
+develop a skill. If there is skill, there is always some jackass who
+will want to start a bihness around that.. 1 in 10 in US, 1 in 100 in
+Europe. Most of these people have mental issues, suffer from serious
+control problems, that's why they are in bihness, they become
+bihnessman. You don't have to be one of those.
+
+---
+
+Annie Lennox - Take Me To The River
+
+[[-]](https://youtu.be/uUt23gnC4mk)
+
+---
+
+A likely astroid hit in near future (1/80 but still). Is this the
+start of a disaster movie?
+
+---
+
+What is *up* with that earthquake cloud around the island of Santorini?
+
+```python
+u.map_eq(36.408567828, 25.43368438, radius=800, ago=8, outfile="map01.html")
+```
+
+[[-]](map01.html)
+
+---
+
+Statement like that will get you shot. Oh wait, it did.
+
+---
+
+It's like he is talking to a multiracial working class coalition.
+
+<img width='340' src='https://climatejustice.social/system/media_attachments/files/113/962/802/879/050/104/small/5706eae945a7d603.jpg'/>
+
+---
+
+This tech needs to die. Great..
+
+WaPo: "States trying to build a network of EV chargers are reeling
+after the Trump administration abruptly ordered a halt to a $5 billion
+program"
+
+---
+
+The Guardian: "How the roots of the ‘PayPal mafia’ extend to apartheid
+South Africa..  [A]s the world’s richest man insisted he wasn’t trying
+to be a Nazi, speculation inevitably focused on whether his roots in
+apartheid-era South Africa offered an insight...
+
+[T]he 'PayPal mafia' of libertarian billionaires with roots in South
+Africa under white rule [are] now hugely influential in the US tech
+industry and politics... They include Peter Thiel, the German-born
+billionaire venture capitalist and PayPal cofounder, who was educated
+in a southern African city in the 1970s where Hitler was still openly
+venerated. Thiel, a major donor to Trump’s campaign, has been critical
+of welfare programs and women being permitted to vote as undermining
+capitalism. A 2021 biography of Thiel, called The Contrarian, alleged
+that as a student at Stanford he defended apartheid as 'economically
+sound'"
+
+---
+
+Elez was from DOUCHE, the racist guy
+
+WIRED: "Elez was granted privileges including the ability to not just
+read but write code on two of the most sensitive systems in the US
+government: the Payment Automation Manager (PAM) and Secure Payment
+System (SPS) at the Bureau of the Fiscal Service (BFS), an agency that
+according to Treasury records paid out $5.45 trillion in fiscal year
+2024. Reporting from Talking Points Memo confirmed that Treasury
+employees were concerned that Elez had already made “extensive
+changes” to code within the Treasury system. The payments processed by
+BFS include federal tax returns, Social Security benefits,
+Supplemental Security Income benefits, and veteran’s pay"
+
+---
+
+The man said famously "I dont know karate, but I know ka-razy".  Some
+recommend "going karazy" on Russia to force them to give more
+concessions. They forget Russia showed real karazy when it invaded
+Ukraine. They threw down the gauntlet, risked it all for this
+offensive. No amount of karazy will out-karazy that one.
+
+---
+
+There is no major schism against the RU Orthodox Church among
+Christians. They are considered Christians, so Zelensk banning Russian
+OCC will raise more eyebrows in US than any other angle. Tucker
+Carlson has been hammering Ukraine on that one, and he is getting more
+traction than Ukranians are. Little tricks won't work for you at this
+stage, Ukraine, you should've thought about that before you became
+Viktoria Nuland's bitch.
+
+---
+
+IMEMC: "Israeli Army Continues its Incursions in Jenin and Tubas.. On
+Wednesday, Israeli forces continued their aggression against the
+northern West Bank city of Jenin and the Jenin refugee camp for the
+16th consecutive day"
+
+---
+
+Werdmuller: "For the last few years, AI vendors have had an
+interesting marketing playbook: they’ve described the potential power
+of the technologies as being so great that it could lead to an
+artificial general intelligence that could either kill humanity or
+leave us behind and head for the stars. We ignore its power at our
+peril.
+
+As it turned out, OpenAI and Microsoft’s definition of 'artificial
+general intelligence' was that the technologies would reach one
+hundred billion dollars in revenue. It wasn’t tied to capabilities
+around reasoning, and did not, in actuality, relate to a Terminator
+future. It just meant that they’d be making a lot of money from
+it. All the talk of humanity-destroying intelligence and the
+existential questions that derived from it just served to draw
+attention to their services"
+
+---
+
+The Verge: "'I have no idea what’s going on in this industry right
+now,' Ford CEO Jim Farley said during his company’s capital markets
+event Monday. He referenced electric vehicles .. 'Higher ranges will
+necessitate bigger batteries', he noted, adding, 'These batteries are
+huge'"
+
+---
+
+The rot starts at the top - e-jagoff is a moron.
+
+DOUCHE is in trouble.
+
+---
+
+Department Of Unnecessary Cuts Harming Efficiency = DOUCHE
+
+---
+
+"Department of Government Efficiency [staffer] resigned on Thursday
+after now-deleted racist social media posts were resurfaced... Marko
+Elez, a 25-year-old software engineer, was working inside the Treasury
+Department.. 'Normalize Indian hate,' [he posted].. In July of last
+year, the account posted: 'Just for the record, I was racist before it
+was cool'"
+
+---
+
+RSF vs SAF in Sudan - which is preferable? Neither is democratic, but
+one is at least the official military, so given all else equal SAF
+is. Egypt is behind them, so that's a plus (Egypt's stability is
+crucial for ME).
+
+---
+
+👏 👏 👏 
+
+F24: "Donald Trump bans transgender athletes from participating in
+women's sports.. US President Donald Trump signed an executive order
+banning transgender athletes from women's sports, citing the need to
+protect female athletes. The order, which could strip schools of
+federal funding for non-compliance, was signed at the White House amid
+applause from supporters, including key Republicans. Trump declared
+the move a defense of women's sports traditions"
+
+---
+
+TASS: "Ukrainian settlement is Trump’s top priority, US diplomat
+says.. Russian President Vladimir Putin has previously listed the
+conditions for resolving the conflict, including the withdrawal of
+Ukrainian forces from Donbass and Novorossiya, Kiev's refusal to join
+NATO, the lifting of all Western sanctions against Moscow, and the
+establishment of Ukraine's non-aligned and nuclear-free status"
+
+---
+
+It's a long shot. Nice try, but unlikely to work.
+
+NYT: "To Keep Aid Coming, Ukraine Appeals to Trump Allies:
+Conservative Christians.. A Ukrainian delegation to the National
+Prayer Breakfast in Washington will make the case that Russia
+threatens the religious freedom of Christians who don’t follow the
+Russian Orthodox Church"
+
+---
+
+\#Frontline #RU #UA 01/31 - 02/07
+
+[[-]](ukrdata/map05.html)
+
+---
+
+"@signalstation@raggedfeathers.com
+
+Spotted a new sticker in the neighborhood, of St. Luigi."
+
+<img width='200' src='https://cdn.masto.host/raggedfeathers/media_attachments/files/113/953/654/969/504/833/original/01ad4899348bf071.png'/>
+
+---
+
+Where are the shit commercial codes, like Windows based ones?
+Micro$haft tried to compete in this space but it had its ass handed to
+it. FOSS coding is simply better. The code is free and open, more eyes
+look at it, anyone can contribute an improvement, or test.
+
+---
+
+"96.3% of the top one million web servers are running [FOSS]
+Linux. Among the websites that run on Linux, remarkable ones include
+Twitter, Yahoo, and eBay, speaking volumes about Linux popularity. The
+internet is increasingly dependent on Linux"
+
+---
+
+"@Grafa@mastodon.social
+
+Pure Hydrogen delivers Australia's first hydrogen-powered garbage
+truck"
+
+---
+
+F24: "'Majority' of Ukrainians want ceasefire with Russia, Zelensky's
+ex-spokesperson [Mendel] says"
+
+---
+
+CNBC: "Apple shares slide after China reportedly considers probe into
+App Store practices"
+
+---
+
+SA is likely serious on their position, bcz Palestinians were ignored
+in the first raproachement deal of the first Trump term, and that
+partially contributed to October 7.
+
+Sky News: "Riyadh has swiftly responded to Trump's comments, hardening
+its position and insisting on Palestinian statehood in exchange for a
+deal. That's not going to happen either... And so, are these faux
+lines of negotiation being drawn? Artificial problems being created to
+give the sides the spectre of something to climb down from?"
+
+---
+
+Politico: "European countries joined Arab nations Wednesday in
+rebuking a shock announcement by United States President Donald Trump
+that he wants to take control over Gaza and forcibly displace its
+inhabitants to neighboring countries including Jordan and Egypt"
+
+---
+
+E. M. Pugh: "If the human brain were so simple that we could
+understand it, we would be so simple that we couldn’t"
+
+---
+
+This is your cue to start working for the people, congressmen
+
+TDB: "Lawmakers Face Record ‘Wide Range’ of Violent Threats.. Threats
+against lawmakers, their families and staff skyrocketed last year,
+with the numbers more than doubling since 2017, the United States
+Capitol Police reported Monday"
+
+---
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/113/946/532/953/402/879/original/e637d585a83cd84d.jpg'/>
+
+---
+
+When user views the frontline maps for Ukraine on this blog, they are
+running Javascript code locally, on their machine... I send Javascript
+code to your browser to run, that code in turn fetches two more data
+files from my blog (before/after coordinates for the frontline, two
+simple text files), and displays them. Another piece of code, Leaflet,
+also runs on browser allows the underlying mapping to be displayed w/
+dynamic zooming. It all takes place locally to the user, their CPU
+does the work, almost nothing happens on the server.
+
+---
+
+Javascript (code that can run in the browser) is the universal GUI
+now. If I was starting any UI-heavy project I would not bother with
+anything else. JS is deployable anywhere (bcz browsers run all
+platforms), and now with the addition of WebAssembly it can
+incorporate code from multiple languages.
+
+---
+
+\#Stevenson 
+
+"I went to school with a lot of.. middle class kids who got good
+degrees and a lot of them went into medicine and dentistry. They
+became doctors and dentists. And now the doctors and dentists who make
+the most money, what they do is cosmetic surgery for rich people,
+things like Botox or like teeth whitening, teeth straightening,
+cosmetic stuff that is obviously not like medically essential. Or they
+work for private healthcare, healthcare for rich people... [Some say]
+"That's politics of envy".  Well, what happens when you need a
+dentist?  What happens when your kids need a dentist?  And we're in a
+situation now in this country where it's becoming increasingly
+impossible to get a NHS dentists to get cheaper, affordable dental
+care.  And as a result, people are just not going to the dentist. And
+it's not that the dentists are not there... just like your kids are in
+competition with the kids of the rich for elite university places, you
+and your kids are in competition with the rich for access to the
+dentists and access to the doctors.. "
+
+---
+
+Woke has to be corporate psyop, manufactured to force the left to
+spend less time talking about material issues
+
+---
+
+I see, a non-LGBTICUP person but is supportive of LGBTICUP issues, so
+an "ally" of the cause.
+
+---
+
+WTF is an Ally? 
+
+---
+
+I hadn't realized the letter soup grew even larger.. 
+
+"LGBTTTQQIAA for Lesbian, Gay, Bisexual, Transgender, Transsexual,
+Two-spirited, Queer, Questioning, Intersex, Asexual, Ally. Since the
+number of letters could be endless on a sexual and gender continuum
+and so as not to exclude anyone, it is also possible to opt for
+LGBTQ+"
+
+---
+
+Byline Times: "Keir Starmer’s Government Votes to Block UN Plan to
+Tackle Global Tax Avoidance.. The UK has joined with the United States
+and a handful of other rich nations in rejecting the UN push"
+
+---
+
+Netanyahoo has been around for a long time.. the reason is he is the
+linchpin of the complex. He creates the much needed "demand" for the
+complex in the Middle East.
+
+---
+
+[Link](https://youtu.be/174SurFsMDw)
+
+---
+
+Hossein-Zadeh, *The Political Economy of US Militarism*: "[2006]
+Official explanations such as weapons of mass destruction, Saddam’s
+threat to the United States, or his connection to Al-Qaida, can now
+easily be dispensed with as flimsy, harebrained pretexts for the
+invasion of Iraq. Critics have, instead, pointed to a number of other
+factors behind the drive to war. Those factors are divided into two
+categories in this chapter: secondary or minor factors and primary or
+major ones. Included among secondary reasons for the war are the role
+of domestic politics, the influence of the so-called neoconservative
+ideologues, and the role of oil. Primary or major factors include the
+military-industrial complex and the militant Zionist proponents of
+“greater Israel.” I will call the unofficial, unspoken, de facto
+alliance between these two major forces, precipitated by a convergence
+of their respective interests on war and political convulsion in the
+Middle East, the military-industrial-Likud alliance.
+
+---
+
+Capitalism has many blind spots. Private capital turns everyone into a
+wage slave, but it needs major government help to do it.  If education
+(basically daycare) isn't public, then there is no place where kids
+can be dropped off while parents are at work. That means an unhappy
+wage slave. They could revolt!
+
+If research is not subsidized all these high flying "tech companies"
+would not be able to "innovate". So on..
+
+---
+
+90% of high schools in US are public schools. That is not an easy
+thing to privatize.
+
+---
+
+Of course all WebAssembly tools are free and open source. In my crowd,
+line of work (which is where all the action is -not to boast-) it is
+mostly FOSS. We don't even think about it, so I sometimes forget to
+comment on these things, but outside observers need to know, see the
+power dynamic here. It's all about open source. We are the shit, the
+rest are losers. I haven't bought a commercial software for decades
+now. I use FOSS, I contribute to FOSS.. A client, company I work for
+can utilize software "on the cloud" serving software for money but the
+underlying software better f-ing be FOSS, otherwise I won't touch it.
+
+---
+
+WebAssembly tech looks promising. Compile any language into wasm and
+the code can be executed in the browser, as well as other wasm-able
+platforms.
+
+I have some "legacy" Java code lying around maybe I will wasm enable
+it one day.
+
+---
+
+During debt crises era 2010s there were a lot of government-spending-of-any-kind-fixes-all
+economists running around in the media. "If there is no spending,
+someone has to, government has to step up and spend, create aggregate
+demand". Well government did spend during covid, gave people bunch of
+money, inequality still increased. Where is aggregate demand?  If the
+flow of money is one-directional, and it all ends up in assets not
+owned by the middle class, you are still screwed. Gov spends, will
+fall further in debt, the rich will buy that debt along w/ other
+assets, collect interest and become richer. The cycle will continue..
+
+---
+
+```python
+u.baci_all_products("USA","China")
+```
+
+```text
+$ 149,199,118,616.9998
+```
+
+---
+
+```python
+u.baci_all_products("China","USA")
+```
+
+```text
+$ 554,416,674,694.9995
+```
+
+---
+
+Hardball.. it worked. Rubio executed on DJT's behalf well
+
+"@unusualwhales@threads.net
+
+BREAKING: Panama agrees to facilitate & offer free-passage to US Navy
+ships through Panama Canal following visit from Secretary of State
+Marco Rubio, and agrees to end China's Panama Canal deal and to leave
+from China's 2017 'Belt and Road initiative'"
+
+---
+
+Halton Arp: "[One galaxy I cataloged] has a large companion on the end
+of a luminous arm. In 1971 a spectrum revealed that this companion was
+8,000 km/sec higher redshift than the central, active Seyfert
+galaxy. This amount of excess redshift cannot be accomodated in the
+conventional picture where redshifts mean velocities in an expanding
+universe. They could not be at such different distances and be
+physically interacting. When Fred Hoyle heard about this he came up
+from the Cal Tech campus to my Carnegie office and asked to see the
+original picture. In 1972 he gave the prestigious Russell Lecture at
+the Seattle meeting of the American Astronomical Society and outlined
+a theory whereby younger galaxies radiated intrinsically redshifted
+photons. His theory of growing particle masses was a more general
+solution to the conventional field equations but was physically a
+Machian (not Einsteinian theory). At the end of the lecture he said
+the NGC 7603 observation created a crisis in physics and we needed to
+cross over the bridge to a radically more general physics...
+
+Over the years the evidence for non-velocity redshifts has grown
+enormously, both for quasars and galaxies. A number of researchers
+have tried to make the establishment admit the consequences of this
+evidence. But it has been suppressed and ignored. However, In an event
+of great irony, 30 years after Hoyle's talk featuring NGC 7603, two
+young Spanish astronomers have announced the finding of two
+quasar-like, much higher redshift objects imbedded in the arm which
+connects the low redshift galaxy to the higher redshift companion of
+NGC 7603. As in many past cases, this result alone should have settled
+instantly and finally the existance of intrinsic redshifts. Instead
+the paper was turned down by 'Nature' Magazine, rejected by the
+'Astrophysical Journal' and only finally accepted by the European
+Journal 'Astronomy and Astrophysics'...
+
+The ejection in opposite directions of material from active galaxies,
+including very high redshift material like quasars, has been building
+up now for over 37 years. Yet the radio map shown here and the
+notation that his object had 'two redshifts', one a 'background
+object', lay unoticed and unchallenged in the voluminous literature
+for 4 years! When it was finally submitted to the Astronomical Society
+of the Pacific it was rejected. In spite of my being a past President
+of this organization they refused other observational results and
+communications and I had to resign. It is particularly vexing that the
+A.S.P. has as a primary goal educating the public about astronomy. But
+since it was hijacked by fanatical Big Bang adherents, it has been
+exactly misinforming the public"
+
+---
+
+2022 trade data,
+
+```python
+u.baci_all_products("Mexico","USA")
+```
+
+```text
+$ 424,735,465,633.9993
+```
+
+---
+
+```python
+u.baci_all_products("USA","Mexico")
+```
+
+```text
+$ 302,641,331,571.0001
+```
+
+---
+
+```python
+u.baci_all_products("Canada","USA")
+```
+
+```text
+$ 437,647,720,907.9995
+```
+
+---
+
+```python
+u.baci_all_products("USA","Canada")
+```
+
+```text
+$ 318,301,555,958.0007
+```
+
+---
+
+Fleming: "Einstein was stuck, in that by denying the existence of
+aether, or any other medium of transmission of light, he still wanted
+to explain clock rate slowing and hypothetical distance
+contraction. In order to do that, he imagined that space itself must
+change its spatial and time dimensions when that space is moving
+relative to other space. His space was not a wallless container but
+was physical. In order to do away with aether theory, he had to treat
+space like it had physical properties, including spatial and time
+dimensions that were variable. Therein lies Einstein’s fallacy. He
+claimed space is non-physical and physical at the same time...
+
+We now know experimentally that all space contains vacuum energy
+consistent with Max Planck’s theory of quantum oscillators. Per his
+theory it is impossible for space to be empty. Planck oscillators are
+something physical that we can use to explain all the known physical
+properties of space. Quantum vacuum energy has wavelengths and
+frequencies that give space its spatial and time dimensionality. The
+quantum vacuum also gives us a standard reference frame to use when
+making relativistic frame transformations, as well as giving us a
+physical medium for light and force transmission...
+
+Einstein had not actually solved the problem. He merely turned space
+into a new form of aether while still failing to provide a physical
+explanation for its physical properties"
+
+---
+
+Saudi Arabia UK Ambassador: "We won't accept Trump's Israel peace plan
+without a Palestinian state"
+
+---
+
+Cuck Schumer, Pelosi both supported the other guy. I guess we should
+be happy Martin got the job by that measure alone.
+
+---
+
+Politico: "[DNC] members delivered a clear message to their party’s
+power-brokers in picking Martin as chair: They largely think
+billionaire donors and big-name elected officials are out of touch
+with the core of the base... Suffering the biggest upset: Some
+Democratic billionaires who hoped to see Wikler take the top
+job. LinkedIn co-founder Reid Hoffman and George Soros’ Democracy PAC
+kicked in $250,000 each to the FORWARD PAC backing Wikler for chair"
+
+---
+
+NYT: "Ken Martin, the Minnesota Democratic chairman, was elevated on
+Saturday to lead the Democratic National Committee, taking the helm of
+a rudderless party staring down an uncertain future. Mr. Martin, a
+seasoned party operator who comes across as a low-key, mild-mannered
+Midwesterner, ran on pledges to broaden the party’s appeal —
+especially among working-class voters — and to ensure its ability to
+compete in races up and down the ballot, and across the country"
+
+---
+
+```python
+u.baci_top_product("USA","Mexico")
+```
+
+```text
+$ 39,615,432,947.0
+Petroleum oils and oils from bituminous minerals, not crude:
+preparations n.e.c. containing by weight 70% or more of petroleum oils
+or oils from bituminous minerals: these being the basic constituents
+of the preparations: waste oils
+```
+
+---
+
+```python
+u.baci_top_product("Mexico","USA")
+```
+
+```text
+$ 33,298,367,944.0
+Units of automatic data processing machines: processing units other
+than those of item no. 8471.41 or 8471.49, whether or not containing
+in the same housing one or two of the following types of unit: storage
+units, input units or output units
+```
+
+---
+
+```python
+u.baci_top_product("USA","Canada")
+```
+
+```text
+$ 15,815,563,148.0
+Petroleum oils and oils from bituminous minerals, not crude:
+preparations n.e.c. containing by weight 70% or more of petroleum oils
+or oils from bituminous minerals: these being the basic constituents
+of the preparations: waste oils
+```
+
+---
+
+```python
+u.baci_top_product("Canada","USA")
+```
+
+```text
+$ 117,401,863,409.0
+Oils: petroleum oils and oils obtained from bituminous minerals, crude
+```
+---
+
+"Tata Steel has become the first steel company in India to demonstrate
+comprehensive capabilities in developing pipes for hydrogen
+transportation. This is stated in a press release from the steelmaker.
+
+As noted, the company has successfully developed hydrogen-compatible
+API X65 steel pipes. They were manufactured at Tata Steel’s plant in
+Khopoli using steel produced at the Kalinganagar facility.
+
+The qualification tests were conducted at RINA-CSM (Italy), a leading
+center for approving hydrogen-related tests and characteristics. The
+new API X65 pipes can be used to transport 100% pure hydrogen gas at
+high pressure (100 bar)"
+
+---
+
+Don't get me started on *Dunkirk*.
+
+---
+
+Oscars, shmoscars.. No one will remember that shit in a few decades.
+What people will remember if the movie was any good. *Fight Club* is a
+classic. Is anything this guy ever did approach that level of quality,
+message, execution? Nolan IMO serves shitlibs. He is a shitlib's
+shitlib. The kind of jagoff people in certain circles like to like,
+feel obligated to like.
+
+---
+
+*Oppenheimer* was boring. Except a few conversations between Murphy
+and Damon, there was no life in it. Is this how C. Nolan plans to
+cement his position as a grand director? Make stuff boring, package
+obfuscation as smart (Tenet), and/or rely on extended dramatic music
+sequences that ramble on the same high exceeding its welcome but
+somehow comes across as a refined movie technique (Inception). It
+won't work. Except a few fools in the Academy his position in movie
+history is far from cemented. He is on shaky ground.
+
+---
+
+China is not. China is in its "consolidation" phase, says PT
+
+---
+
+Peter Turchin's approach could provide another example.. He formulated
+crisis, political instability in terms of inequality, and a few other
+parameters. According to him, yes, US is in crisis mode right now, it
+has been for a while.
+
+[[-]](../../2024/05/age-of-discord-math.html)
+
+---
+
+If inequality is added to a grand model of economics, it could be as
+an extension of the model below, using macro variables, analyzing
+top-down.
+
+[[-]](../../0119/2018/02/keen_math.html)
+
+---
+
+Zelensky can demand all RU occupied regions back until he is blue in
+the face. He has no capability to achieve that. It's like, while the
+Red Army rolling into Berlin Hitler says "I demand to take
+Moscow". Just because he says that, should a peace agreement be the
+middle point between his demand and Russia's, and the Red Army pulls
+back to middle point between Moscow and Berlin? This is non-sense.
+
+---
+
+Negotiations are about finding middle point of what both sides are
+*capable* to do, not what they *say* they want to do. Russia is
+capable to prolong the war, take eastern Ukraine, take Odesa, and nuke
+Ukraine. Ukraine is able to put up some defense, delay Russia, play
+spoiler in some areas. The middle of both these capabilities is giving
+Russia the four regions it wants plus Crimea, and keep Ukraine out of
+NATO. Simple.
+
+---
+

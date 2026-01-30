@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a5f0e448a2834d6e98dcc3c99fc33e5f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_a5f0e448a2834d6e98dcc3c99fc33e5f" ></div>
+        
+</body>
+<script>    
+    
+            var map_a5f0e448a2834d6e98dcc3c99fc33e5f = L.map(
+                "map_a5f0e448a2834d6e98dcc3c99fc33e5f",
+                {
+                    center: [33.0, -111.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c4545a9cd0eb4c10bba0beef90e8850c = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            var marker_dedaee988019447ca8a0858f75248308 = L.marker(
+                [47.72104215, -122.7175309],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_dedaee988019447ca8a0858f75248308.bindTooltip(
+                `<div>
+                     2364.0 bombs, The ballistic missile submarine base<br>at Bangor, Washington, contains nearly<br>24 percent of the entire<br>stockpile, or some 2,364 warheads,<br>the largest contingent. The Bangor<br>installation is home to a<br>majority (nine) of the navy’s<br>nuclear-powered ballistic missile submarines and<br>a large number of surplus<br>W76 warheads that will eventually<br>be retired and disassembled. In<br>addition, approximately 150 nuclear sea-launched<br>cruise missiles are stored at<br>the base.
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_20522f2984bf4d6289533e8ad1a415aa = L.marker(
+                [32.5006842, -93.67070831],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_20522f2984bf4d6289533e8ad1a415aa.bindTooltip(
+                `<div>
+                     940.0 bombs, The B-52 wing at Barksdale<br>AFB in Louisiana has more<br>than 900 warheads.
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_770cb8ae469743a1a6916aaa36fca48b = L.marker(
+                [41.14543318, -104.8708843],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_770cb8ae469743a1a6916aaa36fca48b.bindTooltip(
+                `<div>
+                     170.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4d670b49b81f46ac938afe30a958b1f5 = L.marker(
+                [30.79367275, -81.51877438],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_4d670b49b81f46ac938afe30a958b1f5.bindTooltip(
+                `<div>
+                     1364.0 bombs, The counterpart of Bangor on<br>the Atlantic coast, Kings Bay<br>Submarine Base in Georgia, is<br>the third-largest contingent, with some<br>1,364 warheads. In addition, the<br>base stores approximately 150 nuclear<br>sea-launched cruise missiles.
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_da4f745a74a34f3ebfe00b9e5c15fcac = L.marker(
+                [35.00922521, -106.5492876],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_da4f745a74a34f3ebfe00b9e5c15fcac.bindTooltip(
+                `<div>
+                     1914.0 bombs, The large underground facility at<br>Kirtland AFB in Albuquerque, New<br>Mexico, stores more than 1,900<br>warheads that are either part<br>of the inactive/ reserve stockpile<br>or awaiting shipment across Interstate<br>40 to the Pantex Plant<br>outside of Amarillo, Texas, for<br>dismantlement.
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6cd1d806ce9e4d0984386dd9c687efc3 = L.marker(
+                [47.50789817, -111.1887209],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_6cd1d806ce9e4d0984386dd9c687efc3.bindTooltip(
+                `<div>
+                     535.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_86995afea1574b608e9dea69a0f18458 = L.marker(
+                [48.41722457, -101.35022109999998],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_86995afea1574b608e9dea69a0f18458.bindTooltip(
+                `<div>
+                     194.0 bombs, Minot Air Force Base (AFB)<br>in North Dakota, with more<br>than 800 bombs and cruise<br>missiles for its B-52 bombers<br>and more than 400 warheads<br>for its Minuteman III intercontinental<br>ballistic missile wing, has the<br>largest number of active air<br>force weapons.
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3370998bc6814109bfe1f51c2cf9372c = L.marker(
+                [36.23360082, -115.037968],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_3370998bc6814109bfe1f51c2cf9372c.bindTooltip(
+                `<div>
+                     902.0 bombs, The 970-acre facility at Nellis<br>AFB, Nevada, northeast stores approximately<br>900 warheads in 75 igloos—“one<br>of the largest stockpiles in<br>the free world,” according to<br>the air force.
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_76f91c0e24934e89ab0e7f28b5bfbc7a = L.marker(
+                [35.30962417, -101.5586864],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_76f91c0e24934e89ab0e7f28b5bfbc7a.bindTooltip(
+                `<div>
+                      bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_976af71c9c5b4cb8906dbaba472ce641 = L.marker(
+                [38.72997549, -93.55786701],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_976af71c9c5b4cb8906dbaba472ce641.bindTooltip(
+                `<div>
+                     136.0 bombs, Whiteman AFB in Missouri has<br>more than 130 bombs for<br>its B-2 bombers.
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_75062e9c6a774fb48185bcd5da4d536f = L.marker(
+                [46.03127670000001, 12.59677696],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_75062e9c6a774fb48185bcd5da4d536f.bindTooltip(
+                `<div>
+                     50.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_81b42d831fd84e69bc3bd51e24210a49 = L.marker(
+                [50.17426602, 7.06365741],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_81b42d831fd84e69bc3bd51e24210a49.bindTooltip(
+                `<div>
+                     20.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ae7f267686c24f6ab7be50cb5a883a38 = L.marker(
+                [45.43188137, 10.26702865],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_ae7f267686c24f6ab7be50cb5a883a38.bindTooltip(
+                `<div>
+                     40.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_48647a31c36740268bb730918c8d8ab6 = L.marker(
+                [37.00247501, 35.42672534],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_48647a31c36740268bb730918c8d8ab6.bindTooltip(
+                `<div>
+                     90.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bc9a7c67f3e34bedaa5b1b5b5d2a9940 = L.marker(
+                [51.16795074, 5.468933415],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_bc9a7c67f3e34bedaa5b1b5b5d2a9940.bindTooltip(
+                `<div>
+                     20.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_efb7e0b5467d45828f05ff650c39f7d3 = L.marker(
+                [52.40838764, 0.5584342232],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_efb7e0b5467d45828f05ff650c39f7d3.bindTooltip(
+                `<div>
+                     110.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ff91b680f6334de1b98487fce9e554ea = L.marker(
+                [49.43703906, 7.599318444],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_ff91b680f6334de1b98487fce9e554ea.bindTooltip(
+                `<div>
+                     50.0 bombs, 
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_49133d98c6444e1697b19e7a3c9c4e66 = L.marker(
+                [51.65772622, 5.701569697999999],
+                {}
+            ).addTo(map_a5f0e448a2834d6e98dcc3c99fc33e5f);
+        
+    
+            marker_49133d98c6444e1697b19e7a3c9c4e66.bindTooltip(
+                `<div>
+                     20.0 bombs, The satellite image of Volkel<br>AB has been pixeled out,<br>but a detailed map is<br>available at http://www.nukestrat.com/us/afn/Volkel_finaltxt.pdf
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>

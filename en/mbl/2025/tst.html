@@ -1,0 +1,44 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet">
+      <title>thirdwave</title>
+      <link rel="canonical" href="/tw/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="/tw/en/"
+               style="font-size: 60px;color:white;letter-spacing: 5px;font-family: 'Pinyon Script', cursive;">TW</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Test</h1>
+<pre><code class="language-python">import util as u
+import pandas as pd
+pd.set_option('display.max_columns', None)
+</code></pre>
+<pre><code class="language-python">import json
+corr = json.loads(open(&quot;corridors2.json&quot;).read())
+colors = {&quot;BRI1&quot;: &quot;red&quot;, &quot;BRI2&quot;: &quot;red&quot;, &quot;Zenzagur&quot;: &quot;red&quot;, &quot;imec&quot;: &quot;blue&quot;, &quot;imec2&quot;: &quot;blue&quot;,
+          &quot;imec3&quot;: &quot;blue&quot;, &quot;IDR&quot;: &quot;purple&quot;, &quot;INTSC&quot;: &quot;orange&quot;, &quot;Traditional Route&quot;: &quot;black&quot;}
+u.map_coords([25,46], {}, lines=corr, zoom=3, colors=colors, outfile=&quot;map18.html&quot;)
+</code></pre>
+<pre><code class="language-python">u.random_ufo_sighting()
+</code></pre>
+        </section>          
+      </div>
+    </body>
+</html>

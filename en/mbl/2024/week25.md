@@ -1,0 +1,708 @@
+# Week 25
+
+H2 Central: "First for France – Lhyfe delivers 350 kg of green
+hydrogen to Géométhane (Engie group) for a salt cavern storage test"
+
+---
+
+Yes Magazine: "When families in Kapilina Beach Homes—civilian housing
+southwest of Joint Base Pearl Harbor–Hickham—began getting ill, they
+were told by both Kapilina apartment management and the Navy’s
+emergency operation commander that they weren’t on the Navy water
+line. After that was proven to be false, those in Kapilina were
+offered nothing"
+
+[[-]](https://www.yesmagazine.org/environment/2024/02/19/water-military-hawaii-pearl-harbor)
+
+---
+
+"@silverspookgames@octodon.social
+
+Hawaii is a Disneyland-like resort built over our indigenous
+communities & ancestor's graves, made to do bastardizations of sacred
+dances, in 'sexy feather headresses' & entertain the rich tourists for
+starvation wages, 12 hrs a day 7 days a week, drinking jet fuel
+poisoned water"
+
+---
+
+"@nealcurtis@mas.to
+
+This is the best thing"
+
+[[-]](https://media.mas.to/media_attachments/files/112/600/122/208/806/475/original/e2bf485e7cb0d8b3.jpg)
+
+---
+
+We previously shared a guesstimate by an engineer Richard Godfrey.
+The signal being recorded at Cape Leeuwin, but not at Diego Garcia
+fits that estimate, Cape Leeuwin is closer to RG's location.
+
+
+```python
+cs = {"MH 370 (Guess)": [-33.176793409, 95.300021451],
+      "Kuala Lumpur Intl Airport": [2.8181270526, 102.18700262],
+      "Last Radar Contact": [9.494954545014316, 94.34137193498134],
+      "Cape Leeuwin Station": [-34.12047627550245, 115.07422816400911],
+      "Diego Garcia": [-3.563662449473406, 71.45723047558245]
+     }
+u.map_coords(cs, zoom=4, outfile="map4.html")
+```
+
+[[-]](map4.html)
+
+---
+
+The Telegraph: "Signal [from hydrophones] that could solve the mystery
+of flight MH370 detected.. [R]esearchers from Cardiff analysed data
+from.. underwater microphones - which picked up a six second signal
+recorded around the time the plane is believed to have crashed.. a
+200-ton aircraft crashing at a speed of 200 metres a second releases
+the kinetic energy equivalent to a small earthquake. This would be
+large enough to be recorded by hydrophones thousands of miles away.
+
+There are two hydroacoustic stations able to detect such a signal. One
+is in Cape Leeuwin in Western Australia and the second is in the
+British territory of Diego Garcia in the Indian Ocean. They were set
+up as part of a surveillance regime to oversee the Comprehensive
+Nuclear Test-Ban Treaty. Both locations were operational around the
+time MH370 is believed to have crashed into the Indian Ocean.. In
+their research, the Cardiff University team has identified one
+signal.. was recorded at the Cape Leeuwin station.. But this signal
+was not detected at the Diego Garcia station"
+
+---
+
+Business Korea: "Korean Army on Its Way to Hydrogen Energy for
+Military Hardware.. The Korean Army will switch military vehicles from
+those powered by internal combustion engines to those loaded with
+hydrogen engines. Korea's leading mobility technology companies will
+join the Korean Army in this initiative"
+
+---
+
+Firstpost: "After rare trip to North Korea, Putin arrives in Vietnam
+much to America's dismay..  While North Korea remains isolated,
+Vietnam has maintained diplomatic ties with the West as well. Last
+year.. Biden visited Hanoi.. as his administration seeks to build up
+Vietnam as an alternative supplier of key hi-tech components to reduce
+American dependence on China.. Chinese President Xi Jinping followed
+suit and visited Vietnam, three months after Biden"
+
+---
+
+Al-Monitor: "Kim Jong Un awards Putin with Kim Il Sung Order"
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/112/647/805/072/032/866/original/1da9793006fe64d0.jpeg'/> 
+
+---
+
+Hindustan Times: "North Korea, Russia sign mutual defence pact;
+immediately to help if either one attacked"
+
+---
+
+Al-Monitor: "US nixes Israel summit after Netanyahu says US
+withholding weapons"
+
+---
+
+The Intercept: "'Utterly Dismayed': [US] Air Force Engineer Resigns as
+Dissent Against Gaza War Slowly Spreads Within Military.. 'I don’t
+want to be working on something that can turn around and be used to
+slaughter innocent people'"
+
+---
+
+"Wärtsilä launches world’s first large-scale 100% hydrogen-ready engine
+power plant.. The.. engine platform.. ensures energy security through
+fuel flexibility and offers unparalleled load following capabilities
+and high part load efficiency. It has completed more than 1 million
+running hours, with over 1,000 MW installed capacity globally.. The
+100% hydrogen-ready engine is expected to be available for orders in
+2025, and available for delivery from 2026"
+
+---
+
+The Urbanist: "[King County] Metro Adding Hydrogen Buses, Auditor
+Casts Doubt on Fleet Electrification Strategy.. One reason why Metro
+is pursuing fuel cell buses boils down to operational needs and
+constraints. “While battery-electric buses have an expected range of
+140 miles for a 60-foot bus and 220 miles for a 40-foot bus, Metro and
+other transit agencies have experienced range limitations and
+variability, especially in cold weather,” the agency wrote in a blog
+post. 'Hydrogen fuel cell buses have the potential to travel up to 300
+miles and their extended range has particular promise on all-day,
+frequent routes.'"
+
+---
+
+<img width='340' src='https://pbs.twimg.com/media/GP5JEdFW4AA_ahO?format=jpg&name=900x900'/> 
+
+---
+
+"Parents: Kids are more depressed these days, I wonder why?
+
+Kids: You destroyed the economy for us, the earth is literally dying,
+we are going to work until we die.
+
+Parents: It's those pesky computer games"
+
+---
+
+Golden rule of government spending: why have one enemy when you can
+have two for twice the cost? With two enemies instead of one you get
+twice the profit for military contractors, twice the amount of
+kickbacks gov officials receive from those companies, twice the
+corruption, and twice the number of people who go through the
+revolving doors. It is a "no-brainer" to use a common phrase popular
+in the Clinton administration.
+
+---
+
+Host: "It is said that somewhere in the middle of the 1990s during the
+Clinton Administration there was a shift in American foreign policy in
+the Middle East from balancing Iran and Iraq, to double containment of
+Iran and Iraq.. [Was this] policy shift towards double containment
+primarily because of Israel's instigation?"
+
+Ambassador Chas Freeman: "Yes I think that's the case. I was at the
+Defense Department at the time, this policy was suddenly imposed on us
+by a political appointee, Martin Indyk, actually who had been an
+Israeli Citizen and was naturalized one day before taking up his
+responsibilities in the National Security Council staff. It was very
+hard for me or others in the region to see what benefit we would get
+from a policy that is fatiguing expensive and consumes a lot of
+resources.. therefore one has to assume that this was contrived for
+the benefit of Israel"
+
+---
+
+Ars Technica: "Adobe’s hidden cancellation fee is unlawful, FTC suit
+says.. Adobe knowingly 'trapped' customers into annual subscriptions,
+the FTC alleged"
+
+---
+
+"@ProPublica@newsie.social
+
+Nonprofits known as 527s can raise unlimited sums for political
+spending.. ProPublica is releasing a new database that will allow
+journalists, researchers and others to more easily search these
+organizations’ finances"
+
+[[-]](https://www.propublica.org/article/search-527s-finances-pacs-database-political-spending)
+
+---
+
+"@ProPublica@newsie.social
+
+How a Network of Nonprofits Enriches Fundraisers While Spending Almost
+Nothing on Its Stated Causes.. ProPublica identified a group of
+connected political nonprofits — with names like American Breast
+Cancer Coalition and National Coalition for Disabled Veterans — that
+appear to be funneling more than 90% of donations to fundraisers"
+
+[[-]](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
+
+---
+
+"@vkc@linuxmom.net
+
+You open up a Commodore 64, and the box says 'welcome to the world of
+friendly computing.'
+
+You turn on a modern PC, and it immediately threatens your data unless
+you agree to save your data to *their* cloud service.
+
+That right there is why we talk about vintage computers. Folks need to
+be reminded of what's possible.
+
+---
+
+The year is not yet over \#Trek \#Prophecy
+
+[[-]](https://files.mastodon.online/media_attachments/files/112/633/136/294/857/502/original/095081f256f3c6fc.png)
+
+---
+
+TASS: "Russian Navy keeping close eye on French stealth frigate in
+Black Sea — source.. According to media reports, the La Fayette
+missile frigate of the French Navy entered the Black Sea on Sunday"
+
+---
+
+\#Frontline 06/14 - 06/20
+
+[[-]](ukrdata/map23.html)
+
+---
+
+The Times of Israel: "IDF spokesman [Hagari] says Hamas can’t be
+eliminated.. [He] cast Israel’s war aim of eradicating the Hamas
+terror group as currently unattainable, appearing to further
+underscore tensions between Prime Minister Benjamin Netanyahu and top
+defense officials over his handling of the war in Gaza.. 'This
+business of destroying Hamas, making Hamas disappear — it’s simply
+throwing sand in the eyes of the public,' Hagari told Channel 13 news
+in an interview"
+
+---
+
+RFK Jr: "Two years ago the average cost of a house in this country was
+$215,000, today it's 400,000. There are three giant corporations Black
+Rock State Street and Vanguard, they also own 89% of the S&P 500,
+they've now decided to buy every single family home in America. They
+stay on the current trajectory, they will own 60% of the homes in this
+country, single family homes by 2030. Your kids do not have a chance
+to buy that home because they can't out compete Black Rock. I'm going
+to change the tax code to make it unprofitable for those companies to
+compete against your children for housing. I'm going to make a
+mortgage available to Americans at 3% interest I'm going to finance
+those mortgages by selling tax-free Bonds on the open market available
+to first time home buyers who will live in that Community"
+
+---
+
+"rbreich@masto.ai
+
+Prior to 1982, the SEC considered stock buybacks to be illegal stock
+manipulation. But under President Reagan, stock buybacks were made
+legal"
+
+---
+
+They gaslight, add two, three, five layers of culture war on top, but
+once you have the right key, the root cause of the chaos becomes
+crystal clear. Your government does not work for you.
+
+---
+
+Yep. And if guns were banned, that would hurt the business of arms
+manufacturers... It is clear who the system protects, and is guided
+by.
+
+"@SNerd@lor.sh
+
+@Albatross Because when a plane is blown up, it hurts business"
+
+---
+
+"@Albatross@mastodon.sdf.org
+
+In 2001 a fool tried to blow up a jet with a shoe bomb so we've had to
+take off our shoes at the airport for the last 23 years. In 2006
+morons tried to blow up a jet with liquids, so for 18 years we can't
+bring liquids onto a plane.
+
+But in 2017 a lunatic murdered 60 people in Las Vegas, and that got
+the bump-stock firearm he used banned for seven whole years until
+yesterday.
+
+---
+
+\#Recall \#MS
+
+[[-]](https://cyberplace.social/system/media_attachments/files/112/619/725/307/145/577/original/c96d13d151abe209.png)
+
+---
+
+Doctorow: "The IBM PC story teaches us two things: stronger antitrust
+enforcement spurs innovation and opens markets for scrappy startups to
+grow to big, important firms; as do weaker IP protections.
+
+Microsoft learned the opposite: monopolies are wildly profitable;
+expansive IP protects monopolies; you can violate antitrust laws so
+long as you have enough monopoly profits rolling in to outspend the
+government until a Republican bootlicker takes the White House
+(Microsoft's antitrust ordeal ended [with Dubya])...
+
+Microsoft's secret sauce is *impunity*. The PC companies that bundle
+Windows with their hardware are held blameless for the glaring defects
+in Windows. The IT managers who buy company-wide Windows licenses are
+likewise insulated from the rage of the workers who have to use
+Windows and other Microsoft products.
+
+Microsoft doesn't have to care if you hate it because, for the most
+part, it's not selling to you. It's selling to a few decision-makers
+who can be wined and dined and flattered. And since we all have to use
+its products, developers have to target its platform if they want to
+sell us their software.
+
+This rarified position has afforded Microsoft enormous freedom to roll
+out harebrained 'features' that made things briefly
+attractive... Microsoft recently announced a product called 'Recall'
+that would record every keystroke, click and screen element, nominally
+in the name of helping you figure out what you've done and either do
+it again, or go back and fix it. The problem here is that anyone who
+gains access to your system.. now has access to everything, on a
+platter"
+
+---
+
+Oman Observer: "[2023/11] Construction begins on Oman’s first green
+hydrogen-ready steel plant.. Vice Chairman of Vulcan Green Steel,
+Venkatesh Jindal, highlighted the significance of the plant in his
+keynote address. 'Vulcan Green Steel stands hand in hand with Oman as
+we collectively strive for a cleaner and greener industrial
+economy. Our green pledge, made just weeks ago, is not a mere
+proclamation. It is a substantial and real investment of more than $3
+billion in a state-of-the-art green hydrogen ready steel plant in
+Duqm, the first of its kind and the largest globally'"
+
+---
+
+Good for you VW.. 
+
+VW: "Volkswagen Group and Vulcan Green Steel sign MoU for low-carbon
+steel"
+
+---
+
+Machine Maker: "Essar Group is set to make a significant stride in
+clean energy with a Rs 30,000 crore investment in a green hydrogen
+plant at Jamnagar, Gujarat. This ambitious project, to be developed
+over the next four years, marks the conglomerate’s commitment to green
+energy as a cornerstone of its growth strategy"
+
+---
+
+The defense suggestions might include glue on pizza
+
+---
+
+"@andrewdessler@mastodon.world
+
+I literally can't think of a worse way to prepare for a thesis defense
+than [this](https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/112/633/213/203/811/075/original/f6c3c62e50c178bb.png)"
+
+---
+
+"@trisweb@m.trisweb.com
+
+I'm scared how misunderstood LLMs.. truly are; they are so far from a
+genuine intelligence it's not even funny. They are statistical models
+for language, trained on a lot of words and sentences, representing
+the statistical likelihood of words following other words, sentences
+following other sentences, just with a lot of data and samples to pull
+from. That's it. There's no intelligence, there's no path to
+intelligence; it's simply statistics chaining words and symbols
+together"
+
+---
+
+\#Healthcare
+
+[[-]](https://mastodon.sdf.org/system/media_attachments/files/112/628/487/985/479/354/original/ed03ffc8d7334001.png)
+
+---
+
+Government Technology: "Hydrogen-Powered Train Travels 1,750 Miles on
+Single Tank.. A hydrogen fuel-powered passenger train set a Guinness
+World Record for distance traveled on a test track in March. The
+trains, from Swiss manufacturer Stadler, are slated to go into use in
+San Bernardino County, Calif."
+
+---
+
+SCMP: "At the International Hydrogen Fuel Cell Vehicle Congress and
+Exhibition in Shanghai last week, more than 300 companies from
+countries including China, Japan, Korea and Canada came to showcase
+their latest technology and products"
+
+---
+
+CNBC: "A staggering 90% of employees in the UK are 'quiet quitting' as
+they seek out other opportunities, Gallup report says"
+
+---
+
+Dessler: "Is climate change making Florida's flooding worse?.. Warmer
+air can hold more water vapor — about 7% more for every degree Celsius
+increase in temperature. Consequently, the air converging into a storm
+system in a warmer climate carries more water vapor. Since most of the
+water vapor entering the storm’s updraft will fall out as rain,
+everything else the same, more water in the air flowing into the storm
+will lead to more intense rainfall. That’s it. Not terribly
+complicated...
+
+[T]he IPCC’s synthesis report concluded.. 'The frequency and intensity
+of heavy precipitation events have increased since the 1950s over most
+land areas for which observational data are sufficient for trend
+analysis (high confidence), and human-caused climate change is likely
+the main driver.. The projected increase in frequency and intensity of
+heavy precipitation (high confidence) will increase rain-generated
+local flooding'"
+
+[[-]](https://www.theclimatebrink.com/p/did-climate-change-make-floridas)
+
+---
+
+Doctorow: "Bill Gates didn't become one of the richest people on earth
+simply by [luck]; he also owed his success to vigorous antitrust
+enforcement. The IBM PC was the company's first major initiative after
+it was targeted by the DOJ for a 12-year antitrust enforcement
+action. IBM tapped its vast monopoly profits to fight the DOJ,
+spending more on outside counsel to fight the DOJ antitrust division
+than the DOJ spent on all its antitrust lawyers, every year, for 12
+years.. [later] Reagan let IBM off the hook.  But the company was
+still seriously scarred by its ordeal, and when the PC project kicked
+off, the company kept the OS separate from the hardware (one of the
+DOJ's major issues with IBM's previous behavior was its vertical
+monopoly on hardware and software). IBM didn't hire Gates and Allen to
+provide it with DOS because it was incapable of writing a PC operating
+system: they did it to keep the DOJ from kicking down their door
+again"
+
+[[-]](https://pluralistic.net/2024/06/14/patch-tuesday/)
+
+---
+
+If ancient Greeks knew, they would toss lithium-ion batteries onto
+enemy ships, then that would be the Greek fire.
+
+---
+
+I'd swim away as fast as possible away from that f-ing battery. Electrocution
+aside it can catch fire, sea water would not put it out bcz lithium-ion fires
+are self-oxidizing. So you will get a shock **and** burn, at the same time!
+
+---
+
+If you are on a battery-electric boat and it sinks, while a shark
+approaching do you stay on boat get electrocuted when the water hits
+the battery or swim away and get bitten by a shark? 😂 😂. \#DJT
+
+---
+
+The American Conservative: "Trump Visits the Bronx.. The crowd at the
+New York City rally was diverse in the literal sense of the
+word... Standing in that crowd—black, white, and every shade in
+between—I found it hard not to laugh at the countless articles
+denouncing Trump as the candidate of white supremacy. There were girls
+in cowboy hats and crop tops, guys with neck tattoos and Trump
+chains. Young orthodox Jews rubbed shoulders with old church ladies...
+
+[M]ost of the people at Trump’s rally worked with their hands or ran
+businesses in the non-symbolic economy. Trump seemed to intuit this
+and spent an inordinate amount of time talking about construction
+projects he’d been involved in—the Wollman Rink in Central Park, the
+border wall. He launched into long excurses on copper tubing and
+concrete planks. He dilated on the type of work that needed to be done
+to fix the subway system. The crowd ate it up"
+
+---
+
+Politico: "Swing district Republicans have been eager to pillory
+President Joe Biden on the economy but have by and large stayed away
+from making abortion the centerpiece of their campaigns"
+
+---
+
+F24: "Philippine ship, Chinese vessel collide in disputed South China
+Sea"
+
+---
+
+TASS: "If Putin’s Ukraine peace proposal rejected, next offer to be
+tougher — Russian intel chief"
+
+---
+
+Barron's: "DR Congo weighs legal move against Apple in mining
+dispute.. The government of the Democratic Republic of Congo is
+studying legal action against Apple in France and the United States,
+after accusing the US tech giant of using “illegally exploited”
+minerals, its lawyers said Thursday"
+
+---
+
+The National News: "Broaden Energy invests $272m to set up hydrogen
+equipment plant in Abu Dhabi"
+
+---
+
+"Everfuel proposes 2-GW green H2 project in Denmark"
+
+---
+
+"@QasimRashid@mastodon.social
+
+Me: Billionaire philanthropy is PR. Tax billionaires
+
+Troll: Lol you trust Govt to spend our money?
+
+Me: Yes the Govt elected by We the People, who is accountable, & can be voted out
+
+Troll: Govt is bought
+
+Me: By who?
+
+Troll: By billionai—...
+
+Me: ...
+
+Troll: Ok Tax billionaires"
+
+---
+
+ABC Australia: "Too many children with long COVID are suffering in
+silence. Their greatest challenge? The myth that the virus is
+'harmless' for kids"
+
+---
+
+Standards. Free, Open Source. Files. Directories. Simple File Servers.
+It's a thing.
+
+---
+
+Most modern web servers allow this, can skip ahead to specific
+location in a file. Any OS worth its salt can do that for its local
+file access, RFC 9110 simply provides a web interface.
+
+---
+
+There was a massive binary file sitting on a simple file server
+(terrain data). Downloading it all to client is no go. The alternative
+u compute direct index access and read specific bytes only, and do
+this via 100+ micro requests, then combine data on the client. No need
+to dload, best part no need for an app server - a whole seperate
+service responding to complex requests. 
+
+---
+
+I finally got to use the Web standard RFC 9110 -range requests- in a
+serious app.
+
+---
+
+CNBC: "China and India lead the charge as digital wallets overtake
+cash and cards in Asia"
+
+---
+
+Second installation, so so.. the third, really bad. Check [this out](https://cdn.fosstodon.org/media_attachments/files/112/613/517/112/417/913/original/aaf7082098b51d02.jpg).
+F-ing Van Wilders in the cast... How could it not suck? Where was
+the Volkswagen hat?
+
+---
+
+The first *Blade* was great, Wesley Snipes was fantastic in the role.
+
+---
+
+It don't matter if you are black or white, you'll get cucked all the
+same. Woke knows no bounds.
+
+---
+
+Another Marvel screw up. The chatter has it the studio wants Woke, but
+Ali is resisting.
+
+Kotaku: "Marvel’s upcoming *Blade* movie is back in the news and yet
+again it isn’t for good reasons. Yann Demange (‘71 and *Lovecraft
+Country*) has left the project as director, which marks the second
+director to exit the film in three years. This is the latest setback
+for the project, which was announced in 2019 with much anticipation as
+it would see Oscar winner Mahershala Ali take on the role"
+
+---
+
+"@skyfaller@jawns.club
+
+.. Since LLMs have also infected print books and scientific journals
+with misinfo, it won't just be the effective end of the Web. It will
+be the end of all sources that you don't have a personal connection
+with. Finding new info will require finding a human who can tell you
+through real- world experience whether that mushroom foraging guide is
+dangerous nonsense"
+
+---
+
+Rigzone: "Peoples, an essential utilities company, is spearheading a
+demonstration project to produce zero-emission hydrogen energy at
+scale. The project, underway in Western Pennsylvania, is a joint
+undertaking by Peoples, H Quest and the University of Pittsburgh’s
+Swanson School of Engineering, Peoples said in a statement. [The
+company] installed one of H Quest’s proprietary microwave pyrolysis
+units at its training center in McKeesport to transform natural gas
+into pure hydrogen (H2) without CO2 emissions. The process creates
+what is often referred to as turquoise hydrogen"
+
+<img width='340' src='https://images.rigzone.com/images/news/articles/Pilot-Project-Targets-Production-of-ZeroEmission-Hydrogen-177076-582x327.webp'/> 
+
+---
+
+"@nemeciii@mastodon.social
+
+Megaconstellations like Starlink will increase atmospheric aluminum
+oxide amounts to 646% over natural levels ( +360 metric tons / year ).
+
+It will take up to 30 years for the aluminum oxides to drift down to
+stratospheric altitudes, where 90% of Earth's ozone is located.
+
+Once there aluminum oxide will act as a catalyst with chlorine harming
+the ozone layer"
+
+---
+
+Deihl: "H.R. 8070, the National Defense Authorization Act (NDAA) for
+fiscal year 2025 features the usual increase in “defense” spending to
+a record $883.7 billion.. 883.7 billion works out to about 2600, for
+each one of us Americans spreading corporatocracy far and wide, shell
+by shell, proxy war by proxy war."
+
+---
+
+\#Owens \#Gray
+
+[[-]](https://youtu.be/kngK3gX8X-M)
+
+---
+
+Energy Live News: "Wales & West Utilities (WWU) has launched a study,
+funded by Ofgem, to investigate how the UK's existing gas network can
+be adapted for hydrogen refuelling stations"
+
+---
+
+Nick Bano: "Worth remembering that [UK] ‘intentional homelessness’ was
+invented to prevent queue-jumping for council flats.. Things have
+degraded, and the problem it was designed to solve is now
+unimaginable. It’s a relic in a country with world-beating
+homelessness statistics"
+
+---
+
+\#Frontline \#UA \#RU 06/06 - 06/15
+
+[[-]](ukrdata/map22.html)
+
+---
+
+Tony Blink Blink 737 must have overruled it. This smells like the
+doing of the surface state... Military-industrial-donor complex
+control of high-levels of goverment on display. The depths are fine,
+the top is corrupted, amoral, mercantile.
+
+The Guardian: "The state department falsified a report earlier this
+month to absolve Israel of responsibility for blocking humanitarian
+aid flows into Gaza, overruling the advice of its own experts,
+according to a former senior US official who resigned this week.
+
+Stacy Gilbert left her post as senior civil military adviser in the
+state department’s bureau of population, refugees and migration, on
+Tuesday. She had been one of the department’s subject matter experts
+who drafted the report mandated under national security memorandum 20
+(NSM-20) and published on 10 May...
+
+Even more controversially, the report said the state department did
+not 'currently assess that the Israeli government is prohibiting or
+otherwise restricting the transport or delivery of US humanitarian
+assistance' in Gaza. It was a high-stakes judgment because under a
+clause in the Foreign Assistance Act, the US would be obliged to cut
+arms sales and security assistance to any country found to have
+blocked delivery of US aid"
+
+---

@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e31de4b380f38535fa1691827f58a72e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_e31de4b380f38535fa1691827f58a72e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_e31de4b380f38535fa1691827f58a72e = L.map(
+                "map_e31de4b380f38535fa1691827f58a72e",
+                {
+                    center: [0.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 3,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f322492cb2d1fcd2d7c9e72cb22c740e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_f322492cb2d1fcd2d7c9e72cb22c740e.addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+            var marker_2afeae2ece4a559a2bccd143d60be44c = L.marker(
+                [16.02646743793999, 107.98584511827441],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_5c0e595b236ce1d06e20b8f74acac4cf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5e7994e7089223e5e7ad9fc6f0516827 = $(`<div id="html_5e7994e7089223e5e7ad9fc6f0516827" style="width: 100.0%; height: 100.0%;">USS Tripoli (LHA-7)</div>`)[0];
+                popup_5c0e595b236ce1d06e20b8f74acac4cf.setContent(html_5e7994e7089223e5e7ad9fc6f0516827);
+            
+        
+
+        marker_2afeae2ece4a559a2bccd143d60be44c.bindPopup(popup_5c0e595b236ce1d06e20b8f74acac4cf)
+        ;
+
+        
+    
+    
+            var marker_cb5dbfb7a4887ca3648c4061c8b907f0 = L.marker(
+                [15.778096103109277, 108.5944307001796],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_254933ff79266ca6cd5451476241bf41 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ebbe2587d8f36b806a7425a3f648d7de = $(`<div id="html_ebbe2587d8f36b806a7425a3f648d7de" style="width: 100.0%; height: 100.0%;">USS Robert Smalls (CG-62)</div>`)[0];
+                popup_254933ff79266ca6cd5451476241bf41.setContent(html_ebbe2587d8f36b806a7425a3f648d7de);
+            
+        
+
+        marker_cb5dbfb7a4887ca3648c4061c8b907f0.bindPopup(popup_254933ff79266ca6cd5451476241bf41)
+        ;
+
+        
+    
+    
+            var marker_756a3412b5682bf9eac5d35ee7b37697 = L.marker(
+                [16.450375467939452, 107.97773607441212],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_bbbc954c5c46f6a83c170e634a48fce0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_939947d6e8a2249241231b6ef7859bd0 = $(`<div id="html_939947d6e8a2249241231b6ef7859bd0" style="width: 100.0%; height: 100.0%;">USS Rushmore (LSD-47)</div>`)[0];
+                popup_bbbc954c5c46f6a83c170e634a48fce0.setContent(html_939947d6e8a2249241231b6ef7859bd0);
+            
+        
+
+        marker_756a3412b5682bf9eac5d35ee7b37697.bindPopup(popup_bbbc954c5c46f6a83c170e634a48fce0)
+        ;
+
+        
+    
+    
+            var marker_27281a3c9702cf4f57c6fb070937235a = L.marker(
+                [15.767054084292367, 107.80292089186204],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_9234282c2234f7e7cb32defbac359bb7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5795528268314e3daa6c4ce2004dd8f7 = $(`<div id="html_5795528268314e3daa6c4ce2004dd8f7" style="width: 100.0%; height: 100.0%;">USS New Orleans (LPD-18)</div>`)[0];
+                popup_9234282c2234f7e7cb32defbac359bb7.setContent(html_5795528268314e3daa6c4ce2004dd8f7);
+            
+        
+
+        marker_27281a3c9702cf4f57c6fb070937235a.bindPopup(popup_9234282c2234f7e7cb32defbac359bb7)
+        ;
+
+        
+    
+    
+            var marker_7a47406a7020fc5a0af5065b47ff90b2 = L.marker(
+                [16.25241606593224, 107.954789832816],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_c2a22d0429bdf3763ded35d1d4778d24 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bb81c1c221f9197f0a7a7392b980aadc = $(`<div id="html_bb81c1c221f9197f0a7a7392b980aadc" style="width: 100.0%; height: 100.0%;">USS San Diego (LPD-22)</div>`)[0];
+                popup_c2a22d0429bdf3763ded35d1d4778d24.setContent(html_bb81c1c221f9197f0a7a7392b980aadc);
+            
+        
+
+        marker_7a47406a7020fc5a0af5065b47ff90b2.bindPopup(popup_c2a22d0429bdf3763ded35d1d4778d24)
+        ;
+
+        
+    
+    
+            var marker_b9b0f8427740039d7312be853f156322 = L.marker(
+                [13.84574964820472, 145.10627083494705],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_6bc0766935ec65adf071df127bcb65e0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bc896b292484ce134d4d3c2dc1648009 = $(`<div id="html_bc896b292484ce134d4d3c2dc1648009" style="width: 100.0%; height: 100.0%;">USS George Washington (CVN-73)</div>`)[0];
+                popup_6bc0766935ec65adf071df127bcb65e0.setContent(html_bc896b292484ce134d4d3c2dc1648009);
+            
+        
+
+        marker_b9b0f8427740039d7312be853f156322.bindPopup(popup_6bc0766935ec65adf071df127bcb65e0)
+        ;
+
+        
+    
+    
+            var marker_b4831a2c11813ee99cb7110c6922f843 = L.marker(
+                [21.487560638671578, -158.23808877510143],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_2ed6924a47f31164ec6b80c801b974d2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_988294fce37e28c109b6192b218e457b = $(`<div id="html_988294fce37e28c109b6192b218e457b" style="width: 100.0%; height: 100.0%;">USCGC Polar Star (WAGB-10)</div>`)[0];
+                popup_2ed6924a47f31164ec6b80c801b974d2.setContent(html_988294fce37e28c109b6192b218e457b);
+            
+        
+
+        marker_b4831a2c11813ee99cb7110c6922f843.bindPopup(popup_2ed6924a47f31164ec6b80c801b974d2)
+        ;
+
+        
+    
+    
+            var marker_50a6075b2f861119cb7e8cb700ca7901 = L.marker(
+                [14.77784942952397, 129.68288510069087],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_1e4569c9fd82e9034db01eda6cb08076 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5bf483e2ad90960273949c5ab305eb45 = $(`<div id="html_5bf483e2ad90960273949c5ab305eb45" style="width: 100.0%; height: 100.0%;">USS Abraham Lincoln (CVN-72)</div>`)[0];
+                popup_1e4569c9fd82e9034db01eda6cb08076.setContent(html_5bf483e2ad90960273949c5ab305eb45);
+            
+        
+
+        marker_50a6075b2f861119cb7e8cb700ca7901.bindPopup(popup_1e4569c9fd82e9034db01eda6cb08076)
+        ;
+
+        
+    
+    
+            var marker_d3b2a135ac1526623226c8579c87b0c5 = L.marker(
+                [14.691752656906365, 130.3970455142235],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_456d138cb7a19af600febd0078951f00 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0fb77b8e792e743b67fcf01598164634 = $(`<div id="html_0fb77b8e792e743b67fcf01598164634" style="width: 100.0%; height: 100.0%;">USS Frank E. Petersen Jr. (DDG-121)</div>`)[0];
+                popup_456d138cb7a19af600febd0078951f00.setContent(html_0fb77b8e792e743b67fcf01598164634);
+            
+        
+
+        marker_d3b2a135ac1526623226c8579c87b0c5.bindPopup(popup_456d138cb7a19af600febd0078951f00)
+        ;
+
+        
+    
+    
+            var marker_f63ecf74d06cf5db2024977ada5a4f5e = L.marker(
+                [14.597868389641361, 129.59822429300954],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_4c6772857753c1c5bd205990be29776c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d8e96f6598090a02b58098787cc733ac = $(`<div id="html_d8e96f6598090a02b58098787cc733ac" style="width: 100.0%; height: 100.0%;">USS Michael Murphy (DDG-112)</div>`)[0];
+                popup_4c6772857753c1c5bd205990be29776c.setContent(html_d8e96f6598090a02b58098787cc733ac);
+            
+        
+
+        marker_f63ecf74d06cf5db2024977ada5a4f5e.bindPopup(popup_4c6772857753c1c5bd205990be29776c)
+        ;
+
+        
+    
+    
+            var marker_d36527bc144e42c41c6fbede4d0b6f4f = L.marker(
+                [15.449774592400669, 130.0086220812418],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_120cae42c2d0aa2fdeb911fb590b1c6a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8301593f1d24587038bbd82c18db20d7 = $(`<div id="html_8301593f1d24587038bbd82c18db20d7" style="width: 100.0%; height: 100.0%;">USS Spruance (DDG-111)</div>`)[0];
+                popup_120cae42c2d0aa2fdeb911fb590b1c6a.setContent(html_8301593f1d24587038bbd82c18db20d7);
+            
+        
+
+        marker_d36527bc144e42c41c6fbede4d0b6f4f.bindPopup(popup_120cae42c2d0aa2fdeb911fb590b1c6a)
+        ;
+
+        
+    
+    
+            var marker_3a894acf4bf3801e14efd1b45ada786c = L.marker(
+                [15.09675232968434, -74.28237520560616],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_a2785c8a99eaa7821a03cfb6b0883fc9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1456c1822696973dc0db34e8f0473b2c = $(`<div id="html_1456c1822696973dc0db34e8f0473b2c" style="width: 100.0%; height: 100.0%;">USS Iwo Jima (LHD-7)</div>`)[0];
+                popup_a2785c8a99eaa7821a03cfb6b0883fc9.setContent(html_1456c1822696973dc0db34e8f0473b2c);
+            
+        
+
+        marker_3a894acf4bf3801e14efd1b45ada786c.bindPopup(popup_a2785c8a99eaa7821a03cfb6b0883fc9)
+        ;
+
+        
+    
+    
+            var marker_a02189058e837175a06094d2823674f2 = L.marker(
+                [15.198182998395502, -74.6813406733148],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_20acc33b1c1fcae90a24c1d9cee0e69e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a9d0f34a74d885486835af4f8895be0d = $(`<div id="html_a9d0f34a74d885486835af4f8895be0d" style="width: 100.0%; height: 100.0%;">USS Fort Lauderdale (LPD-28)</div>`)[0];
+                popup_20acc33b1c1fcae90a24c1d9cee0e69e.setContent(html_a9d0f34a74d885486835af4f8895be0d);
+            
+        
+
+        marker_a02189058e837175a06094d2823674f2.bindPopup(popup_20acc33b1c1fcae90a24c1d9cee0e69e)
+        ;
+
+        
+    
+    
+            var marker_bfa32d3ad316303e24627c0e800db3cb = L.marker(
+                [15.52668049047352, -74.71785279150825],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_d65b455f2afd19e734adb888cf97a427 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6bc91f4901048c8cf133a26b19e43770 = $(`<div id="html_6bc91f4901048c8cf133a26b19e43770" style="width: 100.0%; height: 100.0%;">USS San Antonio (LPD-17)</div>`)[0];
+                popup_d65b455f2afd19e734adb888cf97a427.setContent(html_6bc91f4901048c8cf133a26b19e43770);
+            
+        
+
+        marker_bfa32d3ad316303e24627c0e800db3cb.bindPopup(popup_d65b455f2afd19e734adb888cf97a427)
+        ;
+
+        
+    
+    
+            var marker_d1956c109a94958762b53cbdfada903c = L.marker(
+                [15.14925716287356, -74.89366083675515],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_de9d55b9cf69918314e08bcb5865793b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec95482e5e39e7871c94728f4097c683 = $(`<div id="html_ec95482e5e39e7871c94728f4097c683" style="width: 100.0%; height: 100.0%;">USS Thomas Hudner (DDG-116)</div>`)[0];
+                popup_de9d55b9cf69918314e08bcb5865793b.setContent(html_ec95482e5e39e7871c94728f4097c683);
+            
+        
+
+        marker_d1956c109a94958762b53cbdfada903c.bindPopup(popup_de9d55b9cf69918314e08bcb5865793b)
+        ;
+
+        
+    
+    
+            var marker_422105c36e25ec8a2c1bd6ba2dce16be = L.marker(
+                [15.808277864411089, -74.02383514674874],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_0133df97f3f5d962b3b2e00126133cbc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_69d083830fb70b3828a0d9ddd195e529 = $(`<div id="html_69d083830fb70b3828a0d9ddd195e529" style="width: 100.0%; height: 100.0%;">USS Stockdale (DDG-106)</div>`)[0];
+                popup_0133df97f3f5d962b3b2e00126133cbc.setContent(html_69d083830fb70b3828a0d9ddd195e529);
+            
+        
+
+        marker_422105c36e25ec8a2c1bd6ba2dce16be.bindPopup(popup_0133df97f3f5d962b3b2e00126133cbc)
+        ;
+
+        
+    
+    
+            var marker_ee47fcdbc2cf6e2f432a53385199b7e8 = L.marker(
+                [15.58745373938963, -74.87455446913108],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_a24bef7dd6b2f1f767d331f9c468e6a5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_37ea07913ab2d032f6ceab390f4167e1 = $(`<div id="html_37ea07913ab2d032f6ceab390f4167e1" style="width: 100.0%; height: 100.0%;">USS Lake Erie (CG-70)</div>`)[0];
+                popup_a24bef7dd6b2f1f767d331f9c468e6a5.setContent(html_37ea07913ab2d032f6ceab390f4167e1);
+            
+        
+
+        marker_ee47fcdbc2cf6e2f432a53385199b7e8.bindPopup(popup_a24bef7dd6b2f1f767d331f9c468e6a5)
+        ;
+
+        
+    
+    
+            var marker_cf613f0a7702eeb0dcea9d9e1d867ea9 = L.marker(
+                [15.090029713085126, -74.22029819554047],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_45ca29c2cd1240619755e4a29cd11fa8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2ddd75d7ee17a22a36799883e131ebf5 = $(`<div id="html_2ddd75d7ee17a22a36799883e131ebf5" style="width: 100.0%; height: 100.0%;">USS Gettysburg (CG-64)</div>`)[0];
+                popup_45ca29c2cd1240619755e4a29cd11fa8.setContent(html_2ddd75d7ee17a22a36799883e131ebf5);
+            
+        
+
+        marker_cf613f0a7702eeb0dcea9d9e1d867ea9.bindPopup(popup_45ca29c2cd1240619755e4a29cd11fa8)
+        ;
+
+        
+    
+    
+            var marker_a62a3fb64be4901c56c2667a28cf10d8 = L.marker(
+                [15.99669616861464, -74.28368497210543],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_758421e70243def741430d74959608f1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6e0c78a5488e1bc322c67146eeb7ce18 = $(`<div id="html_6e0c78a5488e1bc322c67146eeb7ce18" style="width: 100.0%; height: 100.0%;">USS Gerald R. Ford (CVN-78)</div>`)[0];
+                popup_758421e70243def741430d74959608f1.setContent(html_6e0c78a5488e1bc322c67146eeb7ce18);
+            
+        
+
+        marker_a62a3fb64be4901c56c2667a28cf10d8.bindPopup(popup_758421e70243def741430d74959608f1)
+        ;
+
+        
+    
+    
+            var marker_794f3ae0663e6a92d7a6e2624dbaaca1 = L.marker(
+                [15.273525425066158, -74.82061956483282],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_60096cd0cd958a081e58f0986a1b2f61 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7832d6b5f20a7557a11d1e13bfc68ae7 = $(`<div id="html_7832d6b5f20a7557a11d1e13bfc68ae7" style="width: 100.0%; height: 100.0%;">USS Winston S. Churchill (DDG-81)</div>`)[0];
+                popup_60096cd0cd958a081e58f0986a1b2f61.setContent(html_7832d6b5f20a7557a11d1e13bfc68ae7);
+            
+        
+
+        marker_794f3ae0663e6a92d7a6e2624dbaaca1.bindPopup(popup_60096cd0cd958a081e58f0986a1b2f61)
+        ;
+
+        
+    
+    
+            var marker_64518c858a25f4d8ff894584bdd5f28b = L.marker(
+                [15.938011998867585, -74.5176286224979],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_e0033412236644f620119ebe93f40c0b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_324decab8ea092384eb7a26c38131548 = $(`<div id="html_324decab8ea092384eb7a26c38131548" style="width: 100.0%; height: 100.0%;">USS Bainbridge (DDG-96)</div>`)[0];
+                popup_e0033412236644f620119ebe93f40c0b.setContent(html_324decab8ea092384eb7a26c38131548);
+            
+        
+
+        marker_64518c858a25f4d8ff894584bdd5f28b.bindPopup(popup_e0033412236644f620119ebe93f40c0b)
+        ;
+
+        
+    
+    
+            var marker_03ce2b3555d13843eaf73ac9360afe96 = L.marker(
+                [15.853556472303461, -74.83031998898657],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_07d1faa8fb33a7af48c95549a03546f3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fd863da473208430b04a6728d925517b = $(`<div id="html_fd863da473208430b04a6728d925517b" style="width: 100.0%; height: 100.0%;">USS Mahan (DDG-72)</div>`)[0];
+                popup_07d1faa8fb33a7af48c95549a03546f3.setContent(html_fd863da473208430b04a6728d925517b);
+            
+        
+
+        marker_03ce2b3555d13843eaf73ac9360afe96.bindPopup(popup_07d1faa8fb33a7af48c95549a03546f3)
+        ;
+
+        
+    
+    
+            var marker_235f03396c090b54ac6dfd3494853db0 = L.marker(
+                [16.587550201115565, 63.19233705888184],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_a56e54325aa9b4e826d36904d90ff1dc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1c8df8bf15e84d2089cb5e7fbe53e5cb = $(`<div id="html_1c8df8bf15e84d2089cb5e7fbe53e5cb" style="width: 100.0%; height: 100.0%;">USS Mitscher (DDG-57)</div>`)[0];
+                popup_a56e54325aa9b4e826d36904d90ff1dc.setContent(html_1c8df8bf15e84d2089cb5e7fbe53e5cb);
+            
+        
+
+        marker_235f03396c090b54ac6dfd3494853db0.bindPopup(popup_a56e54325aa9b4e826d36904d90ff1dc)
+        ;
+
+        
+    
+    
+            var marker_7ab2fd471dd31af1c5c0d27a11860581 = L.marker(
+                [26.27598057135895, 51.953696032848526],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_516c01a5878232a5d7abc2759daa455b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1bfb56b2a178d3d7d9662f4c50b13213 = $(`<div id="html_1bfb56b2a178d3d7d9662f4c50b13213" style="width: 100.0%; height: 100.0%;">USS Canberra (LCS-30)</div>`)[0];
+                popup_516c01a5878232a5d7abc2759daa455b.setContent(html_1bfb56b2a178d3d7d9662f4c50b13213);
+            
+        
+
+        marker_7ab2fd471dd31af1c5c0d27a11860581.bindPopup(popup_516c01a5878232a5d7abc2759daa455b)
+        ;
+
+        
+    
+    
+            var marker_a67474f506e3b4f5ebdc8589cc253863 = L.marker(
+                [25.922354071722367, 52.269881448835136],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_1568f152f7894c5a65c793c720ef5841 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a5bc0f1a1c645d854114566b33c0d7fa = $(`<div id="html_a5bc0f1a1c645d854114566b33c0d7fa" style="width: 100.0%; height: 100.0%;">USS Santa Barbara (LCS-32)</div>`)[0];
+                popup_1568f152f7894c5a65c793c720ef5841.setContent(html_a5bc0f1a1c645d854114566b33c0d7fa);
+            
+        
+
+        marker_a67474f506e3b4f5ebdc8589cc253863.bindPopup(popup_1568f152f7894c5a65c793c720ef5841)
+        ;
+
+        
+    
+    
+            var marker_26ce8f45aaf5f47863d34028b87091e6 = L.marker(
+                [25.56918737364672, 51.64933147912248],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_0d163fd5320e3b7e76a25cd9a53533aa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8faa20f76d9e8b8bffdb9bba35e88a3e = $(`<div id="html_8faa20f76d9e8b8bffdb9bba35e88a3e" style="width: 100.0%; height: 100.0%;">USS Tulsa (LCS-16)</div>`)[0];
+                popup_0d163fd5320e3b7e76a25cd9a53533aa.setContent(html_8faa20f76d9e8b8bffdb9bba35e88a3e);
+            
+        
+
+        marker_26ce8f45aaf5f47863d34028b87091e6.bindPopup(popup_0d163fd5320e3b7e76a25cd9a53533aa)
+        ;
+
+        
+    
+    
+            var marker_3222b8d976db36c37a887a74ca94c623 = L.marker(
+                [25.90357893326781, 51.947229021549994],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_f91c111b900e1336cf7f787d8b3beb76 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8b7fc9dbb582f8a7a7586e614286d212 = $(`<div id="html_8b7fc9dbb582f8a7a7586e614286d212" style="width: 100.0%; height: 100.0%;">USS Roosevelt (DDG-80)</div>`)[0];
+                popup_f91c111b900e1336cf7f787d8b3beb76.setContent(html_8b7fc9dbb582f8a7a7586e614286d212);
+            
+        
+
+        marker_3222b8d976db36c37a887a74ca94c623.bindPopup(popup_f91c111b900e1336cf7f787d8b3beb76)
+        ;
+
+        
+    
+    
+            var marker_80c81ceed66b8b9e1a6b06e0f663e272 = L.marker(
+                [36.45865650536581, -75.84188519001661],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_c35ded67a589bdaa0032a320e9454121 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0a8bd2ae265855b1b30f8b0821cb3ad8 = $(`<div id="html_0a8bd2ae265855b1b30f8b0821cb3ad8" style="width: 100.0%; height: 100.0%;">USS George H. W. Bush (CVN-77)</div>`)[0];
+                popup_c35ded67a589bdaa0032a320e9454121.setContent(html_0a8bd2ae265855b1b30f8b0821cb3ad8);
+            
+        
+
+        marker_80c81ceed66b8b9e1a6b06e0f663e272.bindPopup(popup_c35ded67a589bdaa0032a320e9454121)
+        ;
+
+        
+    
+    
+            var marker_86ad7fcb7499e7582663f5cbf6a549c2 = L.marker(
+                [36.543122378914916, -76.50698816180018],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_8f440a48a55a21a46ad20b19c2f7dc59 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6232a59b75848d9536c87a80fc1efdf4 = $(`<div id="html_6232a59b75848d9536c87a80fc1efdf4" style="width: 100.0%; height: 100.0%;">USS Kearsarge (LHD-3)</div>`)[0];
+                popup_8f440a48a55a21a46ad20b19c2f7dc59.setContent(html_6232a59b75848d9536c87a80fc1efdf4);
+            
+        
+
+        marker_86ad7fcb7499e7582663f5cbf6a549c2.bindPopup(popup_8f440a48a55a21a46ad20b19c2f7dc59)
+        ;
+
+        
+    
+    
+            var marker_3d8cbfa213e4f2f0c1a19d75d8b55c5a = L.marker(
+                [32.35775050500305, -117.00393195148492],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_56e86d3d9493183e5c42fdb0f2137326 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ff80e0b6fe5eba6ed37dedafe5c7b168 = $(`<div id="html_ff80e0b6fe5eba6ed37dedafe5c7b168" style="width: 100.0%; height: 100.0%;">USS Nimitz (CVN-68)</div>`)[0];
+                popup_56e86d3d9493183e5c42fdb0f2137326.setContent(html_ff80e0b6fe5eba6ed37dedafe5c7b168);
+            
+        
+
+        marker_3d8cbfa213e4f2f0c1a19d75d8b55c5a.bindPopup(popup_56e86d3d9493183e5c42fdb0f2137326)
+        ;
+
+        
+    
+    
+            var marker_900c7e1bce1df02d932a3bb2bfe4d933 = L.marker(
+                [32.34377687887626, -117.07520922775335],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_5f650969fc5f6afc868f48f4ebc75d25 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_49201d90e426bad2e7acd3f46d156993 = $(`<div id="html_49201d90e426bad2e7acd3f46d156993" style="width: 100.0%; height: 100.0%;">USS Gridley (DDG-101)</div>`)[0];
+                popup_5f650969fc5f6afc868f48f4ebc75d25.setContent(html_49201d90e426bad2e7acd3f46d156993);
+            
+        
+
+        marker_900c7e1bce1df02d932a3bb2bfe4d933.bindPopup(popup_5f650969fc5f6afc868f48f4ebc75d25)
+        ;
+
+        
+    
+    
+            var marker_f81106990f3c43bfc9aa01b1755aadcc = L.marker(
+                [32.471435844656526, -117.46200741946122],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_828a19431f1a3aefeec82ef13480380c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_580f62ff5201ff87a1f7f99dac489743 = $(`<div id="html_580f62ff5201ff87a1f7f99dac489743" style="width: 100.0%; height: 100.0%;">USS Wayne E. Meyer (DDG-108)</div>`)[0];
+                popup_828a19431f1a3aefeec82ef13480380c.setContent(html_580f62ff5201ff87a1f7f99dac489743);
+            
+        
+
+        marker_f81106990f3c43bfc9aa01b1755aadcc.bindPopup(popup_828a19431f1a3aefeec82ef13480380c)
+        ;
+
+        
+    
+    
+            var marker_de0c5533bed20a7ebda345ccd0ece263 = L.marker(
+                [32.99586191453478, -116.66948043415238],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_b6617cce9e9d637c4aeefd7e4e48d68f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a16998d237d7585a1fa0711a968aeec = $(`<div id="html_9a16998d237d7585a1fa0711a968aeec" style="width: 100.0%; height: 100.0%;">USS Lenah Sutcliffe Higbee (DDG-123)</div>`)[0];
+                popup_b6617cce9e9d637c4aeefd7e4e48d68f.setContent(html_9a16998d237d7585a1fa0711a968aeec);
+            
+        
+
+        marker_de0c5533bed20a7ebda345ccd0ece263.bindPopup(popup_b6617cce9e9d637c4aeefd7e4e48d68f)
+        ;
+
+        
+    
+    
+            var marker_f2549acc8ee13b6ccb0b326d281e705a = L.marker(
+                [32.58530061689272, -117.20032518819826],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_cbac67321895d73b0a9893b4674d486e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f1704ef4fdf084d0c9075c2056840e33 = $(`<div id="html_f1704ef4fdf084d0c9075c2056840e33" style="width: 100.0%; height: 100.0%;">USS Boxer (LHD-4)</div>`)[0];
+                popup_cbac67321895d73b0a9893b4674d486e.setContent(html_f1704ef4fdf084d0c9075c2056840e33);
+            
+        
+
+        marker_f2549acc8ee13b6ccb0b326d281e705a.bindPopup(popup_cbac67321895d73b0a9893b4674d486e)
+        ;
+
+        
+    
+    
+            var marker_16b0182b185c528b63297bf5921523fd = L.marker(
+                [33.143845451232316, -117.443611949265],
+                {
+}
+            ).addTo(map_e31de4b380f38535fa1691827f58a72e);
+        
+    
+        var popup_0ad5341cc1fa0ddd3e485da864b2edbb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8a04eddd9fdc7f0f28fc5d559a321314 = $(`<div id="html_8a04eddd9fdc7f0f28fc5d559a321314" style="width: 100.0%; height: 100.0%;">USS Makin Island (LHD-8)</div>`)[0];
+                popup_0ad5341cc1fa0ddd3e485da864b2edbb.setContent(html_8a04eddd9fdc7f0f28fc5d559a321314);
+            
+        
+
+        marker_16b0182b185c528b63297bf5921523fd.bindPopup(popup_0ad5341cc1fa0ddd3e485da864b2edbb)
+        ;
+
+        
+    
+</script>
+</html>
