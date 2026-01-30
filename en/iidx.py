@@ -51,7 +51,7 @@ def index_dir():
             invidx_dict[first_letter][k] = v
 
     for k,v in invidx_dict.items():
-        fout = open("/tmp/invidx-%s.json" % k,"w")
+        fout = open("/opt/Downloads/idx/invidx-%s.json" % k,"w")
         fout.write(json.dumps(v))
         fout.close()
         
@@ -68,7 +68,7 @@ def test1():
     stok_hits = {}
     results = []
     for tok in stok:
-        stok_hits[tok] = json.loads(open("/tmp/invidx-%s.json" % tok[0]).read())[tok]
+        stok_hits[tok] = json.loads(open("/opt/Downloads/idx/invidx-%s.json" % tok[0]).read())[tok]
         results.append(set(stok_hits[tok]))
 
     u = set.intersection(*results)

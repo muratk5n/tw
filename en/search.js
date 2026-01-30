@@ -13,7 +13,7 @@ async function searchText() {
 	var tok = stoks[i];
 	var letter_dict;
 	var firstLetter = tok.substring(0,1);
- 	var url = `https://muratk5n.github.io/thirdwave/en/idx/invidx-${firstLetter}.json`;
+ 	var url = `https://muratk5n.github.io/idx/invidx-${firstLetter}.json`;
 	await fetch(url)
 	    .then(response => response.json())
 	    .then(data => letter_dict = data );
