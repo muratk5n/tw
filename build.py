@@ -133,16 +133,16 @@ base_head = """
       <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
       </script>
-      <link rel="stylesheet" type="text/css" media="screen" href="%(css)s">
+      <link rel="stylesheet" type="text/css" media="screen" href="/tw/css/style.css">
       <link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet">
       <title>thirdwave</title>
-      <link rel="canonical" href="%(href)s" />
+      <link rel="canonical" href="/tw/en/" />
     </head>        
     <body>
       <div id="header_wrap" class="outer">
         <header class="inner">
           <h1 id="project_title">
-            <a href="%(href)s"
+            <a href="/tw/en/"
                style="font-size: 60px;color:white;letter-spacing: 5px;font-family: 'Pinyon Script', cursive;">TW</a>
           </h1>
           <font color="gray" size="2">%(title)s</font>
@@ -164,9 +164,9 @@ def gen_html(target):
 
     bottom = base_bottom 
     if target=="codeberg":
-        head = base_head % {"title": "Codeberg Main", "css": "/css/style.css", "href": "/tw/en/"} 
+        head = base_head % {"title": "Codeberg Main"} 
     if target=="github":
-        head = base_head % {"title": "Github Mirror", "css": "/css/style.css", "href": "/tw/en/"} 
+        head = base_head % {"title": "Github Mirror"} 
     
     dirs, files = ls(os.getcwd())
     for (f,size) in files:
