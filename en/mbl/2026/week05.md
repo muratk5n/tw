@@ -1,5 +1,156 @@
 # Week 5
 
+Politico: "Starmer vows to take UK deeper into EU single
+market.. Seemingly buoyed by a positive reception and a
+smaller-than-anticipated backlash, the British PM is now doubling down
+on his Brexit reset."
+
+---
+
+IC: "All the 15 Hottest Spots on Earth on Thursday were in Australia;
+Will it become Uninhabitable?.. At a 2.7º C. increase, northern
+Australian areas such as Darwin, Broome and Port Hedland will become
+uninhabitable by the end of the century"
+
+---
+
+METR: "We conduct a randomized controlled trial (RCT) to understand
+how early-2025 AI tools affect the productivity of experienced
+open-source developers working on their own
+repositories. Surprisingly, we find that when developers use AI tools,
+they take 19% longer than without—AI makes them slower."
+
+---
+
+"@jonny@neuromatch.social
+
+Its so awesome how all the websites no longer work and have
+inexplicable problems and if anyone ever says that might be bad then
+the whole economy collapses"
+
+---
+
+NYT: "How His Duel With Trump Boosted Emmanuel Macron, France’s
+Embattled President.. Dismissed as a lame duck, Emmanuel Macron has
+clawed back some influence after his defense of Greenland and Denmark"
+
+---
+
+The Jerusalem Post: "TikTok's new hate speech manager is former IDF
+soldier and proud Zionist"
+
+---
+
+TAC: "How Many Times Do I Have to Write This Column About
+Iran?. Regime change would still be a catastrophe, and it’s hard to
+see what the point of anything else is."
+
+---
+
+Updated the location of the mirror site... In case of downtime, try
+the mirror or Mastodon. As before latest updates are on the main site,
+the mirror is the backup, updated less often.
+
+[Mastodon](https://fosstodon.org/@muratk5n),
+[Github](https://muratk5n.github.io/tw/en/)
+
+---
+
+"It's not health insurance, it's a health coupon"
+
+[[-]](https://youtu.be/Fl1ngz8rzL8?t=68)
+
+---
+
+\#Ukraine 01/15 - 01/31
+
+[[-]](ukrdata/map03.html)
+
+---
+
+I listened to some of the testimony on CSPAN, KR says something like
+"we need to copy what Europe does". Daem.
+
+---
+
+YG - Scared Money ft. J. Cole, Moneybagg Yo \#music
+
+[[-]](https://youtu.be/ZGJxTuYJP8o?t=20)
+
+---
+
+I thought markets were a good thing.. their mere presence caused roses
+to bloom, cows to fly. Binness solves everything.
+
+---
+
+Wiki: "Ritchie is a vocal supporter of the U.S. Republican Party and
+holds libertarian views."
+
+---
+
+It sounds like KR is calling for more **government** and for more
+**regulation**.
+
+ABC News: "Kid Rock, legally named Robert Ritchie, testified before
+Congress on Wednesday in which he expressed his concerns over the
+secondary ticket market driving up costs for consumers... [he also]
+claimed that promises made by Ticketmaster CEO and Live Nation CEO to
+ensure that ticket prices stay cheap following their merger failed to
+be kept..
+
+He then went on and called on Congress to open a formal investigation
+and subpoena the contracts and deals between 'artists / promoters /
+buildings / ticketing companies / agencies and vendors,' asserting
+they will uncover 'mountains of fraud and abuse.'
+
+'It’s no secret this industry is full of greedy snakes and
+scoundrels,' Kid Rock said. 'Too many suits lining their pockets off
+talent they never had and fans they mislead.'"
+
+---
+
+[Link](https://www.dropbox.com/scl/fi/x2ucaqqkcg1k6yszqeaih/spaz3.gif?rlkey=lefscjcmmuz0ev20zccpklipp&st=m11dmhya&raw=1)
+
+---
+
+I wish "AI" could help here, but they are trained on the output of the
+same spaz, so they become spaz. The other day I rehashed one earlier
+argument with an LLM after a few convos built on top of it, and LLM
+*lost* it. It had a complete meltdown.
+
+---
+
+Seeing lota comprehension problems.. are ppl spazzing out all at once?
+You say a thing, mfker doesnt get it.
+
+---
+
+This guy knows what's going on \#China
+
+[[-]](https://youtu.be/zhylT7Hgf1g?t=31)
+
+---
+
+Mohammed Bin Salman: "I don’t need uranium to make a bomb. I will just
+buy one from Pakistan."
+
+---
+
+\#USNavy \#Deployment
+
+[[-]](map02.html)
+
+---
+
+How come the massive zero-point energy does not effect gravity
+(question from yesterday's post). Nassim Haramein would say that
+energy "turns on itself" and gravitational effect is what leaks on the
+outside world... I will not use the "b-word", reader can check out the
+rest.
+
+---
+
 Some commentators might be confusing which purge was done by whom. The
 ones that removed Xi's allies previously were not done by Xi,
 obviously, but MSM reported them as such. They also keep saying "Zhang

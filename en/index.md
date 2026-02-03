@@ -1,84 +1,57 @@
 
-I listened to some of the testimony on CSPAN, KR says something like
-"we need to copy what Europe does". Daem.
+F24: "Britain on Tuesday unveiled its first national plan to curb
+'forever chemicals,' seeking to cut risks to human health and the
+environment, the government said. PFAS, used in products from cookware
+to food packaging, persist for decades and accumulate in nature,
+posing threats likely to endure for hundreds of years."
 
 ---
 
-YG - Scared Money ft. J. Cole, Moneybagg Yo \#music
-
-[[-]](https://youtu.be/ZGJxTuYJP8o?t=20)
-
----
-
-I thought markets were a good thing.. their mere presence caused roses
-to bloom, cows to fly. Binness solves everything.
+CNBC: "Gold and silver rebound after historic wipeout as analysts say
+thematic drivers stay intact"
 
 ---
 
-Wiki: "Ritchie is a vocal supporter of the U.S. Republican Party and
-holds libertarian views."
+I love it.. Mandelson is a "New Labour" guy, one of those Clintonite
+Brits, economic right social left type "progressive". We can enjoy
+watching them sink.
+
+CNN: "The latest tranche of documents has revealed that [Peter]
+Mandelson appeared to leak sensitive UK government tax plans to
+Epstein. They also show that his partner, Reinaldo Avila da Silva,
+regularly received undisclosed payments from him."
 
 ---
 
-It sounds like KR is calling for more **government** and for more
-**regulation**.
-
-ABC News: "Kid Rock, legally named Robert Ritchie, testified before
-Congress on Wednesday in which he expressed his concerns over the
-secondary ticket market driving up costs for consumers... [he also]
-claimed that promises made by Ticketmaster CEO and Live Nation CEO to
-ensure that ticket prices stay cheap following their merger failed to
-be kept..
-
-He then went on and called on Congress to open a formal investigation
-and subpoena the contracts and deals between 'artists / promoters /
-buildings / ticketing companies / agencies and vendors,' asserting
-they will uncover 'mountains of fraud and abuse.'
-
-'It’s no secret this industry is full of greedy snakes and
-scoundrels,' Kid Rock said. 'Too many suits lining their pockets off
-talent they never had and fans they mislead.'"
+It looks like the Winsdors booted out their troublemaker right on
+time.. If he was still a royal he would have been a royal pain in the
+ass right now.
 
 ---
 
-[Link](https://www.dropbox.com/scl/fi/x2ucaqqkcg1k6yszqeaih/spaz3.gif?rlkey=lefscjcmmuz0ev20zccpklipp&st=m11dmhya&raw=1)
+Corps are your tyrants, America. Their silent opression is worse than
+any kind of government can bring to bear.
 
 ---
 
-I wish "AI" could help here, but they are trained on the output of the
-same spaz, so they become spaz. The other day I rehashed one earlier
-argument with an LLM after a few convos built on top of it, and LLM
-*lost* it. It had a complete meltdown.
+Tubers do this too.. And ppl make fun of China using code words to
+bypass censorship.
+
+"It's because the words like die or suicide are often censored on
+platforms like Tiktok.. people started saying [unalive] instead."
 
 ---
 
-Seeing lota comprehension problems.. are ppl spazzing out all at once?
-You say a thing, mfker doesnt get it.
+"@GeofCox@climatejustice.social
 
----
-
-This guy knows what's going on \#China
-
-[[-]](https://youtu.be/zhylT7Hgf1g?t=31)
-
----
-
-Mohammed Bin Salman: "I don’t need uranium to make a bomb. I will just
-buy one from Pakistan."
-
----
-
-\#USNavy \#Deployment
-
-[[-]](mbl/2026/map02.html)
-
----
-
-How come the massive zero-point energy does not effect gravity
-(question from yesterday's post). Nassim Haramein would say that
-energy "turns on itself" and gravitational effect is what leaks on the
-outside world... I will not use the "b-word", reader can check out the
-rest.
+[W]hile living standards have stagnated for most people.. the wealthy
+and privileged have continued to get much wealthier.  About half of
+all house purchases in the UK now are for 'additional dwellings' -
+second homes, buy-to-lets, etc - because 10% of the population can
+outbid everybody else, drive up asset prices, and when it's something
+people can't live without, like a home, force them to pay unreasonable
+rents - further increasing inequality, both directly and indirectly,
+by sucking money out of local economies into elite enclaves."
 
 ---
 
@@ -122,3 +95,4 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github](https://muratk5n.github.io/tw/en/)
+   
