@@ -1,57 +1,103 @@
 
-F24: "Britain on Tuesday unveiled its first national plan to curb
-'forever chemicals,' seeking to cut risks to human health and the
-environment, the government said. PFAS, used in products from cookware
-to food packaging, persist for decades and accumulate in nature,
-posing threats likely to endure for hundreds of years."
+CNBC: "Sweden’s Volvo Cars fell over 22% in its worst trading day
+ever. Here’s why.. [its CEO said] the discontinuation of EV incentives
+in the U.S. and China [are] contributing to 'a very challenging
+external environment.'"
 
 ---
 
-CNBC: "Gold and silver rebound after historic wipeout as analysts say
-thematic drivers stay intact"
+\#Mandelson \#Palantir
+
+[[-]](https://www.youtube.com/shorts/wk8FQrk1WS4)
 
 ---
 
-I love it.. Mandelson is a "New Labour" guy, one of those Clintonite
-Brits, economic right social left type "progressive". We can enjoy
-watching them sink.
-
-CNN: "The latest tranche of documents has revealed that [Peter]
-Mandelson appeared to leak sensitive UK government tax plans to
-Epstein. They also show that his partner, Reinaldo Avila da Silva,
-regularly received undisclosed payments from him."
+*The Wrecking Crew*, the car chase was overdone, but good action
+overall.. Then I watched a scene from the show *See*, Momoa and
+Bautista played brothers before? 
 
 ---
 
-It looks like the Winsdors booted out their troublemaker right on
-time.. If he was still a royal he would have been a royal pain in the
-ass right now.
+Rose hip tea can cure. Other remedies half a lemon juice a day, OJ,
+and occasional honey.
 
 ---
 
-Corps are your tyrants, America. Their silent opression is worse than
-any kind of government can bring to bear.
+*War Machine*, nice trailer. The name is not symbolic like referring
+to a country or an org, the movie is literally about a war machine.
 
 ---
 
-Tubers do this too.. And ppl make fun of China using code words to
-bypass censorship.
+There is better jutsu for that, water and beans in a pot, bring to
+boil, and turn off the heat. Leave it for one hour. Then drain the
+water, beans ready for second stage. 
 
-"It's because the words like die or suicide are often censored on
-platforms like Tiktok.. people started saying [unalive] instead."
+"With the overnight-soak method, you put water and beans in a pot,
+cover the beans with an extra two inches of water, and place in the
+refrigerator for eight to 12 hours."
 
 ---
+
+"@lfeurope@mastodon.social
+
+Europe is moving from slogans to strategy on #DigitalSovereignty, with
+\#opensource increasingly at the core of technological autonomy.
+
+This \#FOSDEM session on global collaboration and Europe’s digital
+\#sovereignty goals explores how participation in global open source
+communities can strengthen Europe’s strategic autonomy"
+
+[[-]](https://fosdem.org/2026/schedule/event/DNUTXJ-eu-global-digital-sovereignty/)
+
+---
+
+\#Reshare
 
 "@GeofCox@climatejustice.social
 
-[W]hile living standards have stagnated for most people.. the wealthy
-and privileged have continued to get much wealthier.  About half of
-all house purchases in the UK now are for 'additional dwellings' -
-second homes, buy-to-lets, etc - because 10% of the population can
-outbid everybody else, drive up asset prices, and when it's something
-people can't live without, like a home, force them to pay unreasonable
-rents - further increasing inequality, both directly and indirectly,
-by sucking money out of local economies into elite enclaves."
+About half of all house purchases in the UK now are for 'additional
+dwellings' - second homes, buy-to-lets, etc - because 10% of the
+population can outbid everybody else, drive up asset prices, and when
+it's something people can't live without, like a home, force them to
+pay unreasonable rents"
+
+---
+
+Housing becomes about "supply" if too many well-to-do gobble them up,
+reducing the said supply.
+
+---
+
+"[Oz] PM’s $4.3m clifftop home earns double rent of typical
+landlord.. Mr Albanese has made an array of property investments over
+the years. He was reported to have a 5m property portfolio just prior
+to getting the nation’s top job"
+
+---
+
+via @Victor@spore.social
+
+ZME Science: "A Radical Climate Proposal Aims to Channel Seawater Into
+a Giant Egyptian Desert to Fight Sea Level Rise.. Flooding Egypt’s
+vast Qattara Depression with seawater could slightly lower global sea
+levels and reshape climate adaptation."
+
+---
+
+"@dantheclamman@scicomm.xyz
+
+Comparing historical hair samples from people from when they were
+babies to today, a new study finds a nearly 100-fold decrease in lead
+from samples after the EPA's crackdown on leaded gas. Regulation works
+and it saves lives!"
+
+[[-]](https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/)
+
+---
+
+"@eb@social.coop
+
+America is not the land of the free, it is the land of the fee"
 
 ---
 

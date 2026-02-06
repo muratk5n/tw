@@ -1,5 +1,307 @@
 # Week 6
 
+The Lever: "Big Grocery’s Hidden Poverty Tax.. Low-income
+neighborhoods face higher food inflation than rich ones, and new
+research suggests market consolidation is the culprit."
+
+---
+
+Firstpost: "Russia has said India is free to source crude from any
+supplier and dismissed suggestions that New Delhi is moving away from
+Russian oil"
+
+---
+
+[Link](https://www.dropbox.com/scl/fi/fppehydj2gg0catok518j/tng_data_1.gif?rlkey=cpea4tuicurz0xmw8w7updkl6&st=8keg2lnc&raw=1)
+
+---
+
+Don't get me started on LLM tech, they are *all* about adjustable
+parameters, a modern LLM has over 1.5 *trillion* of them. Imagine the
+level of ignorance captured in that design decision. We basically know
+next to nothing about intelligence, we just reverse engineered some
+parameters from data via a black box, and called it AI.
+
+---
+
+Now we reveal where the data comes from: it is the **SINE FUNCTION**
+(with some added noise to make it look like experimental data).
+
+```python
+df['ypred'] = np.sin(df.index)
+df.plot(grid=True)
+```
+
+[Graph](mbl/2026/img/freepar4.jpg)
+
+The sine function, $y = sin(x)$, has no free parameters. It is
+simpler, even faster to compute. However it requires the knowledge of
+trigonometry. Because the foolish scientist did not know this, his
+formulation became parameter heavy. The model with a lot of adjustable
+knobs represented his ignorance.
+
+---
+
+But the 7 coefficients tell us nothing in scientific terms because
+using the same coefficients / free parameters / "constants" approach I
+could turn the curve into a line, I could make it go up, or down. The
+structure of my "flexible (too flexible)" formulation doesn't tell me
+anything about the phenomena. Those free parameters represent our
+*ignorance*, not knowledge.
+
+---
+
+Then the genius says "I can reverse engineer those adjustable knobs
+from data!". He uses `polyfit`, and voila
+
+```python
+coef = np.polyfit(df.index, df.ydata, degree)
+df['ypred'] = np.polyval(coef,df.index)
+df.plot(grid=True)
+```
+
+[Graph](mbl/2026/img/freepar3.jpg)
+
+That is a good fit
+
+---
+
+He pulls some numbers out of his ass,
+
+$c_0 = -0.00003$,$c_1=-0.00001$,$c_2=0.004$,$c_3=0.0003$,$c_4=-0.12$,
+$c_5=-0.005$,$c_6=0.4$,$c_7=0.04$
+
+.. and uses them,
+
+```python
+degree = 7
+coef = [-0.00003,-0.00001,0.004,0.0003,-0.12,-0.005,0.4,0.04]
+df['ypred'] = np.polyval(coef,df.index)
+df.plot(grid=True)
+```
+
+[Graph](mbl/2026/img/freepar2.jpg)
+
+He obtains the graph above. His "prediction" came close in some
+places, though overall not great.
+
+---
+
+I'll give an example. Let's say a scientist is looking at some data
+collected from nature,
+
+```python
+df = u.data_synth_1()
+df.plot(grid=True)
+```
+
+[Graph](mbl/2026/img/freepar1.jpg)
+
+And he is asked to find the formulation for this. He looks at the data
+and says, "well I can represent this by simply multiplying powers of
+$x$ with some coefficients", eg $c_0 x + c_1 x^2 + ... + c_n x^n$. He
+thinks he is smart because you can represent any curve with such a
+function.
+
+---
+
+Smolin and Unzicker are right.. the "constants" or "free parameters"
+represent our ultimate ignorance about the world. Those parameters are
+basically knobs you can turn to make our formulas "fit" the
+experimental data.  They are reverse engineered from data, they do not
+arise from fundamental mathematical deduction.
+
+---
+
+Unzicker: "Cosmology’s 'concordance model' uses six numbers, which are
+called 'free parameters' because they cannot be explained within the
+model but rather are fitted to the measurements.  The standard model
+of particle physics needs not only six of them, but an impressive
+17. Why 17?.. In the 1950s, a boom of particle accelerators started
+producing hundreds of elementary particles with spectacular
+collisions. In the following decades, particle physics has been busy
+classifying this zoo and reducing its mathematical description to
+'only' 17 parameters. A few Nobel prizes have even been handed out
+because of this work. But should we be convinced that we have come to
+understand the ultimate structure of matter? In his book *The Trouble
+with Physics*, Lee Smolin comments on the 17 free parameters. 'The
+fact that there are that many freely specifiable constants in what is
+supposed to be a fundamental theory is a tremendous embarrassment.'"
+
+---
+
+"@GeofCox@climatejustice.social
+
+From a European perspective, a central problem with 'liberal middle'
+Democrats is that they would simply restore the very conditions that
+enabled the rise of the far right in the US - so I don't think it's a
+question of the socialist left continuing to be marginalised for
+another half-century.  If the Democrats succeed in getting elected, in
+their current form, and subsequently in office fail to change key
+fundamentals - such as ending American oligarchy and materially
+raising working people's living standards - then the far right will
+simply flood back again in 5 or 10 years."
+
+---
+
+Politico: "Trump prepares to let go of arms control with Russia"
+
+---
+
+"The expiration of the New START Treaty on 5 February 2026 marks the
+end of an era that began in 1969, when the United States and the
+Soviet Union launched the SALT I negotiations. For the first time in
+decades, there will be no treaty constraining the nuclear arms race."
+
+---
+
+The Guardian: "Fossil fuel firms may have to pay for climate damage
+under proposed UN tax.. Framework Convention on International Tax
+Cooperation could also force ultra-rich to pay global wealth tax"
+
+---
+
+LBJ, Texas oil interests, and rogue CIA elements - institutionally
+they were not involved. Nothing deep, all on the surface
+
+---
+
+Roger Stone, *The Man Who Killed Kennedy*: "The JFK assassination
+itself became the most prime example of LBJ’s black magic. Johnson was
+within days of not just being dropped from the 1964 Democratic ticket,
+but of being politically executed, personally destroyed, and publicly
+humiliated by the Kennedys. A Life magazine exposé on LBJ’s corruption
+and vast wealth was due to be published within a week. A SWAT team of
+reporters was combing through LBJ’s financial transactions in central
+Texas. At the very moment when JFK’s Dallas motorcade was slowing on
+Elm Street, Don Reynolds was testifying to a closed session of the
+Senate Rules Committee about LBJ’s kickbacks and corruption.
+
+Then presto! Magically, mysteriously, and tragically, John Kennedy is
+dead. Lyndon Johnson becomes president, and the media exposés and
+Senate investigation into LBJ’s corruption are deep-sixed. This was
+not without the help of H. L. Hunt and the Texas oil industry, which
+helped navigate, fund, and advise Johnson’s career in exchange for
+prized government contracts and favorable legislation. The oil magnate
+would later be one of the top financiers of the assassination in
+Dallas."
+
+---
+
+\#Thorium \#Reshare
+
+[[-]](2026/01/thorium.html)
+
+---
+
+The re-release of *Endgame* can help to reclaim "the highest grossing
+movie" title, previously lost to Avatar because of [its re-release](https://www.ign.com/articles/avatar-set-to-beat-avengers-endgame-as-highest-grossing-movie-after-re-release).
+
+---
+
+Is Marvel re-releasing *Endgame* with a few added scenes for
+*Doomsday* connection? This is your opportunity to digitally remove
+Stark's goatee, so VVD can have it.
+
+---
+
+Trek did it best
+
+[[-]](https://www.dropbox.com/scl/fi/f33t77qp6qsu9vizr32ar/trek_evil1.gif?rlkey=r40p9zhqlcvt9sb4mam87dsmm&st=cfq3u1ef&raw=1)
+
+---
+
+How is the reveal going to be? Evil twin reveal needs to have a shock
+factor.
+
+"According to the comics, Tony Stark's twin brother is Doctor Doom and
+we might see this in live-action as well. Although this is currently
+just a normal fact and a rumor, if they make it comic-accurate, this
+is what we can expect."
+
+---
+
+King Dollar policy of Volcker wasn't all rainbows and unicorns, it
+hurt US trade balance that led to Plaza Accords which then led to real
+estate bubble in Japan and that led to other side effects.. 
+
+---
+
+The Motley Fool: "Trump Is Cheering and Potentially Hinting at a Weak
+U.S. Dollar"
+
+---
+
+Kevin Warsh: "[2024] Washington writ large [was] trying to design a
+set of policies that were good for asset holders, made the stock
+market go up every day, [that was] bad for the folks that are living
+on their W2 income, that don't own assets, that just have income,
+you're taking risks with their paychecks every day...
+
+[I]f the focus from the central bank were on the real economy, the
+financial markets will take care of itself. The real economy is
+growing strongly, financial markets will be fine. But if the focus is
+on financial markets, that doesn't necessarily mean the hard working
+people in the real economy will do as well"
+
+---
+
+F24: "Britain on Tuesday unveiled its first national plan to curb
+'forever chemicals,' seeking to cut risks to human health and the
+environment, the government said. PFAS, used in products from cookware
+to food packaging, persist for decades and accumulate in nature,
+posing threats likely to endure for hundreds of years."
+
+---
+
+CNBC: "Gold and silver rebound after historic wipeout as analysts say
+thematic drivers stay intact"
+
+---
+
+I love it.. Mandelson is a "New Labour" guy, one of those Clintonite
+Brits, economic right social left type "progressive". We can enjoy
+watching them sink.
+
+CNN: "The latest tranche of documents has revealed that [Peter]
+Mandelson appeared to leak sensitive UK government tax plans to
+Epstein. They also show that his partner, Reinaldo Avila da Silva,
+regularly received undisclosed payments from him."
+
+---
+
+It looks like the Winsdors booted out their troublemaker right on
+time.. If he was still a royal he would have been a royal pain in the
+ass right now.
+
+---
+
+Corps are your tyrants, America. Their silent opression is worse than
+any kind of government can bring to bear.
+
+---
+
+Tubers do this too.. And ppl make fun of China using code words to
+bypass censorship.
+
+"It's because the words like die or suicide are often censored on
+platforms like Tiktok.. people started saying [unalive] instead."
+
+---
+
+"@GeofCox@climatejustice.social
+
+[W]hile living standards have stagnated for most people.. the wealthy
+and privileged have continued to get much wealthier.  About half of
+all house purchases in the UK now are for 'additional dwellings' -
+second homes, buy-to-lets, etc - because 10% of the population can
+outbid everybody else, drive up asset prices, and when it's something
+people can't live without, like a home, force them to pay unreasonable
+rents - further increasing inequality, both directly and indirectly,
+by sucking money out of local economies into elite enclaves."
+
+---
+
 No, Xi is not a minor princeling. Other princelings tend to be sons,
 nephews of a Mao general, but generals are dime a dozen. Xi's father
 did no one else could, he gave the Red Army refuge when they were down

@@ -16,6 +16,14 @@ def trump_approval():
     plt.savefig('/tmp/approval.jpg')
     return df
 
+def data_synth_1():
+   N = 200
+   X = np.linspace(-2*np.pi,2*np.pi,N)
+   y = np.sin(X) + np.random.standard_normal(size=N)*0.2
+   df = pd.DataFrame(y,index=X)
+   df.columns = ['ydata']
+   return df
+
 def map_usnavy(infile,outfile):
     df = pd.read_csv(infile,sep=',')
     m = folium.Map(location=[0,0], zoom_start=3) 
