@@ -1,103 +1,40 @@
 
-CNBC: "Sweden’s Volvo Cars fell over 22% in its worst trading day
-ever. Here’s why.. [its CEO said] the discontinuation of EV incentives
-in the U.S. and China [are] contributing to 'a very challenging
-external environment.'"
+Anwaj: "The US is threatening severe consequences if Nouri Al-Maliki
+returns as Iraq’s prime minister.. Reuters reported that US Special
+Envoy to Iraq Mark Savaya had been sidelined, with his portfolio set
+to be managed by US Ambassador to Turkey and Special Envoy to Syria
+Thomas Barrack.
+
+Although US officials have not made any formal announcement, Iraqi
+Foreign Minister Fuad Hussein has said that Savaya is no longer an
+envoy. Iraqi political sources have attributed Savaya’s departure to
+his purported "mishandling" of sensitive issues, including Maliki’s
+nomination. One political observer has noted that 'Barrack has
+effectively been in charge' of the Iraq portfolio for weeks.
 
 ---
 
-\#Mandelson \#Palantir
+The Guardian: "Palantir, a $300bn company.. has UK government
+contracts worth more than £500m..
 
-[[-]](https://www.youtube.com/shorts/wk8FQrk1WS4)
-
----
-
-*The Wrecking Crew*, the car chase was overdone, but good action
-overall.. Then I watched a scene from the show *See*, Momoa and
-Bautista played brothers before? 
+Global Counsel, a lobbying company Mandelson co-founded and
+part-owns.. works for Palantir"
 
 ---
 
-Rose hip tea can cure. Other remedies half a lemon juice a day, OJ,
-and occasional honey.
+"Former Minnesota governor [Ventura] says U.S. state should 'join
+Canada'... Former professional wrestler-turned politician Jesse
+Ventura believes 'someone seriously should contact Canada and ask them
+if they're open to this... Instead of Canada becoming the 51st state
+of America and lose their health care… I’d like to see Minnesota, all
+of us become Canadians'"
 
 ---
 
-*War Machine*, nice trailer. The name is not symbolic like referring
-to a country or an org, the movie is literally about a war machine.
-
----
-
-There is better jutsu for that, water and beans in a pot, bring to
-boil, and turn off the heat. Leave it for one hour. Then drain the
-water, beans ready for second stage. 
-
-"With the overnight-soak method, you put water and beans in a pot,
-cover the beans with an extra two inches of water, and place in the
-refrigerator for eight to 12 hours."
-
----
-
-"@lfeurope@mastodon.social
-
-Europe is moving from slogans to strategy on #DigitalSovereignty, with
-\#opensource increasingly at the core of technological autonomy.
-
-This \#FOSDEM session on global collaboration and Europe’s digital
-\#sovereignty goals explores how participation in global open source
-communities can strengthen Europe’s strategic autonomy"
-
-[[-]](https://fosdem.org/2026/schedule/event/DNUTXJ-eu-global-digital-sovereignty/)
-
----
-
-\#Reshare
-
-"@GeofCox@climatejustice.social
-
-About half of all house purchases in the UK now are for 'additional
-dwellings' - second homes, buy-to-lets, etc - because 10% of the
-population can outbid everybody else, drive up asset prices, and when
-it's something people can't live without, like a home, force them to
-pay unreasonable rents"
-
----
-
-Housing becomes about "supply" if too many well-to-do gobble them up,
-reducing the said supply.
-
----
-
-"[Oz] PM’s $4.3m clifftop home earns double rent of typical
-landlord.. Mr Albanese has made an array of property investments over
-the years. He was reported to have a 5m property portfolio just prior
-to getting the nation’s top job"
-
----
-
-via @Victor@spore.social
-
-ZME Science: "A Radical Climate Proposal Aims to Channel Seawater Into
-a Giant Egyptian Desert to Fight Sea Level Rise.. Flooding Egypt’s
-vast Qattara Depression with seawater could slightly lower global sea
-levels and reshape climate adaptation."
-
----
-
-"@dantheclamman@scicomm.xyz
-
-Comparing historical hair samples from people from when they were
-babies to today, a new study finds a nearly 100-fold decrease in lead
-from samples after the EPA's crackdown on leaded gas. Regulation works
-and it saves lives!"
-
-[[-]](https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/)
-
----
-
-"@eb@social.coop
-
-America is not the land of the free, it is the land of the fee"
+"Zorin OS.. enjoyed over a million downloads in just over a month.. 78
+percent of those downloads came from Windows machines. That's not just
+Linux users going about the usual distro hopping; this is Windows
+users downloading an alternative OS."
 
 ---
 

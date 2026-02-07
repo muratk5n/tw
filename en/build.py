@@ -52,7 +52,7 @@ if sys.argv[1] == 'pdf':
         else: 
             f = "/opt/Downloads/twpdf/%04d-%s" % (i,f)
         os.chdir(dir)
-        cmd = "pandoc %s  --pdf-engine=pdflatex -fmarkdown-implicit_figures -o %s" % (os.path.basename(file),f)
+        cmd = "pandoc %s  --pdf-engine=xelatex -V mainfont='DejaVu Serif'  -V monofont='DejaVu Sans Mono'  -V mathfont='DejaVu Serif'  -V mainfontoptions=Ligatures=TeX   -fmarkdown-implicit_figures -o %s" % (os.path.basename(file),f)
         if not os.path.isfile(f): 
             print (cmd)                
             os.system(cmd)
