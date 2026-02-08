@@ -1,4 +1,4 @@
-import pandas as pd, numpy as np, sys, datetime, requests
+import pandas as pd, numpy as np, sys, datetime, requests, urllib.request
 import matplotlib.pyplot as plt, folium, json
 from pandas_datareader import data
 
@@ -14,6 +14,26 @@ def trump_approval():
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))    
     print (df['net'].tail(6))
     plt.savefig('/tmp/approval.jpg')
+    return df
+
+def get_yahoo_ticker(year, ticker):
+    d1 = datetime.datetime.strptime(str(year) + "-01-01", "%Y-%m-%d").timestamp()
+    d2 = datetime.datetime.now().timestamp()    
+    url = "https://query2.finance.yahoo.com/v8/finance/chart/%s?period1=%d&period2=%d&interval=1d&events=history&includeAdjustedClose=true" 
+    url = url % (ticker,int(d1),int(d2))
+    req = urllib.request.Request(
+        url, 
+        data=None, 
+        headers={
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
+        }
+    )    
+    r = urllib.request.urlopen(req).read()
+    res = json.loads(r)
+    ts = res['chart']['result'][0]['timestamp']
+    adjclose = res['chart']['result'][0]['indicators']['adjclose'][0]['adjclose']
+    ts = [datetime.datetime.fromtimestamp(x).strftime("%Y-%m-%d") for x in ts]
+    df = pd.DataFrame(adjclose,index=pd.to_datetime(ts),columns=[ticker])
     return df
 
 def data_synth_1():

@@ -288,7 +288,7 @@ Dallas."
 
 \#Thorium \#Reshare
 
-[[-]](2026/01/thorium.html)
+[[-]](../../2026/01/thorium.html)
 
 ---
 
