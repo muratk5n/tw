@@ -1,40 +1,64 @@
 
-Anwaj: "The US is threatening severe consequences if Nouri Al-Maliki
-returns as Iraq’s prime minister.. Reuters reported that US Special
-Envoy to Iraq Mark Savaya had been sidelined, with his portfolio set
-to be managed by US Ambassador to Turkey and Special Envoy to Syria
-Thomas Barrack.
-
-Although US officials have not made any formal announcement, Iraqi
-Foreign Minister Fuad Hussein has said that Savaya is no longer an
-envoy. Iraqi political sources have attributed Savaya’s departure to
-his purported "mishandling" of sensitive issues, including Maliki’s
-nomination. One political observer has noted that 'Barrack has
-effectively been in charge' of the Iraq portfolio for weeks.
+CNBC: "Fed officials split on where interest rates should go, minutes say"
 
 ---
 
-The Guardian: "Palantir, a $300bn company.. has UK government
-contracts worth more than £500m..
-
-Global Counsel, a lobbying company Mandelson co-founded and
-part-owns.. works for Palantir"
-
----
-
-"Former Minnesota governor [Ventura] says U.S. state should 'join
-Canada'... Former professional wrestler-turned politician Jesse
-Ventura believes 'someone seriously should contact Canada and ask them
-if they're open to this... Instead of Canada becoming the 51st state
-of America and lose their health care… I’d like to see Minnesota, all
-of us become Canadians'"
+PC Gamer: "Open-source game engine Godot is drowning in 'AI slop' code
+contributions: 'I don't know how long we can keep it up'.. Projects
+like Godot are being swamped by contributors who may not even
+understand the code they're submitting."
 
 ---
 
-"Zorin OS.. enjoyed over a million downloads in just over a month.. 78
-percent of those downloads came from Windows machines. That's not just
-Linux users going about the usual distro hopping; this is Windows
-users downloading an alternative OS."
+Politico: "Tom Steyer is telling union leaders in California that he’d
+back a special election to raise corporate taxes in his first year as
+governor, as he tries to solidify his claim to the progressive lane in
+a crowded Democratic field."
+
+---
+
+ABC News: "Bernie Sanders and Gavin Newsom become adversaries over
+push to tax California billionaires.. Sanders is coming to Los Angeles
+to campaign for a proposed 'billionaires tax' that has set off an
+uproar in the Silicon Valley and led to divisions among Democrats"
+
+---
+
+Newsflash - billionaire is against taxing billionaires
+
+---
+
+Bloomberg: "Sergey Brin-Backed PAC Pushes to Counter California Billionaire Tax"
+
+---
+
+Politico: "A multi-pronged campaign to undercut the proposed one-time,
+5 percent levy took a significant step forward Tuesday.. 'California
+is the world’s fourth-largest economy and a global center of
+innovation,' spokesperson Abby Lunardini said in a statement. 'Yet,
+for decades, it has become increasingly hard for working families and
+businesses to live, grow, and thrive here. Between skyrocketing costs,
+a housing crisis, and some of the country’s highest taxes — with less
+and less to show for it, the California dream is drifting out of reach
+for many'"
+
+---
+
+Kurt Andersen, *Evil Geniuses*: "In the 1988 primary, Jesse Jackson
+ran as a full-on leftist, calling for single-payer healthcare, free
+community college, a big federal jobs program, and the cancellation of
+Reagan’s tax cuts for the rich—and by sweeping the black South and
+winning everywhere among voters under thirty, he beat Joe Biden and
+Gore and came in second to Dukakis, but…he was never going to be
+nominated... In 1992, when Clinton won the nomination, his only
+serious competitors were two fellow New Democrats, Brown and
+Tsongas. Democrats had settled into their role as America’s
+economically center-right party. There was no organized, viable
+national economic left in the vicinity of power"
+
+---
+
+Jesse Jackson, RIP
 
 ---
 
@@ -78,4 +102,4 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-   
+    

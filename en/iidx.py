@@ -55,11 +55,8 @@ def index_dir():
         fout.write(json.dumps(v))
         fout.close()
         
-    print ("""
-    
-    Index files are now under /tmp. They need to be copied manually to
-    $DIR/thirdwave/en or $DIR/codeberg/pages/en
-    
+    print ("""    
+    Index files are now under /opt/Downloads/idx. Send them to Git.
     """)
 
 def test1():

@@ -1,5 +1,43 @@
 # Week 6
 
+Anwaj: "The US is threatening severe consequences if Nouri Al-Maliki
+returns as Iraq’s prime minister.. Reuters reported that US Special
+Envoy to Iraq Mark Savaya had been sidelined, with his portfolio set
+to be managed by US Ambassador to Turkey and Special Envoy to Syria
+Thomas Barrack.
+
+Although US officials have not made any formal announcement, Iraqi
+Foreign Minister Fuad Hussein has said that Savaya is no longer an
+envoy. Iraqi political sources have attributed Savaya’s departure to
+his purported "mishandling" of sensitive issues, including Maliki’s
+nomination. One political observer has noted that 'Barrack has
+effectively been in charge' of the Iraq portfolio for weeks.
+
+---
+
+The Guardian: "Palantir, a $300bn company.. has UK government
+contracts worth more than £500m..
+
+Global Counsel, a lobbying company Mandelson co-founded and
+part-owns.. works for Palantir"
+
+---
+
+"Former Minnesota governor [Ventura] says U.S. state should 'join
+Canada'... Former professional wrestler-turned politician Jesse
+Ventura believes 'someone seriously should contact Canada and ask them
+if they're open to this... Instead of Canada becoming the 51st state
+of America and lose their health care… I’d like to see Minnesota, all
+of us become Canadians'"
+
+---
+
+"Zorin OS.. enjoyed over a million downloads in just over a month.. 78
+percent of those downloads came from Windows machines. That's not just
+Linux users going about the usual distro hopping; this is Windows
+users downloading an alternative OS."
+
+---
 
 CNBC: "Sweden’s Volvo Cars fell over 22% in its worst trading day
 ever. Here’s why.. [its CEO said] the discontinuation of EV incentives
@@ -130,7 +168,7 @@ df['ypred'] = np.sin(df.index)
 df.plot(grid=True)
 ```
 
-[Graph](mbl/2026/img/freepar4.jpg)
+[Graph](img/freepar4.jpg)
 
 The sine function, $y = sin(x)$, has no free parameters. It is
 simpler, even faster to compute. However it requires the knowledge of
@@ -158,7 +196,7 @@ df['ypred'] = np.polyval(coef,df.index)
 df.plot(grid=True)
 ```
 
-[Graph](mbl/2026/img/freepar3.jpg)
+[Graph](img/freepar3.jpg)
 
 That is a good fit
 
@@ -178,7 +216,7 @@ df['ypred'] = np.polyval(coef,df.index)
 df.plot(grid=True)
 ```
 
-[Graph](mbl/2026/img/freepar2.jpg)
+[Graph](img/freepar2.jpg)
 
 He obtains the graph above. His "prediction" came close in some
 places, though overall not great.
@@ -193,7 +231,7 @@ df = u.data_synth_1()
 df.plot(grid=True)
 ```
 
-[Graph](mbl/2026/img/freepar1.jpg)
+[Graph](img/freepar1.jpg)
 
 And he is asked to find the formulation for this. He looks at the data
 and says, "well I can represent this by simply multiplying powers of

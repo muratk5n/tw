@@ -1,2 +1,562 @@
 # Week 7
 
+Energies Media: "U.S. selects projects for major funding round
+supporting clean hydrogen production, storage, transport and end
+use.. One of the winners under Area of Interest 18 is GTI Energy of
+Illinois, which will pilot a novel feedforward gasifier control
+system. Simply put, this involves optimizing gasifier feedstock
+handling to amplify hydrogen generation from biomass and waste
+materials.
+
+This particular development includes a lifecycle and techno-economic
+analysis for a 500-tonne-per-day hydrogen plant. There has been a lot
+of attention on this selection because of the expectations surrounding
+it. The energy industry experts suggest that sustainable feedstocks
+might play a crucial role in future energy markets."
+
+---
+
+IC: "At a time when Israel and the United States are preparing to
+launch strikes on Iran (which may be wide strikes), we notice that
+Israel is taking very dangerous steps in the West Bank. The problem is
+that the West Bank does not receive enough media coverage, and many
+people do not care about what is happening there. This “distraction”
+and 'blackout' give Israel a greater chance to move without pressure
+or monitoring."
+
+---
+
+TAC: "Palm Beach’s Democratic district attorney, Krischer spent years
+going after Rush Limbaugh for pain pills—raiding drugstores, seizing
+records, and leaking information—before finally dropping all
+charges. But when the Palm Beach police handed him a child sex ring
+implicating Epstein, a major Democratic donor, Krischer intentionally
+tanked the case."
+
+---
+
+"@dbattistella@mstdn.ca
+
+Annie Lennox is under attack from zionists after condemning the
+Israeli genocide in Gaza on her IG account.
+
+'The genocide in Gaza is a GENOCIDE. No more interpretations
+required. And it’s not over. It is a long term plan to annihilate the
+Palestinians and keep them trapped in this caged Armageddon.'"
+
+---
+
+TASS: "Russia’s first high-speed train to be tested in 2027.. The test
+site will be the route segment from Zelenograd to Tver"
+
+---
+
+Douglas is basically playing Gordon Gekko with a rifle.. The story,
+its backdrop is interesting..
+
+---
+
+Another good recommendation, *Beyond the Reach*.. 
+
+---
+
+Firstpost: "Don't send money to Ukraine, focus on your own economy,
+Hungary's Orban tells EU"
+
+---
+
+Pettis, *Trade Wars are Class Wars*: "Changes in the income
+distribution affect all of these variables [like savings, consumption,
+investment] and therefore have important economic consequences. While
+most people spend close to everything they earn on goods and services,
+the rich do not. There is only so much a person can consume, no matter
+how expensive his tastes.  Give most people an extra dollar, and
+sooner or later it will get spent buying something that provides jobs
+and incomes to others. Give that same extra dollar to a rich person,
+however, and it will probably be used to accumulate additional assets.
+
+For the world as a whole, rising inequality means the value of those
+assets is necessarily contingent on continued increases in spending by
+people who have progressively lower shares of national income. The
+only way to make this work is with rising debt. The economists Michael
+Kumhof, Romain Rancière, and Pablo Winant found an almost perfect
+relation between rising income concentration in the United States in
+the 1920s and rising U.S. household indebtedness in the years before
+the Great Depression.
+
+Marriner Eccles, Franklin Roosevelt’s Federal Reserve chairman,
+understood that this was why the American economy was so fragile in
+the 1920s despite the apparent burst of postwar prosperity. To Eccles,
+the root problem was the shift in the U.S. distribution of income from
+the masses to the elites."
+
+---
+
+IC: "Israel’s Extermination, Ethnic Cleansing against Palestinians
+Escalate"
+
+---
+
+TAC: "War and ‘Covert Action’ Are Not How to Deal With Iran.. The
+track record of such interventions in the Middle East speaks for
+itself."
+
+---
+
+If they are doing shady shit that means the executive ordered them
+to. Another path, and most do not know this, is via commitee chairmen
+in Congress who control agency budgets.. They have a lot of power over
+the agencies. In some cases they can order them around and get "things
+done". If a powerful senator asks for something from G-Money Kash, he
+might just do it. It all goes from surface, down. Moneyed interests ->
+politician -> government. US has no deep state.
+
+---
+
+The three letter agencies have to follow a lot of rules,
+regulations.. In that sense the CIA is no diferent from DMV.
+
+---
+
+Hoover did some good things too.. the fingerprint system, the forensic
+labs..
+
+---
+
+Edgar Hoover did some shady shit but I would not go as far as saying
+he was "deep state". If he were he would have something to do w JFK's
+assasination. But he wasn't involved. LBJ and Texas oil interests did
+that completely on their own.
+
+---
+
+TAC: "It’s a story Washington tells itself whenever reality grows
+uncomfortable: China is about to collapse. The People’s Republic of
+China (PRC), we are assured, is a brittle, illegitimate regime on the
+brink of popular revolt. Once it falls, a friendly democratic China
+will emerge—and America’s ruling class won’t have to change anything
+that they’ve been doing or thinking about since the end of the Cold
+War.
+
+It’s all wishful thinking."
+
+---
+
+IC: "The new Axis of Resistance: Sino-Russian technological
+Enhancement of Iran’s Endurance.. The most significant development has
+been the deployment of China's YLC-8B 3D long-range surveillance
+radar."
+
+---
+
+You find logical mistakes with LLMs all the time... When I was coding
+the previous indicator, I uploaded its output to LLM, asked for
+feedback. LLM immediately started spitting out potential
+"improvements" to "fix it" because the indicator wasn't *exactly* at
+crisis points. It could not make the conceptual jump that the
+indicator could be a *leading* indicator, didn't have to be exactly
+*on* the dates of crisis. There is a lack of perspective.. You know
+the "step back look at the big picture" sort of deal.
+
+---
+
+The old coot lost it himself so we can't completely blame his students
+at this point... Many AI practitioners got sucked into this method
+during the hype cycle. What will they do when it's over?
+
+---
+
+Coded this one up based on probabilistic matrix factorization,
+Salakhudtinov's method (the rare Hinton student who didn't lose his
+shit on this new wave of "AI"). $R_{ij} = \mu + U_i^T V_j + \epsilon_{ij} $
+where $U,V$ are random variables, you use (Gibbs) sampling to find the
+true *distribution* based on data. There is good amt of mathematical
+representation in the model (not a black box approch like neural nets
+where you stuff data in it, turn the crank, find magic values for
+[free parameters](../../2026/02/free-parameters-science.html)).
+
+---
+
+First version of a new probabilistic recommender made a good pick.. 
+
+---
+
+I guess Mrs Trump had to be included for symmetric response.. She is not an
+orange person, just married to one.
+
+---
+
+😂 😂 😂 
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/116/050/665/118/060/407/original/391b0ae7a6c8a0a9.jpeg)
+
+---
+
+Harvard Business Review: "Because AI can fill in gaps in knowledge,
+workers increasingly stepped into responsibilities that previously
+belonged to others. Product managers and designers began writing code;
+researchers took on engineering tasks; and individuals across the
+organization attempted work they would have outsourced, deferred, or
+avoided entirely in the past.
+
+Generative AI made those tasks feel newly accessible. These tools
+provided what many experienced as an empowering cognitive boost: They
+reduced dependence on others, and offered immediate feedback and
+correction along the way. Workers described this as 'just trying
+things' with the AI, but these experiments accumulated into a
+meaningful widening of job scope. In fact, workers increasingly
+absorbed work that might previously have justified additional help or
+headcount.
+
+There were knock-on effects of people expanding their remits. For
+instance, engineers, in turn, spent more time reviewing, correcting,
+and guiding AI-generated or AI-assisted work produced by
+colleagues. These demands extended beyond formal code
+review. Engineers increasingly found themselves coaching colleagues
+who were 'vibe-coding' and finishing partially complete pull
+requests. This oversight often surfaced informally—in Slack threads or
+quick desk-side consultations—adding to engineers’ workloads."
+
+---
+
+They are bunch of Clintonite, economic right / social left
+parasites. FDR would have them shot.
+
+---
+
+I bet these guys still think housing issue is about "supply" since
+they are all about "abundance".
+
+---
+
+Axios: "Ezra Klein's Abundance movement is getting some backup: A new
+political group is urging Democrats to embrace 'pro-growth,'
+deregulatory policies with an eye toward 2028, according to plans
+first shared with Axios."
+
+---
+
+"@donni@mastodon.social
+
+What a time to be alive, grimly determined to enjoy the feeble
+freedoms still available for now"
+
+---
+
+All neighbors of Asia Minor have Kurdish minorities and had their own
+issues, but none of them spent 1.8 **fucking** trillion dollars on a
+war.
+
+---
+
+But of course there is a smart way of going about this artificial
+construction, and not-so-smart way of going about it. The word *Italy*
+is tied to that region, there is historical basis for it, anyone
+labeled with it there will not object that much.
+
+The word "Turk" on the other hand, indicating someone who arrived,
+"brought civilisation where none existed", somehow became the dominant
+culture in the region, oh btw, whose ethnicity is also the racial
+basis for the entire world (Brasilians are all Turks they just don't
+know it) will not be an unobjectionable label. The backdrop of the
+idenity is bunch of fairy tales, with no basis in reality. Italian
+identity would (and did) ease the construction of a state in that
+region, Turk identity would not. A Kurdish seperatist movement that
+cost over 1.8 trillion dollars and caused the death of tens of
+thousands is proof enough.
+
+---
+
+The quote was taken from Taner Akcam's book *From Empire to Republic*.
+
+---
+
+He is speaking some truth.. National identity is mosty *constructed*.
+Gellner would [agree](../../0119/2013/03/nations-and-nationalism-gellner.html).
+
+---
+
+Italian President d'Azelglio: "[1861] We have created Italy, now let
+us find [i.e., create] the Italians.’
+
+---
+
+Deodato - Area Code 808 \#music
+
+[[-]](https://youtu.be/kaoG1C13CZg)
+
+---
+
+Jacobin: "The United States is a global anomaly in our collective
+delusion about the power of charity to address human suffering. A far
+better approach would be to guarantee inalienable economic rights and
+structure society around their fulfillment."
+
+---
+
+Their play was UK econ not doing well, DE is about to grow thanks to
+new cheap pool of labor from the East Germany, ergo UK could not
+maintain the peg to Deutsche Mark when the two were headed to seperate
+directions hence the short.
+
+---
+
+Kevin Warsh, another SD / Soros protege
+
+---
+
+Druckenmiller talks about the days when he bet against the pound with
+Soros.. he says "we talked to Scott at the UK office, he told us the
+things are not going well over there", Scott as in current SecTreas.
+
+---
+
+CNBC: "Real estate investors, both individual and institutional,
+bought one-third of all single-family residential properties sold in
+the second quarter of 2025."
+
+---
+
+They keep bringing up this subject for Ukraine (mostly to undermine
+the negotiations) but actually the real issue is, and has always been
+security guarantees for Russia, hasn't it? Russia invaded because of
+the Western / NATO beligerance, failing to guarantee its security, and
+ethnic Russians in Ukraine.
+
+Reuters: "Senior Russian diplomat says Moscow also needs security guarantees"
+
+---
+
+NYT: "Epstein Files Reveal Scope of Ghislaine Maxwell's Role in
+Clinton Circle.. [Maxwell] helped advise on the kickoff of the Clinton
+Global Initiative and arranged for $1 million in funding for it,
+emails show."
+
+---
+
+"An elderly lady chastised [Abraham] Lincoln for trying to 'make
+friends' with Southerners, saying he should destroy his enemies, since
+he had the power to do so. 'Why, madam,' Lincoln replied, 'do I not
+destroy my enemies when I make them my friends?'"
+
+---
+
+Ryan McMaken: "[2024] It should go without saying that asking generals
+and other Pentagon bureaucrats about defense spending is like asking
+your barber if you need a haircut. They are hardly disinterested
+observers.
+
+So, it’s not surprising at all that the usual pentagon uniformed
+technocrats, after failing their audit for the seventh time in a row,
+remain unrepentant. Last month, after failing to provide documentation
+showing the Pentagon actually knows what it does with its money, the
+DoD engaged in the song and dance we have come to expect. For example,
+the Pentagon’s CFO Michael McCord announced that in spite of its
+abysmal performance in its audit, the Department 'has turned a corner
+in its understanding of the depth and breadth of its challenges.' 'I
+think we’re making progress,' he added.
+
+That’s swell, but it’s unclear that this 'progress' amounts to much
+given that last year, the Pentagon admitted it can’t account for 63%
+of nearly $4 trillion in assets.
+
+The Pentagon has never passed an audit since the agency became legally
+obligated to carry them out in 2018.  Not that any of this matters in
+terms of any real consequences for the privileged class of parasite
+tax-eaters that are high ranking military officers and their corporate
+cronies at places like Boeing...
+
+Moreover, the dollars that go to the DoD directly are just part of the
+spending on so-called 'defense.'... The VA, after all, is just an
+agency tasked with spending the deferred costs of previous military
+operations. That is, the VA delivers the benefits to veterans who were
+promised ongoing compensation—in the form of healthcare and other
+benefits—for military 'service.' Without VA benefits, the Pentagon
+would never be able to recruit the troops it needs for its next round
+of foreign policy debacles. Thus, any true accounting for military
+budgets has to account for the long-term personnel costs that become
+apparent in VA spending...
+
+When we look at these.. agencies combined, the spending is
+astronomical... After nearly 25 years of nearly continuous war.. the
+costs of veteran’s benefits have soared, meaning that the total
+combined costs of military and defense spending are now 60 percent
+above their old Cold War peak.
+
+None of this, by the way, takes into account the immense contribution
+to the national debt made by defense spending. In the 2024 fiscal
+year, the US paid $884 billion in interest payments on the debt. It’s
+safe to say that federal interest payments would be hundreds of
+billions of dollars lower were it not for military and defense
+spending.
+
+The cost of various failed military occupations contributes much to
+this endless gravy train for the military, but much of the waste now
+comes in the form of technology spending. This spending on newer and
+more expensive toys for government agencies often amounts to little
+more than corporate welfare. The F-35, for example, is the
+quintessential example.. that’s $1.7 trillion down the drain in terms
+of actual defense. But it sure has made many of the Pentagon’s 500,000
+'private' contractors rich.
+
+Hartung has also noted that the Pentagon’s tech spending—i.e.,
+corporate welfare — has now begun flowing in every larger quantities
+to Silicon Valley. The alliance between Silicon Valley and the
+Pentagon has substantially grown in recent years...  Taxpayer dollars
+accounted for 56 percent of Palantir’s revenue during the period,
+while actual private-sector revenues disappointed. Silicon Valley is
+increasingly fueled by government contracts, and defense spending is a
+growing part of this.
+
+It remains to be seen what any of this has to do with actually
+effective deterrence, diplomacy, or defense. But, it does help build a
+corps of corporate welfare-queen lobbyists who will fight tooth and
+nail to prevent any meaningful cuts to defense spending."
+
+---
+
+Anatolian Agency: "Police clashed with anti-NATO protesters in Italy’s
+southern city of Napoli, local media reported on Monday... The clashes
+erupted when a group, predominantly composed of young individuals
+carrying banners condemning NATO and chanting slogans against it,
+attempted to breach the security perimeter around San Carlo Theatre
+where a concert was scheduled to mark the alliance's 75th anniversary,
+the state-run ANSA news agency reported."
+
+---
+
+Times of India: "Italy Burns In Anti-NATO Strike, Dockworkers Block
+Ports"
+
+---
+
+RT: "The UK has given Russia every reason to view it as a party to the
+Ukraine conflict, including by deploying troops on the ground,
+Moscow’s ambassador to London, Andrey Kelin, has said."
+
+---
+
+Epstein's expertise seems to be finance, international or otherwise,
+where he could bring his many contacts to bear, esp as it relates
+to government. Here he could act as a fixer he knew a lot of people,
+especially through Democrats. He visited Clinton White
+House at least [17 times](https://nypost.com/2021/12/02/jeffrey-epstein-visited-clinton-white-house-at-least-17-times-report/).
+Those contacts would continue into the Obama WH, he greased the wheels
+there at the DOJ for that 2015 deal outlined below. 
+
+---
+
+Forbes: "Buried within the more than three million documents released
+by the Department of Justice last Friday are contracts and payment
+records identifying two previously unreported billionaire clients of
+Jeffrey Epstein: real estate mogul Mortimer Zuckerman and Ariane de
+Rothschild, a Rothschild heir by marriage.
+
+According to the files, Epstein provided estate planning and possibly
+other financial services for Zuckerman and de Rothschild. Together,
+they appear to have paid him $45 million—an unusually high sum for the
+work he said he was performing, according to two estate planning
+experts who spoke with *Forbes*.. 'The [industry] rules of ethics
+require fees to be reasonable,' said one. 'Those fees are insane.'..
+
+A contract, dated October 5, 2015, outlines a $10 million payment to
+Epstein from de Rothschild’s firm Edmond de Rothschild (Suisse) for 'a
+variety of strategic business matters.'.. Those 'strategic business
+matters' may have involved Epstein helping the Rothschild’s firm reach
+a settlement with the U.S. Department of Justice after some
+U.S. patrons of its banks hid assets in Switzerland. While the final,
+signed contract does not mention the settlement, what seems to be an
+earlier draft from September 2015 tied Epstein’s compensation to that
+deal’s outcome."
+
+[[-]](https://www.forbes.com/sites/giacomotognini/2026/02/04/how-jeffrey-epstein-got-so-rich-two-more-billionaire-clients-mortimer-zuckerman-ariane-de-rothschild/)
+
+---
+
+All of Epstein's wealth is accounted for now, we know when he got his
+payments, from whom. See the article above.
+
+---
+
+Cribb: "When ecosystems fail, civilisation follows.. A new UK security
+assessment warns that ecosystem collapse is no longer an environmental
+issue alone – it is a direct threat to global security, prosperity and
+human survival"
+
+---
+
+Graph shows a low for right now. Does that mean US is falling into
+recession, or *already* is in recession? Probably already in
+one. Signal fired 2024'ish and the aftermath is now...
+
+Current GDP numbers could be misleading, true unemployment,
+affordability crisis prove ppl's situation is dire. Top 10% are livin'
+la vida loca, they shop, consume, buy all the houses (restricting
+supply), the rest cannot find a place to live, maybe consider selling
+a kidney to pay for their cough medicine bcz healthcare is broken. The
+moment they escape poverty they get hit with additional costs, their
+upward mobility is stulted. They are living the American nightmare.
+
+---
+
+Crisis points are at indicator lows, and those happen right after
+indicator highs.. The highs are places when trouble is signaled, then
+it arrives. The measure can be predictive.
+
+---
+
+```python
+df = u.get_pd().read_csv("/opt/Downloads/usd_oil_ir.csv", \
+                          index_col="Date", parse_dates=True)
+
+lookback = 100
+
+df =  (df - df.rolling(window=lookback).mean()) / \
+       df.rolling(window=lookback).std()
+df['crash_ind'] = df.sum(axis=1).rolling(window=lookback*2).mean()
+
+df['crash_ind'].plot()
+
+u.plot_crises()
+```
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/116/031/415/943/891/048/original/85cf66b0b4045d42.jpg'/>
+
+---
+
+[Data](https://www.dropbox.com/scl/fi/jx7y7k8n4gn7xm0w7r54m/usd_oil_ir.csv?rlkey=nmc7rh00y8miepzmjoudw0s6y&st=7gdem0sq&dl=1)
+
+---
+
+Low, high.. That is somewhat relative. Maybe we can detect that via a
+z-score, deviation from a running average with certain lookback
+window, with it we could generate this signal. Compute z for all
+three, add them (their scale now being the same), voila.
+
+---
+
+Stanley Druckenmiller says one of his crisis indicators is dollar, oil
+and interest rates going up / being high at the same time.
+
+---
+
+"@xan@xantronix.social
+
+everybody telling me to just relax and enjoy vibe coding rn"
+
+<img width='340' src='https://cdn.xantronix.social/media_attachments/files/116/033/906/452/354/362/original/99e048fe456cde17.png'/>
+
+---
+
+\#LeCun \#Robotics
+
+[[-]](https://www.youtube.com/shorts/nvOxh4XOTJE)
+
+---
+
+NYT: "An A.I. Pioneer Warns the Tech ‘Herd’ Is Marching Into a Dead
+End.. Yann LeCun helped create the technology behind today’s
+chatbots. Now he says many tech companies are on the wrong path to
+creating intelligent machines."
+
+---

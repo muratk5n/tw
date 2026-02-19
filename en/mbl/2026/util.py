@@ -16,6 +16,17 @@ def trump_approval():
     plt.savefig('/tmp/approval.jpg')
     return df
 
+def get_pd(): return pd
+
+def plot_crises():
+    plt.axvspan('1980-01-01', '1982-11-01', color='y', alpha=0.5, lw=0)
+    plt.axvspan('1987-10-06', '1988-01-01', color='y', alpha=0.5, lw=0)
+    plt.axvspan('1990-09-01', '1991-07-01', color='y', alpha=0.5, lw=0)
+    plt.axvspan('2001-03-01', '2001-10-27', color='y', alpha=0.5, lw=0)
+    plt.axvspan('2007-12-22', '2009-05-09', color='y', alpha=0.5, lw=0)
+    plt.axvspan('2020-01-03', '2020-07-09', color='y', alpha=0.5, lw=0)    
+    
+
 def get_yahoo_ticker(year, ticker):
     d1 = datetime.datetime.strptime(str(year) + "-01-01", "%Y-%m-%d").timestamp()
     d2 = datetime.datetime.now().timestamp()    
