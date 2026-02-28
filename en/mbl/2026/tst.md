@@ -1,13 +1,8 @@
 # Test
 
 ```python
+import util as u
 import pandas as pd
-pd.read_csv('debtgdp.csv',index_col='Year').plot()
-plt.ylim(0,130)
-plt.savefig('/tmp/out1.jpg')
+pd.set_option('display.max_columns', None)
 ```
-
-
-
-
 

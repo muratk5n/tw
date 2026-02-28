@@ -720,12 +720,6 @@ argue, even for the seat of the empire itself.
 
 ---
 
-John Mearsheimer on rights, realism
-
-[[-]](https://youtu.be/2_WrqOMbpLU?t=404)
-
----
-
 China/India can have a fine partnership.. Chindia? 
 
 CNBC: "In a visit shrouded in secrecy, Chinese Foreign Minister Wang

@@ -21,37 +21,14 @@ would indeed lead to intolerable tensions. Men can tolerate terrible
 inequalities, if they are stable and hallowed by custom. But in a
 hectically mobile society, custom has no time to hallow anything [..].
 
-Some of the [expertise] of a mature agrarian society [were] extreme:
-they will be the fruits of lifelong, very prolonged and totally
-dedicated training, which may have commenced in early youth and
-required an almost complete renunciation of other concerns. The
-achievements of craft and art production in these societies are
-extremely labour-and skill-intensive, and often reach levels of
-intricacy and perfection never remotely equalled by anything later
-attained by industrial societies, whose domestic arts and decorations,
-gastronomy, tools and adornments are notoriously shoddy [..].
-
-[Let's] compare in detail the division of labour in a highly advanced
-agrarian society with that of an average industrial one. Every kind of
-function, for instance now has at least one kind of specialist
-associated with it. Car mechanics are becoming specialized in terms of
-the make of car they service. The industrial society will have a
-larger population, and probably, by most natural ways of counting, a
-larger number of different jobs. In that sense, the division of labour
-has been pushed much further within it. But by some criteria, it may
-well be that a fully developed agrarian society actually has the more
-complex division of labour. The specialisms within it are more distant
-from each other [..]
-
-The difference is this: the major part of training in industrial
-society is generic training, not specifically connected with the
-highly specialized professional activity of the person in question,
-and preceding it. Industrial society may by most criteria be the most
-highly specialized society ever; but its educational system is
-unquestionably the least specialized, the most universally
-standardized, that has ever existed. The same kind of training or
-education is given to all or most children and adolescents up to an
-astonishingly late age [..].
+[T]he major part of training in industrial society is generic
+training, not specifically connected with the highly specialized
+professional activity of the person in question, and preceding
+it. Industrial society may by most criteria be the most highly
+specialized society ever; but its educational system is unquestionably
+the least specialized, the most universally standardized, that has
+ever existed. The same kind of training or education is given to all
+or most children and adolescents up to an astonishingly late age [..].
 
 Work, in industrial society, does not mean moving matter. The paradigm
 of work is no longer ploughing, reaping, thrashing. Work, in the main,

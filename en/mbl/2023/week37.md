@@ -406,7 +406,7 @@ site style.. without app server.
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1qd1_t9N3kkBMTY-Gd38ITsz9YEBJt3ZZ)
+[Link](https://www.dropbox.com/scl/fi/w9qvpljpv66anabhzkj7g/blood_sport_kumite.gif?rlkey=4ggxc7cofhksg7oi8vtpln52v&st=oir2c575&raw=1)
 
 ---
 
