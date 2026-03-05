@@ -1,102 +1,69 @@
 
-Crypto was yesterday's "AI". 
+"@jonsnow@mastodon.online
 
-"Bitcoin’s slide to its lowest price in more than a year — down 50%
-from its October highs — has fueled growing concerns that the market
-has entered another “crypto winter”...
+Windows 12 reportedly set for release this year as a
+subscription-based, AI-focused OS
 
-The Gemini crypto exchange has just laid off 25% of its workforce,
-ditched at least three C-level executives, and announced an exit from
-the UK, EU, and Australia. As CEOs are wont to do these days, the
-Winklevosses have tried to spin the layoffs as a good omen for a
-company embracing AI. But financial analyst Matthew Coad explained,
-'The biggest issue here is that Gemini’s management team placed a big
-bet on the crypto bull market run continuing through 2027 and instead
-crypto asset prices have cratered.'..
-
-BlockFills, a Susquehanna- and CME Ventures-backed crypto lender,
-halted withdrawals on February 11, in a move that sparked flashbacks
-of the wave of withdrawal limits or halts that came as companies tried
-to halt their freefall in 2022. Sources at the company later revealed
-the firm had suffered $75 million in losses on their loans as crypto
-prices dropped, and co-founder and CEO Nicholas Hammer abruptly
-resigned"
+So there can be something worse than Windows 11..."
 
 ---
 
-"@TheBreadmonkey@beige.party
-
-That'll show him"
-
->Andrew Mountbatten-Windsor 'banned from horseriding'
-
----
-
-"@gausby@mastodon.xyz
-
-It is 2026. I am reviewing 6000+ line pull requests, and I may be the
-first human to actually read the code.
-
-I feel beaten. I am done. This might be hell, and perhaps I deserve to
-be here."
+This is like vanilla machine learning / data science level output. ML
+could "cluster customers", some customers could end up in wrong
+clusters, but overall, you'd have enough positive hits esp. in
+marketing terms that can bring in some reveue via improved
+"targeting". But AGI level **thinking** cannot be mere fuzzy
+fishing. We will expect these things to work for us, perform better
+than us, at least as accurate as us. 
 
 ---
 
-Love the state. Love your government. 
+It was widely known Ford was near Iran, not Norfolk.
 
 ---
 
-The Caravan Mag: "[2015] The Evolution Of Francis Fukuyama.. The
-sudden chaos caused by US-led invasions in Iraq and Afghanistan helped
-Fukuyama to understand the crucial role of public administration in
-holding a country together, and to overcome his conservative distaste
-for strong states"
+I had an LLM parse a Web page for US Navy ship locations. On USS Ford,
+there was contradicting information on the page, one line said it was
+docked at port, another said it was at Eastern Mediterrenian. LLM
+displayed no alerts on this contradiction, and chose the port location
+by default, when the other info was the correct one and showed up
+later in the page. When I told LLM about the problem, it changed its
+mind, chose Eastern Medi.
+
+Is this thinking? It looks like blind prompt execution
 
 ---
 
-If we see LLMs as search engines rather than intelligent machines
-Wooldridge's point makes sense. The prompt "can you do better?" is
-just another search term. The so-called AI is extremely closely tied
-to user's prompt, the prompt is in fact part of LLMs' thinking, it
-shapes how it reasons, it has no independent being, conscience. It
-searches with style -and some hallucination-.
+\#F24 \#Iran
+
+[[-]](https://youtu.be/s0uTJrtFfFI?t=64)
 
 ---
 
-\#Wooldridge
-
-[[-]](https://tubechop.com/videos/vwIacv3hdefpIr3zdhOTA)
+MAGA, America First folk are not happy
 
 ---
 
-TTP has a major grudge against Pakistan since Lal Masjid, and they are
-responsible for much of the recent conflict. Back in 2007 the inmates
-tried to run the asylum. You can't do that.. Paki's fault in this was
-growing such movements to be used externally, but groups like that
-would invariably start getting ideas, internally.  No matter, Pakis
-need to be supported in this fight, TTP are the crazies here.
+\#GroundInvasion \#Iran \#Davis
+
+[[-]](https://tubechop.com/videos/Ow1yXFRUumxDCEtMEwFjD)
 
 ---
 
-Dawn: "[2017] Six months after Operation Sunrise on December 14, 2007,
-some 40 militant leaders, commanding 40,000 militant fighters,
-gathered in South Waziristan to form a united front under the banner
-of Tehreek-i-Taliban Pakistan (TTP)."
+AA: "Spain's premier urges immediate end to 'spiral of violence' in
+Middle East"
 
 ---
 
-Wiki: "The focal points of the [2007 Paki] operation were the Lal
-Masjid ("Red Mosque") and the Jamia Hafsa madrasah complex in
-Islamabad.. Lal Masjid had been operated by two brothers.. They
-advocated the imposition of Sharia (Islamic religious law) in Pakistan
-and openly called for the overthrow of the Pakistani
-government... After a combination of events such as Jamia Hafsa
-vigilantes taking hostage the Chinese massage parlor's workers and
-militia members setting fire to the Ministry of Environment building
-and attacking the Pakistan Rangers personnel who guarded it, the
-military responded, and the siege of the Lal Masjid complex began. The
-military response was the result of not only pressure from locals but
-also diplomatic pressure from China and the United States"
+\#TelAviv 
+
+[[-]](https://www.youtube.com/watch?v=hIzsqAwoS68)
+
+---
+
+\#USNavy
+
+[[-]](mbl/2026/map03.html)
 
 ---
 
@@ -140,4 +107,4 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-    
+   

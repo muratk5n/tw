@@ -101,4 +101,4 @@ if __name__ == "__main__":
     if sys.argv[1] == "approv":
         trump_approval()
     if sys.argv[1] == "usnavy":
-        plot_us_navy("usnavy-1212.csv","map17.html")
+        map_usnavy("usnavy-0302.csv","map03.html")
