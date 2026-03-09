@@ -1,5 +1,224 @@
 # Week 10
 
+ZDNet: "Office EU is a European open-source office suite. The creators
+are counting on Europe's demand for digital sovereignty. It aims to
+rival Microsoft 365 and Google Workspace.
+
+Digital sovereignty in Europe is taking another step
+forward. Office.eu has officially launched in The Hague. This new
+cloud service is positioning itself as a fully European,
+open‑source‑based alternative to Microsoft 365 and Google Workspace."
+
+---
+
+ProPublica: "The Navy is no longer allowed to shroud its criminal
+trials in secrecy and must provide public access to hearings and
+records, a federal judge ruled last month... ProPublica sued the Navy
+in 2022 after the service refused to release almost all court
+documents in a high-profile arson case, in which a sailor faced life
+imprisonment for a fire that destroyed a Navy assault ship. A
+ProPublica investigation found that the service decided to prosecute
+Ryan Mays despite little evidence connecting him to the fire — or that
+the fire was a result of arson in the first place — and a military
+judge’s recommendation to drop the charges."
+
+---
+
+"@ben@werd.social
+
+Just to say it: sinking a ship on its way home from a friendly
+international exercise that we were also taking part in is such
+cowardice."
+
+---
+
+"Iranian warship sunk by the US was sailing home after taking part in
+an exhibition hosted by India"
+
+---
+
+\#99Homes
+
+[[-]](https://youtu.be/FWxfn18NMyA?t=20)
+
+---
+
+Good recommendation from new code, *99 Homes*, the 2014 movie
+
+---
+
+"Why is the UK media selling this war?" \#JamesOBrien
+
+[[-]](https://youtu.be/vKxIff4iqI0?t=970)
+
+---
+
+"Israeli media is reporting that Iranian missiles hit Israel's Ben
+Gurion Airport"
+
+---
+
+NHK: "US operation against Iran costs nearly $900 million a day, think
+tank estimates"
+
+---
+
+F24: "Iran hits Kurdish groups in Iraq as conflict widens"
+
+---
+
+CNN: "CIA working to arm Kurdish forces to spark uprising in Iran,
+sources say"
+
+---
+
+"@GeofCox@climatejustice.social
+
+What the (neoliberal) right fails to understand is that it is
+precisely unregulated market capitalism that produces the constant
+change, unreliability and insecurity that undermines stable
+communities and environments, and with them the social bonds that
+cohere societies. They propagate the very thing they fear most"
+
+---
+
+Lula da Silva: "Brazil demands an immediate ceasefire and the opening
+of a negotiation table that is not tainted by arms trade interests"
+\#Iran \#US
+
+---
+
+The Guardian: "The global economy must be reordered to ensure it
+serves ordinary people around the world rather than the 'frivolous and
+destructive demands of the ultra-rich', according to a leading UN
+figure...
+
+[W]hile many within the UN have been convinced of the 'imperative of
+moving beyond growth' for years, their 'existing mandate does not
+always allow them to say this politically at the highest level, and
+there is a taboo still about questioning growth'.
+
+That could change next month, according to De Schutter, with his
+roadmap and the other initiatives allowing high-profile figures to
+'come out of the closet' on growth."
+
+---
+
+Ah the usage of the word "regime" on governments you don't
+like.. Maybe we should call USG as the "American regime".. It is part
+authoritarian isn't it? Its leaders do not listen to their people, nor
+seem to care about their well-being.. The system is a type of
+"corporate Ba'ath". This is the American regime.
+
+---
+
+\#TuckerCarlson \#TheThirdTemple
+
+[[-]](https://tubechop.com/videos/O3oIBb_7soGFZbkgBNztc)
+
+---
+
+Imma connect strategic lines, North to South, area of influence bro,
+form a triangle, polygon of integrated defenses, uh, do a synergy of
+energies protecting areas of influence within concomitant
+circles. The grand plan.
+
+But on a second thought let's bomb, create chaos in the Middle East
+again.
+
+---
+
+"We are now focusing on the Western hemisphere bro". Then all of a
+sudden we are back in the Middle East... What happened to focusing on
+your own region?
+
+---
+
+US was so mad communists took power in the mainland, they refused to
+recognize their country, and kept calling the little tiny island off
+the coast of mainland, Taiwan, as "China", for decades. Taiwan sat at
+the permanent seat at the UN instead of the PRC, representing a
+mainland it had no control over. This is the lengths the West can go
+denying reality, because it is inconvenient, non-palatable and they
+think they have all the power, they can define / shape reality.
+
+---
+
+Wiki: "The People's Republic of China.. was established in 1949 and
+was not recognized by the United Nations (UN) as the legitimate
+government of China until 1971. Prior to then.. Taiwan represented the
+interests of China"
+
+---
+
+"@jonsnow@mastodon.online
+
+Windows 12 reportedly set for release this year as a
+subscription-based, AI-focused OS
+
+So there can be something worse than Windows 11..."
+
+---
+
+This is like vanilla machine learning / data science level output. ML
+could "cluster customers", some customers could end up in wrong
+clusters, but overall, you'd have enough positive hits esp. in
+marketing terms that can bring in some reveue via improved
+"targeting". But AGI level **thinking** cannot be mere fuzzy
+fishing. We will expect these things to work for us, perform better
+than us, at least as accurate as us. 
+
+---
+
+It was widely known Ford was near Iran, not Norfolk.
+
+---
+
+I had an LLM parse a Web page for US Navy ship locations. On USS Ford,
+there was contradicting information on the page, one line said it was
+docked at port, another said it was at Eastern Mediterrenian. LLM
+displayed no alerts on this contradiction, and chose the port location
+by default, when the other info was the correct one and showed up
+later in the page. When I told LLM about the problem, it changed its
+mind, chose Eastern Medi.
+
+Is this thinking? It looks like blind prompt execution
+
+---
+
+\#F24 \#Iran
+
+[[-]](https://youtu.be/s0uTJrtFfFI?t=64)
+
+---
+
+MAGA, America First folk are not happy
+
+---
+
+\#GroundInvasion \#Iran \#Davis
+
+[[-]](https://tubechop.com/videos/Ow1yXFRUumxDCEtMEwFjD)
+
+---
+
+AA: "Spain's premier urges immediate end to 'spiral of violence' in
+Middle East"
+
+---
+
+\#TelAviv 
+
+[[-]](https://www.youtube.com/watch?v=hIzsqAwoS68)
+
+---
+
+\#USNavy
+
+[[-]](map03.html)
+
+---
+
 "@katemorley@hachyderm.io
 
 The first UK opinion poll conducted following the Green Party’s win in

@@ -1,69 +1,111 @@
 
-"@jonsnow@mastodon.online
+XDA: "When RAM prices started to rise in September last year, no one
+imagined the extent of the crisis we'd find ourselves in. Enterprise
+AI demand not only led to a DRAM shortage and consequent quadrupling
+of RAM prices, but also impacted graphics cards, SSDs, and hard
+drives. That last part is particularly concerning for users who aren't
+otherwise interested in new GPUs, SSDs, or DDR5 memory. Western
+Digital recently announced that it has sold all of its hard drive
+inventory for the year, and has orders till 2028 already...
 
-Windows 12 reportedly set for release this year as a
-subscription-based, AI-focused OS
-
-So there can be something worse than Windows 11..."
-
----
-
-This is like vanilla machine learning / data science level output. ML
-could "cluster customers", some customers could end up in wrong
-clusters, but overall, you'd have enough positive hits esp. in
-marketing terms that can bring in some reveue via improved
-"targeting". But AGI level **thinking** cannot be mere fuzzy
-fishing. We will expect these things to work for us, perform better
-than us, at least as accurate as us. 
-
----
-
-It was widely known Ford was near Iran, not Norfolk.
+News of manufacturers abandoning consumer hardware in favor of
+enterprise profits has been quite common in the last few
+months. Micron exited its 'Crucial' consumer business, and GPU
+companies like Nvidia and AMD have delayed their next-gen consumer
+GPUs already... Massive storage, memory, and GPU requirements from
+enterprise AI companies have outpriced the average consumer from the
+PC hardware market."
 
 ---
 
-I had an LLM parse a Web page for US Navy ship locations. On USS Ford,
-there was contradicting information on the page, one line said it was
-docked at port, another said it was at Eastern Mediterrenian. LLM
-displayed no alerts on this contradiction, and chose the port location
-by default, when the other info was the correct one and showed up
-later in the page. When I told LLM about the problem, it changed its
-mind, chose Eastern Medi.
+"Should Modern Physics Resurrect the Ether?" \#TheDialectical
 
-Is this thinking? It looks like blind prompt execution
+[[-]](https://youtu.be/YNDlpesa55M?t=604)
 
 ---
 
-\#F24 \#Iran
-
-[[-]](https://youtu.be/s0uTJrtFfFI?t=64)
-
----
-
-MAGA, America First folk are not happy
+Shia Islam is a decentralized religious order. Killing the Supreme
+Leader is not like killing the Pope. Iran has "Twelver Shi'ism" anyone
+can choose their own high-ranking cleric (Marja) and follow
+them. Religious taxes go directly to Marja's which affords them
+certain independence. The Sunni system is more centralized.
 
 ---
 
-\#GroundInvasion \#Iran \#Davis
-
-[[-]](https://tubechop.com/videos/Ow1yXFRUumxDCEtMEwFjD)
-
----
-
-AA: "Spain's premier urges immediate end to 'spiral of violence' in
-Middle East"
-
----
-
-\#TelAviv 
-
-[[-]](https://www.youtube.com/watch?v=hIzsqAwoS68)
+Ironically it was the mollahs who fired the upper echelons of their
+own military in 1979, then Saddam must have thought "aha here's my
+chance" and, egged on [by the Americans](https://media.mastodontech.de/media_attachments/files/116/195/037/114/988/726/original/bfb31204cba60fcf.webp),
+he attacked. So Iran removed the command structure of the
+military itself, soon after they were founded, and they still managed
+to fight a war against Iraq. I would not put too much stock on this
+"decapitation" business. 
 
 ---
 
-\#USNavy
+Iranian government was born into war, founded 1979, Saddam attacked
+them in 1980. They endured. Then they had constant conflicts with the
+US and the MIC lapdog Israel, they prepared themselves for that war
+for decades.
 
-[[-]](mbl/2026/map03.html)
+---
+
+Iran's 250k number might sound crazy, but if Hezbollah has 150k it's
+not a stretch to guess Iran to have 250k. They are acting like it too,
+standing firm as they have against US takes major cojones, or a big
+missile stockpile which they clearly have.
+
+---
+
+Reuters: "[2023] The Iran-backed [Hezbollah] possesses upwards of
+150,000 missiles and rockets, according to the World Factbook of the
+U.S. Central Intelligence Agency"
+
+---
+
+"Iran has declared that it possesses approximately 250000 missiles in
+its arsenal"
+
+---
+
+"AI" services will be provided by consultancy services in a similar
+way Web, database, hosting services are provided today. There will be
+projects for them, there will be people responsible for creating "AI"
+solutions, Ronny Douche from sales won't be able to vibe code a new
+project from start to finish. There will be experts responsible for
+delivering said AI, the systems will have to be checked / rechecked
+for edge cases, and QA tested. If you have the type of environment
+where the output expectation is "show me something interesting bro"
+that is fine as before, mistakes of such systems were always folded
+into enough successes anyway that stakeholders remain excited about
+such projects, and keep paying the consultancies their exorbitant
+fees.
+
+---
+
+"@emilymbender@dair-community.social
+
+Gone are the days when 'cloud' as a metaphor could hide the material
+impacts of data centers, so now they are sold with AI hype."
+
+---
+
+♬  Yeah I stay busy, stay out my business ♬
+
+♬  Cause I ride Benzes, ay that's my binness ♪♪
+
+♪  Gucci's a hustler, and he got clientele ♪
+
+♪  Always got something to sell, just pulling your coattail ♪ ♬ 
+
+---
+
+Rick Ross - Hustlin' \#music
+
+[[-]](https://youtu.be/JU9TouRnO84?t=32)
+
+---
+
+America likes *winners*. Be one. Hustle.. 
 
 ---
 

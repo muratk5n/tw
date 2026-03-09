@@ -223,7 +223,7 @@ good mint servicing it.
 Well if u r dealing with that kind of junk language you deserve whats
 coming to you. LLMs do ok converting one language to another.
 
-"Anthropic published a blog post on Monday (Feb. 23) describing how
+"Anthropic published a blog post on Monday (Feb. 23) describing how
 its Claude Code tool can automate the analysis, dependency mapping and
 documentation work that has historically made COBOL modernization so
 expensive. In response, IBM shares closed down nearly 13.2%, at
