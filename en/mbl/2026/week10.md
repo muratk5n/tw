@@ -114,7 +114,7 @@ seem to care about their well-being.. The system is a type of
 
 \#TuckerCarlson \#TheThirdTemple
 
-[[-]](https://tubechop.com/videos/O3oIBb_7soGFZbkgBNztc)
+[[-]](https://youtu.be/gHrFcBeB7Lw?t=1589)
 
 ---
 
@@ -198,7 +198,7 @@ MAGA, America First folk are not happy
 
 \#GroundInvasion \#Iran \#Davis
 
-[[-]](https://tubechop.com/videos/Ow1yXFRUumxDCEtMEwFjD)
+[[-]](https://youtu.be/HeOFyv2TLNk?t=882)
 
 ---
 
@@ -500,7 +500,7 @@ CNBC: "Iran Rejects Talks, Accuses US of Undermining Diplomacy"
 
 Collected the alternate theories we covered so far, below.
 
-[Aether & ZPF](2026/03/aether-zpf-theories.html)
+[Aether & ZPF](../../2026/03/aether-zpf-theories.html)
 
 ---
 
