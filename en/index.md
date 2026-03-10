@@ -14,7 +14,7 @@ The Independent: "Blair sparks row with Starmer after claiming UK
 
 ---
 
-Probability vs optimisation arg can apply to neural nets, even in
+Probability vs optimization arg can apply to neural nets, even in
 their "deep" form (the building block of recent LLMs). Would they be
 better served if used purely probabilistic concepts? Maybe the
 spaghetti like neuron structure they have today which consumes the
@@ -26,7 +26,7 @@ blocks in the logical structure of a human brain.
 ---
 
 QM lack of anthology, relying on probabilities, that's a different
-issue. Here noise, uncertainty is part of the problem, not pulled out
+issue. Here noise, uncertainty is intrinsic to the problem, not pulled out
 of a hat because classical phy math wasn't advanced enough 
 
 ---
@@ -165,4 +165,3 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-   
