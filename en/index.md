@@ -40,7 +40,7 @@ sample.. But so does optimization, follow a gradient, update,
 iterate. The downside is you can get stuck in local minima, whereas
 probabilistically you are visiting most regions of a distribution, do
 not get stuck, and have guaranteed convergence to true distribution
-(Gibbs sampling).
+via certain sampling methods.
 
 ---
 
