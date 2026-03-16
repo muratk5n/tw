@@ -51,7 +51,7 @@ aren't many opportunities to laugh.
 
 ---
 
-State legislature passed the law and "Guantanomo Ron" signed it into law?
+State legislature passed the law and "Guantanamo Ron" signed it into law?
 
 ---
 
@@ -187,3 +187,4 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.github.io/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
+  
