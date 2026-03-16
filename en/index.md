@@ -185,5 +185,5 @@ ground troops), we'll just parachute them in bro" 😂 😂
 
 Also on 
 [Mastodon](https://mastodontech.de/@muratk5n),
-[Codeberg](https://muratk5n.codeberg.page/en/),
+[Codeberg](https://muratk5n.github.io/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
