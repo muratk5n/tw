@@ -1,5 +1,5 @@
 import pandas as pd, numpy as np, sys, datetime, requests, urllib.request
-import matplotlib.pyplot as plt, folium, json
+import matplotlib.pyplot as plt, folium, json, os, fredapi
 from pandas_datareader import data
 
 def trump_approval():
@@ -72,11 +72,13 @@ def elev_at(lat,lon):
     res = response.text
     return int(json.loads(res)[0])
 
-def get_fred(year, series):
-    today = datetime.datetime.now()
-    start=datetime.datetime(year, 1, 1)
-    end=datetime.datetime(today.year, today.month, today.day)
-    df = data.DataReader(series, 'fred', start, end)
+def get_fred(year,series):
+    params = json.loads(open(os.environ['HOME'] + "/.twkeys.json").read())
+    api_key = params["fred"]
+    start_date = f"{year}-01-01"
+    f = fredapi.Fred(api_key=api_key)
+    data = f.get_series(series,observation_start=start_date)
+    df = pd.DataFrame(data, columns=[series])    
     return df
 
 def flip_c(arg):

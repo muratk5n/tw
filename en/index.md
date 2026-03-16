@@ -1,127 +1,149 @@
 
-*New Scientist* mag talks to a researcher who says the universe is
-isotropic, therefore GR, Big Bang blah blah.. But the universe is not
-isotropic. Where have the real scientists gone?
+"@rom255@mastodon.social
+
+Hmm, the Houthis in Yemen 🇾🇪 announced they want to support Iran 🇮🇷 by
+closing down the Bab El-Mandeb strait. Basically the passage from and
+to the Suez Canal. World economy RIP."
+
+<img width='340' src='https://files.mastodon.social/media_attachments/files/116/228/275/393/883/177/original/5e400b79ed0d77e5.png'/>
 
 ---
 
-[Link](https://media.mastodontech.de/media_attachments/files/116/202/812/872/736/780/original/4b8134694854c8f9.jpg)
+"In the 1600s and 1700s, the Dutch East India Company and the British
+East India Company were essentially corporate nation-states. They
+minted their own coins, had their own massive private militaries,
+conquered foreign territory, and negotiated treaties. We are moving
+back toward a world where massive, transnational corporations rival
+the power of the governments that theoretically regulate them... So,
+while Apple won't be applying for a seat at the United Nations next
+week, they are already governing the digital lives of billions."
 
 ---
 
-The Independent: "Blair sparks row with Starmer after claiming UK
-'should have backed Trump from the beginning' in Iran"
+Nearly *all* aircraft carriers rushed towards the Gulf. Is US still a
+superpower, if one tiny Iran is causing so much trouble? 
 
 ---
 
-Probability vs optimization arg can apply to neural nets, even in
-their "deep" form (the building block of recent LLMs). Would they be
-better served if used purely probabilistic concepts? Maybe the
-spaghetti like neuron structure they have today which consumes the
-electricity requirement of Ireland to train can be simplified in some
-way. Maybe the new structure can be guided to certain forms of
-neuronal blocks easier, per topic, that can start to resemble know-how
-blocks in the logical structure of a human brain.
+"@ProPublica@newsie.social
+
+Under the Trump administration, two of the three major credit bureaus
+have sharply reduced the share of complaints they resolved in
+customers’ favor.
+
+In 2024, Experian’s relief rate was 20%. Last year, that figure fell
+to less than 1%."
 
 ---
 
-QM lack of anthology, relying on probabilities, that's a different
-issue. Here noise, uncertainty is intrinsic to the problem, not pulled out
-of a hat because classical phy math wasn't advanced enough 
+If the war was planned / sold as another Venezuella, short, fast,
+"achieves something", Iranians surely saw that - and they are making
+sure they do **not** fall in that category. They are racheting up
+their response early in the war, and after the death of Khamenei they
+chose Khamenei II (whereas after Maduro, there was Maduro Lite, not
+Chavez II). 
 
 ---
 
-Implemented image denoising via optimization some time ago, and now
-with a probabilistic approach. I have to say the probabilistic method
-flows naturally, the definition of the problem is clearer,
-uncertainties get defined, captured easily via
-distributions. Implementation has a loop, sure, you sample, iterate,
-sample.. But so does optimization, follow a gradient, update,
-iterate. The downside is you can get stuck in local minima, whereas
-probabilistically you are visiting most regions of a distribution, do
-not get stuck, and have guaranteed convergence to true distribution
-via certain sampling methods.
+"Meatball Ron".. I remember Jon Oliver had found that hilarious and
+declared Trump still "had it". It's a much darker world now.. there
+aren't many opportunities to laugh.
 
 ---
 
-Einstein himself made a similar point during a 1920 lecture titled
-Ether and the Theory of Relativity: "According to the general theory
-of relativity, space without ether is unthinkable; for in such space
-there would not only be no propagation of light, but also no
-possibility of existence for standards of space and time."
-
-Despite Einstein's later admission, the "taboo" Laughlin describes
-persisted because the scientific community had already firmly
-associated "ether" with "wrong/obsolete physics." Modern physicists
-prefer terms like "the vacuum," "quantum field," or "the metric," even
-though these concepts describe space as a substance with physical
-properties which is the very definition of an ether.
+State legislature passed the law and "Guantanomo Ron" signed it into law?
 
 ---
 
-Laughlin, *A Different Universe*: "[2005] Relativity actually says
-nothing about the existence or nonexistence of matter pervading the
-universe, only that any such matter must have relativistic symmetry.
+FLORIDA FIRST
 
-It turns out that such matter exists: About the time relativity was
-becoming accepted, studies of radioactivity began showing that the
-empty vacuum of space had spectroscopic structure similar to that of
-ordinary quantum solids and fluids. Subsequent studies with large
-particle accelerators have now led us to understand that space is more
-like a piece of window glass than ideal Newtonian emptiness. It is
-filled with 'stuff' that is normally transparent but can be made
-visible by hitting it sufficiently hard to knock out a part. The
-modern concept of the vacuum of space, confirmed every day by
-experiment, is a relativistic ether. But we do not call it this
-because it is taboo.
-
-The view of space-time as a nonsubstance with substance-like
-properties is neither logical nor consistent with the facts. It is
-instead an ideology that grew out of old battles one the validity of
-relativity.  At its core is the belief that the symmetry of relativity
-is different from all other symmetries in being absolute."
+"The United States decision to wire $385 million to Israel has emerged
+as a campaign issue after Florida gubernatorial candidate James
+Fishback publicly criticised the transfer. Fishback stated that '385
+million of our money was foolishly sent to Israel,' framing the
+transfer as a misuse of U.S. taxpayer resources. His remarks place the
+funding at the centre of his campaign messaging on foreign policy and
+government spending."
 
 ---
 
-Henry Lindner says (another) Nobel prize winner commented once
-"general relativity reinstitutes the ether, but we cant say that
-because it's taboo". He could not remember the name but I believe he
-meant Robert Laughlin, 98 Prize winner.
+November 3... judgement day
 
 ---
 
-Wiki: "Wilczek.. is an American theoretical physicist. He shared the
-2004 Nobel Prize in Physics with David Gross and H. David Politzer
-'for the discovery of asymptotic freedom in the theory of the strong
-interaction'"
+DJT bringing up this issue constantly is more damaging for Netanyahoo
+than helpful.. He comes across like the crook that he is whenever the
+subject is raised.
+
+The Times of Israel: "Trump has repeatedly blasted Herzog over his
+failure so far to issue a pardon to Netanyahu in his ongoing criminal
+corruption trial. Just last week, Trump called Herzog a 'disgrace' for
+not pardoning the prime minister."
 
 ---
 
-Frank Wilczek: "Atomism doesn’t work. Quantum Field Theory [indicates]
-particles are excitations of fields that fill all space.. [Modern
-Ether = 'The Grid']: What we perceive as empty space is in reality a
-powerful medium whose activity molds the world...the physical reality
-from which all else is formed."
+Truthout: "DNC 'Autopsy' Finds Kamala Harris’s Silence on Gaza
+Genocide Cost Her Votes"
 
 ---
 
-Told you so... A merger btw two companies saddled with debt.
-
-"Paramount Skydance Corp. shares fell more than 8% after Fitch Ratings
-downgraded the film and TV company's debt rating to junk to reflect a
-surge in borrowings from the $110 billion takeover of Warner
-Bros. Discovery Inc."
+AA: "Netanyahu dismisses claim he dragged Trump into conflict"
 
 ---
 
-I like the image a tuber made
-
-[[-]](mbl/2026/img/crenshaw1.jpg)
+NYT: "There were few voices lobbying against military action. One
+exception was Tucker Carlson.. who has met with [Trump] in the Oval
+Office three times in the past month to argue against an attack... The
+president said he understood the risks of an attack, but he conveyed
+to Mr. Carlson that he had no choice but to join a strike that Israel
+would launch."
 
 ---
 
-WSJ: "GOP Rep. Dan Crenshaw Becomes First 2026 Incumbent to Lose
-Primary"
+"@MsHearthWitch@wandering.shop
+
+Mastodon, you are a influence...
+
+Since I joined I have ditched most subscription stuff like Spotify,
+Amazon and Netflix.
+
+Made the swap to Linux.
+
+Started painting.
+
+Now I am considering whether or not I could be a Person Who Bikes Places."
+
+---
+
+"Careerminds polled 600 HR professionals from organizations that had
+made layoffs in the last year. It found that 32.7% of organisations
+that conducted AI-led layoffs had already rehired between 25% to 50%
+of the roles they initially let go. Another 35.6% said they had
+already rehired more than half of the roles that they cut"
+
+---
+
+Futurism: "BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI"
+
+---
+
+Transport aircraft is slow, they will be easy targets for SAMs, even
+MANPADS. Once in, such troops will have no heavy weaponary, nor
+armor. Resupply would be a nightmare.
+
+---
+
+[Link](https://media.mastodontech.de/media_attachments/files/116/234/422/752/482/262/original/48c37358413609cb.jpg)
+
+---
+
+What is this, a Chuck Norris movie, you just paradrop bunch of "good
+guys", they take out whole regiments of "bad guys"?
+
+---
+
+"It's too hard to pass through Iranian mountains to get to Tehran (for
+ground troops), we'll just parachute them in bro" 😂 😂
 
 ---
 
