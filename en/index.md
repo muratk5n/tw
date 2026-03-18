@@ -1,149 +1,88 @@
 
-"@rom255@mastodon.social
+"@mttaggart@infosec.exchange
 
-Hmm, the Houthis in Yemen 🇾🇪 announced they want to support Iran 🇮🇷 by
-closing down the Bab El-Mandeb strait. Basically the passage from and
-to the Suez Canal. World economy RIP."
+Office 365 and Copilot are down.
 
-<img width='340' src='https://files.mastodon.social/media_attachments/files/116/228/275/393/883/177/original/5e400b79ed0d77e5.png'/>
+Run. Now's your chance. Don't look back; just GO"
 
 ---
 
-"In the 1600s and 1700s, the Dutch East India Company and the British
-East India Company were essentially corporate nation-states. They
-minted their own coins, had their own massive private militaries,
-conquered foreign territory, and negotiated treaties. We are moving
-back toward a world where massive, transnational corporations rival
-the power of the governments that theoretically regulate them... So,
-while Apple won't be applying for a seat at the United Nations next
-week, they are already governing the digital lives of billions."
+"@gnome@floss.social
+
+We signed https://keepandroidopen.org/open-letter ! We strongly
+believe open ecosystems are of paramount importance for user freedom,
+and that is currently in danger for Android.
 
 ---
 
-Nearly *all* aircraft carriers rushed towards the Gulf. Is US still a
-superpower, if one tiny Iran is causing so much trouble? 
+"We, the undersigned organizations representing civil society,
+nonprofit institutions, and technology companies, write to express our
+strong opposition to Google’s announced policy requiring all Android
+app developers to register centrally with Google themselves in order
+to distribute applications outside of the Google Play Store, set to
+take effect worldwide in the coming months."
+
+[[-]](https://keepandroidopen.org/open-letter/)
 
 ---
 
-"@ProPublica@newsie.social
+"AI is making CEOs delusional" \#MoBitar
 
-Under the Trump administration, two of the three major credit bureaus
-have sharply reduced the share of complaints they resolved in
-customers’ favor.
-
-In 2024, Experian’s relief rate was 20%. Last year, that figure fell
-to less than 1%."
+[[-]](https://youtu.be/Q6nem-F8AG8)
 
 ---
 
-If the war was planned / sold as another Venezuella, short, fast,
-"achieves something", Iranians surely saw that - and they are making
-sure they do **not** fall in that category. They are racheting up
-their response early in the war, and after the death of Khamenei they
-chose Khamenei II (whereas after Maduro, there was Maduro Lite, not
-Chavez II). 
+"@GossiTheDog@cyberplace.social
+
+Add [this](https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/)
+to the long list of execs fucking up their entire company using GenAI
+- CEO decides he doesn’t want to pay $250m bonus to staff, asks
+ChatGPT how to avoid it, his legal team tell him ‘are u fuckin dumb’,
+he does it anyway, gets sued, and loses in court."
 
 ---
 
-"Meatball Ron".. I remember Jon Oliver had found that hilarious and
-declared Trump still "had it". It's a much darker world now.. there
-aren't many opportunities to laugh.
+Wiki: "During the [1950] air campaign, conventional weapons including
+explosives, incendiary bombs, and napalm destroyed nearly all of North
+Korea’s villages, towns, and cities... The U.S. dropped approximately
+635,000 tons of bombs and 32,557 tons of napalm during the war, mostly
+on North Korea (compared to 503,000 tons in the entire Pacific theater
+in World War II). In other words, the United States dropped more bombs
+on North Korea during the Korean War than it had dropped on the entire
+Pacific theater during the Second World War"
+	
+---
+
+Analyst Mark Sleboda makes an interesting point, even though US might
+be running out of expensive missiles, it has nearly inexhaustable
+supply of glide bombs, JDAMs (Russia's FAB equivalent, a JDAM kit
+converts a "dumb bomb" into a glide bomb with short range). Of course
+a bomber needs to be close to enemy territory to drop them. Therein
+lies the issue, Iran's air defense is not dead yet (that means "US
+having achieved air superiority" is a lie). The question is can US
+take out Iranian air defense completely to start making use of their
+JDAM inventory"? Iran and its allies will probably find ways to keep
+the air defense intact.
+
+But even in the case US succeeds, has air bombing campaigns ever force
+regime change? US bombed the hell out of North Korea in 1950, well
+that exact same regime is in charge today, perhaps more persistently
+so because the effort to unseat them was so draconian.
 
 ---
 
-State legislature passed the law and "Guantanamo Ron" signed it into law?
+"@ethanschoonover@mastodon.social
+
+Do billionaires know about some sort of a game where if they hoard
+enough wealth and cripple society enough they get some prize? Like do
+they get raptured if they hit 2 trillion dollars? If so I'm sure we
+could come up with a shortcut for them."
 
 ---
 
-FLORIDA FIRST
+"@metin@graphics.social
 
-"The United States decision to wire $385 million to Israel has emerged
-as a campaign issue after Florida gubernatorial candidate James
-Fishback publicly criticised the transfer. Fishback stated that '385
-million of our money was foolishly sent to Israel,' framing the
-transfer as a misuse of U.S. taxpayer resources. His remarks place the
-funding at the centre of his campaign messaging on foreign policy and
-government spending."
-
----
-
-November 3... judgement day
-
----
-
-DJT bringing up this issue constantly is more damaging for Netanyahoo
-than helpful.. He comes across like the crook that he is whenever the
-subject is raised.
-
-The Times of Israel: "Trump has repeatedly blasted Herzog over his
-failure so far to issue a pardon to Netanyahu in his ongoing criminal
-corruption trial. Just last week, Trump called Herzog a 'disgrace' for
-not pardoning the prime minister."
-
----
-
-Truthout: "DNC 'Autopsy' Finds Kamala Harris’s Silence on Gaza
-Genocide Cost Her Votes"
-
----
-
-AA: "Netanyahu dismisses claim he dragged Trump into conflict"
-
----
-
-NYT: "There were few voices lobbying against military action. One
-exception was Tucker Carlson.. who has met with [Trump] in the Oval
-Office three times in the past month to argue against an attack... The
-president said he understood the risks of an attack, but he conveyed
-to Mr. Carlson that he had no choice but to join a strike that Israel
-would launch."
-
----
-
-"@MsHearthWitch@wandering.shop
-
-Mastodon, you are a influence...
-
-Since I joined I have ditched most subscription stuff like Spotify,
-Amazon and Netflix.
-
-Made the swap to Linux.
-
-Started painting.
-
-Now I am considering whether or not I could be a Person Who Bikes Places."
-
----
-
-"Careerminds polled 600 HR professionals from organizations that had
-made layoffs in the last year. It found that 32.7% of organisations
-that conducted AI-led layoffs had already rehired between 25% to 50%
-of the roles they initially let go. Another 35.6% said they had
-already rehired more than half of the roles that they cut"
-
----
-
-Futurism: "BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI"
-
----
-
-Transport aircraft is slow, they will be easy targets for SAMs, even
-MANPADS. Once in, such troops will have no heavy weaponary, nor
-armor. Resupply would be a nightmare.
-
----
-
-[Link](https://media.mastodontech.de/media_attachments/files/116/234/422/752/482/262/original/48c37358413609cb.jpg)
-
----
-
-What is this, a Chuck Norris movie, you just paradrop bunch of "good
-guys", they take out whole regiments of "bad guys"?
-
----
-
-"It's too hard to pass through Iranian mountains to get to Tehran (for
-ground troops), we'll just parachute them in bro" 😂 😂
+150 nations warn that the obsession with growth is destroying nature"
 
 ---
 
@@ -185,6 +124,6 @@ ground troops), we'll just parachute them in bro" 😂 😂
 
 Also on 
 [Mastodon](https://mastodontech.de/@muratk5n),
-[Codeberg](https://muratk5n.github.io/tw/en/),
+[Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
   
