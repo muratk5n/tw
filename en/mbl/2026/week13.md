@@ -1,2 +1,126 @@
 # Week 13
 
+The Lever: "Skiing, more than ever before, has become a pastime for
+the elite. Single-day lift tickets at popular resorts now regularly
+exceed $300, prices that haven’t fallen even as ski slopes in the West
+suffer through a historically dry season. That’s likely because many
+resorts have already locked skiers into season passes like the Epic
+Pass and Ikon Pass that can cost 1,000 dollars or more up front,
+regardless of weather conditions.
+
+Two main operators behind those passes, Vail Resorts (Epic) and
+Alterra Mountain Company (Ikon), run dozens of resorts nationwide,
+allowing them to raise prices with impunity. The companies have also
+consolidated resort-adjacent lodging, food, retail, and transportation
+into captive-market moneymaking machines that can cost visitors
+thousands of dollars per day."
+
+---
+
+TASS: "Iran warns of retaliatory strikes against US infrastructural
+facilities in Middle East"
+
+---
+
+F24: "Iran strikes Israeli nuclear town in retaliation for Natanz
+attack amid escalating conflict"
+
+---
+
+Glide bombs have little radar and heat signature. No heat because most
+glide bombs do not have their own propulsion, they merely "glide" like
+a sailplane, or hang glider. Their downside is the range. There are
+always trade offs.
+
+---
+
+Russia does not have total air superiority over Ukraine either, this
+is true, they cannot use their glide bombs with impunity,
+everywhere. Where they can use them it is effective, the bombs need to
+be dropped right outside SAM range, and their modified FABs have 60-70
+km reach. But obviously they also have a ground troop component that
+are grinding away at that frontline we massive artillery backup. US
+cannot replicate that against Iran easily. Where do they enter from?
+Afghanistan? They left, whose plan was initiated by Trump. From the
+sea, from the southern direction is crazy.
+
+---
+
+The F-35 was hit by a heat seeking missile apparently. The idea one
+can make an aircraft completely invisible to detection is
+absurd. Russians have been preparing against stealth tech since Desert
+Storm. When the tech first appeared on the battlefield in 1990 they
+(and the Iraqis) were shocked, no doubt. But they soon developed
+countermeasures. Clearly so did the Iranians (being US' favorite
+pinata, they knew the day would come).
+
+---
+
+Jake Gyllenhaal: "The only way I can move past the absurdity of what I
+do, is to commit to the point of absurdity."
+
+---
+
+I mostly ignore those "AI" summaries.. If I wanted the roulette wheel
+I'd use the roulette wheel, with the mindset ready for what it can
+spew out.
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+I just googled something and Google put its AI summary top, which
+incorrectly used a Facebook post - misinterpreting it.  The Facebook
+post itself was an AI summary of a user post - which AI had also
+misinterpreted.  The result is the Google answer was just total
+bollocks."
+
+---
+
+W.E. was a marshal, a government man, not "cowboy". The cowboys were
+the bad guys in the movie, painted as lawless bandits. People forget
+the backdrop, the time period of the era of Western movies. Those
+events mostly took place around post Antabellum America, and the Civil
+War. The mainstay weapon of the movies, the double-action Colt, was
+army issue, it was designed, built for the government.
+
+---
+
+Kurt Russell's son is playing the younger version of him on
+*Monarch*. He named the guy Wyatt, after Wyatt Earp apparently
+\#Tombstone
+
+---
+
+*Monarch* second season is okay.. The first was Woke. This one is
+neutral on its messaging, it manages to stay interesting enough. A bit
+dull at times but it chugs along.
+
+---
+
+If the insurers will not insure LLMs, that strengthens the case
+companies staying away purchasing LLM based solutions. Would LLM model
+providers like Anthropic, OpenAI, Google accept liability in case of
+catastrophic failure? These things are trained on petabytes of data,
+who can tell which part of that junk throws off their balance, leading
+to failure?
+
+---
+
+The Register: "[L]arge insurers have become wary of underwriting
+policies that cover companies against AI risk.. Insurers.. are already
+lobbying state-level insurance regulators to win a carve-out in
+business insurance liability policies so they are not obligated to
+cover AI-related workflows... [Expert asks] 'The question here is if
+it's all so great, why are the insurance underwriters going to great
+lengths to prohibit coverage for these things? They're generally
+pretty good at risk profiling.'"
+
+---
+
+\#RIP
+
+"Chuck Norris once counted to infinity.. twice."
+
+---
+

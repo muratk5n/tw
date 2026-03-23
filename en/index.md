@@ -1,88 +1,124 @@
 
-"@mttaggart@infosec.exchange
-
-Office 365 and Copilot are down.
-
-Run. Now's your chance. Don't look back; just GO"
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/272/905/192/203/617/original/03f8e05fc8de1d22.jpg'/>
 
 ---
 
-"@gnome@floss.social
+"@futzle@old.mermaid.town
 
-We signed https://keepandroidopen.org/open-letter ! We strongly
-believe open ecosystems are of paramount importance for user freedom,
-and that is currently in danger for Android.
+I connected my Bosch washing machine to the Internet so that it could
+tell me when it finishes a load, and now I am getting firm admonitions
+that frankly read like veiled threats.
 
----
+'The washing machine has detected too much foam. An additional washing
+cycle has been activated. Use less soap next time.'
 
-"We, the undersigned organizations representing civil society,
-nonprofit institutions, and technology companies, write to express our
-strong opposition to Google’s announced policy requiring all Android
-app developers to register centrally with Google themselves in order
-to distribute applications outside of the Google Play Store, set to
-take effect worldwide in the coming months."
+'The supplied voltage is too unstable to operate the
+appliance. Operation is stopped until the voltage is stable.'
 
-[[-]](https://keepandroidopen.org/open-letter/)
+'Please remember to perform a drum cleaning soon so that your
+appliance can continue to deliver good results.'"
 
 ---
 
-"AI is making CEOs delusional" \#MoBitar
-
-[[-]](https://youtu.be/Q6nem-F8AG8)
-
----
-
-"@GossiTheDog@cyberplace.social
-
-Add [this](https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/)
-to the long list of execs fucking up their entire company using GenAI
-- CEO decides he doesn’t want to pay $250m bonus to staff, asks
-ChatGPT how to avoid it, his legal team tell him ‘are u fuckin dumb’,
-he does it anyway, gets sued, and loses in court."
+F24: "EU-wide.. property prices jumped by 15.5 percent between 2021
+and 2024, according to Eurostat."
 
 ---
 
-Wiki: "During the [1950] air campaign, conventional weapons including
-explosives, incendiary bombs, and napalm destroyed nearly all of North
-Korea’s villages, towns, and cities... The U.S. dropped approximately
-635,000 tons of bombs and 32,557 tons of napalm during the war, mostly
-on North Korea (compared to 503,000 tons in the entire Pacific theater
-in World War II). In other words, the United States dropped more bombs
-on North Korea during the Korean War than it had dropped on the entire
-Pacific theater during the Second World War"
-	
----
-
-Analyst Mark Sleboda makes an interesting point, even though US might
-be running out of expensive missiles, it has nearly inexhaustable
-supply of glide bombs, JDAMs (Russia's FAB equivalent, a JDAM kit
-converts a "dumb bomb" into a glide bomb with short range). Of course
-a bomber needs to be close to enemy territory to drop them. Therein
-lies the issue, Iran's air defense is not dead yet (that means "US
-having achieved air superiority" is a lie). The question is can US
-take out Iranian air defense completely to start making use of their
-JDAM inventory"? Iran and its allies will probably find ways to keep
-the air defense intact.
-
-But even in the case US succeeds, has air bombing campaigns ever force
-regime change? US bombed the hell out of North Korea in 1950, well
-that exact same regime is in charge today, perhaps more persistently
-so because the effort to unseat them was so draconian.
+"According to leaks.. Trump is demanding GCC states pay $5 trillion to
+sustain the war, or 2.5 trillion as a fee for stopping it"
 
 ---
 
-"@ethanschoonover@mastodon.social
-
-Do billionaires know about some sort of a game where if they hoard
-enough wealth and cripple society enough they get some prize? Like do
-they get raptured if they hit 2 trillion dollars? If so I'm sure we
-could come up with a shortcut for them."
+"Trump Demands Trillions from GCC for Iran War...The claim emerged
+March 20 on BBC Arabic from analyst Salem Al-Jahoori"
 
 ---
 
-"@metin@graphics.social
+"How an F-35 Got Hit by Iranian Missile"
 
-150 nations warn that the obsession with growth is destroying nature"
+[[-]](https://m.youtube.com/watch?v=IaGYfsRMHRA)
+
+---
+
+TCN: "Neocons and globalists bombard Joe Kent with the most
+predictable attacks imaginable. Israel continues to disrespect the
+United States. The Pentagon asks Americans to reach deep into their
+pockets for the Iran War. "
+
+---
+
+L'Orient Today: "Intense clashes between Hezbollah and Israel in
+Taybeh.. Announcing several attacks carried out during these clashes,
+Hezbollah said it had destroyed six Israeli Merkava tanks since
+midnight"
+
+---
+
+"Enshittified with AI". Now they get it.
+
+Windows Central: "Originally announced in 2024, Microsoft's plan to
+integrate Copilot across various areas of the Windows 11.. has been
+shelved as the company reevaluates its AI approach in the OS..
+
+People familiar with Microsoft's plans say the company is moving to
+reduce AI bloat across Windows 11 this year, and is striving to be
+more tactful about where the Copilot brand and AI experiences appear
+in system apps and interfaces. This is all part of a larger effort to
+address major criticism and concerns from users who believe Windows 11
+has become bloated and enshittified with AI."
+
+---
+
+It's pointless to seek "points of leverage" trying to find that "one
+thing that will achieve something". We are past that. US pushed
+another country to fight for its very existence, previous admins
+pushed Russia, this one, though it was hoped it had learned from the
+lesson of Ukraine, did Iran.
+
+---
+
+Iranian analyst Marandi says even if Hormuz opens, it won't matter,
+because there won't be any oil going through it. 
+
+---
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/272/811/761/431/422/original/24334b050c351a93.jpg'/>
+
+---
+
+Another stupid idea.. Iran has been hitting American bases all over
+the Gulf, US will be giving them a new target to strike at.
+
+---
+
+"@BraudelMarx
+
+To me the idea of the US invading Kharg Island is a headfake. US
+military planners will want to repeat that greatest of all US
+amphibious landings: Inchon. So I could at the limit see them try to
+take Chabahar Port on the Gulf of Oman, not far from the Pakistani
+border. The idea would be a bit like Ukraine’s Kursk incursion, grab
+something valuable in the hopes of trading it for something even more
+valuable. In this case they would take Chabahar Port and insist on the
+opening of the Strait of Hormuz to get it back."
+
+---
+
+This is good.. But then there are other conflicting comments.
+Sometimes the war is "done, over", other times it is "do this, or
+else".. Now there are plans for a ground invasion? 
+
+---
+
+So... not a donkey. 
+
+"Trump just called Iran's leaders 'very smart players' with 'very high
+IQ' in the Oval Office—framing the crisis as a masterful chess game."
+
+---
+
+Firstpost: "Netanyahu had to prove he was alive 3 times"
 
 ---
 
@@ -126,4 +162,4 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-  
+   

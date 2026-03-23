@@ -1,17 +1,391 @@
 # Week 12
 
-"Iran is considering allowing limited oil tanker passage through the
-Strait of Hormuz on condition that cargo is traded in Chinese yuan, a
-senior Iranian official told CNN Friday"
+
+"Germany has just made the standard Open Document Format (ODF)
+mandatory"
 
 ---
 
-"POWERPASTE is an ultra-high capacity hydrogen storage substance for
-PEM fuel cell applications invented and developed by Fraunhofer
-IFAM. [It] releases hydrogen on contact with water. It has a hydrogen
-capacity of about 10 mass-% (i.e. 10 kg [pp] → 1 kg hydrogen). This is
-a specific energy of 1.6 kWhel/kg and an energy density of 1.9
-kWh/liter, or about 10 times the capacity of Li-Ion batteries."
+Le Monde: "France's aircraft carrier located in real time.. through
+fitness app..  As the Charles de Gaulle and its strike group approach
+the Middle East, [we] identified a French sailor using the Strava
+fitness application in the Mediterranean Sea."
+
+---
+
+Obviously Linux is more stable than a commercial product Windoze, but
+lawyers still need their name and phone number on their sheet.
+
+---
+
+Companies like Red Hat Linux arose for the same reason; Linux is free
+and open source, but clients needed a suable entity they could put on
+their sheet, ergo solutions like Red Hat sprung up providing
+that. They offer their brand of Linux distribution which they curated,
+providing certain guarantees and services around, and their name went
+on the sheet, not Linus Torvalds.
+
+---
+
+Why wouldn't a company allow Ronny Douche from sales LLM develop his
+own code, create a massive project from start to finish for his own
+department? Even he was able to do that somewhat acceptably with these
+roulette wheels that are called "AI", the edge cases, the
+"catastrophic situations" (which vibe coded systems are actually more
+prone to) go against internal risk management, hedging mechanisms of
+modern firms.
+
+I remember back in the day, on an IT consulting project, a programmer
+coworker wanted to use a free tool for a certain task. He was told to
+drop the tool, why? Because our client NEEDED SOMEONE TO SUE if
+"something went wrong" with the underlying software. An entity, a
+suable entity had to be behind every pick. We the consultants were
+already contractually obligated for certain deliveries, but beyond
+that, if the tools we used started to crap out, our client still
+needed someone's name and number on their sheets.  The sheet had to
+have it all. Shit goes wrong, they go through it, find the party who
+is "responsible" and sue them for the damage incurred.
+
+Situation will be no different for "AI" generated code. Consultants
+will deliver them, and for stuff that are outside their control,
+someone's name will go on that sheet, their ass will be
+liable. Companies utilizing said solutions will make sure of
+that. CYA.
+
+---
+
+Le Monde: "Donald Trump, the euro's best ally in spite of
+himself.. The single currency has returned to its highest level since
+the election of the US president in November 2024 and is increasingly
+seen as a credible substitute for the dollar, at a time when
+Washington's economic policies are beginning to worry markets."
+
+---
+
+Private interests have a *carte blanche* to do anything they want in
+America. It is hilarious gov wanting to get some of that action has to
+tag along their capability.
+
+The Verge: "The Supreme Court ruled in 2018 that law enforcement
+agencies need a warrant to obtain people’s location data from
+cellphone providers. By getting this information from private data
+brokers, the FBI can get information on anyone it wants without a
+warrant"
+
+---
+
+<audio controls>
+  <source src="https://www.dropbox.com/scl/fi/0w90vxj5lklwktwvq168j/cha-ching1.mp3?rlkey=oj5jaq1079i4d6v1zukw18h5n&st=24rokl0l&raw=1" type="audio/ogg">
+</audio>
+
+---
+
+WaPo: "Pentagon seeks more than $200 billion in budget request for
+Iran war"
+
+---
+
+The historian Ilber Ortayli has passed away also, we'd mentioned the
+ultra-nationalist pseudo-academic in this site very recently. What up.
+
+---
+
+Just when we were referencing the man.. 
+
+---
+
+Chuck Norris RIP
+
+---
+
+Shot down by the Iranian air defense that was supposed to have been
+"wiped out"?
+
+---
+
+TRT World: "US F-35 stealth jet hit by suspected Iranian fire in
+combat mission"
+
+---
+
+\#JoeKent \#Tucker
+
+[[-]](https://tubechop.com/videos/Aq5h3NSOTWwn1ivQ5PMTR)
+
+---
+
+BBC: "Top US counterterrorism official resigns over Iran war, urging
+Trump to 'reverse course'.. Kent said that Iran posed 'no imminent
+threat' to the US"
+
+---
+
+Futurism: "A.. study recently featured in *Wired* claims to
+mathematically prove that large language models 'are incapable of
+carrying out computational and agentic tasks beyond a certain
+complexity' — that level of complexity being, crucially, pretty
+low. The paper.. was written by Vishal Sikka, a former CTO at the
+German software giant SAP, and his son Varin Sikka. Sikka senior knows
+a thing or two about AI: he studied under John McCarthy, the Turing
+Award-winning computer scientist who literally founded the entire
+field of artificial intelligence, and in fact helped coin the very
+term.
+
+---
+
+Vishal Sikka: "[2025/07] Hallucination Stations: On Some Basic
+Limitations of Transformer-Based Language Models.. In this paper we
+explore hallucinations and related capability limitations in LLMs and
+LLM-based agents from the perspective of computational complexity. We
+show that beyond a certain complexity, LLMs are incapable of carrying
+out computational and agentic tasks or verifying their accuracy."
+
+[[-]](https://arxiv.org/abs/2507.07505)
+
+---
+
+Wired: "The Math on AI Agents Doesn’t Add Up.. A research paper
+suggests AI agents are mathematically doomed to fail"
+
+---
+
+"@CiaraNi@mastodon.green
+
+’Denmark Switches.’ A national campaign to collectively move off Big
+Tech. March 20th is Big Switch Day. I’ve named my goal now. I’m
+already almost deMicrosofted, except for my photo archive. I moved to
+Libre & Tuta mail and have been purging photos as I await the release
+of Tuta drive. Now I’m committing myself to just get the photos off
+OneDrive and on to my computer, that I own, in my house, by March
+20th. Then I’ll delete Microsoft. Then I’ll boast about it on the
+Fediverse."
+
+---
+
+American Proverb: "You can't ride two horses with one ass."
+
+---
+
+"@DrewKadel@social.coop
+
+My daughter, who has had a degree in computer science for 25 years,
+posted this observation about ChatGPT on Facebook. It's the best
+description I've seen:
+
+'Something that seems fundamental to me about ChatGPT, which gets lost
+over and over again: When you enter text into it, you're asking "What
+would a response to this sound like?" If you put in a scientific
+question, and it comes back with a response citing a non-existent
+paper with a plausible title, using a real journal name and an author
+name who's written things related to your question, it's not being
+tricky or telling lies or doing anything at all surprising! This is
+what a response to that question would sound like! It did the thing!
+But people keep wanting the "say something that sounds like an answer"
+machine to be doing something else, and believing it is doing
+something else. It's good at generating things that sound like
+responses to being told it was wrong, so people think that it's
+engaging in introspection or looking up more information or something,
+but it's not, it's only, ever, saying something that sounds like the
+next bit of the conversation'"
+
+---
+
+The rest of the article points to other related interesting dynamics:
+there was pushback as well, from what I gather were basically "AI true
+believers" who just like bright shiny things and want to keep using
+them. They laugh hysterically as if they are on gas, frantically
+typing away in their chat attempting to get their next fix.
+
+---
+
+"Academic journals increasingly face a problem: papers citing
+hallucinated references. We are talking about citations that simply
+don’t exist – fake titles, fake journals, and fake authors. When I
+suggested on LinkedIn that such papers should be desk-rejected and
+authors banned for one year, the support was overwhelming."
+
+[[-]](https://dorotheabaur.ch/en/texts-and-media/hallucinated-references-five-excuses-for-academic-misconduct/)
+
+---
+
+\#SteveJermy \#NeutralityStudies
+
+[[-]](https://youtu.be/1MN7nECum_w?t=1477)
+
+---
+
+African Proverb: "When the water rises, the fish eats the ant. When
+the water falls, the ant eats the fish"
+
+---
+
+TWZ: "In a follow-up to our recent story about a pair of U.S. Navy
+Independence class Littoral Combat Ships (LCS) configured for
+minesweeping appearing in the Pacific, those vessels have now moved
+further east from Malaysia to Singapore. USS Tulsa and USS Santa
+Barbara remain thousands of miles away from their primary assigned
+operating area in the Middle East, where the conflict with Iran grinds
+on...
+
+As to why the Navy sent two of its three mine hunters in the Middle
+East not just out of the line of fire, but literally across the globe
+at a time when the U.S. and its allies could be facing the mining of
+one of the world’s most critical waterways remains a mystery."
+
+---
+
+CNBC: "Oil jumps 4% as Iranian retaliatory strikes on Qatar’s key
+energy facility stoke supply worries"
+
+---
+
+"MIT Study Finds Artificial Intelligence Use Reprograms the Brain,
+Leading to Cognitive Decline"
+
+[[-]](https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/)
+
+---
+
+"Amazon is regretting AI" \#Bitar
+
+[[-]](https://m.youtube.com/watch?v=0vvVo0Um1HY)
+
+---
+
+I guess that was an Epstein files dig.. or a Charlie Kirk dig.. 
+
+---
+
+"Dan Bon-jina". A play on words of Dan Bongino? Made to rhyme with
+vajina? Is he calling him a p--sy??
+
+---
+
+"AI Coding Is Making Devs Miserable" \#theSeniorDev
+
+[[-]](https://youtu.be/8I_yeica3r4?t=486)
+
+---
+
+There is something wrong with the outputs "AI" produces.. Its
+legibility partly rests on humans interpreting it that way, in many
+ways, we fill in the blanks. But the output is crooked, even
+impercetibly so.. That's why when the output is fed into another llm
+as input during training, and this process is repeated a few times,
+the final output is garbage.
+
+---
+
+"AI Cognitive Debt: The Crisis Nobody Sees Coming"
+
+[[-]](https://m.youtube.com/watch?v=Tk0hIOAwf6M)
+
+---
+
+\#Davis \#TYT
+
+[[-]](https://youtu.be/twYQGl1sy4c?t=895)
+
+---
+
+Zack Polanski: "The very basics, the things we rely on to build the
+foundations of a good life, have been taken out of our hands, sold for
+profit – and then sold or rented back to us at crushing rates. The
+water that keeps us alive. The energy that warms us. The home that
+keeps us safe"
+
+---
+
+"@mttaggart@infosec.exchange
+
+Office 365 and Copilot are down.
+
+Run. Now's your chance. Don't look back; just GO"
+
+---
+
+"@gnome@floss.social
+
+We signed https://keepandroidopen.org/open-letter ! We strongly
+believe open ecosystems are of paramount importance for user freedom,
+and that is currently in danger for Android.
+
+---
+
+"We, the undersigned organizations representing civil society,
+nonprofit institutions, and technology companies, write to express our
+strong opposition to Google’s announced policy requiring all Android
+app developers to register centrally with Google themselves in order
+to distribute applications outside of the Google Play Store, set to
+take effect worldwide in the coming months."
+
+[[-]](https://keepandroidopen.org/open-letter/)
+
+---
+
+"AI is making CEOs delusional" \#MoBitar
+
+[[-]](https://youtu.be/Q6nem-F8AG8)
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+Add [this](https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/)
+to the long list of execs fucking up their entire company using GenAI
+- CEO decides he doesn’t want to pay $250m bonus to staff, asks
+ChatGPT how to avoid it, his legal team tell him ‘are u fuckin dumb’,
+he does it anyway, gets sued, and loses in court."
+
+---
+
+Wiki: "During the [1950] air campaign, conventional weapons including
+explosives, incendiary bombs, and napalm destroyed nearly all of North
+Korea’s villages, towns, and cities... The U.S. dropped approximately
+635,000 tons of bombs and 32,557 tons of napalm during the war, mostly
+on North Korea (compared to 503,000 tons in the entire Pacific theater
+in World War II). In other words, the United States dropped more bombs
+on North Korea during the Korean War than it had dropped on the entire
+Pacific theater during the Second World War"
+	
+---
+
+Analyst Mark Sleboda makes an interesting point, even though US might
+be running out of expensive missiles, it has nearly inexhaustable
+supply of glide bombs, JDAMs (Russia's FAB equivalent, a JDAM kit
+converts a "dumb bomb" into a glide bomb with short range). Of course
+a bomber needs to be close to enemy territory to drop them. Therein
+lies the issue, Iran's air defense is not dead yet (that means "US
+having achieved air superiority" is a lie). The question is can US
+take out Iranian air defense completely to start making use of their
+JDAM inventory? Iran and its allies will probably find ways to keep
+the air defense intact.
+
+But even in the case US succeeds, has air bombing campaigns ever force
+regime change? US bombed the hell out of North Korea in 1950, well
+that exact same regime is in charge today, perhaps more persistently
+so because the effort to unseat them was so draconian.
+
+---
+
+"@ethanschoonover@mastodon.social
+
+Do billionaires know about some sort of a game where if they hoard
+enough wealth and cripple society enough they get some prize? Like do
+they get raptured if they hit 2 trillion dollars? If so I'm sure we
+could come up with a shortcut for them."
+
+---
+
+"@metin@graphics.social
+
+150 nations warn that the obsession with growth is destroying nature"
+
+---
+
+"Iran is considering allowing limited oil tanker passage through the
+Strait of Hormuz on condition that cargo is traded in Chinese yuan, a
+senior Iranian official told CNN Friday"
 
 ---
 
