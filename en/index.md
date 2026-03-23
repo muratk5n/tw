@@ -88,7 +88,8 @@ because there won't be any oil going through it.
 ---
 
 Another stupid idea.. Iran has been hitting American bases all over
-the Gulf, US will be giving them a new target to strike at.
+the Gulf, US will be giving them a new target to strike at if they
+invade Chabahar or Konarak.
 
 ---
 
