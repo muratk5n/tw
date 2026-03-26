@@ -138,7 +138,7 @@
 * 2016
     * 11/02: Assad forces retake key Syrian highway
     * 15/02: Kurdish-backed forces take Syrian town
-    * 13/03: Ankara suicide bombing killed  37 people injured 125
+    * 13/03: Ankara suicide bombing killed 37 people injured 125
     * 19/03: Suicide bomb kills 4 in shopping street in Istanbul
     * 21/03: Iranian-TR businessman Zarrab implicated in earlier corruption scandal escapes to US possibly with a wealth of info on TR gov officials
     * 01/04: An Obama interview reveals he considers TR Pres a failure, an authoritarian, one who refuses to use his enormous army to bring stability to Syria
@@ -153,17 +153,15 @@
     * 19/12: Russian Ambassador to TR assasinated
     * 22/12: Syria's government recaptures all of Aleppo city
 * 2017
-    * 01/01: Nightclub terrorist attack in TR leaves 39 dead
+    * 01/01: The poshest, top TR nightclub (Reina) attacked by terrorists leaves 39 dead
     * 20/01: Trump becomes the new President
     * 16/03: Referendum grants new powers to TR President
     * 22/05: UK attacks: An Islamist extremist suicide bomber detonated a bomb as people were leaving the Manchester Arena following a concert. 23 people died, and 1,017 were injured
     * 05/06: Saudi Arabia, the United Arab Emirates, Bahrain and Egypt severed diplomatic relations with Qatar and banned Qatar-registered planes and ships from utilising their airspace and sea routes, along with Saudi Arabia blocking Qatar's only land crossing.
     * 09/07: Iraqi forces manage to take back Mosul from ISIS
     * 25/07: TR signs deal to buy Russian S-400 defense system    
-    * 25/09: Kurdish region in Iraq holds a referandum where most
-      voting for independence, Iraqi central government objects      
-    * 16/10: Iraqi government takes back Kirkuk from Kurds, an area
-      previously voted for independence, by force    
+    * 25/09: Kurdish region in Iraq holds a referandum where most voting for independence, Iraqi central government objects      
+    * 16/10: Iraqi government takes back Kirkuk from Kurds, an area previously voted for independence, by force    
     * 17/10: Raqqa, the ISIS capital, is captured by Kurdish, Arab forces (SDF) with US air support 
     * 03/11: Lebanon's PM Hariri held hostage in Saudi Arabia, handed a prewritten resignation speech and forced to read it on Saudi television. PM returns home 3 weeks later in a trip brokered by France, and suspended his resignation.
 * 2018
