@@ -1,5 +1,11 @@
 # Week 13
 
+<img width='340' src='../2023/nixon-salute.jpg'/> 
+
+Let's take a little break..
+
+---
+
 The Lever: "The Pentagon’s AI Gatekeeper Holds Stock In Anthropic’s
 Rival. As the Pentagon moves to blacklist Anthropic for pushing AI
 safeguards, the official leading the charge holds millions in a

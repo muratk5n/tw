@@ -1,6 +1,6 @@
-import pandas as pd, numpy as np, sys, datetime, requests, urllib.request
-import matplotlib.pyplot as plt, folium, json, os, fredapi
-from pandas_datareader import data
+import pandas as pd, numpy as np, sys, datetime, subprocess
+import matplotlib.pyplot as plt, folium, json, re, codecs
+import requests, urllib.request, os, fredapi
 
 def trump_approval():
     # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
@@ -17,6 +17,14 @@ def trump_approval():
     return df
 
 def get_pd(): return pd
+
+def llm1(prompt):
+    command = ["ollama", "run", "qwen3.5:397b-cloud", prompt]    
+    result = subprocess.run(command, capture_output=True, check=True)    
+    raw_output = result.stdout.decode('utf-8')
+    pattern = r"(?si)Thinking\.\.\..*?done thinking\.\n?"
+    clean_text = re.sub(pattern, "", raw_output)
+    print (clean_text.strip())
 
 def plot_crises():
     plt.axvspan('1980-01-01', '1982-11-01', color='y', alpha=0.5, lw=0)
@@ -99,7 +107,6 @@ def map_coords(center, coords, lines={}, zoom=5, colors={}, outfile="/tmp/out.ht
     m.save(outfile)
     
 if __name__ == "__main__": 
-    
     if sys.argv[1] == "approv":
         trump_approval()
     if sys.argv[1] == "usnavy":
