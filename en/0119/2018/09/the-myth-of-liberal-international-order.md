@@ -1,5 +1,7 @@
 # The Myth of the Liberal International Order
 
+George Friedman, Geopolitical Futures
+
 In the late 1700s, the philosopher Immanuel Kant put forth a vision of
 universal peace in which nations would subordinate themselves to
 principles and entities that would make this possible. Many shared
