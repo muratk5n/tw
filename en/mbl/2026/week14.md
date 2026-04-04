@@ -1,5 +1,81 @@
 # Week 14
 
+Futurism: "Almost Half of US Data Centers That Were Supposed to Open
+This Year Slated to Be Canceled or Delayed... The data centers
+powering your favorite AI chatbot are running low on helium, cash, and
+neighbors who don’t hate them, and that’s not even the worst of
+it. According to reporting by Bloomberg, about half of the data
+centers slated to open in the US in 2026 will either face delays or
+outright cancellations."
+
+---
+
+The geography was tough, that part is true.
+
+---
+
+People also forget a German was commanding the entire Ottoman Fifth
+Army at the time, Liman von Sanders, the "Grand Ancestor Turk"
+reported to him
+
+---
+
+So-called Turks make a big deal out of Gallipoli bcz their "Grand
+Ancestor Turk" made his mint there. On the Western side Kiwis and
+Ozzies (Anzac) have some ritual around those rememberences bcz bunch
+of their people died needlessly for King and Country that wasn't even
+theirs.
+
+---
+
+There are some comparisons being made btw Hormuz vs
+Gallipoli. Gallipoli attack could have succeeded, the battle was
+Britain's to lose. Ottomans won the battle simply by not making
+mistakes, acceptable but not a stellar performance. Nationalists lose
+their shit whenever Galipoli is mentioned.
+
+[[-]](../../2022/08/33-strategies.html#galipoli)
+
+---
+
+"@d4m1n@twitter.com
+
+So let me get this straight
+
+- OpenAI renamed their whole division 'AGI Deployment'
+
+- Jensen said AGI is 'already in the room'
+
+And then ARC-AGI-3 drops and on a scale from 0 to 100% SOTA models score:
+
+GPT-5.4: 0.26%
+
+Gemini Pro: 0.37%
+
+Claude Opus 4.6: 0.25%
+
+Grok: literally 0%
+
+meanwhile 100% of human testers solved every single environment. 
+
+first try. 
+
+no instructions. 
+
+no training. 
+
+AGI is 'in the room' brother it couldn't find the room"
+
+[[-]](https://twitter.com/d4m1n/status/2037145312259723547)
+
+---
+
+Jen Rubin: "No one.. should be surprised that the war may end with the
+United States and its allies (or, rather, countries that used to be
+allies) worse off than when the war started."
+
+---
+
 MIT Technology Review: "The Artemis program is supposed to usher in a
 new age of lunar mining, especially for water ice...  The moon is a
 treasure trove of valuable resources... But there’s one resource in
