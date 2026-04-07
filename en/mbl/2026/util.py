@@ -1,6 +1,6 @@
 import pandas as pd, numpy as np, sys, datetime, subprocess
 import matplotlib.pyplot as plt, folium, json, re, codecs
-import requests, urllib.request, os, fredapi
+import requests, urllib.request, os, fredapi, bdm
 
 def trump_approval():
     # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
@@ -17,6 +17,8 @@ def trump_approval():
     return df
 
 def get_pd(): return pd
+
+def get_bdm(): return bdm    
 
 def econ_stats():
     fig, axes = plt.subplots(3, 1)
