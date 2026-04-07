@@ -14,7 +14,7 @@ of the rich.
 
 A pet theory mine has been religion is created (or sent by God) to
 reintroduce hunter-gatherer concepts back into the society whose
-sclerotic farmer ways worsened the quality of life. A lot of religions
+arthritic farmer ways worsened the quality of life. A lot of religions
 have fasting. Well fasting simulates the day and the life of a typical
 hunter gatherer, sometimes you have food, sometimes you go
 hungry. Constant presence of protein, grains is somewhat inhuman,
@@ -196,3 +196,4 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
+     
