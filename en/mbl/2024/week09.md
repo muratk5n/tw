@@ -138,10 +138,10 @@ needs to get done ain't getting done.
 
 ```python
 df = u.get_pd().read_csv('prez.csv').set_index('year').sort_index()
-df.net_approval.plot(title="Incumbent President's Net Approval")
+df.net_approval.plot(title="Potus Net Approvals")
 ```
 
-[[-]](https://cdn.fosstodon.org/media_attachments/files/112/008/009/225/234/039/original/5f6d5205b3aa6e25.jpg)
+[[-]](https://media.mastodontech.de/media_attachments/files/116/367/420/726/364/135/original/b9b7f7dfc6c9d3df.jpg)
 
 ---
 

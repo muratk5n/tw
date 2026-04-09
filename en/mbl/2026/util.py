@@ -137,3 +137,5 @@ if __name__ == "__main__":
         trump_approval()
     if sys.argv[1] == "usnavy":
         map_usnavy("usnavy-0302.csv","map03.html")
+    if sys.argv[1] == "econ":
+        econ_stats()
