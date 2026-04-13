@@ -52,6 +52,20 @@ def llm2(prompt):
     
     print (clean_text.strip())
 
+def llm3(prompt):
+    command = ["ollama", "run", "gemma4:31b-cloud", prompt]    
+    result = subprocess.run(command, capture_output=True, check=True)    
+    raw_output = result.stdout.decode('utf-8')
+    pattern = r"(?si)Thinking\.\.\..*?done thinking\.\n?"
+    clean_text = re.sub(pattern, "", raw_output)
+    clean_text = clean_text.replace("\[","$$")
+    clean_text = clean_text.replace("\]","$$")
+    clean_text = clean_text.replace("\(","$")
+    clean_text = clean_text.replace("\)","$")
+    
+    print (clean_text.strip())
+
+    
 def plot_crises():
     plt.axvspan('1980-01-01', '1982-11-01', color='y', alpha=0.5, lw=0)
     plt.axvspan('1987-10-06', '1988-01-01', color='y', alpha=0.5, lw=0)

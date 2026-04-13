@@ -154,10 +154,6 @@ Interval: [47.45 50.47] Average: 48.96
 
 References
 
-[Time for Change](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/)
+[Time for Change](https://www.emory.edu/central/NEWS/Releases/time-for-change2.html)
 
 [Past Elections Check](prez-loo.html)
-
-
-
-
