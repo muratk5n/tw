@@ -22,6 +22,14 @@ and refineries."
 
 ---
 
+"@jalefkowit@vmst.io
+
+If you are wondering what the 'Tech Prosperity Corps' might be, it is
+apparently a new Peace Corps [program](https://www.peacecorps.gov/about-the-agency/media-center/news/peace-corps-launches-tech-prosperity-corps-initiative/)
+to send people into developing countries and tell them to use AI"
+
+---
+
 Harvard Business Review: "Researchers Asked LLMs for Strategic
 Advice. They Got 'Trendslop' in Return... Leaders might assume that
 LLMs are able to offer a kind of unbiased, outside
