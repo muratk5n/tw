@@ -114,6 +114,10 @@ i am announcing a third blockade on the strait"
 
 ---
 
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/406/814/725/135/745/original/c2363325733f721c.jpg'/>
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)

@@ -20,7 +20,7 @@ def get_pd(): return pd
 
 def get_bdm(): return bdm    
 
-def econ_stats():
+def stats1():
     fig, axes = plt.subplots(3, 1)
     df1 = get_fred(2025,"GASREGW")
     df1.plot(ax=axes[0],legend=False,title="Gas $/Gallon - " + str(float(df1.GASREGW.tail(1))))
@@ -28,6 +28,23 @@ def econ_stats():
     df2.plot(ax=axes[1],legend=False,title="Crude WTI $/Barrel - " + str(float(df2.DCOILWTICO.tail(1))))
     df3 = get_fred(2026,"SP500").interpolate()
     df3.plot(ax=axes[2],legend=False,title="S&P 500 - "  + str(float(df3.SP500.tail(1))) )
+    plt.tight_layout()
+    plt.savefig('/tmp/out.jpg')    
+
+def stats2():
+    fig, axes = plt.subplots(3, 1)
+    df1 = get_fred(2025,"GASREGW")
+    df1.plot(ax=axes[0],legend=False,title="Gas $/Gallon: " + str(float(df1.GASREGW.tail(1))))
+    df2 = get_fred(2025,"DCOILWTICO").interpolate()
+    df2.plot(ax=axes[1],legend=False,title="Crude WTI $/Barrel: " + str(float(df2.DCOILWTICO.tail(1))))
+    df3 = pd.read_csv('djt_approval.csv',index_col='Date')
+    df3.index = pd.to_datetime(df3.index,format='%d-%m-%Y')
+    df3 = df3.reindex(pd.date_range(start=df3.index.min(),
+                                    end=df3.index.max(),
+                                    freq='1D')).interpolate()    
+    df3['net'] = df3.Approve - df3.Disprove
+    df3['net'].plot(ax=axes[2],grid=True,title='POTUS Net Approval: ' + str(float(df3['net'].tail(1))) + '%' )
+
     plt.tight_layout()
     plt.savefig('/tmp/out.jpg')    
 
@@ -151,5 +168,7 @@ if __name__ == "__main__":
         trump_approval()
     if sys.argv[1] == "usnavy":
         map_usnavy("usnavy-0302.csv","map03.html")
-    if sys.argv[1] == "econ":
-        econ_stats()
+    if sys.argv[1] == "stats1":
+        stats1()
+    if sys.argv[1] == "stats2":
+        stats2()
