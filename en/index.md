@@ -97,12 +97,12 @@ also changes hands."
 
 "@gvwilson@mastodon.social
 
-Got this out of the blue: "I came across your work on GitHub and
+Got this out of the blue: 'I came across your work on GitHub and
 wanted to reach out. I acquire private production codebases and the
 operational artifacts around them—Jira tickets, PRDs, Notion pages,
 support threads, Figma files, etc. If you have any private repos or
 internal projects you've moved on from , I'd be interested in buying
-them. Same goes for any project management history." Presume it's
+them. Same goes for any project management history.' Presume it's
 someone trying to build a back story for an impersonation
 attack—anyone else seeing this?"
 
@@ -158,4 +158,3 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-   
