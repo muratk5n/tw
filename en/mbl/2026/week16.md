@@ -1,5 +1,88 @@
 # Week 16
 
+Fast Company: "Study finds asking AI for advice could be making you a
+worse person.. Just one interaction with an AI could lower your
+willingness to apologize or take accountability for harm done..
+
+The two-part study, titled 'Sycophantic AI decreases prosocial
+intentions and promotes dependence,' was recently published in the
+journal Science. The experiment made the case that using chatbots for
+personal advice and navigating emotional situations can be harmful
+because the system is designed to tell people what they want to
+hear. Using chatbots may reinforce troubling behavior rather than help
+people take accountability for harm and apologize.
+
+A recent Cognitive FX poll found that about 38% of Americans report
+using AI chatbots weekly for emotional support"
+
+---
+
+The Lever: "Offshore Accounts For Me, TurboTax For Thee.. While
+shutting down free direct filing for everyday taxpayers, the IRS is
+letting the ultrawealthy hide billions of dollars in foreign accounts."
+
+---
+
+"@katz_morris
+
+[Randy Villegas is] the only candidate in CA-22 who’s not beholden to
+corporations."
+
+---
+
+Trying out "nomato sauce". Some diets avoid "nightshades"; peppers,
+tomatos, eggplants, advise replacing tomato based sauces with ones
+without, ergo the name **no**mato. There is one using beets, carrots,
+spices, easy to make.
+
+---
+
+Woha.. That was some freak hallucination by LLM, it literally made up
+a formula on the PDF I gave it. Said "this line blah blah is wrong", I
+look the formula, it does not say that. 
+
+---
+
+"@voltooidverledentijd@voltooidverledentijd.noblogs.org
+
+Folks in Gaza, here’s some good news for you.
+
+A European Citizens’ Initiative that demands the full suspension of
+the EU-Israel Association Agreement in view of Israel’s violations of
+human rights is getting close to the required one million signatures."
+
+---
+
+"@mike_k@mstdn.social
+
+Australia increased its defence spending by reclassifying military
+pensions as defence spending. Hey presto, numbers go up.
+
+Just like that time Australia cut its greenhouse gas emissions by
+using an imaginary increase in logging as a baseline then measured
+actual logging against that. Hey presto, numbers go down."
+
+---
+
+Nearly as funny as the original *Bruce Almighty* scene 
+
+\#ArnoldAlmighty
+
+[[-]](https://youtu.be/pfyep_uRP9s)
+
+---
+
+ITPro: "Digital rights organizers warn UK is too reliant on big tech,
+urge digital sovereignty.. The Open Rights Group calls for open source
+tech to drive digital sovereignty in the UK public sector and protect
+national security"
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/FLKZnVB4F9k" title="Happy Tax Day, New York. We&#39;re taxing the rich." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Politico: "Bipartisan Senate legislation with White House
 backing would require mega-landlords like Wall Street firms to sell
 their properties after several years — one of multiple ways that
