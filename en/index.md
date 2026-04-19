@@ -1,4 +1,19 @@
 
+Pinned Posts
+
+"America's Abandoned Reactor Just Went Live — In India"
+
+[[-]](https://youtu.be/59baRR1wC14?t=205)
+
+---
+
+Al Jazeera: "India’s nuclear leap: Why its fast breeder reactor
+success matters.. India’s most advanced reactor has set the country on
+a path towards potentially cutting its dependence on uranium — and
+instead using the much more abundant thorium."
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
