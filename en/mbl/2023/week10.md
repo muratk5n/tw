@@ -289,6 +289,14 @@ energy?
 
 ---
 
+I have [double](../0119/2011/double-facepalm.jpg),
+[triple](../0119/2017/triple_facepalm.jpg),
+[quadruple](../2020/quadruple-facepalm.jpg), 
+[quintuple](../2020/quint-facepalm.jpg), and now
+[hexadic](hexadic_facepalm.jpg)
+
+---
+
 [Link](hexadic_facepalm.jpg)
 
 ---

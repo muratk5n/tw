@@ -45,8 +45,8 @@ contribute a portion of their time to the public for free.
 
 ---
 
-I have [double](../2011/double-facepalm.jpg),
-[triple](../2017/triple_facepalm.jpg),
+I have [double](../0119/2011/double-facepalm.jpg),
+[triple](../0119/2017/triple_facepalm.jpg),
 [quadruple](../2020/quadruple-facepalm.jpg), and
 [quintuple](../2020/quint-facepalm.jpg). I might have to do
 a sextuple version soon.
