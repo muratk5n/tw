@@ -35,7 +35,7 @@ yet to officially explain why."
 
 ---
 
-[Link](ttps://media.mastodontech.de/media_attachments/files/116/450/215/125/476/805/original/ecd30d0976ca286d.jpg)
+[Link](https://media.mastodontech.de/media_attachments/files/116/450/215/125/476/805/original/ecd30d0976ca286d.jpg)
 
 ---
 
