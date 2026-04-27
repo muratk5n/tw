@@ -199,6 +199,17 @@ energy infrastructure."
 
 ---
 
+Another proof JFK assasination was the work of the surface state, the
+private complex and LBJ.
+
+---
+
+LBJ ducked, as if he knew what was happening
+
+[[-]](https://youtu.be/BP12TT24nok?t=160)
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
