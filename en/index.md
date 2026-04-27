@@ -13,6 +13,16 @@ instead using the much more abundant thorium."
 
 ---
 
+Futurism: "Almost Half of US Data Centers That Were Supposed to Open
+This Year Slated to Be Canceled or Delayed"
+
+---
+
+F24: "AI is alredy getting boring"
+
+[[-]](https://youtu.be/JKbezr4yZ6c?t=94)
+
+---
 
 "@ketan@climatejustice.social
 
