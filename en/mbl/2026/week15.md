@@ -48,8 +48,9 @@ For some reason while thinking one for Medvedev I thought I had to
 pick a Brit. So I picked Hugh Laurie. Then I found out in Russia
 people already say Medvedev looks a lot like Emperor Nicholas II, who
 was the first cousin of King George V of United Kingdom who looked
-like his twin. That must have been the "Britness vibe".. That is
-probably an insult to any Russian government figure.
+like his twin. That must have been the "Britness vibe" I was
+getting.. Which is probably an insult to any government figure in
+Russia.
 
 ---
 

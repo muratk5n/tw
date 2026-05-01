@@ -1,5 +1,187 @@
 # Week 18
 
+The Lever: "[I]t’s time to.. do something that’s.. long overdue:
+reinstating the drug pricing rule imposed by.. H.W. Bush’s
+administration. In 1989, Bush’s National Institutes of Health asserted
+the power to require that medicines developed at taxpayer expense be
+offered to American taxpayers at a 'reasonable' price. The idea was
+common sense: If the public spent money to help develop a drug, the
+public’s return on such investment should be affordable prices for
+that drug. Six years later, however, the Clinton administration bowed
+to pharmaceutical industry lobbying and rescinded the rule."
+
+---
+
+Reddit: "'Is there a real way to shut off the Google AI overview
+for searches?'
+
+'Hate this shit knowing the energy draw this uses feels like everytime
+I google something I'm shooting a flaming arrow into the amazon'
+
+'I'm the same, it's the reason I want to turn it off. I suspect that
+using an extension to hide it, literally only does that, hide it, and
+you are still using the extra energy when you google something...'
+
+'I googled how to turn it off, and I got the AI overview of course,
+and it hallucinated a ridiculous answer apparently based on the
+previews of the first 3 search results below it!'"
+
+---
+
+Businesses are not great places to innovate. They are the *last mile*
+in economies. They are a side show, not the real deal even though the
+(corporate) media presents them as such. Its people are stupider. Its
+values are shoddier. It lives hand-to-mouth and never has the energy
+to look beyond monetary returns.
+
+---
+
+Google wrote a good paper on Attention back in the day, but they did
+not follow through on it themselves, being a commercial organization
+that typically kill innovation. Google jumped on the bandwagon after
+the LLM approach was developed to its current state by others.
+
+---
+
+The Transformer / Attention technology that allowed the recent LLM
+advances rose from academia, and a non-profit org (the initial
+OpenAI). Only they had the bandwidth to be courageous in a new
+approach as they did not have to worry about monetary returns. In a
+purely for-profit context LLMs would cease to be. All this "AI" money
+making requires a non-money-making origin. Isn't that sad? What does
+that say about capitalism?
+
+---
+
+LLMs train almost exclusively on open source code.. Good thing someone
+thought that up, yes? Making humanity's work available to all... If
+all code was commercialized LLMs would never exist.
+
+---
+
+Where would "AI" be without open source?
+
+---
+
+Politico: "When Bernie Sanders moved last April to block a U.S. arms
+sale to Israel, only 14 Democratic senators joined the Vermont
+independent. What a difference a year makes: When Sanders objected to
+another Israeli arms sale this month, 39 other members of the Senate
+Democratic Caucus joined him - a sea change that has raised eyebrows
+from Washington to Jerusalem."
+
+---
+
+We ain't gonna reach "green economy" with more lithium-ion batteries,
+more power lines.
+
+---
+
+Would be nice if someone can come up with better designs for small /
+mid size needs, like cars, trucks. Electric vehicles suffer from the
+"lithium problem" making them unviable for the mass market.
+
+---
+
+Interesting Engineering: "China develops iron battery 80 times cheaper
+than lithium.. The battery prototype demonstrated endurance,
+maintaining a stable structure and perfect reversibility over 6,000
+cycles — equivalent to more than 16 years of daily operation — with
+zero loss in storage capacity... The development arrives as the
+international race to develop iron-based flow batteries accelerates,
+with the technology increasingly viewed as the most viable successor
+to lithium-ion for large-scale grid storage"
+
+---
+
+Nature: "Can China’s Great Green Wall shape efforts to keep the
+world’s deserts at bay?.. Arid regions are spreading, owing to global
+warming. By 2100, half of Earth’s land area is expected to be
+dryland3, with five billion inhabitants1. And human activities such as
+agriculture are exacerbating problems by removing protective
+vegetation, compacting and degrading soil and reducing the land’s
+capacity to retain water.
+
+To meet this challenge, many countries have set up large programmes to
+combat desertification. One of the largest is China’s Three-North
+Shelterbelt programme, also known as the Great Green Wall of China."
+
+<img width='340' src='https://media.nature.com/w1248/magazine-assets/d41586-026-01102-w/d41586-026-01102-w_52266082.jpg?as=webp'/>
+
+---
+
+The UK paper is about to do a hat dance they are so happy.. "Russia is
+beaten back"!
+
+But by whom? Well jihadis of course.. (All on their own I am sure)
+
+---
+
+The Times: "Russian forces beaten back by al-Qaeda militants in Mali"
+
+---
+
+"@therightarticle@mas.to
+
+The neoliberal playbook in 5 steps:
+
+1. Cut public funding until services collapse
+
+2. Point at the collapse and say 'government doesn’t work.'
+
+3. Sell the fix to private companies
+
+4. Deregulate everything they touch
+
+5. Repeat until no one remembers it was a choice"
+
+---
+
+"@WesternInfidels@mefi.social
+
+They force-fed Copilot into Notepad:
+
+[Link](https://futurism.com/artificial-intelligence/microsoft-added-ai-notepad-security-flaw)
+
+When people didn’t like that, they addressed the matter... with branding:
+
+[Link](https://www.analyticsinsight.net/tech-news/microsoft-replaces-copilot-in-windows-11-notepad-with-writing-tools-update)"
+
+---
+
+"@codinghorror@infosec.exchange
+
+I am continually amazed that Microsoft managed to make `notepad.exe`
+-barely an app in the first place- WORSE. Like, A LOT WORSE. This some
+Ig Nobel Prize worthy bullshit."
+
+---
+
+"Each LLM version better than previous and requires more compute, so
+we need more hardware". Not true. "Step change" via scaling crashed
+into a brick wall of initial architecture choices (certain type of
+neural nets). From this point on, it is only cosmetic changes here and
+there. AGI is beyond reach with the existing architecture.
+
+---
+
+The Lever: "After the 2024 election, a schism in the Democratic Party
+quickly widened. The party’s corporate faction.. decided the lesson of
+the election wasn’t that voters were sick of an oligarch-appeasing
+party, but that operatives should better coordinate shadowy shell
+organizations and slush funds of billionaire cash to match
+Republicans...
+
+Today, this simmering conflict went from muted and subtle to blatant
+and explicit.. Over the weekend, The Lever published a blockbuster
+report exposing a billionaire-funded political machine.. our reporters
+detail how this machine of super PACs and overlapping donors and
+operatives seems to be edging right up to the legal lines of
+anti-corruption laws prohibiting various forms of coordination between
+outside entities, consultants, and candidates [to supress the left]."
+
+---
+
 Futurism: "Almost Half of US Data Centers That Were Supposed to Open
 This Year Slated to Be Canceled or Delayed"
 

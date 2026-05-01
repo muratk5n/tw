@@ -224,7 +224,7 @@ ashamed of being a Jew"
 
 ---
 
-[Link](mbl/2023/billclintonep2.jpg)
+[Link](../2023/billclintonep2.jpg)
 
 ---
 
@@ -335,7 +335,7 @@ If you find the right hammer, every problem can be a nail
 
 \#Ukraine 03/31 - 04/22
 
-[[-]](mbl/2026/ukrdata/map07.html)
+[[-]](ukrdata/map07.html)
 
 ---
 

@@ -43,7 +43,8 @@ def stats2():
                                     end=df3.index.max(),
                                     freq='1D')).interpolate()    
     df3['net'] = df3.Approve - df3.Disprove
-    df3['net'].plot(ax=axes[2],grid=True,title='POTUS Net Approval: ' + str(float(df3['net'].tail(1))) + '%' )
+    tmp = np.round(float(df3['net'].tail(1)),1)
+    df3['net'].plot(ax=axes[2],grid=True,title='POTUS Net Approval: ' + str(tmp) + '%' )
 
     plt.tight_layout()
     plt.savefig('/tmp/out.jpg')    
