@@ -130,7 +130,7 @@ in the direction to make LLM pass the test. Integrating legacy
 systems, the overall architecture of the code still needs to be
 designed. This is still a huge area for outside experts. Johnny
 Jerkoff from marketing will not be able to vibe code an entire
-application for this firm.
+application for his org.
 
 My guess is companies will still hire consultancies, still pay them
 millions to deliver projects bcz they will need that overall
