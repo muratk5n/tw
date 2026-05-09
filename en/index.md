@@ -72,9 +72,9 @@ state / citizen conflicts (hello, Kurds), and intellectuals, who are
 the carriers of the national narrative, are not able to address
 problems because they have blinders on. Regular people have the luxury
 here to nod along when confronted with the bizarre requests of their
-ill-defined national identity - they can mostly ignore it. The state
-and elites however get a pie in the face year after year bcz they
-can't escape the severe effects of the "original sin".
+ill-defined national identity - otherwise they can mostly ignore
+it. The state and elites however get a pie in the face year after year
+bcz they can't escape the severe effects of the "original sin".
 
 ---
 
@@ -107,11 +107,11 @@ seniors are. We shot them. Nobody will remember."
 ---
 
 The left needs to create a *litmus test* for centrists trying to act
-left. For decades there was a litmus test applied to them, to economic
-left, now it is time for payback. Ever since the 90s, if you didn't
-say the right (!) words on labor, globalization, capital, you were
-shunned in the Democratic Party and its related corporate
-apparatus. Now the faux left need to get what's coming for them.
+left. For decades there was a litmus test applied to economic left,
+now it is time for payback. Ever since the 90s, if you didn't say the
+right (!) words on labor, globalization, capital, you were shunned in
+the Democratic Party and its related corporate apparatus. Now the faux
+left need to get what's coming for them.
 
 ---
 
@@ -126,18 +126,18 @@ Little consultant insider joke..
 Software delivery is more than writing code. Even with "agentic
 coding" someone needs to prepare the test that the code conforms to so
 "the agent" can go through its loop nudging the hallucination machine
-in the direction to make LLM pass the test. Integrating to legacy
+in the direction to make LLM pass the test. Integrating legacy
 systems, the overall architecture of the code still needs to be
 designed. This is still a huge area for outside experts. Johnny
 Jerkoff from marketing will not be able to vibe code an entire
-project.
+application for this firm.
 
 My guess is companies will still hire consultancies, still pay them
-millions to deliver projects bcz they will need the overall
+millions to deliver projects bcz they will need that overall
 package. The consultants will come in, business process guys in their
 turtlenecks, they're gonna do their meetings, the will "drill down",
 have "sidebar meetings", prepare a "scope document". The client will
-pay them lota Benjamins and they will be happy about it.
+pay lota Benjamins and they will be happy about it.
 
 ---
 
