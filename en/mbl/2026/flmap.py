@@ -419,6 +419,8 @@ def map_ukraine_suriyak():
     reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
     reg_ext3 = "Kursk-Russian Armed Forces 1"
     reg_ext4 = "Kursk-Russian Armed Forces 2"    
+    reg_ext5 = "Polígono 81"    
+    reg_ext6 = "Polígono 84"    
     
     content = open("/tmp/ukraine.kml").read()
 
@@ -430,6 +432,8 @@ def map_ukraine_suriyak():
     rrrs.append(np.array(cext2_coords))
     cext3_coords = get_coords_for_label(content, reg_ext3)
     cext4_coords = get_coords_for_label(content, reg_ext4)
+    cext5_coords = get_coords_for_label(content, reg_ext5)
+    cext6_coords = get_coords_for_label(content, reg_ext6)
 
 
     polys = []
@@ -438,7 +442,15 @@ def map_ukraine_suriyak():
     res = unary_union(polys)    
     cext3_cext4 = list(res.exterior.coords)
     cext3_cext4 = np.array(cext3_cext4)[350:1000]
-    rrrs.append(cext3_cext4)
+    rrrs.append(cext3_cext4)    
+          
+    polys = []
+    polys.append(Polygon(cext5_coords))
+    polys.append(Polygon(cext6_coords))
+    res = unary_union(polys)    
+    cext5_cext6 = list(res.exterior.coords)
+    cext5_cext6 = np.array(cext5_cext6)
+    rrrs.append(cext5_cext6)    
           
     polys = []
     for i,reg in enumerate(regs):
