@@ -22,18 +22,18 @@ print (df['growann'].tail(5))
 ```
 
 ```text
-DATE
-2024-07-01    3.340153
-2024-10-01    1.852227
 2025-01-01   -0.648483
 2025-04-01    3.838033
 2025-07-01    4.375396
+2025-10-01    0.482248
+2026-01-01    1.989722
 Name: growann, dtype: float64
 ```
 
 ```python
 df = u.get_fred(1970,'GDPC1')
 df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
+print (df[['gdpyoy']].tail(6))            
 df = u.get_fred(1970,'CPIAUCNS')
 df['inf'] = (df.CPIAUCNS - df.CPIAUCNS.shift(12)) / df.CPIAUCNS.shift(12) * 100.0
 df['inf'] = df['inf'].interpolate()
@@ -42,21 +42,19 @@ print (df[['inf']].tail(6))
 
 ```text
               gdpyoy
-DATE                
-2024-04-01  3.126632
-2024-07-01  2.791390
 2024-10-01  2.399788
 2025-01-01  2.019273
 2025-04-01  2.080467
 2025-07-01  2.335168
+2025-10-01  1.989300
+2026-01-01  2.659722
                  inf
-DATE                
-2025-07-01  2.704902
-2025-08-01  2.916174
-2025-09-01  3.012677
 2025-10-01  2.873881
 2025-11-01  2.735084
 2025-12-01  2.677081
+2026-01-01  2.386431
+2026-02-01  2.414113
+2026-03-01  3.256420
 ```
 
 <a name='taylor'></a>
@@ -79,12 +77,11 @@ plt.savefig('quits.png')
 ```
 
 ```text
-DATE
-2025-07-01    2.0
-2025-08-01    1.9
-2025-09-01    2.0
-2025-10-01    1.9
 2025-11-01    2.0
+2025-12-01    2.0
+2026-01-01    2.0
+2026-02-01    1.9
+2026-03-01    2.0
 Name: JTSQUR, dtype: float64
 ```
 
@@ -135,19 +132,17 @@ plt.savefig('pay-wage.png')
 ```
 
 ```text
-DATE
-2025-08-01    3.898249
-2025-09-01    3.752469
-2025-10-01    3.706133
-2025-11-01    3.760628
-2025-12-01    3.553962
+2025-12-01    3.816047
+2026-01-01    3.734979
+2026-02-01    3.722888
+2026-03-01    3.546099
+2026-04-01    3.666774
 Name: wageyoy, dtype: float64
-DATE
-2025-08-01    0.892620
-2025-09-01    0.807888
-2025-10-01    0.670632
-2025-11-01    0.540288
-2025-12-01    0.367430
+2025-12-01    0.073271
+2026-01-01    0.204716
+2026-02-01    0.079591
+2026-03-01    0.154063
+2026-04-01    0.158375
 Name: nfpyoy, dtype: float64
 ```
 
@@ -178,12 +173,11 @@ plt.savefig('compprof.png')
 
 ```text
               profgdp    compgva
-DATE                            
-2024-07-01  11.669942  55.635119
-2024-10-01  12.370285  54.699962
-2025-01-01  11.103680  54.156237
-2025-04-01  11.008092  53.442139
-2025-07-01  11.548463  52.437017
+2025-01-01  11.103680  56.805512
+2025-04-01  11.008092  56.056481
+2025-07-01  11.548463  54.812580
+2025-10-01  12.068435  53.783457
+2026-01-01  11.904120  53.783457
 ```
 
 ![](compprof.png)
@@ -267,15 +261,13 @@ plt.savefig('profitmargin.png')
 
 ```text
                   CP    FINSLC1         PM
-DATE                                      
-2024-10-01  3689.460  23530.836  15.679256
-2025-01-01  3335.780  23340.500  14.291810
 2025-04-01  3355.897  23765.563  14.120839
 2025-07-01  3591.344  24029.136  14.945789
+2025-10-01  3792.207  24049.784  15.768154
+2026-01-01  3792.207  24144.450  15.706330
 ```
 
 ![](profitmargin.png)
-
 
 ## Finance
 
@@ -284,22 +276,18 @@ Dollar
 <a name='dollar'></a>
 
 ```python
-df = u.get_yahoo_ticker2(1980, "DX-Y.NYB").interpolate()
-print (df.tail(4))
-m,s = df.mean(),df.std()
-print (np.array([m-s,m+s]).T)
+df = u.get_yahoo_ticker(1980, "DX-Y.NYB").interpolate()
 df.tail(1000).plot()
 plt.grid(True)
 plt.savefig('dollar.png')
 ```
 
 ```text
-              DX-Y.NYB
-2026-03-18  100.089996
-2026-03-19   99.230003
-2026-03-20   99.440502
-2026-03-20   99.651001
-[[ 81.85408771 111.5262342 ]]
+             DX-Y.NYB
+2026-05-07  98.250000
+2026-05-08  97.839996
+2026-05-10  97.908497
+2026-05-11  97.976997
 ```
 
 ![](dollar.png)
@@ -328,24 +316,20 @@ plt.savefig('schiller.jpg')
 Junk Bond Yields
 
 ```python
-df = u.get_fred(1980,['BAMLH0A2HYBEY'])
+df = u.get_fred(1980,'BAMLH0A2HYBEY')
 print (df.tail(6))
 df.plot()
-plt.axvspan('2001-03-03', '2001-10-27', color='y', alpha=0.5, lw=0)
-plt.axvspan('2007-12-22', '2009-05-09', color='y', alpha=0.5, lw=0)
-df.BAMLH0A2HYBEY.tail(1).plot(style='r.',markersize=10)
 plt.savefig('junkbond.png')
 ```
 
 ```text
             BAMLH0A2HYBEY
-DATE                     
-2026-01-15           6.62
-2026-01-16           6.58
-2026-01-19           6.58
-2026-01-20           6.70
-2026-01-21           6.62
-2026-01-22           6.60
+2026-04-30           7.14
+2026-05-01           7.07
+2026-05-04           7.14
+2026-05-05           7.11
+2026-05-06           7.01
+2026-05-07           7.09
 ```
 
 ![](junkbond.png)
@@ -367,10 +351,9 @@ plt.savefig('treasuries.png')
 
 ```text
             DGS3MO  DGS2  DGS10  FEDFUNDS
-DATE                                     
-2026-01-20    3.70  3.60   4.30      3.72
-2026-01-21    3.70  3.60   4.26      3.72
-2026-01-22    3.71  3.61   4.26      3.72
+2026-05-05    3.69  3.93   4.43      3.64
+2026-05-06    3.69  3.87   4.36      3.64
+2026-05-07    3.69  3.92   4.41      3.64
 ```
 
 ![](treasuries.png)
@@ -392,11 +375,10 @@ plt.savefig('tcurve.jpg')
 ```
 
 ```text
-DATE
-2026-01-19    0.675
-2026-01-20    0.700
-2026-01-21    0.660
-2026-01-22    0.650
+2026-05-04    0.50
+2026-05-05    0.50
+2026-05-06    0.49
+2026-05-07    0.49
 Name: inv, dtype: float64
 ```
 
@@ -427,7 +409,7 @@ Name: inv, dtype: float64
 VIX
 
 ```python
-df = u.get_yahoo_ticker2(2000,"^VIX")
+df = u.get_yahoo_ticker(2000,"^VIX")
 df.plot()
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 print (df.tail(7))
@@ -435,14 +417,14 @@ plt.savefig('vix.png')
 ```
 
 ```text
-             ^VIX
-2026-01-14  16.75
-2026-01-15  15.84
-2026-01-16  15.86
-2026-01-20  20.09
-2026-01-21  16.90
-2026-01-22  15.64
-2026-01-23  16.09
+                 ^VIX
+2026-05-01  16.990000
+2026-05-04  18.290001
+2026-05-05  17.379999
+2026-05-06  17.389999
+2026-05-07  17.080000
+2026-05-08  17.190001
+2026-05-11  18.240000
 ```
 
 ![](vix.png)
@@ -495,11 +477,10 @@ plt.savefig('debt.png')
 ```
 
 ```text
-DATE
-2025-08-01    16270.795507
-2025-09-01    16307.677622
-2025-10-01    16337.376870
-2025-11-01    16350.976993
+2025-12-01    16081.263402
+2026-01-01    16030.888061
+2026-02-01    16058.652842
+2026-03-01    16136.675191
 Freq: MS, Name: debt, dtype: float64
 ```
 
@@ -553,7 +534,6 @@ plt.savefig('gini.png')
 ```
 
 ```text
-DATE
 2024-10-01    0.440
 2025-01-01    0.440
 2025-04-01    0.440
@@ -584,7 +564,6 @@ plt.savefig('top10-2.jpg')
 
 ```text
               Top 10%  Bottom 50%
-DATE                             
 2024-10-01  67.410590    2.480988
 2025-01-01  67.182930    2.490884
 2025-04-01  67.506484    2.482505
@@ -593,30 +572,26 @@ DATE
 
 ![](top10-2.jpg)
 
-<a name='household'></a>
+<a name='livingst'></a>
 
-## Household Income
+## Living Standards Index
 
 ```python
-df = u.get_fred(1980, ['MEHOINUSA646N','TDSP','CPIAUCSL'])
-df = df.interpolate()
-df = df.dropna()
-
-cpi = float(df.tail(1).CPIAUCSL)
-df['cpi2'] = cpi / df.CPIAUCSL 
-df['household income'] = df.MEHOINUSA646N * df.cpi2 
-df['household income'].plot()
-t1 = float(df.head(1)['household income'])
-t2 = float(df.tail(1)['household income'])
-print ("Perc change since the 80s = %0.2f" % ((t2-t1) / t2 * 100))
-plt.savefig('household.jpg')
+targets = ['MSPUS','HLTHSCPCHCSA','CUSR0000SEEB','CPIAUCSL']
+income = ['MEHOINUSA646N']
+df = u.get_fred(1992, income + targets)
+df['MEHOINUSA646N'] = df['MEHOINUSA646N'].interpolate(method='linear')
+df = df.interpolate(method='linear')
+ratios_df = df.copy()
+for col in targets:
+    ratios_df[col] = ratios_df[income[0]] / ratios_df[col]
+normalized_df = ratios_df[targets] / ratios_df[targets].iloc[0]
+ratios_df['super_index'] = normalized_df.mean(axis=1)
+ratios_df['super_index'].plot(title='Living Standards Index', grid=True)
+plt.savefig('livingst.jpg')
 ```
 
-```text
-Perc change since the 80s = 5.85
-```
-
-![](household.jpg)
+![](livingst.jpg)
 
 ## Real Estate
 
@@ -655,12 +630,11 @@ print (df.tail(5))
 
 ```text
             XTEXVA01CNM667S
-DATE                       
-2025-07-01     3.117593e+11
-2025-08-01     3.184701e+11
-2025-09-01     3.143941e+11
-2025-10-01     3.019760e+11
-2025-11-01     3.245657e+11
+2025-08-01     3.177898e+11
+2025-09-01     3.158886e+11
+2025-10-01     3.083828e+11
+2025-11-01     3.232409e+11
+2025-12-01     3.237949e+11
 ```
 
 ![](exchina.jpg)

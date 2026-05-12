@@ -20,6 +20,14 @@ def get_pd(): return pd
 
 def get_bdm(): return bdm    
 
+def two_plot(df, col1, col2):
+    plt.figure(figsize=(12,5))
+    ax1 = df[col1].plot(color='blue', grid=True, label=col1)
+    ax2 = df[col2].plot(color='red', grid=True, label=col2,secondary_y=True)
+    h1, l1 = ax1.get_legend_handles_labels()
+    h2, l2 = ax2.get_legend_handles_labels()
+    plt.legend(h1+h2, l1+l2, loc=2)
+    
 def stats1():
     fig, axes = plt.subplots(3, 1)
     df1 = get_fred(2025,"GASREGW")
@@ -138,13 +146,20 @@ def elev_at(lat,lon):
     res = response.text
     return int(json.loads(res)[0])
 
-def get_fred(year,series):
+def get_fred(year, series_list):
+    if isinstance(series_list, str):
+        series_list = [series_list]        
     params = json.loads(open(os.environ['HOME'] + "/.twkeys.json").read())
     api_key = params["fred"]
+    
     start_date = f"{year}-01-01"
     f = fredapi.Fred(api_key=api_key)
-    data = f.get_series(series,observation_start=start_date)
-    df = pd.DataFrame(data, columns=[series])    
+    
+    data_dict = {}
+    for series in series_list:
+        data_dict[series] = f.get_series(series, observation_start=start_date)
+    
+    df = pd.DataFrame(data_dict)    
     return df
 
 def flip_c(arg):
