@@ -1,6 +1,6 @@
 # Week 20
 
-[GINI calculation](2021/01/stats.html#gini) shows some of the same
+[GINI calculation](../../2021/01/stats.html#gini) shows some of the same
 patterns as the compute below. How? GINI looks at wealth distribution,
 its data is wealth of key percentiles. Living standard index uses
 income for *one* group, and looks at what they would spend their money
