@@ -100,7 +100,6 @@ def plot_crises():
     plt.axvspan('2007-12-22', '2009-05-09', color='y', alpha=0.5, lw=0)
     plt.axvspan('2020-01-03', '2020-07-09', color='y', alpha=0.5, lw=0)    
     
-
 def get_yahoo_ticker(year, ticker):
     d1 = datetime.datetime.strptime(str(year) + "-01-01", "%Y-%m-%d").timestamp()
     d2 = datetime.datetime.now().timestamp()    
@@ -120,6 +119,16 @@ def get_yahoo_ticker(year, ticker):
     ts = [datetime.datetime.fromtimestamp(x).strftime("%Y-%m-%d") for x in ts]
     df = pd.DataFrame(adjclose,index=pd.to_datetime(ts),columns=[ticker])
     return df
+
+def get_yahoo_tickers(year,tickers):
+    res = []; cols = []
+    for ticker in tickers:
+        p = get_yahoo_ticker(year,ticker)
+        res.append(p)
+    
+    dfall = pd.concat(res,axis=1)
+    dfall.columns = tickers
+    return dfall
 
 def data_synth_1():
    N = 200

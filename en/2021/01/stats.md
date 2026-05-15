@@ -429,6 +429,35 @@ plt.savefig('vix.png')
 
 ![](vix.png)
 
+<a name='fear'></a>
+
+Fear Index - Rolling 200d Correlation
+
+```python
+df = u.get_yahoo_tickers(2010, ["^SP100","SPY","^SPXEW"])
+returns = df.pct_change()
+rolling_corr = returns.rolling(window=200).corr()
+plot_df = pd.DataFrame(index=df.index)
+plot_df['OEX-SPX'] = rolling_corr.xs('^SP100', level=1)['SPY']
+plot_df['SPW-OEX'] = rolling_corr.xs('^SPXEW', level=1)['^SP100']
+plot_df['SPX-SPW'] = rolling_corr.xs('SPY', level=1)['^SPXEW']
+plt.figure(figsize=(12, 7))
+plt.plot(plot_df['OEX-SPX'], color='black', label='OEX-SPX', linewidth=1.5)
+plt.plot(plot_df['SPW-OEX'], color='#00adef', label='SPW-OEX', linewidth=1.5)
+plt.plot(plot_df['SPX-SPW'], color='#135a28', label='SPX-SPW', linewidth=1.5)
+plt.ylim(0.5, 1.1)
+plt.grid(axis='y', alpha=0.3)
+plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1), ncol=3, frameon=False)
+for spine in ['top', 'right', 'left']:
+    plt.gca().spines[spine].set_visible(False)
+
+plt.tight_layout()
+plt.savefig('fear.jpg')
+```
+
+![](fear.jpg)
+
+
 ## Wealth, Debt
 
 <a name='credit'></a>
