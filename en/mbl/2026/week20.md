@@ -1,5 +1,221 @@
 # Week 20
 
+\#GotMoney
+
+[[-]](https://youtu.be/1ohYsK5Y8Dc?t=13)
+
+---
+
+Defense stocks up by 50% compared to last year. MIC is making munee
+hand over fist.
+
+---
+
+```
+df = u.get_yahoo_tickers(2024, ["XAR"])
+df.plot(title='State Street S&P Aerospace & Defense ETF')
+(df/df.shift(252)-1).tail(3)
+```
+
+```text
+                 XAR
+2026-05-12  0.519799
+2026-05-13  0.505674
+2026-05-14  0.488696
+```
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/578/169/871/890/207/original/43ecd582eb17e5d9.jpg'/>
+
+---
+
+Native Apps Should Be Avoided Whenever Possible.. Openly refuse apps,
+and vocally advocate for the web instead.. Most native apps collect
+far more data than their website equivalents ever could. They request
+permissions to hardware, sensors, and background processes that
+browsers deliberately restrict. The third-party software embedded in
+these apps frequently transmits your location, device identifiers, and
+behavioral data to third parties before you even see a consent
+prompt. This data is in tandem bought, sold, and aggregated by
+brokers.
+
+---
+
+"@benlockwood@ecoevo.social
+
+Capitalism provides us with an abundance of things we don’t need
+(pollution, micro plastics, ultra processed foods, stress, debt) and a
+scarcity of the things we do (free time, clean air, healthy food,
+relaxation). But the scarcity is artificial, and a better life beyond
+capitalism is possible."
+
+---
+
+"@Hex@kolektiva.social
+
+LLMs can do a lot of the work people are tasked with doing on a
+regular basis, because a lot of the work people do is bullshit. The
+majority of what we do isn't to achieve any goal, it's a way to
+distribute just enough wealth to keep things calm while keeping us all
+too busy to actually make things better.
+
+We aren't paid to make stuff or do things. We're paid not to
+riot. Elites used to know that. The fact that they've forgotten how
+the machine works is evident in its current implosion, and will only
+become more obvious as they forget the one thing that actually keeps
+them safe."
+
+---
+
+TDB: "Trump Leaves China and Instantly Starts Hyping Communist-Style Park"
+
+---
+
+EnerVenue: "Today's most widely deployed battery solution,
+lithium-ion, was not built for the long-term requirements energy
+infrastructure poses. The clearest indication: Large scale energy
+infrastructure developers are actively searching for new solutions to
+replace lithium-ion ESS..
+
+In the 1980s, NASA deployed nickel-hydrogen battery technology for
+missions where failure was not an option and replacement was nearly
+impossible. That chemistry powered the Hubble Space Telescope and the
+International Space Station for decades, accumulating more continuous
+operational hours than any other battery chemistry ever built.
+
+<img width='340' src='https://miro.medium.com/v2/resize:fit:1100/format:webp/0*mydhUgTJYMPGTqte.jpg'/>
+
+Stanford University's Prof. Yi Cui—one of the world's preeminent
+material scientists—recognized that the same proven chemistry could be
+refined for grid-scale deployment at a fraction of its original
+cost. That research became EnerVenue..
+
+The Aqueous Metal Cell contains a nickel hydroxide cathode and a
+nickel alloy anode in an alkaline electrolyte. On charge, hydrogen gas
+is produced and stored inside a sealed, large format cell. On
+discharge, hydrogen reaction is reversed. The system is hermetically
+sealed. No liquid spillage. No venting. No thermal cascade pathway.
+
+---
+
+Lion batteries can cycle less and when they become waste, they are
+toxic, incredibly hard to recycle. 
+
+---
+
+"[W]hen AGL Energy went looking for a battery chemistry that.. had
+some attractive characteristics, it chose nickel-hydrogen. That’s a
+chemistry that until a few years ago been used almost exclusively in
+space.. AGL aims to build 12 gigawatts of new renewable energy and
+storage over the coming decade...
+
+Nickel-hydrogen batteries can cycle 30,000 times and up to three times
+a day, with very low 'degradation' – the gradual reduction in energy
+storage capacity. Lithium-ion batteries can cycle about 10,000 times
+and degrade more quickly."
+
+---
+
+PV Tech: "Construction begins on AU$72 million solar-powered green
+hydrogen hub in New South Wales, Australia"
+
+---
+
+Monbiot: "The poor and the middle class pay taxes, the rich pay
+accountants, the very rich pay lawyers - and the ultra-rich pay
+politicians"
+
+---
+
+"France is leading a new wave of nuclear innovation with the
+development of the Stellarium, an Advanced Molten Salt Reactor
+(AMR)... This technology utilizes a liquid fuel composed of chloride
+salts and fissile materials like uranium or thorium, allowing it to
+operate as a 'fast breeder'"
+
+---
+
+PR Newswire: "Hyroad Energy and Toyota Announce Strategic
+Collaboration to Deploy Hydrogen Fuel Cell Trucks"
+
+---
+
+"@seabass@social.seabass.systems
+
+Google claim that their upcoming laptop is the 'perfect partner to
+your Android phone' because you can 'access files from your phone as
+if they live on your laptop' - but did you know that this is already
+possible, no special laptop model needed?
+
+KDE Connect is completely free and open source software (FOSS) to link
+your devices together, supported by the @kde charity. It works on
+almost all phone models, and it does more than just allow you to
+access your phone's storage. For example, with KDE Connect your phone
+immediately becomes a remote control for music or videos playing on
+your laptop or desktop PC!
+
+Don't get drawn in by the slick marketing - you don't need AI to make
+your life easier with technology, and most of the features large
+software companies such as Google are promoting have already been
+thoughtfully implemented by dedicated volunteers in the FOSS
+community."
+
+---
+
+"@JugglingWithEggs@mstdn.social
+
+.. \#Starmer, a former human rights lawyer and former head of the CPS
+has corrupted the UK judicial system at the behest of the genocidal
+\#Netanyahu. That the current dying Labour government chose yesterday
+when attention was elsewhere.. to allow reporting on this official
+deception of a jury, was deliberate. They want to bury this story. And
+that for me is the icing on the cake as to why Starmer must go."
+
+---
+
+The Guardian: "Four Palestine Action activists convicted​ after a
+retrial over a violent protest at an Israeli arms manufacturer’s UK
+site face being sentenced as terrorists despite the jury not being
+told this...  A Defend Our Juries spokesperson said: 'The public will
+be astonished to learn that in the British justice system a protester
+can now be convicted of criminal damage for disrupting an arms factory
+and then be sentenced as ‘terrorists’ without having been convicted of
+terror charges and with this having been kept secret from the jury'"
+
+---
+
+The Lever: "The Campaign To Turn Healthy People Into Alzheimer’s
+Patients.. Drugmakers, influencers, and industry-funded advocacy
+groups are pushing Alzheimer’s screenings that could label millions of
+Americans as sick — despite shaky science and dangerous treatments."
+
+---
+
+[Single Payer](https://media.mastodontech.de/media_attachments/files/116/574/666/291/734/208/original/f489b5e8606a596d.jpeg)
+
+---
+
+The corollary means that chaos, "everyone doing their own thing" is
+actually a good thing, bcz buys balance sells. As people get scared,
+diversity goes out the window, traders herd into few positions, they
+all act the same, at the same time, pushing the market over the cliff.
+
+---
+
+Increased correlation btw indexes can signify collapse.. An academic
+researching bubbles and financial collapses put it the best: near the
+crash time it is not chaos that reigns, it is precisely the
+opposite. As the bubble pop comes close, everyone starts acting
+*similarly*. At the apex, everyone is acting as if controlled from a
+single center, following a single command: SELL.
+
+---
+
+The Fear Index - correlations spiking is not a good sign.
+
+[[-]](../../2021/01/stats.html#fear)
+
+---
+
 "@mk_lobb@threads.net
 
 I can tell we're collectively doing great because I just saw a post

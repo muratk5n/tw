@@ -30,11 +30,15 @@
 import pandas as pd
 pd.set_option('display.max_columns', None)
 </code></pre>
-<pre><code class="language-python"></code></pre>
-<pre><code class="language-python">import pandas as pd
-import matplotlib.pyplot as plt
-
-
+<pre><code class="language-python">df = u.get_yahoo_tickers(2024, [&quot;XAR&quot;])
+df.plot(title='State Street S&amp;P Aerospace &amp; Defense ETF')
+print ((df/df.shift(252)-1).tail(3))
+plt.savefig('/tmp/out.jpg')
+</code></pre>
+<pre><code class="language-text">                 XAR
+2026-05-12  0.519799
+2026-05-13  0.505674
+2026-05-14  0.488696
 </code></pre>
         </section>          
       </div>
