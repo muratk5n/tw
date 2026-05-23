@@ -36,7 +36,7 @@ House Democrats’ big-money machine."
 
 \#Ukraine 05/07 - 05/22
 
-[[-]](mbl/2026/ukrdata/map09.html)
+[[-]](ukrdata/map09.html)
 
 ---
 
@@ -189,7 +189,7 @@ line all wrong.
 
 ---
 
-Green used to work for [Focker](mbl/2022/ejagoffthiel2.jpeg) afaik,
+Green used to work for [Focker](../2022/ejagoffthiel2.jpeg) afaik,
 now he's bashing Zero to One (bunch of delusional dipshit observations
 somehow collected in a book).
 
@@ -268,7 +268,7 @@ right of the nation. Not long ago, it was 4 to 5 points to the right."
 
 ---
 
-According to the [map](mbl/2025/map18.html), IMEC (and IDR) go near
+According to the [map](../2025/map18.html), IMEC (and IDR) go near
 the strait.
 
 "The troubles at Hormuz prove how essential IMEC is"
