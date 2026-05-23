@@ -51,6 +51,7 @@ def stats2():
                                     end=df3.index.max(),
                                     freq='1D')).interpolate()    
     df3['net'] = df3.Approve - df3.Disprove
+    df3 = df3.tail(200)
     tmp = np.round(float(df3['net'].tail(1)),1)
     df3['net'].plot(ax=axes[2],grid=True,title='POTUS Net Approval: ' + str(tmp) + '%' )
 

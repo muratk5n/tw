@@ -1,10 +1,14 @@
 Pinned Post
 
-"America's Abandoned Reactor Just Went Live — In India"
-
-[[-]](https://youtu.be/59baRR1wC14?t=205)
-
----
+Power Magazine: "[03/02] China achieved a significant fuel cycle
+milestone with its TMSR-LF1 thorium molten-salt reactor—a 2-MWth
+prototype built by the Shanghai Institute of Applied Physics.. The
+reactor reached first criticality on Oct. 11, 2023, and achieved full
+power by June 2024. In October 2024, SINAP scientists performed the
+world’s first addition of thorium fuel to a working molten-salt
+reactor (MSR), creating a platform for thorium-uranium fuel cycle
+research... And one year later, in November 2025, SINAP announced that
+TMSR-LF1 had successfully bred uranium-233 from thorium"
 
 ## Reference
 

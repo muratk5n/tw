@@ -1,5 +1,218 @@
 # Week 21
 
+Maybe Dems, that repulsive cesspool of Clintonite centrism, will
+simply go bankrupt and cease to exist. That would be one solution for
+the crisis in American politics. Not only do they suck, they use
+(pretty effective) lawfare for any alternatives to exist. If they
+disappear, one block towards progressive politics goes away.
+
+NYT: "Many Democrats were alarmed at the poor financial state of the
+party. On Wednesday, the D.N.C.’s latest financial report showed it
+had $3 million more in debts than cash on hand...
+
+---
+
+NYT: "The Democratic National Committee on Thursday released a nearly
+200-page draft of an internal autopsy of what went wrong in the 2024
+campaign..  The document itself was widely mocked.. [its] conclusions
+are limited, often veering into political clichés and hard-to-follow
+explanations. 'Democrats must organize everywhere to win anywhere
+through Majority Party Strategy focused on everywhere, cohesively,
+strategically, and decisively,' concludes one section."
+
+---
+
+The Lever: "It’s primary season, and powerful political forces within
+the Democratic Party are stomping into local races, trying to pick
+winners and losers.. we’re diving into The Lever’s exclusive
+investigation that exposed billionaires and party operatives pulling
+strings behind the scenes... David Sirota sits down with two
+Democratic candidates, Randy Villegas from California and Matt Dunlap
+from Maine, who are running in hotly contested races that are likely
+to decide control of Congress — and who are now facing opposition from
+House Democrats’ big-money machine."
+
+---
+
+\#Ukraine 05/07 - 05/22
+
+[[-]](mbl/2026/ukrdata/map09.html)
+
+---
+
+Politico: "The $5.02 ghost: Trump’s team faces a symbolic blow to one
+of its favorite economic talking points.. Trump officials are
+'absolutely, totally freaked' about the political symbolism of
+breaking Biden's high gas price record."
+
+---
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/616/644/809/225/597/original/a60cb8b7eb4d27e4.jpg'/>
+
+---
+
+"@FluentInFinance@mastodon.social
+
+Jeff Bezos says half of Americans should pay $0 in federal income
+taxes"
+
+---
+
+"@docpop@mastodon.social
+
+ArXiv announces a ban on AI content and the responses are hilarious. 
+
+> You expect us to actually read the papers we cite?!
+
+yes, lol!"
+
+---
+
+404 Media: "ArXiv to Ban Researchers for a Year if They Submit AI
+Slop"
+
+---
+
+"Because of legal uncertainty around Swiss government proposals to
+introduce mass surveillance — proposals that have been outlawed in the
+EU [Switzerland is not part of the EU] — Proton is moving most of its
+physical infrastructure out of Switzerland."
+
+---
+
+"@pikesley@mastodon.me.uk
+
+Once again woken up mad that we have made a world where the number one
+priority is that the money is happy"
+
+---
+
+Liu, *Virtue Hoarders*: "Let’s not forget that in the 1980s, Bill
+Clinton made national waves by courageously 'standing up' to teachers’
+unions, which became a part of the centrist politicians’ playbook to
+curry favor with conservatives.  As governor of Arkansas, Clinton
+listened to think tank elites and proposed raising educational
+standards without raising school budgets... The Heritage Foundation
+had found that Arkansas citizens’ lawsuits to maintain per-student
+funding levels at $5,400 was a sign of public profligacy that needed
+to be tamed. Bill Clinton agreed. Inciting moral panic about the state
+of public education has been a political expedient for liberals and
+conservatives alike. Bill Clinton’s unique style was able to combine
+post-1968 institutionalized identity politics with a fervor for
+austerity and budget cutting that made the wealthiest Democratic Party
+donors as happy as their Republican counterparts."
+
+---
+
+\#TuckerCarlson
+
+[[-]](https://tubechop.com/videos/WmVBZ9nLTxrG-8Ck9bQKi)
+
+---
+
+Reps are a hierarchical party.. it's tough to go against the big guy
+and survive. Plus all that Zio money, it can tilt the balance.
+
+USA Today: "As Trump's approval ratings drop, how does he keep ousting
+GOP rivals?.. Call it the political dichotomy of the 47th president:
+Millions of the voters who helped elect him in 2024 now disapprove of
+the job he's doing in office, a warning of weakness. But the guts of
+his base remain unshaken, the most solid of any president in decades,
+a source of strength."
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+A published author used Claude to write a book about AI making things
+up and then is surprised when his book contains made up things."
+
+---
+
+NYT: "Book on Truth in the Age of A.I. Contains Quotes Made Up by
+A.I."
+
+---
+
+People are pretty worked up on this one... Next admin might look into
+it.
+
+BBC: "Throughout US President Donald Trump's second term in office,
+traders have been betting millions of dollars just before he makes
+major announcements. The BBC has examined trade volume data on several
+financial markets and matched them to some of the president's most
+significant market-moving statements. It found a consistent pattern of
+spikes just hours, or sometimes minutes, before a social media post or
+media interview was made public.
+
+Some analysts say it bears the hallmarks of illegal insider trading,
+whereby bets are made by people based on information that is not
+available to the general public."
+
+---
+
+FT: "Donald Trump and sons granted ‘forever’ immunity from existing tax audits"
+
+---
+
+"@nutjob4life@fosstodon.org
+
+I wish audiobooks had transcripts"
+
+---
+
+"@GeePawHill@mastodon.social
+
+It's too bad that LLM grifters sought to shine their reputation by
+calling it 'AI'.
+
+It didn't shine their reputation.
+
+It ruined the world's opinion of the fascinating & legitimate science
+-- and remarkably creative uses -- of actual artificial intelligence."
+
+---
+
+\#ThinkScholar \#India \#Thorium
+
+[[-]](https://youtu.be/mG2xWAaqsRQ?t=557)
+
+---
+
+WaPo: "[2025] Viral essay [by Mike Green] says $140000 should be the
+new poverty line"
+
+---
+
+Green made waves recently arguing federal gov calculates the poverty
+line all wrong.
+
+---
+
+Green used to work for [Focker](mbl/2022/ejagoffthiel2.jpeg) afaik,
+now he's bashing Zero to One (bunch of delusional dipshit observations
+somehow collected in a book).
+
+---
+
+Mike Green: "[2025/11] A simple tweet from a 'right-wing influencer'
+noting that 1950s working-class men could afford houses, families, and
+dignity triggered a thousand nearly identical mocking responses. Not
+debate—choreographed ridicule.
+
+The crime? Remembering that Americans once owned things...
+
+The Mamdani Trigger.. The timing is not accidental. In November 2025,
+Zohran Mamdani wins the election in NYC, running on material
+politics—public housing, rent control, actual affordability—rather
+than the vibes-based identity liberalism the Democratic establishment
+has used for decades to avoid economic issues. A socialist wins in NYC
+one year into Trump’s presidency. This terrifies everyone who relies
+on the pretense that scarcity is natural. That Zero to One is a
+template."
+
+---
+
 PIB: "India has marked a major milestone in its nuclear energy
 programme. The indigenously designed and built Prototype Fast Breeder
 Reactor (PFBR) at Kalpakkam in Tamil Nadu successfully attained its
