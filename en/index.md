@@ -10,6 +10,8 @@ reactor (MSR), creating a platform for thorium-uranium fuel cycle
 research... And one year later, in November 2025, SINAP announced that
 TMSR-LF1 had successfully bred uranium-233 from thorium"
 
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
