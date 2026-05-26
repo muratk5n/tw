@@ -194,7 +194,7 @@ statistical sampling problem, the approach was fresh in my mind and I
 saw this argument, I was like wut?
 
 Geek: You can find the approximate minima of a function by turning it
-into a Gibbs distribution, and relying of the (more efficient)
+into a Gibbs distribution, and relying on the (more efficient)
 traversal via a sampler to find a approximate minima. The method does
 not get stuck in local minimas like a gradient based optimizer are
 prone to do. For a final demonstration of the approach I picked the
@@ -218,4 +218,3 @@ Reuters: "[02/13] US-led oil sales from Venezuela to bring in $5
 billion in months, energy chief Wright tells NBC News"
 
 ---
-
