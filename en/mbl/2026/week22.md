@@ -193,14 +193,14 @@ using the said approach to turn an optimization problem into a
 statistical sampling problem, the approach was fresh in my mind and I
 saw this argument, I was like wut?
 
-Geek: You can find the approximate minima of a function by turning it
+[geek] You can find the approximate minima of a function by turning it
 into a Gibbs distribution, and relying on the (more efficient)
 traversal via a sampler to find a approximate minima. The method does
 not get stuck in local minimas like a gradient based optimizer are
 prone to do. For a final demonstration of the approach I picked the
 toughes nut, a 100 dimensional function-from-hell, and applied
 parallel particle filters to sample from the posterior running on a
-GPU, it found the approximate minima in two seconds.
+GPU, it found the approximate minima in two seconds [/geek].
 
 Particle filters, MCMC, posteriors, distributions.. no one can tell me
 this toolset is not more probabilistic than alternatives.

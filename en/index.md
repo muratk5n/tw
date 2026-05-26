@@ -12,6 +12,65 @@ TMSR-LF1 had successfully bred uranium-233 from thorium"
 
 ---
 
+
+"@mike_k@mstdn.social
+
+There is something classically AI about headings like:
+
+'A Major Philosophical Shift, Even If Limited'
+
+That’s not how words work."
+
+[[-]](https://www.linuxjournal.com/content/alpine-linux-experiments-systemd-compatibility-while-keeping-its-lightweight-identity)
+
+---
+
+The problem is, center of the past 40 years is screwed up. There was a
+time when Eisenhower (a Republican) could embrace the New Deal. Then
+the world shifted to a new regime where Bill Clinton (and Blair)
+embraced Reaganism. We need a new regime.
+
+---
+
+Do not cede that "center" ground.. 
+
+The Guardian: "Tony Blair has accused Keir Starmer, Andy Burnham and
+Wes Streeting of putting Labour’s future at risk by abandoning the
+centre ground..His essay, a highly unusual intervention for a past
+Labour prime minister, is likely to draw a furious response from
+across the party, where Blair’s legacy remains highly contentious. On
+Tuesday, one senior source accused him of abandoning social democratic
+values to embrace an agenda that had 'no answers'... Blair also
+suggested it was a mistake for others in the party to seek to remove
+Starmer as prime minister"
+
+"@exchgr@mastodon.world
+
+what you think AI does: cheap code, things break fast but also get
+fixed fast
+
+what AI actually does: subsidized code that will become extremely
+expensive very soon, things break fast but you don't notice and the
+bugs accumulate, losing your customers' trust in your product"
+
+---
+
+"Colorado and California age verification bills exempt open source
+operating systems"
+
+---
+
+CNN: "Mamdani’s ‘tax the rich’ slogan is ‘just as hateful’ as racial
+slurs, New York real estate titan [Griffith] says"
+
+---
+
+The Lever: "As support for Israel becomes politically toxic, the
+Better Blue Fund is emerging as a quiet new conduit for AIPAC-linked
+money in key Democratic primary races."
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
