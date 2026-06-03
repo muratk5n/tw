@@ -188,6 +188,41 @@ def map_coords(center, coords, lines={}, zoom=5, colors={}, outfile="/tmp/out.ht
         c = colors[key] if key in colors else "blue"
         folium.PolyLine(val, color=c, popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
+
+def schiller_conv():
+    
+    file_path = '/opt/Downloads/ie_data.xls'  # Update this if your file is named differently
+    df = pd.read_excel(file_path, sheet_name='Data', skiprows=7)
+    df.columns = df.columns.str.strip()
+    required_columns = ['Date', 'P', 'E']
+    df_filtered = df[required_columns].dropna().copy()
+
+    def format_shiller_date(date_val):    
+        date_str = str(date_val).strip()
+        year, month_fraction = date_str.split('.')
+        if len(month_fraction) == 1:
+            if month_fraction == '1':
+                month = 10
+            else:
+                month = int(month_fraction)
+        else:
+            month = int(month_fraction)
+
+        if month < 1 or month > 12:
+            return None
+
+        return f"{year}-{month:02d}-01"
+
+    df_filtered['Date'] = df_filtered['Date'].apply(format_shiller_date)
+    df_filtered = df_filtered.dropna(subset=['Date'])
+    df_filtered = df_filtered.rename(columns={
+        'P': 'S&P Comp P',
+        'E': 'Earnings E'
+    })
+
+    output_csv = 'schiller.csv'
+    df_filtered.to_csv(output_csv, index=False)
+
     
 if __name__ == "__main__": 
     if sys.argv[1] == "approv":
@@ -198,3 +233,5 @@ if __name__ == "__main__":
         stats1()
     if sys.argv[1] == "stats2":
         stats2()
+    if sys.argv[1] == "schiller":
+        schiller_conv()

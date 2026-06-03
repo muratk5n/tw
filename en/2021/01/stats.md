@@ -26,7 +26,7 @@ print (df['growann'].tail(5))
 2025-04-01    3.838033
 2025-07-01    4.375396
 2025-10-01    0.482248
-2026-01-01    1.989722
+2026-01-01    1.621137
 Name: growann, dtype: float64
 ```
 
@@ -47,45 +47,19 @@ print (df[['inf']].tail(6))
 2025-04-01  2.080467
 2025-07-01  2.335168
 2025-10-01  1.989300
-2026-01-01  2.659722
+2026-01-01  2.566845
                  inf
-2025-10-01  2.873881
 2025-11-01  2.735084
 2025-12-01  2.677081
 2026-01-01  2.386431
 2026-02-01  2.414113
 2026-03-01  3.256420
+2026-04-01  3.810845
 ```
 
 <a name='taylor'></a>
 
 ## Wages and Unemployment
-
-<a name='quits'></a>
-
-Job Quits, Resignations
-
-```python
-df = u.get_fred(2010,['JTSQUR'])
-print (df.JTSQUR.tail(5))
-df.JTSQUR.plot()
-plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.title('Resignations')
-plt.savefig('quits.png')
-```
-
-```text
-2025-11-01    2.0
-2025-12-01    2.0
-2026-01-01    2.0
-2026-02-01    1.9
-2026-03-01    2.0
-Name: JTSQUR, dtype: float64
-```
-
-![](quits.png)
 
 <a name='wages'></a>
 
@@ -292,7 +266,21 @@ plt.savefig('dollar.png')
 
 ![](dollar.png)
 
+<a name='schiller'></a>
+
 Schiller P/E
+
+```python
+df1 = u.get_yahoo_ticker(1980,'^GSPC')
+df1.index = pd.to_datetime(df1.index)
+df2 = pd.read_csv('../../mbl/2026/schiller.csv',index_col='Date',parse_dates=True)
+df2['schiller'] = df2['S&P Comp P'] / df2['Earnings E']
+df = df1.join(df2,how='outer').dropna()
+u.two_plot(df, '^GSPC', 'schiller')
+plt.savefig('schiller2.jpg')
+```
+
+![](schiller2.jpg)
 
 Overlay Schiller's P/E ratio on top SP 500 10-year returns [1] since
 1920s. Lows and highs arrive 10 years after the market is most

@@ -26,6 +26,280 @@
       <div id="main_content_wrap" class="outer">        
         <section id="main_content" class="inner">
 <h1>Week 22</h1>
+<p>CNBC: "Software stocks wrap up best month since 2001 as talk of
+'SaaSpocalypse' subsides"</p>
+<hr />
+<p>Politico: "Berlin gives the OK for tougher trade action on China"</p>
+<hr />
+<p>Politico: "Don’t let Big Tech hide ecological cost of AI, environment
+agency chief tells EU.. Brussels must require tech companies to
+disclose data centers’ energy and water use [the chief] says."</p>
+<hr />
+<p>Munee and bidness.. That's what it's all about</p>
+<p>Andy O'Brien: "The NY Times' Obsession with Platner's "Working Class"
+Cred.. The NY Times story quoted Tony Buxton, a corporate lobbyist
+with the Portland firm Preti Flaherty, accusing Platner of lying about
+his business. But for some reason it didn’t mention what Buxton does
+for work. The Times simply described him as 'a former chairman of the
+Maine Democratic Party who had supported Ms. Mills.'..  The Times also
+failed to mention that Buxton represents the company seeking to build
+a controversial data center in Sanford and successfully lobbied to get
+Governor Mills to veto a data center moratorium last month. "</p>
+<hr />
+<p>2008-2012 has a major fall, then major rise.. The rise is higher than
+the previous decline. That means corporations not only reversed their
+losses since 2008, they surpassed them. Why wouldn't they? They had
+laid off millions of workers bcz of the crisis, frozen hiring, and
+closed facilities, extracted more work from the remaining
+workforce. When econ began to recover in 2010, every new dollar of
+revenue would flow into pure profit, margins expanded to historic
+highs, causing the massive, outsized explosion in earnings we see in
+the graph bcz corp cost structures were permanently lower (less
+workers, deindustrialized and outsourced jobs more). The period as
+is known as "jobless recovery" for good reason. </p>
+<hr />
+<p>Corp earnings been rising.. </p>
+<hr />
+<pre><code class="language-python">df = pd.read_csv('schiller.csv')
+df['Date'] = pd.to_datetime(df['Date'])
+df['YoY'] = df['Earnings E'].pct_change(periods=12) * 100
+df['PE_Ratio'] = df['S&amp;P Comp P'] / df['Earnings E']
+df_recent = df[df['Date'].dt.year &gt;= 2000].copy()
+fig1, ax1 = plt.subplots(figsize=(12, 6))
+ax1.plot(df_recent['Date'], df_recent['YoY'], label='YoY Earnings Growth (%)')
+ax1.axhline(0, color='black', linestyle='--', linewidth=1.2, alpha=0.7)
+ax1.set_title('S&amp;P 500 Year-over-Year (YoY) Earnings Growth Rate (Since 2000)', pad=15)
+ax1.set_xlabel('Date', fontsize=12)
+ax1.set_ylabel('Growth Rate (%)', fontsize=12)
+ax1.legend(loc='upper left', frameon=True)
+ax1.grid(True, linestyle=':', alpha=0.5)
+plt.tight_layout()
+</code></pre>
+<p><img width='340' src='https://media.mastodontech.de/media_attachments/files/116/661/196/470/027/975/original/a3a06163f4f0aeaf.jpg'/></p>
+<hr />
+<p>Letz do some corp earnings analysis.. Data at  <code>https://shillerdata.com</code>, get
+<code>ie_data.xls</code>, the data extractor is in <code>mbl/2026/util.py</code> under <code>schiller_conv</code>.
+Outputs to <code>schiller.csv</code>. </p>
+<hr />
+<p>Hanauer, <em>Politico</em>: "[2014] The Pitchforks Are Coming… For Us Plutocrats"</p>
+<p><a href="https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/">[-]</a></p>
+<hr />
+<p>Hanauer is one of the rare billionaires who consistently speak out on
+inequality</p>
+<hr />
+<p>Nick Hanauer: "This booklet is based on our forthcoming book, <em>Market
+Humanism</em>. It is a brief guide aimed at policymakers..  <em>Market
+Humanism</em> and middle-out economics stand in sharp contrast to the
+economic theories and policy agenda that dominated the U.S. and much
+of the world from the 1970s through the 2010s. We will refer to this
+set of ideas as the neoliberal consensus, a political ideology that
+integrated free market theories from neoliberal political economy,
+neoclassical economics, and libertarian philosophy into a worldview
+that shaped the policy agendas of both the Republican and Democratic
+parties from Carter and Reagan through Obama...</p>
+<p>The neoliberal consensus and trickle-down economics did not emerge by
+accident. These ideas were strategically funded, developed, and
+promoted by an array of business interests and wealthy individuals who
+benefited to the tune of tens of trillions of dollars from the
+resulting policies. The neoliberal consensus, however, fractured
+during the global financial crisis of 2008, losing both its
+intellectual credibility and support from the public...</p>
+<p>From the end of World War II until the mid-1970s, during an era of
+more regulated capitalism and robust public investment, U.S. GDP
+growth averaged approximately 4 percent annually. In contrast, since
+adopting neoliberal economic policies starting in the late 1970s and
+early 1980s, average GDP growth has fallen significantly, averaging
+roughly 2.5 percent annually and declining further in recent
+decades. Far from unleashing entrepreneurial dynamism and broad-based
+prosperity, neoliberal economics has delivered economic stagnation,
+instability, and fragility."</p>
+<p><a href="https://www.marketsbuiltforhumans.org/flipbook">[-]</a></p>
+<hr />
+<p>Space Daily: "The European Commission moved to reserve two-thirds of a
+coveted satellite spectrum band for European operators, a decision
+that directly threatens SpaceX's direct-to-device plans and Viasat's
+existing European Aviation Network while opening a fresh front in the
+transatlantic fight over space technology."</p>
+<hr />
+<p>Cosmology is not science.. It's bunch of harebrained, cockamamie stuff
+thrown together that sound scientific. Outside US if something were to
+be cut, astrophysics would be the first place to go.</p>
+<p>"Someone, somewhere, has taken the decision to defund astrophysics
+research in the UK, but no-one seems quite sure who that was, or why."</p>
+<hr />
+<p>Recommending <em>Fuze</em> (2025). Fine work.</p>
+<hr />
+<p><img width='340' src='https://cdn.masto.host/frontendsocial/media_attachments/files/116/646/709/883/091/008/original/3c7211cefe4c3a2d.png'/></p>
+<hr />
+<p>"We all died in 2020 and this is hell"</p>
+<hr />
+<p>Reuters: "Starbucks scraps AI inventory tool across North America.. AI
+tool miscounted items, leading to errors.. The tool was part of CEO
+Brian Niccol's efforts to fix the coffee chain's persistent product
+shortages that he has blamed for hurting sales. The app - designed to
+improve Starbucks’ visibility into shortages at stores - frequently
+miscounted and mislabeled items, such as confusing similar milk types
+or ​missing them altogether"</p>
+<hr />
+<p>You are still a slave, Jew. Just like when they goaded you into those
+gas chambers, they goaded you to that f-ing place, Israel, and they
+are making money of off you. You are a pawn, a f-ing tool, still
+serving the interests of the Aryan race. Is this what you were chosen
+for?</p>
+<hr />
+<p>It's sad MIC making use of Israel in this way. They think they are in
+control, but they are being controlled.</p>
+<hr />
+<p>Garbage Day: "There are.. warning signals across the AI industry that
+are flashing bright red right now. Starbucks had to roll back an AI
+inventory tool because it kept hallucinating. <em>The Verge</em> reported
+that Microsoft is rethinking its dependency on Claude Code. And
+Duolingo’s stock price has tanked in the last year, after the company
+went all-in on AI."</p>
+<hr />
+<p>England is a cup of tea.<br>
+France, a wheel of ripened brie.<br>
+Greece, a short, squat olive tree.<br>
+America is a gun.<br></p>
+<p>Brazil is football on the sand.<br>
+Argentina, Maradona's hand.<br>
+Germany, an oompah band.<br>
+America is a gun.<br></p>
+<p>Holland is a wooden shoe.<br>
+Hungary, a goulash stew.<br>
+Australia, a kangaroo.<br>
+America is a gun.<br></p>
+<p>Japan is a thermal spring.<br>
+Scotland is a highland fling.<br>
+Oh, better to be anything<br>
+than America as a gun.<br></p>
+<p><em>Brian Bilston</em></p>
+<hr />
+<p>Trump Off</p>
+<p><a href="https://www.youtube.com/shorts/76AKniXhfqM">[-]</a></p>
+<hr />
+<p>Turks (the real ones) were assimilated into Anatolia just like any
+other migratory moves arriving there. 1920s Republic picked one
+ethnicity among many and made it <em>the</em> official identity, which was a
+mistake. It's like making Irishness the official identity in America:
+sure there have been Irish migration, and they are now part of the US
+fabric (tomato soup, not melting pot), but not <em>everyone</em> is Irish,
+surely not in the form they first arrived.</p>
+<hr />
+<p>#YannisPappas #Anatolia</p>
+<p><a href="https://youtu.be/LM90k5aBPMA?t=525">[-]</a></p>
+<hr />
+<p>ANYONE BUT TRUMP BRO</p>
+<hr />
+<p>BUT DEMS WERE SO MUCH BETTER</p>
+<hr />
+<p>"@jwilker@wandering.shop</p>
+<p>It's amazing how bad medical stuff is still in 2026. Wife went to ER
+and 'oh we can't see the stuff your doctor did last week'</p>
+<p>Like WTF? With everything we have in tech these days, it's beyond
+stupid one medical provider can't see what another has done for the
+patient."</p>
+<hr />
+<p>Suriyak: "The Syrian coast continues to suffer: 🇸🇾 A UN report reveals
+an alarming rise in crime rates on the Syrian coast. Despite the
+transitional authorities’ denial that these acts are organized,
+describing them as isolated incidents or criminal offenses, their
+persistence and the manner in which they are carried out confirm the
+presence of sectarian motives, among other factors."</p>
+<hr />
+<p>Gizmodo: "Crypto’s Most Powerful PAC Sends a Warning to Politicians:
+Resistance Is Futile.. Rep. Green’s defeat proves that anti-crypto
+hostility carries real electoral consequences."</p>
+<hr />
+<p>E-douche always used space biz to prop up his geek status so he would
+come across smarter, more visionary than he actually is on other
+unrelated matters, so it's not a surprise the grift will now take its
+final corporate form. "Look there is cool space stuff" and "look there
+is some other stuff underneath, pay for the cool, get others for
+free". That is the sale.</p>
+<hr />
+<p>The "new" left always wrapped its econ right-wingery with new age,
+technobabbly, futuristic glitz... Have to watch for that. Screw labor
+rights because we have computers bro, see how shiny they are? Anything
+that goes against capital is "old".</p>
+<p>It's interesting how two sides sold this freak shit to the
+public.. Labour / Dems sold it via futurism, Reps sold it via
+nostalgia (they appealed to the old, the rugged, frontiersy America).</p>
+<hr />
+<p>The Guardian: "The current leadership debate concerning Streeting and
+Andy Burnham.. 'has an extraordinarily retro 20th-century feel to it'
+[Blair] complains."</p>
+<hr />
+<p>Zhigge - Rakin' In The Dough #music</p>
+<p><a href="https://youtu.be/HSpoilv3N3g?t=168">[-]</a></p>
+<hr />
+<p>I see, so that's where this mythical center is.. There is a lot of
+dough in that center.</p>
+<p>"@GossiTheDog@cyberplace.social</p>
+<p>Tony Blair’s son, Euan Blair, is the CEO of a GenAI firm. Tony Blair
+lobbies with his own company for GenAI usage in government and
+schools, and lax UK AI laws."</p>
+<hr />
+<p>"@mike_k@mstdn.social</p>
+<p>There is something classically AI about headings like:</p>
+<p>'A Major Philosophical Shift, Even If Limited'</p>
+<p>That’s not how words work."</p>
+<p><a href="https://www.linuxjournal.com/content/alpine-linux-experiments-systemd-compatibility-while-keeping-its-lightweight-identity">[-]</a></p>
+<hr />
+<p>The problem is, center of the past 40 years is screwed up. There was a
+time when Eisenhower (a Republican) could embrace the New Deal. Then
+the world shifted to a new regime where Bill Clinton (and Blair)
+embraced Reaganism. We need a new regime.</p>
+<hr />
+<p>Do not cede that "center" ground.. </p>
+<p>The Guardian: "Tony Blair has accused Keir Starmer, Andy Burnham and
+Wes Streeting of putting Labour’s future at risk by abandoning the
+centre ground..His essay, a highly unusual intervention for a past
+Labour prime minister, is likely to draw a furious response from
+across the party, where Blair’s legacy remains highly contentious. On
+Tuesday, one senior source accused him of abandoning social democratic
+values to embrace an agenda that had 'no answers'... Blair also
+suggested it was a mistake for others in the party to seek to remove
+Starmer as prime minister"</p>
+<p>"@exchgr@mastodon.world</p>
+<p>what you think AI does: cheap code, things break fast but also get
+fixed fast</p>
+<p>what AI actually does: subsidized code that will become extremely
+expensive very soon, things break fast but you don't notice and the
+bugs accumulate, losing your customers' trust in your product"</p>
+<hr />
+<p>"Colorado and California age verification bills exempt open source
+operating systems"</p>
+<hr />
+<p>As stated before, coding harnesses around LLMs, or "agents", are not
+improvements of the LLM itself, they are a wrapper around it, to get
+over its shortcomings. We can think of it like this: Let's say you
+needed to find the minimum of a list of numbers. You have a black box,
+a magic algorithmic machine which can (somehow) only return <em>five</em>
+smallest numbers in that list. So the machine does some work, but it
+has its limitations. But we need the one, single minimum number. What
+do we do?  Well we write a <em>wrapper</em> around the magic black box
+machine, we pass a list, get our five numbers which contains the
+minimum, and we them run our own little algoritm to find the minimum
+within that five.</p>
+<p>What's described above is an engineering solution. In IT work, system
+integration such things are done all the time. You can't change the
+database, the OS itself, so in your "application" layer you do
+whatever is necessary to get the functionality you need. Claude Code,
+Codex are such applications. When you look in the code for CC (you
+can, as it leaked recently) you will see there is nothing AI'ish in
+it. It's bunch of manually coded if.. then.. else statements, regex up
+the wazoo, for loops and the like. It is a giant handcoded script that
+runs LLMs a certain way to provide a more fluent LLM
+interaction. That's all it is.</p>
+<hr />
+<p>CNN: "Mamdani’s ‘tax the rich’ slogan is ‘just as hateful’ as racial
+slurs, New York real estate titan [Griffith] says"</p>
+<hr />
+<p>The Lever: "As support for Israel becomes politically toxic, the
+Better Blue Fund is emerging as a quiet new conduit for AIPAC-linked
+money in key Democratic primary races."</p>
+<hr />
 <p>"[A]nger at AI is white hot right now. For a bunch of reasons I've
 already discussed. It's particularly and unsurprisingly hot among
 young Americans, who can't find jobs, homes, health care, or much of

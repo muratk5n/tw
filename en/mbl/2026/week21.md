@@ -104,12 +104,6 @@ donors as happy as their Republican counterparts."
 
 ---
 
-\#TuckerCarlson
-
-[[-]](https://tubechop.com/videos/WmVBZ9nLTxrG-8Ck9bQKi)
-
----
-
 Reps are a hierarchical party.. it's tough to go against the big guy
 and survive. Plus all that Zio money, it can tilt the balance.
 

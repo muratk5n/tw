@@ -108,12 +108,6 @@ combat mission"
 
 ---
 
-\#JoeKent \#Tucker
-
-[[-]](https://tubechop.com/videos/Aq5h3NSOTWwn1ivQ5PMTR)
-
----
-
 BBC: "Top US counterterrorism official resigns over Iran war, urging
 Trump to 'reverse course'.. Kent said that Iran posed 'no imminent
 threat' to the US"

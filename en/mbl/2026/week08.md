@@ -473,7 +473,7 @@ expansiveness. The grind clouded character development.
 the applications are still too focused on one thing.. it ain't general
 enough, the expert admitted as much at the end.
 
-[[-]](https://tubechop.com/videos/lLz1MyMcQWUMbTC61JQ9X)
+[[-]](https://youtu.be/CbHeh7qwils?t=331)
 
 ---
 

@@ -323,8 +323,6 @@ is high.. "I love the smell of napalm in the morning!" kinda high,
 that ecstasy they must get from war.. Guy can't sit still, he wants to
 go out and provide the software to kill more.
 
-[[-]](https://tubechop.com/videos/vYLrJ03q3GYhZP6O05-CS)
-
 ---
 
 Tech bro billionaire foreign policy? What is it?.. I do remember a few

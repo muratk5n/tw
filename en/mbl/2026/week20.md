@@ -467,13 +467,6 @@ US.
 
 ---
 
-\#ThinkingClass \#Gerstle \#NeoLiberalism
-
-[Excerpt 1](https://tubechop.com/videos/6vwTR4h8-6PliCVc2eZlm),
-[Excerpt 2](https://tubechop.com/videos/pKGbbkDW6WqHpwvEMQEp_)
-
----
-
 US GDP growth QoQ
 
 ```
