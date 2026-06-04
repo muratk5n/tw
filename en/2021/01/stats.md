@@ -268,17 +268,19 @@ plt.savefig('dollar.png')
 
 <a name='schiller'></a>
 
-Schiller P/E
+Schiller P/E (Price to Earnings) vs CPI Adjusted SP 500
 
 ```python
-df1 = u.get_yahoo_ticker(1980,'^GSPC')
-df1.index = pd.to_datetime(df1.index)
-df2 = pd.read_csv('../../mbl/2026/schiller.csv',index_col='Date',parse_dates=True)
-df2['schiller'] = df2['S&P Comp P'] / df2['Earnings E']
-df = df1.join(df2,how='outer').dropna()
-u.two_plot(df, '^GSPC', 'schiller')
+df = pd.read_csv('../../mbl/2026/schiller.csv',index_col='Date',parse_dates=True)
+df['real_price'] = df['S&P Comp P'] * df['CPI'].iloc[-1] / df['CPI']
+df['real_earnings'] = df['Earnings E'] * df['CPI'].iloc[-1] / df['CPI']
+df['real_earnings_10y_avg'] = df['real_earnings'].rolling(window=120).mean()
+df['CAPE'] = df['real_price'] / df['real_earnings_10y_avg']
+df['CAPE'].tail(400).plot()
 plt.savefig('schiller2.jpg')
 ```
+
+
 
 ![](schiller2.jpg)
 

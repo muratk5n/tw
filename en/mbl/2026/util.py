@@ -194,7 +194,7 @@ def schiller_conv():
     file_path = '/opt/Downloads/ie_data.xls'  # Update this if your file is named differently
     df = pd.read_excel(file_path, sheet_name='Data', skiprows=7)
     df.columns = df.columns.str.strip()
-    required_columns = ['Date', 'P', 'E']
+    required_columns = ['Date', 'P', 'E','CPI']
     df_filtered = df[required_columns].dropna().copy()
 
     def format_shiller_date(date_val):    
@@ -217,7 +217,8 @@ def schiller_conv():
     df_filtered = df_filtered.dropna(subset=['Date'])
     df_filtered = df_filtered.rename(columns={
         'P': 'S&P Comp P',
-        'E': 'Earnings E'
+        'E': 'Earnings E',
+        'C': 'Consumer Price Index CPI'
     })
 
     output_csv = 'schiller.csv'
