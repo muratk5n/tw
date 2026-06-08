@@ -219,7 +219,7 @@ plt.savefig('dollar.png')
 </code></pre>
 <p><img alt="" src="dollar.png" /></p>
 <p><a name='schiller'></a></p>
-<p>Schiller P/E (Price to Earnings) vs CPI Adjusted SP 500</p>
+<p>Schiller P/E (Price to Earnings) </p>
 <pre><code class="language-python">df = pd.read_csv('../../mbl/2026/schiller.csv',index_col='Date',parse_dates=True)
 df['real_price'] = df['S&amp;P Comp P'] * df['CPI'].iloc[-1] / df['CPI']
 df['real_earnings'] = df['Earnings E'] * df['CPI'].iloc[-1] / df['CPI']

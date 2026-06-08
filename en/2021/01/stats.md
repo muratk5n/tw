@@ -268,7 +268,7 @@ plt.savefig('dollar.png')
 
 <a name='schiller'></a>
 
-Schiller P/E (Price to Earnings) vs CPI Adjusted SP 500
+Schiller P/E (Price to Earnings) 
 
 ```python
 df = pd.read_csv('../../mbl/2026/schiller.csv',index_col='Date',parse_dates=True)
