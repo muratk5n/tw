@@ -412,6 +412,8 @@ def map_ukraine_suriyak():
         "Donetsk People's Republic \(West Donetsk\)",
         "Donetsk People's Republic \(South Donetsk\)",
         "E.Kharkov-Russian Armed Forces",
+        "N.E.Kharkov-Russian Armed Forces",
+        "S.E. Dnipropetrovsk-Russian Armed Forces",
         "Kherson-Russian Armed Forces",
         "Nykolaiv-Russian Forces"]
     

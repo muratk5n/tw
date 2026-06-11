@@ -1,5 +1,13 @@
 # Week 24
 
+\#Ukraine 06/02 - 06/10
+
+Kostiantynivka is a goner
+
+[[-]](ukrdata/map11.html)
+
+---
+
 NYT: "'The Most Bipartisan Issue Since Beer': Opposition to Data
 Centers"
 
