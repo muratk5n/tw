@@ -41,6 +41,3 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-
-
-
