@@ -1,5 +1,128 @@
 # Week 24
 
+The Guardian: "In its manifesto [newly elected Hungarian] Tisza
+promised a 1% annual tax for those with assets of more than 1bn
+forints (£2.4m), applied to the portion of their estate above that
+threshold. Property, shares in companies and assets held abroad would
+all be counted, [PM] Magyar said.. as would possessions such as
+yachts, private jets, paintings and sports cars"
+
+---
+
+\#SpaceX \#Chanos
+
+[[-]](https://youtu.be/LoLdN9Q9hwU?t=151)
+
+---
+
+That's fair.. I agree with that score
+
+```python
+u.rottentomatoes("Fast Charlie")
+```
+
+```text
+Out[1]: {'critics': '83', 'audience': '80'}
+```
+
+---
+
+Gave LLM a sample of a raw page output, told which numbers to look for
+on a sample movie, it wrote bunch of bizarre code. The code retrieved
+one score, failed to get the other. It was a simple "regex" task.
+
+---
+
+Attempted to vibe code it, LLM failed at the task. This thing is sentient!
+
+The scraper is now handcoded, as before.
+
+---
+
+Rottentomatoes keeps changing the HTML coding of its page output, I'm
+having to modify my scraping code all the time... grrr
+
+---
+
+The Atlantic: "[Chappie] James was eventually promoted to four-star
+general, becoming the first Black American in the history of the
+U.S. military to reach that rank...
+
+[Recently] people in the Pentagon noticed that a painting of James had
+been taken down from its prominent location in the Air Force Art
+Gallery. Instead of putting a new painting in the spot where James’s
+portrait had been, the Pentagon kept the space empty..
+
+At a 1987 ceremony dedicating an aerospace-science and
+health-education center at Tuskegee University to James, Ronald Reagan
+called him a 'darned good pilot and a revered military officer and a
+truly great American.' In 2020, the state of Florida named a bridge
+after James; the bill was signed by Governor Ron DeSantis"
+
+---
+
+She played it textbook. It's good. The audience seemed like it \#TomSawyer
+
+[[-]](https://youtu.be/zcl_yvUVG7U?t=147)
+
+---
+
+Rush has a new drummer (legendary Neil Peart passed away in 2020). The
+drummer is a chick, not even American or Canadian, from Germany.
+
+---
+
+"In the late 1990s, two farmers, Doug Bower and Dave Chorley,
+confessed to single-handedly starting the entire crop circle
+phenomenon in 1978 using ropes and a plank of wood. Others began
+coming forward, revealing innovative ways to sneak into even a guarded
+field undetected and rapidly flatten crops into a circle. It was all
+very low tech; most pranksters simply walked through dry fields when
+nobody was looking. Crop circle 'experts,' reluctant to give up
+lucrative TV hosting gigs, resisted the hoax explanation but
+eventually had to concede that they’d been duped. Perhaps, like Fox
+Mulder, they wanted to believe"
+
+[[-]](https://daily.jstor.org/pssst-crop-circles-were-a-hoax/)
+
+---
+
+Crop circle phenomenon is a proven hoax. Even the most radical
+theorizers have moved on from that one. Apparently Spielberg didn't get
+the memo.
+
+---
+
+Watched *Disclosure Day*.. good action, good acting, but the writing
+was stuck on old ideas... the flick was even boring at times,
+logically disjointed. Strange. 
+
+---
+
+True... *Game of Thrones* is actuallly a zombie story, can be
+categorized as such.
+
+---
+
+\#Gallagher \#Consumer
+
+[[-]](https://www.youtube.com/shorts/SYSa4RzaH80)
+
+---
+
+The Guardian: "Aukus is among Australia’s worst foreign policy
+decisions and requires 'heroic' optimism, Gareth Evans says.. Former
+Labor foreign affairs minister says belief US would defend Australia
+in event of an existential attack is a ‘ludicrous delusion’"
+
+---
+
+Paper: "[2016] Quantum theory cannot consistently describe the use of itself"
+
+[[-]](https://arxiv.org/abs/1604.07422)
+
+---
+
 "@ProPublica@newsie.social
 
 NEW: Cancer drug Revlimid is one of the bestselling pharmaceutical

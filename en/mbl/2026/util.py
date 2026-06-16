@@ -1,6 +1,8 @@
 import pandas as pd, numpy as np, sys, datetime, subprocess
 import matplotlib.pyplot as plt, folium, json, re, codecs
 import requests, urllib.request, os, fredapi, bdm
+from bs4 import BeautifulSoup
+from curl_cffi import requests
 
 def trump_approval():
     # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
@@ -224,7 +226,14 @@ def schiller_conv():
     output_csv = 'schiller.csv'
     df_filtered.to_csv(output_csv, index=False)
 
-    
+def rottentomatoes(movie):
+    rel = movie.replace(" ", "_").lower()
+    url = f"https://www.rottentomatoes.com/m/{rel}"
+    response = requests.get(url, impersonate="chrome")           
+    audience = re.findall('"audienceScore.*?"scorePercent":"(\d\d)%"',response.text, re.DOTALL)
+    critics = re.findall('"criticsScore.*?"scorePercent":"(\d\d)%"',response.text, re.DOTALL)
+    return {"critics": critics[0], "audience": audience[1]}
+            
 if __name__ == "__main__": 
     if sys.argv[1] == "approv":
         trump_approval()
@@ -236,3 +245,5 @@ if __name__ == "__main__":
         stats2()
     if sys.argv[1] == "schiller":
         schiller_conv()
+    if sys.argv[1] == "test":
+        res = rottentomatoes("Swordfish")
