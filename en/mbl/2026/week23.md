@@ -479,18 +479,8 @@ around them."
 
 ---
 
-"Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox"
-
----
-
-So called energy based methods are more probabilistic / statistical,
-not based on optimisation, but why do they frequently use gradient
-methods for their training just like any other optimisation based
-neural net? The context for that gradient is different. If you look at
-the "probabilistic programming" package PyMC there is a Hamiltonian
-Monte Carlo sampler there which internally uses gradient
-information. But that's an implementation detail, it doesn't say
-anything about the larger domain of the solution.
+"Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her
+Inbox"
 
 ---
 

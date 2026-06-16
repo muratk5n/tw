@@ -404,21 +404,6 @@ should be viewed as the 'next industrial revolution.'"
 
 ---
 
-If JEPA works out maybe that will offset the lost momentum in AI. LLMs
-have stagnated, they are not improving anymore, but this new approach
-can provide the added energy, a new path so stawks will keep going
-up. Outsiders will just see "AI has been steadily improving" story
-when in fact the methods under-the-hood would have changed.
-
----
-
-So-called energy based methods are a sound approach (more statistics
-within the machinery is better). LeCun's JEPA is said to be using
-it. EBM based Kona beats LLMs on reasoning tasks. On Sudoku it will
-solve most puzzles where LLMs mostly fail.
-
----
-
 Seth's Blog: "The real AI.. To quote the great Steve Wozniak, 'Actual
 Intelligence.' The kind we’re born with and can develop if we
 choose. It’s worth more now than ever before. Alas, it’s rarely taught
@@ -569,14 +554,7 @@ An LLM is a giant, deterministic, feed-forward matrix multiplication
 engine that slaps a statistical band-aid on the final output layer (a
 cheap softmax calculation at the end of the pipeline).
 
-The so-called energy based models turn a function into a distribution
-using a method from statistical mechanics, and they **sample** from it
-via well-known statistical methods. Ergo **more** probabilistic.
-
-This terminology caught my attention bcz just the other day I was
-using the said approach to turn an optimization problem into a
-statistical sampling problem, the approach was fresh in my mind and I
-saw this argument, I was like wut?
+---
 
 [geek] You can find the approximate minima of a function by turning it
 into a Gibbs distribution, and relying on the (more efficient)
@@ -586,9 +564,6 @@ prone to do. For a final demonstration of the approach I picked the
 toughes nut, a 100 dimensional function-from-hell, and applied
 parallel particle filters to sample from the posterior running on a
 GPU, it found the approximate minima in two seconds [/geek].
-
-Particle filters, MCMC, posteriors, distributions.. no one can tell me
-this toolset is not more probabilistic than alternatives.
 
 ---
 
