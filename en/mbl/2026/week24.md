@@ -1,5 +1,261 @@
 # Week 24
 
+The Lever: "Newsom Declares War On Behalf Of California’s
+Billionaires.. The governor is leading a coalition to squash a
+one-time 5 percent wealth tax on California billionaires."
+
+---
+
+NYT: "After a Bitter Split, European Leaders Play Nice With Trump.. A
+peace framework with Iran, and hope for cooperation with Ukraine,
+softened the tone on Tuesday at a Group of 7 gathering in France."
+
+---
+
+CNBC: "SpaceX options debut signals 'expensive' and 'dangerous' bets,
+strategist says.. Options on SpaceX have started trading after the
+company's IPO, and they show a wide variation in bets."
+
+---
+
+I still would not call LLMs probabilistic. Boltzmann Machines are
+probabilistic. The entire structure is a stochastic neural network.
+
+Before Hinton went senile he was researching that stuff, purely
+stochastic networks, "Restricted" Boltzmann Machines... There could be
+more to do there.
+
+Machine learning's domain is inherently noisy, and we always see
+"samples" of the real world not the thing itself. Why not use the part
+of mathematics that is prepared to deal with that?
+
+---
+
+It looks like JEPA uses Energy Based Methods but does not use
+probabilistic machinery as EBMs traditionally do.
+
+---
+
+ML attempts to simulate thought, but where is the equivalance of "mass
+conservation" in physics? 
+
+---
+
+Investigating the real mechanism of thought will not hurt.. We know
+how fluids work at a molecular level, have one grand formula
+explaining them - that helps formulating pure simulation approaches
+even though the computation approach does not mirror the physics
+one-to-one. 
+
+---
+
+Some simulation methods are better than others, surely. LLM is only
+one of the choices. 
+
+---
+
+Another parallel: neural networks. NNs are bottom-up approaches,
+starting with small (neurons), connections (weights), the system
+simulates, supposedly the functioning of a brain.
+
+---
+
+G. A. Bird (inventor of DSMC) says about his method "the relative
+positions of the molecules within [a block are] disregarded when
+choosing collision pairs". Velocity and position info are uncoupled?
+
+For LBM, another simulation method, specific velocities are unknown,
+positions are hidden inside large pockets, we track "directional
+density" and a global average velocity.
+
+A parallel: Doesn't Quantum Mechanics say "we cannot know position and
+momentum of the electron at the same time"? Is QM a simulation method?
+It is not the reality itself (long suspected), but a way of
+computation. Through the way we measure, interact with smallest realm,
+are we triggering results that are computational, not fundamental?
+That fits with another QM edict "shut up and compute".
+
+---
+
+Notice the draconian response to protests against Elbit. The moment
+you even **touch** the interests of the global military-industrial
+complex, "the system" reacts. 
+
+---
+
+NYT: "Trump Says He Hopes to Put War in ‘Rearview Mirror’"
+
+---
+
+CNBC: "Markets cheer Iran calm as Trump eyes his next deal"
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+The vibe I'm getting from lots of people at lots of orgs now is, you
+know during Fyre Festival, that marketing dude was like 'Let's just do
+it and be legends, man!' when challenged about issues?
+
+That's the GenAI plan fundamentally.  Lots of people are making
+decisions without really knowing what they're doing, because everybody
+else is doing it.  FOMO marketing."
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+Was just talking to a friend at a US technology company, they’ve had
+their budget reduced by 50% as the company says it wants to announce
+'the largest layoffs in US corporate history' to prove GenAI can
+replace jobs.
+
+There’s no plan to actually replace the jobs with GenAI.. they just
+have to decimate their area.
+
+Not naming company as the staff don’t know they’re about to fed to the
+line going up."
+
+---
+
+Reuters: “A U.S. Air Force B-52 Stratofortress bomber crashed on
+‌Monday shortly after takeoff from Edwards Air Force Base in Southern
+California's Mojave Desert, and all eight crew members aboard were
+presumed to have been killed, the base said.
+
+The eight-engine, jet-powered aircraft, built to carry nuclear and
+conventional bombs, was on a routine ​test mission when it went down,
+Edwards said in a statement about four hours after the ​crash.”
+
+---
+
+An official name change requires congressional approval, still Sec of Defense
+
+---
+
+Looking at the speed SecDef is collecting nicknames, we can say he is
+a divisive figure. Pistol Pete. Hegdeath. Kegseth (for talking to
+press as if right after having done a keg stand -courtesy of
+SNL?-). Secretary of War Crimes. Pete **Hague**seth (as in *The
+Hague*, ICC HQ).
+
+---
+
+"@briankrebs@infosec.exchange
+
+Bitcoin has lost nearly half its value since reaching a record high
+above $123,000 in July 2025, CNBC writes. Funny how so many of the
+people hyping AI once hyped virtual currencies. Kind of makes you
+wonder about the odds on the massive all-in and circular bets being
+placed on AI."
+
+---
+
+ECI measures the diversity of products of a country, not just how much
+money they earn making them. This line of reasoning is from Cesar
+Hidalgo, he was able to show the link between ECI and economic
+well-being.
+
+The corollary is product diversity requires in-house (within same
+country) expertise as tacit knowledge requires proximity to
+spread. ECI could be seen as an argument against globalization, or
+comparative advantage - France and UK should not focus wine and cloth
+respectively, **both** should produce wine **and** cloth, bcz that
+would raise their economic complexity index, they would be better
+positioned to innovate on a third product if there are skills in the
+country that can do both.
+
+---
+
+Australia's Economic Complexity Index is pretty low, lower than what
+might be expected from a developed country. Resource curse?
+
+[[-]](https://atlas.hks.harvard.edu/countries/36)
+
+---
+
+Methven, Novara Media: "Direct Action Is Now Terrorism.. And we should
+all be terrified. Last Friday at Woolwich crown court, Mr Justice
+Johnson sentenced four Palestine Action activists to a total of nearly
+27 years (Nelson Mandela’s term in prison) for their role in an action
+on the Bristol-based research centre of an Israeli weapons factory.
+
+[T]errorist derangement syndrome is no joke. Especially when it
+infects the courts. The damage caused to Elbit was substantial 'to the
+point of destruction', Johnson said. But the four came nowhere near to
+the destruction of Elbit. What’s more, while the damage was valued at
+over £1m, in 2025, Elbit’s gross profit was nearly $2bn, buoyed by
+Israel’s genocide in Gaza. Calling a million substantial against that
+is like breaking an egg and calling it murder."
+
+---
+
+LBM, DSMC are so simple at a base level, it shocks people they can
+simulate complex air flows, turbulence, vortices.. But they do. The
+trick is noticing that eg LBM embed physics in a different way, but no
+less accurately. They are very careful on conservation of mass,
+momentum, do fantastic bookkeeping on all its probabilities, for LBM
+the constant controlling relaxation toward equilibrium is equivalent
+to viscosity, so the simulation works, and it is physical.
+
+---
+
+DSMC, and Lattice Boltzmann Method are *probabilistic* too. Both can
+be proven to converge to their respective grand formulas -
+Boltzmann / Navier-Stokes analytical models.
+
+---
+
+Simulation methods work *bottom up*, you work with grid / molecule /
+pockets of molecules first, compute the local, neighboring effects,
+and watch what happens to the overall system... The alternative
+computation methods start with a grand formula, chop that up /
+discretize it, then compute. Both can work, but we need to stress a
+lot of external interactions, special cases are difficult to include
+in discretized grand formulas, and they are easier to include in
+bottom-up simulation methods.
+
+---
+
+Some in science look down on simulation methods / formulations
+implying that such methods are only a facsimile of the "real thing"
+(by which a grand analytic formula is meant). But the creator of DSMC
+(a simulation method) G. A. Bird argues against that:
+
+>It is important to recognize that the derivation of a mathematical
+>model such as the Boltzmann equation depends on the same physical
+>arguments that have led to the DSMC procedures. A sound physical
+>simulation model should therefore have the same standing as a
+>mathematical model.  While analytical comparisons are valuable and
+>instructive, it should not be necessary to demonstrate that the
+>results from the physical simulation model are equivalent to a
+>solution of any mathematical model.
+
+---
+
+\#SpaceX \#Boyle
+
+[[-]](https://youtu.be/wKXgeNwNRJ4?t=1172)
+
+---
+
+Suriyak: "Israel rejects peace. 🇱🇧🇮🇱
+
+Despite the announcement of the memorandum between Iran and the U.S.,
+Israeli forces have not only shown no intention of de-escalating the
+conflict but have intensified their attacks in Lebanon. On June 14,
+Israeli forces launched a powerful attack on the southern suburbs of
+Beirut, leaving people dead and wounded. The attack was strongly
+criticized by Iranian authorities, who warned that peace was only
+possible with a complete cessation of hostilities across all
+fronts. This jeopardizes the signing of the memorandum scheduled for
+this Friday.
+
+According to the Lebanese Ministry of Health, Israeli aggression in
+Lebanon has left 3,783 dead and 11,699 wounded since March 2."
+
+---
+
 The Guardian: "In its manifesto [newly elected Hungarian] Tisza
 promised a 1% annual tax for those with assets of more than 1bn
 forints (£2.4m), applied to the portion of their estate above that
