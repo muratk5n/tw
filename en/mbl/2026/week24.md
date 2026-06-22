@@ -6,12 +6,6 @@ one-time 5 percent wealth tax on California billionaires."
 
 ---
 
-NYT: "After a Bitter Split, European Leaders Play Nice With Trump.. A
-peace framework with Iran, and hope for cooperation with Ukraine,
-softened the tone on Tuesday at a Group of 7 gathering in France."
-
----
-
 CNBC: "SpaceX options debut signals 'expensive' and 'dangerous' bets,
 strategist says.. Options on SpaceX have started trading after the
 company's IPO, and they show a wide variation in bets."
@@ -80,14 +74,6 @@ That fits with another QM edict "shut up and compute".
 Notice the draconian response to protests against Elbit. The moment
 you even **touch** the interests of the global military-industrial
 complex, "the system" reacts. 
-
----
-
-NYT: "Trump Says He Hopes to Put War in ‘Rearview Mirror’"
-
----
-
-CNBC: "Markets cheer Iran calm as Trump eyes his next deal"
 
 ---
 

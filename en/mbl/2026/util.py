@@ -1,6 +1,6 @@
-import pandas as pd, numpy as np, sys, datetime, subprocess
+import pandas as pd, numpy as np, sys, datetime, subprocess, textwrap
 import matplotlib.pyplot as plt, folium, json, re, codecs
-import requests, urllib.request, os, fredapi, bdm
+import requests, urllib.request, os, fredapi, bdm, zipfile
 from bs4 import BeautifulSoup
 from curl_cffi import requests
 
@@ -233,7 +233,24 @@ def rottentomatoes(movie):
     audience = re.findall('"audienceScore.*?"scorePercent":"(\d\d)%"',response.text, re.DOTALL)
     critics = re.findall('"criticsScore.*?"scorePercent":"(\d\d)%"',response.text, re.DOTALL)
     return {"critics": critics[0], "audience": audience[1]}
-            
+
+def random_ufo_sighting():
+    with zipfile.ZipFile('/opt/Downloads/ufo/ufo.csv.zip', 'r') as z:
+        ufo = pd.read_csv(z.open('ufo.csv'),sep=',',parse_dates=['DateOccurred'])    
+
+    row = ufo.sample(1)
+    row = row[['DateOccurred','LongDescription','Location']]
+    row = row.iloc[0]
+    row = row.values
+    print (row[0])
+    print (row[2])
+    mls = row[1]
+    mls = mls.replace("&rsquo;","'")
+    mls = mls.replace('&quot;','"')
+    mls = mls.replace("&apos;","'")
+    print (textwrap.fill(mls, width=80))
+
+
 if __name__ == "__main__": 
     if sys.argv[1] == "approv":
         trump_approval()
