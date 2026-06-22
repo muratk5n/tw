@@ -96,7 +96,7 @@ then-President Clinton pardoned the billionaire last month"
 
 ---
 
-<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/792/301/263/958/103/original/90ea55caeefec252.jpg'/>
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/794/467/825/593/656/original/b3c89fa49042f016.jpg'/>
 
 ---
 
@@ -253,4 +253,3 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-        
