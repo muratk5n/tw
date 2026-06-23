@@ -159,7 +159,7 @@ approach (the grand formula).
 
 \#ProbabilisticGR \#Barandes \#TOE
 
-[[-]](https://www.youtube.com/watch?v=wrUvtqr4wOs&t=2709s)
+[[-]](https://youtu.be/wrUvtqr4wOs?t=2682)
 
 ---
 
