@@ -607,7 +607,15 @@ for col in targets:
 normalized_df = ratios_df[targets] / ratios_df[targets].iloc[0]
 ratios_df['super_index'] = normalized_df.mean(axis=1)
 ratios_df['super_index'].plot(title='Living Standards Index', grid=True)
+print (ratios_df['super_index'].tail(3))
 plt.savefig('livingst.jpg')
+```
+
+```text
+2026-03-01    0.852390
+2026-04-01    0.849487
+2026-05-01    0.847631
+Freq: MS, Name: super_index, dtype: float64
 ```
 
 ![](livingst.jpg)

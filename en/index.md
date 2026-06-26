@@ -3,213 +3,206 @@
 
 ---
 
-"@GeofCox@climatejustice.social
+That result can make sense, if you treat positive region as the area
+where textbook broke. Why? Because people (countries) started buying
+gold for other reasons than interest rate hedge. Dedolarization?  Gold
+becoming more valuable due to Basel III?
 
-Let's not lose sight of this: Starmer failed in the way that all
-centre-left governments are doomed to fail, because there are no
-non-radical solutions to the polycrisis.  The centre-left dream of
-positive change without disruption is over."
-
----
-
-BBC: "Keir Starmer resigns in emotional Downing Street speech"
+Recently it looked like interest rate hike fears caused gold decline?
+Back to textbook and King Dollar?
 
 ---
 
-Reshare
-
-Paper: "Boltzmann-GPT: Bridging Energy-Based World Models and Language
-Generation.. Large Language Models (LLMs) have emerged as remarkably
-capable language generators.. However, a fundamental question remains:
-do these models understand the world, or do they merely generate
-plausible texts about it?.. 
-
-This concern has gained attention, with LeCun describing
-autoregressive LLMs as 'doomed' due to their inability to model
-causality, and Hassabis emphasizing that artificial general
-intelligence (AGI) requires world models capable of understanding
-physical reality. LLMs learn to talk about the world, but whether they
-have formed a coherent model of it is far from clear. The mouth speaks
-fluently; whether the brain comprehends is another matter. This
-motivates our architectural principle: *the mouth is not the brain*.
-
-To rigorously evaluate this architecture, we use deliberately minimal
-components: a Deep Boltzmann Machine.. as the world model and a frozen
-GPT-2 as the language model. This choice is intentional. Frontier LLMs
-may have already internalized implicit world models, making it
-impossible to disentangle the contribution of explicit world modeling
-from the LLM’s own capabilities. By pairing a language model with
-limited capacity against an explicit energy-based world model, we can
-cleanly isolate the causal role of world model conditioning, ensuring
-that performance gains stem from structured understanding rather than
-the language model’s latent knowledge."
-
-[[-]](https://arxiv.org/pdf/2601.17094)
+From 2010-2022, there is negative correlation, 2022-2026 positive
+correlation 🤔 
 
 ---
 
-"The Surprising Flaws in 18650 Lithium-Ion Batteries"
+```python
+"%0.2f, %0.2f" % (df.loc["2010":"2022"].corr().iloc[0][1],
+                  df.loc["2022":"2025"].corr().iloc[0][1])
+```
 
-[[-]](https://youtu.be/-Y23nfAOiXQ?t=129)
-
----
-
-BBC News: "Why lithium‑ion battery fires are so dangerous"
-
-[[-]](https://youtu.be/Wv8AfrK4Amg?t=91)
-
----
-
-Some on the list would have directly benefited from the 2008 bailout
-
-- BMO Financial Group
-- Capital One Services LLC
-- Fifth Third Chicagoland Foundation
-- Northern Trust
-- Prudential Financial, Inc
-- GCM Grosvenor
-- Fidelity Charitable / National Philanthropic Trust:
-- Tony and Amie James (longtime President and COO of The Blackstone Group)
-- Catherine M. and Frederick H. Waddell
-- Jonathan and Jeannie Lavine
+```text
+Out[1]: '-0.65, 0.47'
+```
 
 ---
 
-The Lever: "With his presidential library, former President Obama is
-unveiling an oligarch-funded shrine to himself amid everyone in
-America being fleeced by oligarchs.. [The library's] sponsor list is
-context for a presidency that promised hope and change and then used a
-massive electoral mandate to deliver more of the same. Indeed, the
-[donor] list is a who's who of the winners of the Obama era: tech
-moguls, financial giants, telecom behemots, a health insurance giant,
-and other bold-faced names of the oligarchy"
+I see positive correlation on the whole data. Maybe we need to
+look at time periods seperately
 
 ---
 
-"Clinton's Presidential Library Raised 10% of Funds Overseas"
+```python
+pd.set_option('display.max_columns', None)
+year = 2010
+gold = u.get_yahoo_ticker(year, "GC=F").iloc[:, 0]
+nominal_ir = u.get_fred(year, "FEDFUNDS").iloc[:, 0]
+cpi = u.get_fred(year, "CPIAUCSL").iloc[:, 0]
+inflation_yoy = cpi.pct_change(12) * 100
+calculated_real_ir = nominal_ir - inflation_yoy
+df = u.get_pd().DataFrame(
+    {
+        "Gold_Price": gold,
+        "Calculated_Real_IR": calculated_real_ir,
+    }
+)
+df = df.ffill().dropna()
+
+df.corr()
+```
+
+```text
+Out[1]: 
+                    Gold_Price  Calculated_Real_IR
+Gold_Price            1.000000            0.267937
+Calculated_Real_IR    0.267937            1.000000
+```
 
 ---
 
-ABC News: "[2001] The ex-wife of fugitive commodities giant Marc Rich
-donated $450,000 to the Clinton presidential library before
-then-President Clinton pardoned the billionaire last month"
+Textbook says there should be an (inverse) correlation between real
+interest rates (FED rate - minus inflation), and gold. The rule of
+thumb is if rates are not compensating investor above inflation, there
+is a problem, gold rallies.
 
 ---
 
-<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/794/467/825/593/656/original/b3c89fa49042f016.jpg'/>
+Goldsilver: "Half the Fed Wants a Hike. 45% of Central Banks Are
+Buying More Gold"
 
 ---
 
-\#Beato \#LLM
-
-[[-]](https://youtu.be/aXy8mQeuObk?t=283)
-
----
-
-"@ainmosni@ainmosni.eu
-
-We need more places to openly take stands like Thomas House."
-
-[[-]](https://media.mastodontech.de/media_attachments/files/116/783/310/446/760/281/original/30d938b7ae54430c.webp)
+There's been a fall in gold prices, but expert claims the structural
+demand for gold did not go away. 
 
 ---
 
-"@LukaszOlejnik@mastodon.social
+"@jonny@neuromatch.social
 
-Claude Code AI coding assistant is tracking its users & collecting
-lots of data. Did you know of this? Default-on behavioral metrics to
-Anthropic every 5 minutes."
+Look, the robots might not know how to tell jokes but they can be
+funny.
 
----
+This is extremely hard to explain. `0x8008` as "octal boob" is used
+elsewhere in a persona prompt as part of an attempt to throw the model
+of stable latent space (doesn't really work). The bot here ingested
+all the text in the repo and reproduced that as some constant that is
+used as a bitmask for switching between rendering bananas and banana
+pudding. That was not requested by anyone, and makes no sense to
+do. Upon being informed that this value was a proprietary trade
+secret, it constructed a bit-shifting expression that has an
+equivalent value, because it was using that value as a bitmask already
+for no reason at all.
 
-Presence of constants BTW point to a lack of knowledge in that area,
-not presence of it. The so-called Standard Model of physics has 26,
-and its adherents are stuck in the mud, they cannot move an inch
-further improving the theory.
+The thing about this, and this whole thing, is that only a *pattern
+completion machine* would do any of this. A human being would have
+taken one look at the issue and been like "what the fuck is that,
+that's not real" but the bots have zero judgment between just
+performing the form of code without any meaning and the real
+thing. LLMs produce boilerplate. Code boilerplate, syntactic
+boilerplate, semantic boilerplate.
 
----
-
-In the previous post we said "LBM relaxation toward the equilibrium
-can be seen as N-S viscosity". That should not be seen as validation,
-as if the analytical approach has primacy and if simulation matched
-that it is more correct.
-
-And, **what** is viscosity anyway, the $\mu$ in Navier-Stokes. 90% of
-the time it is assumed constant (makes sense, consistency, thickness
-of a fluid does not vary in most conditions). So the formula says
-there are gazillion of inter-molecular interactions, and that whole
-dynamic, via friction, other cohesive forces, results in **one**
-stupid constant? So IOW the analytical *also* summarizes, it
-*generalizes*, it is *not* the real thing.
-
-Don't get me started with the "in the limit" arguments.. In the limit,
-distances approach to the infinitesimal. But inter-molecular
-distances, albeit small compared to regular objects in the world, are
-not infinitesimal. So the math is essentially wrong (though useful).
+The bot notes pre-existing test failures without noting that nothing
+in the entire repository, nor anything it is doing makes a goddamn bit
+of sense."
 
 ---
 
-I wonder what would it be like discovering Lattice Gas Automata and
-later its descendant, Lattice Boltzmann Method *before* the analytical
-formula Navier-Stokes? Since both are equally fundamental it should be
-okay to invent the simulation formulation before the analytical
-approach (the grand formula).
+Black Bill Clinton
 
 ---
 
-\#ProbabilisticGR \#Barandes \#TOE
+Sirota: "In 2006, I was berated for questioning Barack Obama’s
+progressivism. 20 years later, he proved me right... It’s the 20-year
+anniversary of my profile of Barack Obama, originally published in
+*The Nation*... The piece drew a lot of blowback because it was a rare
+critical look at a rising star who was then — as now — enjoying
+fawning media coverage. The piece zeroed in on how Obama was mixing
+populist rhetoric with a penchant for deferring to the establishment.
 
-[[-]](https://youtu.be/wrUvtqr4wOs?t=2682)
-
----
-
-*Carry-On*, fantastic work. I like who the good guys and the bad guys
-are. 
-
----
-
-The Guardian: "[2008] James Lovelock: 'Enjoy life while you can: in 20
-years global warming will hit the fan'.. The climate science maverick
-believes catastrophe is inevitable, carbon offsetting is a joke and
-ethical living a scam."
-
----
-
-"@Nigel_Purchase@mstdn.social
-
-France's hottest day ever"
-
-<img width='340' src='https://blogger.googleusercontent.com/img/a/AVvXsEiitJO5DZInIPSc9TXDUrNcHktb0S3VajJkB03KfLVUx69vDUQQc_DUMEqBfh1ocl-JaXkG5JVS8zC5GloXGSQovZnzMP-eW0xCyuaf44OA9tx6TC5jxRwGd_n5E5JGrGoyihKgc8anZEZ6483k9FyBMbaIg41c5DKZ2WJkdQWKGsW0I9VwNl843zO4Go_3=w640-h442'/>
+Looking back, the article now seems to have predicted much of what was
+to come from Obama – bailouts for bankers who were throwing families
+out of their homes, watered down Wall Street regulations, and
+incremental health care reforms that enriched insurance companies
+while excluding a promised public option. Not surprisingly, the part
+of my article where Obama tried to justify reversing his support for
+single-payer health care ended up repeatedly resurfacing years later
+as the Affordable Care Act’s shortcomings became ever-more
+apparent"
 
 ---
 
-LLM's (book) smarts converges to the average, widely-known, so they
-can be used for ed assistance. If the LLM is not in the driver's seat,
-only used as a helper while reading an authoritative book on a
-subject, they can be ok. If there are unclear points in the book,
-student could ask LLM "how is formula B derived from formula A?". LLM
-will go through its neural spaghetti and spit out something likely on
-how that derivation was achieved. This is key: the process needs to
-start and end in the authoritative material. Then student can judge
-LLM's explanation, if its internal logic makes sense, the conclusion
-leads to exactly what is in the authoritative source, accepts /
-rejects based on that result. LLM is basically used to fill in the
-blanks. Make the LLM your bitch. 
+BBC: "Mamdani's growing clout pulls Democrats leftward, shaking party
+establishment"
 
 ---
 
-\#Ukraine 06/10 - 06/21
-
-[[-]](mbl/2026/ukrdata/map12.html)
+"New York's Democratic primaries show Mamdani's win was no fluke"
 
 ---
 
-"@GeofCox@climatejustice.social
+"@pikesley@mastodon.me.uk
 
-The Israel/US regime-change assassination strategy backfired
-catastrophically, bringing to power in Iran new people willing to
-assert the control over the whole region, and influence over the whole
-world economy, that was always latent in Iran's size and geography."
+Formulating an #EMFCamp policy: if I'm in your talk and your slides
+have #LLM slop on them, I'm walking out. No ifs no buts. You couldn't
+be bothered making them, I'm not interested in looking at them, and I
+have to presume that whatever you're saying has had the same amount of
+thought put into it"
+
+---
+
+LLM complemented me for catching the error 😂 
+
+---
+
+When I confronted it, it said this:
+
+"You're right, I was sloppy there... LLMs generate text token by
+token, and math is particularly dangerous because a
+plausible-*looking* intermediate step is easy to produce without
+actually checking it. I filled in a step confidently that I hadn't
+carefully verified..
+
+Even when the source material is right there in the context.. I'm
+still generating tokens based on what seems likely to follow, so my
+own learned patterns can override what's literally in the provided
+text.
+
+In this case the telescoping idea was in [textbook] derivation, but
+the specific intermediate algebraic steps weren't spelled out [wants
+to be spoonfed?]  explicitly even there — so I had to generate them,
+and that's where my pattern-completion drifted from correct algebra.
+
+It's a fundamental limitation to be aware of.. I'm not doing symbol
+manipulation [basically math the way humans do it], I'm doing
+sophisticated pattern matching that usually looks like symbol
+manipulation."
+
+---
+
+Oh boy, "frontier" LLM made a massive algebraic mistake..
+
+Now I'm not even sure they can be used for ed assist.
+
+---
+
+There were some other reports too saying Palantir software isn't that
+good. But Focker somehow created an aura of greatness about the
+product. Focker is always in the circle of trust 👌.
+
+---
+
+"@ChrisMayLA6@mastodon.me.uk
+
+You may recall I posted recently on the highly focussed character of
+the claimed productivity benefits of Palantir's technology in the NHS
+(mostly happening in one London hospital); now NHS England has quietly
+admitted that it actually does not have robust evidence to link any
+wider rises in efficacy & performance to Palantir's software....
+
+So, just to be clear; their claims are just than, claims unsupported
+by evidence - which further suggests political interference!"
 
 ---
 
