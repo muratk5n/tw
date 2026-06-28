@@ -1,5 +1,328 @@
 # Week 25
 
+Gabor, The Guardian: "Britain’s politicians need to worry less about
+the bond markets – and more about the Bank of England.. [BOE].. has
+contributed to Britain’s high borrowing costs and the fear of bond
+markets. The bank is independent but not neutral: it is run by
+conservative technocrats protective of the status quo. Following the
+2008 crisis, the Bank, like its peers, acknowledged that UK gilts had
+become the bedrock of our financial system, and announced that it
+would act as gilt 'market maker of last resort': it would buy them
+when nobody else would to preserve financial stability. It also
+embarked on massive 'unconventional' gilt purchases – ie, quantitative
+easing, or QE – during the crisis as it did during the Covid-19
+pandemic.
+
+By September 2022, having become the biggest gilt owner, the Bank
+announced active quantitative tightening, or QT, to deal with
+inflationary pressure from the war in Ukraine, a policy of selling
+gilts. But when bond investors repeatedly warned that active QT would
+increase government borrowing costs, the Bank stopped consulting
+them. It also ignored other large central banks, which didn’t opt for
+such an aggressive approach, instead keeping government bonds until
+they matured."
+
+---
+
+"@glynmoody@mastodon.social
+
+Harvard Business Review warns AI ‘workslop’ is rotting companies from
+the inside - 'AI-generated low-quality work is degrading
+organizational knowledge, eroding trust between colleagues, and
+costing companies millions in hidden rework'"
+
+---
+
+"@thomasfuchs@hachyderm.io
+
+So to summarize, AI will cause personal computers to cost ten thousand
+dollars, all applications will forever be frozen to about 2025 design
+and implementation (because that’s what vibe coding outputs), power to
+run the computer will be twice the price and also you need to sign in
+with your passport to start your computer in the first place.
+
+Explain to me again how this is progress?"
+
+---
+
+"@kralcttam@mastodon.social
+
+SpaceX is building an eight-mile natural gas pipeline so it can burn
+millions of gallons of liquid methane."
+
+---
+
+Not bad Hunter.. Maybe Uncle Joe was right, this guy is smart.
+
+Hunter Biden: "I'm not running for office. But if I were, these are
+some of the lessons I'd take away from what happened in NY
+yesterday... Conviction beats caution. The candidates who said hard
+things about rent, about who pays for what, about Gaza, they won. The
+triangulators lost.. Cost of living is everything. Everything else is
+wallpaper."
+
+---
+
+Gavin Newsom lists bunch of left-wing proposals but is against
+California's one-time wealth tax? The post sounded too focus-groupy,
+double-faced, the kind we we are used to see from centrist, corporate
+Democrats.
+
+[[-]](https://gavinnewsom.substack.com/p/its-time-for-a-national-billionaires)
+
+---
+
+\#Dems \#Centrists
+
+[[-]](https://pbs.twimg.com/media/HLpRiRAXYAAb7K1.jpg)
+
+---
+
+In capitalistic context the Enthusiasm Bro is double problematic,
+for-profit orgs are inherently unable to innovate, bro latches on some
+stupid tech idea which he cannot improve in revolutionary ways in a
+bidness, but pushes people to "try" anyway, achieving nothing. The
+result will be burn-outs and likely bankruptcy.
+
+---
+
+In American tech you always need to watch out for the Enthusiasm Bro.
+This type of bro does not understand the tech very well, but is able
+to get enthusiastic about things and project that onto others. The
+most visible ones can mobilize people, draw capital, arrange resources
+and create shiny narratives, but underneath it all, it can all be some
+stinky shit. You'll get wrapped up in a dream, "believing the vision
+(ppl in US like to believe in stuff)", ride along but the car then
+promptly goes over the cliff. 
+
+---
+
+I guess it was only a matter of time someone would do this
+
+"VibePHP is a next-generation PHP runtime and web server that runs PHP
+faster* and better*.
+
+There is no interpreter. There is no compiler. When a request comes
+in, your PHP source is handed to an AI that reads it, runs it in its
+head, makes up whatever it needs to (the database, the clock, the
+network, the truth), and hands back the HTTP response it reckons the
+code would have produced.
+
+It is not deterministic. It is not cheap. It is not correct. It is,
+however, very vibe."
+
+[[-]](https://github.com/mnapoli/vibephp)
+
+---
+
+David Hogg: "Contrary to what the establishment wants you to think,
+things don't have to suck and you do not have to accept it."
+
+---
+
+That result can make sense, if you treat positive region as the area
+where textbook broke. Why? Because people (countries) started buying
+gold for other reasons than interest rate hedge. Dedolarization?  Gold
+becoming more valuable due to Basel III?
+
+Recently it looked like interest rate hike fears caused gold decline?
+Back to textbook and King Dollar?
+
+---
+
+From 2010-2022, there is negative correlation, 2022-2026 positive
+correlation 🤔 
+
+---
+
+```python
+"%0.2f, %0.2f" % (df.loc["2010":"2022"].corr().iloc[0][1],
+                  df.loc["2022":"2025"].corr().iloc[0][1])
+```
+
+```text
+Out[1]: '-0.65, 0.47'
+```
+
+---
+
+I see positive correlation on the whole data. Maybe we need to
+look at time periods seperately
+
+---
+
+```python
+pd.set_option('display.max_columns', None)
+year = 2010
+gold = u.get_yahoo_ticker(year, "GC=F").iloc[:, 0]
+nominal_ir = u.get_fred(year, "FEDFUNDS").iloc[:, 0]
+cpi = u.get_fred(year, "CPIAUCSL").iloc[:, 0]
+inflation_yoy = cpi.pct_change(12) * 100
+calculated_real_ir = nominal_ir - inflation_yoy
+df = u.get_pd().DataFrame(
+    {
+        "Gold_Price": gold,
+        "Calculated_Real_IR": calculated_real_ir,
+    }
+)
+df = df.ffill().dropna()
+
+df.corr()
+```
+
+```text
+Out[1]: 
+                    Gold_Price  Calculated_Real_IR
+Gold_Price            1.000000            0.267937
+Calculated_Real_IR    0.267937            1.000000
+```
+
+---
+
+Textbook says there should be an (inverse) correlation between real
+interest rates (FED rate - minus inflation), and gold. The rule of
+thumb is if rates are not compensating investor above inflation, there
+is a problem, gold rallies.
+
+---
+
+Goldsilver: "Half the Fed Wants a Hike. 45% of Central Banks Are
+Buying More Gold"
+
+---
+
+There's been a fall in gold prices, but expert claims the structural
+demand for gold did not go away. 
+
+---
+
+"@jonny@neuromatch.social
+
+Look, the robots might not know how to tell jokes but they can be
+funny.
+
+This is extremely hard to explain. `0x8008` as "octal boob" is used
+elsewhere in a persona prompt as part of an attempt to throw the model
+of stable latent space (doesn't really work). The bot here ingested
+all the text in the repo and reproduced that as some constant that is
+used as a bitmask for switching between rendering bananas and banana
+pudding. That was not requested by anyone, and makes no sense to
+do. Upon being informed that this value was a proprietary trade
+secret, it constructed a bit-shifting expression that has an
+equivalent value, because it was using that value as a bitmask already
+for no reason at all.
+
+The thing about this, and this whole thing, is that only a *pattern
+completion machine* would do any of this. A human being would have
+taken one look at the issue and been like "what the fuck is that,
+that's not real" but the bots have zero judgment between just
+performing the form of code without any meaning and the real
+thing. LLMs produce boilerplate. Code boilerplate, syntactic
+boilerplate, semantic boilerplate.
+
+The bot notes pre-existing test failures without noting that nothing
+in the entire repository, nor anything it is doing makes a goddamn bit
+of sense."
+
+---
+
+Black Bill Clinton
+
+---
+
+Sirota: "In 2006, I was berated for questioning Barack Obama’s
+progressivism. 20 years later, he proved me right... It’s the 20-year
+anniversary of my profile of Barack Obama, originally published in
+*The Nation*... The piece drew a lot of blowback because it was a rare
+critical look at a rising star who was then — as now — enjoying
+fawning media coverage. The piece zeroed in on how Obama was mixing
+populist rhetoric with a penchant for deferring to the establishment.
+
+Looking back, the article now seems to have predicted much of what was
+to come from Obama – bailouts for bankers who were throwing families
+out of their homes, watered down Wall Street regulations, and
+incremental health care reforms that enriched insurance companies
+while excluding a promised public option. Not surprisingly, the part
+of my article where Obama tried to justify reversing his support for
+single-payer health care ended up repeatedly resurfacing years later
+as the Affordable Care Act’s shortcomings became ever-more
+apparent"
+
+---
+
+BBC: "Mamdani's growing clout pulls Democrats leftward, shaking party
+establishment"
+
+---
+
+"New York's Democratic primaries show Mamdani's win was no fluke"
+
+---
+
+"@pikesley@mastodon.me.uk
+
+Formulating an #EMFCamp policy: if I'm in your talk and your slides
+have #LLM slop on them, I'm walking out. No ifs no buts. You couldn't
+be bothered making them, I'm not interested in looking at them, and I
+have to presume that whatever you're saying has had the same amount of
+thought put into it"
+
+---
+
+LLM complemented me for catching the error 😂 
+
+---
+
+When I confronted it, it said this:
+
+"You're right, I was sloppy there... LLMs generate text token by
+token, and math is particularly dangerous because a
+plausible-*looking* intermediate step is easy to produce without
+actually checking it. I filled in a step confidently that I hadn't
+carefully verified..
+
+Even when the source material is right there in the context.. I'm
+still generating tokens based on what seems likely to follow, so my
+own learned patterns can override what's literally in the provided
+text.
+
+In this case the telescoping idea was in [textbook] derivation, but
+the specific intermediate algebraic steps weren't spelled out [wants
+to be spoonfed?]  explicitly even there — so I had to generate them,
+and that's where my pattern-completion drifted from correct algebra.
+
+It's a fundamental limitation to be aware of.. I'm not doing symbol
+manipulation [basically math the way humans do it], I'm doing
+sophisticated pattern matching that usually looks like symbol
+manipulation."
+
+---
+
+Oh boy, "frontier" LLM made a massive algebraic mistake..
+
+Now I'm not even sure they can be used for ed assist.
+
+---
+
+There were some other reports too saying Palantir software isn't that
+good. But Focker somehow created an aura of greatness about the
+product. Focker is always in the circle of trust 👌.
+
+---
+
+"@ChrisMayLA6@mastodon.me.uk
+
+You may recall I posted recently on the highly focussed character of
+the claimed productivity benefits of Palantir's technology in the NHS
+(mostly happening in one London hospital); now NHS England has quietly
+admitted that it actually does not have robust evidence to link any
+wider rises in efficacy & performance to Palantir's software....
+
+So, just to be clear; their claims are just than, claims unsupported
+by evidence - which further suggests political interference!"
+
+---
+
 NYT: "The president of the Utah State Senate, who championed a huge
 data center beside the Great Salt Lake, was defeated in his Republican
 primary on Tuesday night, one of the most high-profile signs of the
