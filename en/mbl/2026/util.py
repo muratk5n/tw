@@ -250,7 +250,26 @@ def random_ufo_sighting():
     mls = mls.replace("&apos;","'")
     print (textwrap.fill(mls, width=80))
 
+def boxofficemojo(q):
+    q = q.replace(" ","+").lower()
+    url = "https://www.boxofficemojo.com/search/?q=" + q
+    res = urllib.request.urlopen(url).read().decode('utf-8')
+    reres = re.findall('a-size-medium a-link-normal a-text-bold" href="(.*?)"',res)
+    url2 = "https://www.boxofficemojo.com" + reres[0]
+    res2 = urllib.request.urlopen(url2).read().decode('utf-8')
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Domestic.*?money">(.*?)<'
+    domestic = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?International.*?money">(.*?)<'
+    intl = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Worldwide.*?money">(.*?)<'
+    worldwide = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'Domestic Opening.*?money">(.*?)<'
+    domopen = re.findall(regex2,res2,re.DOTALL)[0]
+    return {"Domestic Opening": domopen, "Domestic": domestic,
+            "International": intl, "Worldwide Total": worldwide}
 
+
+    
 if __name__ == "__main__": 
     if sys.argv[1] == "approv":
         trump_approval()
