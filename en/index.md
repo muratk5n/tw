@@ -7,7 +7,7 @@ Traditional light-water reactors (LWRs) rely on a constant influx of
 cold water from nearby water sources (river, sea) to cool down..  If
 the river water is already warm, that worsens the plant's cooling
 efficiency. Also if a plant dumps hot water into an already baking
-river it could harm the environment ( deplete the oxygen levels) and
+river it could harm the environment (deplete the oxygen levels) and
 kill local fish populations, hence there is regulation to prevent
 this, the plants must throttle back or shut down entirely.
 
