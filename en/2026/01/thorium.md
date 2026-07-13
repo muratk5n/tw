@@ -1,6 +1,6 @@
 # Thorium
 
-Welthion: "If thorium is so much better than uranium, why did the
+Wealthion: "If thorium is so much better than uranium, why did the
 U.S. abandon thorium in the 1960s–70s why did we shutter this thing in
 in the 70s?  Why did we go down the uranium path and not the thorium
 path?'"
