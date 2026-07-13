@@ -29,14 +29,14 @@ Europe, working-class men had to fight for their political rights. So
 who's going to do that? Because the people lined up against their
 political rights were the wealthy. So working class men and women had
 to organize their own political parties to campaign for democratic
-rights, because every single political party in the in Europe, up
-until the 1900s, was a rich person's party. They weren't going to
-fight for democratic rights. The United States, because the American
-Revolution, got people democratic rights early, they got sucked up
-into the system without having to organize their own parties. That has
-a lot to do with why a "Labor Party" was never born... Every single
-place where you got democracy [except US], it was through
-working-class parties fighting for it...
+rights, because every single political party in Europe, up until the
+1900s, was a rich person's party. They weren't going to fight for
+democratic rights. The United States, because the American Revolution,
+got people democratic rights early, they got sucked up into the system
+without having to organize their own parties. That has a lot to do
+with why a "Labor Party" was never born... Every single place where
+you got democracy [except US], it was through working-class parties
+fighting for it...
 
 [T]here's another reason.. the US conquered more and more of the
 western regions as it grew, which means that working-class people who

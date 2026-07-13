@@ -1,5 +1,7 @@
 # Climate Change
 
+[Thorium](../../2026/01/thorium.html)
+
 [Clean Fuels are the Solution](clean-fuel-is-the-solution.html)
 
 [Wires vs Pipes](wirespipes.html)

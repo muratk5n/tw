@@ -1,26 +1,6 @@
 # Thorium
 
-High thorium concentration in US, in states NV, UT, AZ, CO, KS, WY
-
-[[-]](../../mbl/2022/twimg/FRS6EeRXoAAJjvb.jpg)
-
----
-
-"Thorium is three to five times more abundant than uranium in the
-earth's crust..  produces less radiotoxicity than the U02 because it
-produces fewer amounts of actinides, reducing the radiotoxicity of
-long life nuclear waste. Th02 has higher corrosion resistance than
-U02, besides being chemically stable due to their low water
-solubility. The burning of Pu in a reactor based in thorium also
-decreases the inventories of Pu from the current fuel cycles,
-resulting in lower risks of material diversion for use in nuclear
-weapons"
-
-[PDF](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/068/45068136.pdf)
-
----
-
-Adam Taggart: "If thorium is so much better than uranium, why did the
+Welthion: "If thorium is so much better than uranium, why did the
 U.S. abandon thorium in the 1960s–70s why did we shutter this thing in
 in the 70s?  Why did we go down the uranium path and not the thorium
 path?'"
@@ -51,6 +31,20 @@ easier to continue that momentum than to try to go back to the drawing
 board with thorium"
 
 [[-]](https://youtu.be/MZgL67lN2NM?t=530)
+
+---
+
+"Thorium is three to five times more abundant than uranium in the
+earth's crust..  produces less radiotoxicity than the U02 because it
+produces fewer amounts of actinides, reducing the radiotoxicity of
+long life nuclear waste. Th02 has higher corrosion resistance than
+U02, besides being chemically stable due to their low water
+solubility. The burning of Pu in a reactor based in thorium also
+decreases the inventories of Pu from the current fuel cycles,
+resulting in lower risks of material diversion for use in nuclear
+weapons"
+
+[PDF](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/068/45068136.pdf)
 
 ---
 
@@ -89,7 +83,7 @@ temperature"
 
 Thorium Reserves per Country
 
-<img width='340' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/World_s_Thorium_reserves.png/1200px-World_s_Thorium_reserves.png'/>
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/913/102/137/925/235/original/825bc290f7035834.jpg'/>
 
 ---
 
@@ -133,4 +127,9 @@ lazy. That's when the tortoise seizes its chance"
 [[-]](https://youtu.be/-s6_CFPAuP8?t=417)
 
 ---
-    
+
+High thorium concentration in US, in states NV, UT, AZ, CO, KS, WY
+
+[[-]](../../mbl/2022/twimg/FRS6EeRXoAAJjvb.jpg)
+
+---
