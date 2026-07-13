@@ -106,6 +106,11 @@ temparatures read somewhat better this year.. Roughly speaking. 🤷‍♂️
 
 ---
 
+The Guardian: "Albania warned EU accession at risk over Jared
+Kushner-backed resort plans"
+
+---
+
 Firstpost: "Was Lindsey Graham poisoned?... The sudden and unexpected
 death of veteran US Senator Lindsey Graham has sparked a flood of
 online conspiracy theories, with Iran and Russia becoming the focus"

@@ -69,6 +69,12 @@ temperature"
 
 ---
 
+"America's Abandoned Reactor Just Went Live — In India"
+
+[[-]](https://youtu.be/59baRR1wC14?t=205)
+
+---
+
 \#Thorium \#Whistler
 
 [[-]](https://youtu.be/jSFo_92cJ-U?t=216)
