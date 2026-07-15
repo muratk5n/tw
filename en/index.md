@@ -1,108 +1,78 @@
 
-[Thorium](2026/01/thorium.html)
+
+Task & Purpose: "The Army spent almost half-a-billion dollars on a
+Texas ammunition factory to restock the military’s supply of 155 mm
+artillery shells, but the facility has yet to produce a single round
+in two years, a Pentagon watchdog found.
+
+The Texas factory was supposed to be producing 30,000 155 mm shells
+each month by October 2025, according to a Department of Defense
+Inspector General’s report. But by this March, it had yet to deliver
+any and the IG report said it did not expect to deliver any before
+September."
 
 ---
 
-Traditional light-water reactors (LWRs) rely on a constant influx of
-cold water from nearby water sources (river, sea) to cool down..  If
-the river water is already warm, that worsens the plant's cooling
-efficiency. Also if a plant dumps hot water into an already baking
-river it could harm the environment (deplete the oxygen levels) and
-kill local fish populations, hence there is regulation to prevent
-this, the plants must throttle back or shut down entirely.
-
-Thorium reactors use liquid molten salt as coolant, they can reject
-their waste heat directly into the atmosphere when needed, they are
-not dependent on river temperatures.
-
-The traditional LWRs are an inferior design in every way, but they
-were preferred because the US military-industrial complex demanded
-their use. This group screwed US and the world in more ways than one.
+Techcrunch: "Open source AI is booming, according to Hugging Face CEO
+Clem Delangue. The company has grown into something like a GitHub for
+AI in recent years, where AI builders can share and download open
+models and datasets, now used by roughly half the Fortune
+500. Delangue has seen the same story play out again and again:
+companies start out on frontier APIs, but as they scale, the costs
+push them towards open source models."
 
 ---
 
-"@GeofCox@climatejustice.social
-
-'France's main energy provider on Sunday, July 12, said three nuclear
-reactors had been temporarily shut down and eight others were
-operating at reduced power due to the heatwave [le Monde]'.. So it
-turns out nuclear power was not part of the answer to climate
-breakdown after all"
+IFR used a more abundant version of Uranium, and the design could be
+adapted to use thorium. Its coolant was sodium based, not water, the
+system did not suffer many of the disadvantages Light Water Reactors
+suffer from.
 
 ---
 
-Does that mean CG theory has no black holes either, or has different
-types?
+We can always find a Clinton on the wrong side of any issue
+
+Till, *Plentiful Energy*: "The Integral Fast Reactor (IFR) is a fast
+reactor system developed at Argonne National Laboratory in the decade
+1984 to 1994. The IFR project developed the technology for a complete
+system; the reactor, the entire fuel cycle and the waste management
+technologies were all included in the development program...
+
+Development proceeded from success to success. Most of the development
+had been done when the program was abruptly cancelled by the newly
+elected Clinton Administration. In his 1994 State of the Union address
+the president stated that 'unnecessary programs in advanced reactor
+development will be terminated.' The IFR was that program."
+
+[PDF](https://www.thesciencecouncil.com/pdfs/PlentifulEnergy.pdf)
 
 ---
 
-CG solution has no singularity.. Wolfgang Kundt has been talking about
-that (below), he said some in the research community now feel strongly
-that the ultimate field equations should not allow singularities in
-their formulation..
+```python
+eps = 0.02
+u.get_pd().DataFrame({
+  '1/x': 1 / (x := np.linspace(-2, 2)), 
+  'x/(x^2+eps^2)': x / (x**2 + eps**2)
+}).plot()
+```
 
-[[-]](https://youtu.be/BhDpApRa6BI?t=1724)
-
----
-
-CG has the smell of a good theory... Solid theories have to
-*disregard* some mainstream results, making them obsolete, not say "oh
-I can explain this, that and every other thing", confirming /
-cementing the existence of all. Such theories should be
-suspect..
-
-Manheim talks about his work in the right spirit too, he started with
-few assumptions and followed the reasoning to where it led him, did
-not try to coexist with what is "known" from get-go. People who do
-that are not theorizing, they are "curve fitting" to borrow a term
-from statistics.
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/916/796/083/887/407/original/6124637112c74e20.jpg'/> 
 
 ---
 
-Jaimungal: "Professor Philip Mannheim..  is the physicist behind
-conformal (Weyl) gravity: a theory he argues is renormalizable,
-unitary, and able to handle dark matter, dark energy, and quantum
-gravity together...
+Singularities are not tough concepts to understand.. the function
+$1/x$ has a singularity at $x=0$. It is undefined there. That's
+it. And whoever is formulating a physical process is not stuck with
+such functions, they can use an approximation, for this example let's
+say $x / x^2 + \epsilon^2$, at small values of $\epsilon$ the latter
+approaches the former.
 
-- Mannheim’s claim: the missing mass was never missing. What we call
-  dark matter.. is the gravitational pull of the rest of the universe.
-
-- He [successfully] fits 138 galaxy rotation curves with no dark
-  matter, using the same handful of parameters for every
-  galaxy. Standard dark matter needs 276 more.
-
-- If the Higgs is elementary, it’s the God particle. If it’s
-  composite, then it’s the vacuum that is God. He bets on composite."
-
-[[-]](https://curtjaimungal.substack.com/p/the-story-of-conformal-gravity)
-
----
-
-Maybe they thought these hardy Zio mfkers will stay there no matter
-what, we'll clean out the rest
-
----
-
-What benefit would such modification give the West? Displace people en
-masse? But doesn't that hurt their beloved Israel?
-
----
-
-Massive conspiracy theory; "Western countries were modifying the
-atmosphere of West Asia, but when the war started Iran destroyed the
-plants engaged in such activity, so the weather is less extreme this
-summer". Wow. I haven't checked the data. But, gobble gobble
-temparatures read somewhat better this year.. Roughly speaking. 🤷‍♂️
-
----
-
-😂 😂 😂 
-
-[[-]](http://img.youtube.com/vi/RoXmTgi_zNU/0.jpg)
-
----
-
-*Oddysey* has created some controversy, around the casting of Helen of Troy 
+And who says the "approximation" isn't closer to the real thing as far
+as nature is concerned? The scientist decides one or the other, it is
+completely up to them, there is nothing in the data or the rest of the
+literature that enforces any specific formula. So then, singularities
+(of the field equations) mean black holes, but if we chose another
+formula without singularity, boom... black hole gone.
 
 ---
 
@@ -111,25 +81,49 @@ Kushner-backed resort plans"
 
 ---
 
-Firstpost: "Was Lindsey Graham poisoned?... The sudden and unexpected
-death of veteran US Senator Lindsey Graham has sparked a flood of
-online conspiracy theories, with Iran and Russia becoming the focus"
+Futurism: "Meta’s camera-equipped 'AI Glasses' are so divisive that
+some adopters are now leaving their expensive smart glasses at home,
+as Engadget reports"
 
 ---
 
-AP News: "Iranian state television announced Graham’s death during a
-live broadcast..  'I congratulate the great nation of Iran on Lindsey
-Graham, the warmongering and anti-Iranian U.S. senator, having gone to
-hell,' the anchor said. Graham’s staunch support of Israel and his
-hawkish approach drew anger elsewhere in the Middle East"
+"@pvonhellermannn@mastodon.green
+
+There are wildfires everywhere. Everywhere! Right here outside
+Eastbourne, other places in Sussex; in Maybe Wales, Scotland, France, Spain,
+Germany, US, etc etc. It really is the \#Pyrocene. And yet STILL hardly
+anyone is talking about it."
 
 ---
 
-Arab News: "Saudi Arabia’s [MBS] sent condolences to Iran’s president
-as Tehran holds a state funeral for late Supreme Leader Ayatollah Ali
-Khamenei.. The message of condolence was convayed to.. Pezeshkian by
-Saudi Arabia’s Deputy Foreign Minister Waleed Elkhereiji, who attended
-the ceremony"
+"@newsguyusa@flipboard.social
+
+With the US resuming its blockade of the Strait of Hormuz and Ukraine
+knocking out Russian refining capacity, 'I now expect the national
+average price of gasoline to reach $4 per gallon in the next 7-10
+days, if not sooner.' - Patrick De Haan"
+
+---
+
+♪♬ Now I'm a happy feller ♪
+
+♪♪ 'Cause I'm married to the fortune teller ♪
+
+♬♬ And I'm as happy as we can be ♬
+
+♬♪ And now I get my fortune told for free ♪
+
+---
+
+"Yemen threatens to close Bab al-Mandeb Strait, warns of $200 a barrel
+oil amid Saudi aggression"
+
+---
+
+The Hormuz Report: "Iran to completely shut the Strait of Hormuz, Sea
+of Oman and Red sea — Iran's IRGC Navy commander warns if U.S. resumes
+its naval blockade, Iran will shut down all exports and imports across
+the Persian Gulf, Sea of Oman, and Red Sea."
 
 ---
 
