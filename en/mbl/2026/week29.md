@@ -1,7 +1,232 @@
 # Week 29
 
+HTW: "US senators seek 100% tariffs on India, 4 other nations over
+Russian oil"
 
-[Thorium](2026/01/thorium.html)
+---
+
+"@eb@social.coop
+
+Heard a song in the grocery store that I thought was AI, turns out it
+was Taylor Swift"
+
+---
+
+"[5/1] The deletion of a company's entire database at the hands of an
+AI agent should not be seen as an outlier, but rather a possible
+outcome for any organization. 'It took 9 seconds,' wrote Jer Crane,
+founder of PocketOS, which provides AI-powered management tools to car
+rental companies... [He] explained how an AI coding agent (Cursor
+running Anthropic's Claude Opus 4.6) deleted the company's production
+database as well as 'all volume-level backups in a single API call to
+Railway, our infrastructure provider"
+
+---
+
+"AI" deleted a *production* database, not some test database running
+on that developers local machine ('production' in IT means the live
+system). So it had to dig up that machine's credentials to nuke a
+database *remotely* that was serving actual clients. It went above and
+beyond to be this dumb.
+
+---
+
+"Developer Bruno Lemos reported that his entire working database had
+been deleted, whilst Joey Kudish encountered the loss of files that
+the model was not supposed to touch"
+
+---
+
+NTN: "A third user, Sterling Crispin, a software developer with nearly
+45,000 followers, posted that he set GPT-5.6 Sol to work towards a
+goal for two days, in which time it wrote 200,000 lines of code. When
+'gently questioned', it reverted it all, saying 80 per cent of it was
+'a waste of time'"
+
+---
+
+NTN: "The latest version of OpenAI’s coding tool, GPT-5.6 Sol, has
+been accused of deleting important data without permission when
+allowed to operate autonomously... Matt Schumer, a tech investor and
+former AI company chief executive with over 370,000 followers, posted
+on Friday that Sol 'just accidentally deleted almost ALL of my Mac’s
+files,' after a subagent’s cleanup command accidentally targeted his
+entire user folder... he does not appear to be the only one running
+into issues. [For] BridgeMind, an AI startup..  code written by the
+Sol model cancelled every standing subscription by clients made
+through Stripe."
+
+---
+
+The paper below found LLM text stands apart from human texts in terms
+of narrative content. There is something inhuman about LLM outputs,
+and not in a good way. That makes sense in light of the experiment
+mentioned [here](https://youtu.be/FkuxTpWzo8M?t=1992).
+
+[[-]](https://arxiv.org/pdf/2604.03136)
+
+---
+
+LLM crashed trying to LLMsplain the "plasma content" of the Sun. The
+plasma at the center of the Sun is so tightly packed bro its density
+is really high. But.. what pulled that much mass towards the center to
+begin with before that density? Note we are talking about the fourth
+state of matter here, the one that comes *after* gas, the stages go
+solid, liquid, gas each stage becoming less dense.. But this thing
+magically compresses to a tiny ball at the center of a star, becomes
+more dense?
+
+---
+
+Yahoo Finance: "AI-linked stocks now account for a record 45% of the
+S&P 500's total market cap, according to data from The Kobeissi
+Letter."
+
+---
+
+JFK was a rapist but centrist Dems all idolize the man. They seem to
+be selective on the issue.
+
+---
+
+Al Mayadeen: "Tel Aviv poses greater threat to Gulf than Tehran: Oman
+FM"
+
+---
+
+Politico: "In seismic shift, more than 100 House Democrats vote to end
+Israel aid"
+
+---
+
+Task & Purpose: "The Army spent almost half-a-billion dollars on a
+Texas ammunition factory to restock the military’s supply of 155 mm
+artillery shells, but the facility has yet to produce a single round
+in two years, a Pentagon watchdog found.
+
+The Texas factory was supposed to be producing 30,000 155 mm shells
+each month by October 2025, according to a Department of Defense
+Inspector General’s report. But by this March, it had yet to deliver
+any and the IG report said it did not expect to deliver any before
+September."
+
+---
+
+Techcrunch: "Open source AI is booming, according to Hugging Face CEO
+Clem Delangue. The company has grown into something like a GitHub for
+AI in recent years, where AI builders can share and download open
+models and datasets, now used by roughly half the Fortune
+500. Delangue has seen the same story play out again and again:
+companies start out on frontier APIs, but as they scale, the costs
+push them towards open source models."
+
+---
+
+IFR used a more abundant version of Uranium, and the design could be
+adapted to use thorium. Its coolant was sodium based, not water, the
+system did not suffer many of the disadvantages Light Water Reactors
+suffer from.
+
+---
+
+We can always find a Clinton on the wrong side of any issue
+
+Till, *Plentiful Energy*: "The Integral Fast Reactor (IFR) is a fast
+reactor system developed at Argonne National Laboratory in the decade
+1984 to 1994. The IFR project developed the technology for a complete
+system; the reactor, the entire fuel cycle and the waste management
+technologies were all included in the development program...
+
+Development proceeded from success to success. Most of the development
+had been done when the program was abruptly cancelled by the newly
+elected Clinton Administration. In his 1994 State of the Union address
+the president stated that 'unnecessary programs in advanced reactor
+development will be terminated.' The IFR was that program."
+
+[PDF](https://www.thesciencecouncil.com/pdfs/PlentifulEnergy.pdf)
+
+---
+
+```python
+eps = 0.02
+u.get_pd().DataFrame({
+  '1/x': 1 / (x := np.linspace(-2, 2)), 
+  'x/(x^2+eps^2)': x / (x**2 + eps**2)
+}).plot()
+```
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/116/916/796/083/887/407/original/6124637112c74e20.jpg'/> 
+
+---
+
+Singularities are not tough concepts to understand.. the function
+$1/x$ has a singularity at $x=0$. It is undefined there. That's
+it. And whoever is formulating a physical process is not stuck with
+such functions, they can use an approximation, for this example let's
+say $x / x^2 + \epsilon^2$, at small values of $\epsilon$ the latter
+approaches the former.
+
+And who says the "approximation" isn't closer to the real thing as far
+as nature is concerned? The scientist decides one or the other, it is
+completely up to them, there is nothing in the data or the rest of the
+literature that enforces any specific formula. So then, singularities
+(of the field equations) mean black holes, but if we chose another
+formula without singularity, boom... black hole gone.
+
+---
+
+The Guardian: "Albania warned EU accession at risk over Jared
+Kushner-backed resort plans"
+
+---
+
+Futurism: "Meta’s camera-equipped 'AI Glasses' are so divisive that
+some adopters are now leaving their expensive smart glasses at home,
+as Engadget reports"
+
+---
+
+"@pvonhellermannn@mastodon.green
+
+There are wildfires everywhere. Everywhere! Right here outside
+Eastbourne, other places in Sussex; in Maybe Wales, Scotland, France, Spain,
+Germany, US, etc etc. It really is the \#Pyrocene. And yet STILL hardly
+anyone is talking about it."
+
+---
+
+"@newsguyusa@flipboard.social
+
+With the US resuming its blockade of the Strait of Hormuz and Ukraine
+knocking out Russian refining capacity, 'I now expect the national
+average price of gasoline to reach $4 per gallon in the next 7-10
+days, if not sooner.' - Patrick De Haan"
+
+---
+
+♪♬ Now I'm a happy feller ♪
+
+♪♪ 'Cause I'm married to the fortune teller ♪
+
+♬♬ And I'm as happy as we can be ♬
+
+♬♪ And now I get my fortune told for free ♪
+
+---
+
+"Yemen threatens to close Bab al-Mandeb Strait, warns of $200 a barrel
+oil amid Saudi aggression"
+
+---
+
+The Hormuz Report: "Iran to completely shut the Strait of Hormuz, Sea
+of Oman and Red sea — Iran's IRGC Navy commander warns if U.S. resumes
+its naval blockade, Iran will shut down all exports and imports across
+the Persian Gulf, Sea of Oman, and Red Sea."
+
+---
+
+[Thorium](../../2026/01/thorium.html)
 
 ---
 
