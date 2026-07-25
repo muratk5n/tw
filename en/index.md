@@ -3,6 +3,21 @@
 
 ---
 
+Pinned Post
+
+Fortune: "A decade after the ‘Godfather of AI’ said radiologists were
+obsolete, their salaries are up to $571K and demand is growing
+fast.. In 2016.. Hinton, stood onstage at a machine learning
+conference in Toronto and declared AI would soon kill the radiology
+profession.. 'If you work as a radiologist, you’re like the coyote
+that’s already over the edge of the cliff but hasn’t yet looked down,'
+Hinton said... And yet, despite the doomsday predictions, radiology
+may serve as an example that the warnings of AI-fueled job replacement
+may be oversold.. Over the last 10 years, the number of active
+radiologists in the U.S. has grown by about 10%"
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
