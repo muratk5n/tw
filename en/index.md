@@ -1,4 +1,8 @@
 
+<img width='400' src='https://media.mastodontech.de/media_attachments/files/116/969/678/566/296/184/original/0aa9cc5f75261db9.webp'/>
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
