@@ -114,6 +114,40 @@ sightings of Air Force weirdo toys mistaken for UFOs, then why is
 there a fall during Reagan years? He would've loved to fund that kind
 of tech.
 
+### UFO Sightings Around Nuclear Sites
+
+Is UFO activity near nuclear sites higher than other areas? We could
+compare sighting counts within 100 km radius of those sites vs the
+res.. We will create a GLM via Poisson distribution on annual basis.
+The ratio will be calculated statistically, we get a distribution for
+the ratio and can check if it is centered around 1. 
+
+```python
+import ufo
+params = ufo.ufo_sighting_nuke_counts()
+ufo.poisson_ratio(*params)
+```
+
+```text
+                                                                                
+             mean     sd  hdi_3%  hdi_97%  ...  mcse_sd  ess_bulk  ess_tail  r_hat
+alpha       1.372  0.281   0.831    1.888  ...    0.009   289.673   555.530  1.007
+beta        0.002  0.025  -0.047    0.048  ...    0.000  9656.990  6170.410  1.000
+sigma_year  2.439  0.223   2.011    2.847  ...    0.004   682.257  1111.974  1.006
+rate_ratio  1.002  0.025   0.955    1.049  ...    0.000  9656.990  6170.410  1.000
+
+[4 rows x 9 columns]
+P(rate_ratio > 1) = 0.528
+Median rate ratio: 1.0016459667262196
+Mean rate ratio: 1.002105970452778
+95% HDI: [0.9521081  1.05035831]
+P(rate_ratio > 1): 0.528
+P(0.9 <= rr <= 1.1): 0.999875
+```
+
+It is centered around 1.. The non-nuke sighting counts are
+indistinquishable from the nuke site sightings..
+
 References
 
 [1] [NUFORC](https://www.kaggle.com/NUFORC/ufo-sightings)

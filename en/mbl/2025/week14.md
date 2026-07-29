@@ -523,12 +523,6 @@ been buying them up"
 
 ---
 
-\#Peled \#Gaza
-
-[[-]](https://www.youtube.com/embed/4uRJcH4JU_M?start=238&end=296)
-
----
-
 \#Frontline \#Ukraine 03/24 - 03/31
 
 [[-]](ukrdata/map13.html)

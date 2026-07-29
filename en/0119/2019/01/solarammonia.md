@@ -136,12 +136,4 @@ million (USD$5.7 million) project will last two to three years and, if
 the shipowners decide to deploy the finished product, “the first
 ammonia engine could then be in operation by early 2022.”
 
----
-
-All great news. So you could convert ammonia into hydrogen, or use
-ammonia in fuel-cells, or use it directly as fuel! Don't try to
-"reform"
-[batteries](https://mobile.twitter.com/business/status/1089744970578309120)
-for BEVs. That's a fool's errand. We need to respect the
-chemistry. Learn to love the molecules.
 

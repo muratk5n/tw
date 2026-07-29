@@ -1,7 +1,5 @@
 # Ammonia
 
-### An H2 Carrier
-
 How do we transport hydrogen? Usually pressurized tanks are used as a
 solution. For a cheaper alternative researchers are looking at
 "hydrogen carriers", substances which contain H2, but can be carried
@@ -16,15 +14,22 @@ NH3, hydrogen H2. Two H's as we see are in NH3.
 There is already a huge infrastructure for producing ammonia. It is
 produced about 150 million tons per year. Ammonia is used in cleaning
 products, known for its sharp smell and ability to clean any kind of
-grease. In movies, if dude passed out, someone brings a cloth to his
-nose, he smell it, and wakes right the f--k up. That's ammonia.
+grease. 
 
-Clean production methods: Folks at George Washington University came
-up with an approach that uses air and water as a source of H2 . Air is
-made up of 78% N2 . In their process the bubble of wet air is passed
-through a mixture of tiny particles of iron oxide and molten NaOH and
-KOH. When electricity is applied H2 is extracted from water and allows
-H2O and air to interact directly to form NH3.
+### Green Ammonia
+
+Doug MacFarlane - Australia
+
+[Towards The Ammonia Economy](https://youtu.be/tQSoMd8etnc?t=370)
+
+George Washington University
+
+Researchers came up with an approach that uses air for N2 and water as
+a source of H2 . Air is made up of 78% N2 . In their process the
+bubble of wet air is passed through a mixture of tiny particles of
+iron oxide and molten NaOH and KOH. When electricity is applied H2 is
+extracted from water and allows H2O and air to interact directly to
+form NH3.
 
 How to use ammonia as fuel: either convert it to hydrogen as needed
 and use H2 fuel cells for power. Some are also looking at ammonia fuel
@@ -67,8 +72,6 @@ the hydrogen that is fed to the HB unit. AEC is a mature technology
 but, unlike SMR, it did not evolve alongside HB; it has not been
 integrated and co-optimized over decades into the design and
 engineering of an ammonia plant. ...
-
-<a name='afc'></a>
 
 ### Ammonia Fuel-Cells
 
@@ -132,8 +135,10 @@ References
 
 [CSIRO](../../2018/10/csiro.html)
 
-[Bill David Presentation](https://youtu.be/qEut7o-b5hY?t=250)
+[Solar Ammonia](../../0119/2019/01/solarammonia.html)
 
-[GenCell and Ammonia](2019/07/gencell.html)
+[Bill David](https://youtu.be/qEut7o-b5hY?t=250)
 
-[[⇪Up]](h2-storage.html)
+[GenCell](../../0119/2019/07/gencell.html)
+
+[[Up]](h2-storage.html)

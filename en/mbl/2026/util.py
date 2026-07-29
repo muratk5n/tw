@@ -1,5 +1,5 @@
 import pandas as pd, numpy as np, sys, datetime, subprocess, textwrap
-import matplotlib.pyplot as plt, folium, json, re, codecs
+import matplotlib.pyplot as plt, folium, json, re, codecs, yfinance as yf
 import requests, urllib.request, os, fredapi, bdm, zipfile
 from bs4 import BeautifulSoup
 from curl_cffi import requests
@@ -268,6 +268,20 @@ def boxofficemojo(q):
     return {"Domestic Opening": domopen, "Domestic": domestic,
             "International": intl, "Worldwide Total": worldwide}
 
+def calc_roce(ticker):
+    stock = yf.Ticker(ticker)    
+    income = stock.quarterly_income_stmt
+    balance = stock.quarterly_balance_sheet
+    num_quarters = income.shape[1]
+    for offset in range(0, num_quarters - 3):
+        ttm_ebit = income.loc['Operating Income'].iloc[offset : offset + 4].sum()
+        date_label = balance.columns[offset].strftime('%Y-%m-%d')
+        latest_bs = balance.iloc[:, offset]
+        total_assets = latest_bs.get("Total Assets", 0)
+        current_liabilities = latest_bs.get("Current Liabilities", 0)
+        capital_employed = total_assets - current_liabilities
+        roce = (ttm_ebit / capital_employed) if capital_employed != 0 else 0
+        print(f"TTM ending {date_label}: {roce:.2%}")
 
     
 if __name__ == "__main__": 
