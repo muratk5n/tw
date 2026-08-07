@@ -18,91 +18,77 @@ radiologists in the U.S. has grown by about 10%"
 
 ---
 
-The Lever: "The fight between Abdul El-Sayed and Haley Stevens is
-about far more than one Senate seat. It's a battle over who controls
-the Democratic Party—and whose interests it serves."
+Hogg: "I got kicked out of the DNC for daring to challenge old,
+corrupt, and asleep-at-the-wheel Democrats in safe blue
+districts. Now, [Leaders We Deserve's] first incumbent
+challenger.. has defeated Rep. Shri Thanedar. LFG!!!"
+
+>WaPo: 'Donavan McKinney wins Democratic nomination for U.S. House in
+>Michigan's 13th Congressional District. #APRaceCall at 9:55 a.m. EDT.'
 
 ---
 
-IC: "Stevens Posts Bizarre, Racist Rant Against El-Sayed as He Surges
-Ahead in Polls.. The Stevens campaign has already faced scrutiny over
-some of her backers’ racist and Islamophobic messaging"
+"El-Sayed's Win Isn't Just Historic—It Proved Something Many Thought
+Impossible..  He was outspent 11 to 1. His opponents deployed more
+than $60 million in outside spending against him—including AIPAC
+money, corporate PAC money, and a coordinated, grotesque anti-Muslim
+disinformation campaign designed specifically to disqualify a brown
+Muslim man from seeking public office. He won anyway."
 
 ---
 
-The 20% is making art for itself.. *Sam poyot, sam slushayet* as the
-Russians say, "he sings himself he listens himself", similar Anatolian
-proverb *kendi çalıp kendi oynuyor*. In US the expression would be the
-person is sucking his own cock.
+David Hogg: "To the young people that turned away from Dems in 2024:
+There is a growing movement across the country to build a better
+political system that actually represents you not AIPAC or the
+corporations that have fucked us our entire lives. But we can only win
+if you vote."
 
 ---
 
-The next phase of MCU will be the "mutant saga"? Oh my..  That means
-they will be taking the "persecuted by the government" angle to a
-whole new level. Just watch.
+Roarty: "Democrats will remember 2026 as the year their party’s
+establishment lost its once total control of the primaries —
+outmaneuvered and overwhelmed by a progressive insurgency... Michigan
+is the latest example, but far from the only one."
 
 ---
 
-The movie is doing well.. But what does that mean? The creators of
-this stuff should not to feel too proud of their psyop, when you run
-the numbers their reach is at maximum 20% of the population (there is
-the 1%, the 10% and the 20%, right?). The affluent, well-to-do, people
-with some money are watching, if the box office goes higher it is the
-same group re-watching. That means manipulative Holywood masters are
-not reaching the poor, people saddled with debt, who can't afford $500
-emergency payment, who can't afford to go see a movie. Which means
-whatever is coming for you finally comes, what needs to happen does
-happen, there will be no Spider-Man to save you. Your little psyops
-are useless.
+"@mike_k@mstdn.social
+
+Jetbrains [programming tool / environment] calls coding without an AI
+'classic mode'"
 
 ---
 
-If I'm a citizen in a country and there is an individual there who can
-throw around trucks, yes, I would want my government to be able to
-kick his ass. There is nothing "evil" about that, in the same way if
-"special", "gifted" billionaires want to reroute rivers, pollute the
-air, burn the atmosphere and develop monopoly power I would want the
-government to be able to say no.
+Who gives a shit
+
+Le Monde: "Nolan's Odyssey is probably one of the most faithful
+cinematic adaptations of the Homeric text"
 
 ---
 
-The new Spider-Man had some anti-government (indirectly pro-corporate)
-messaging; when the Marry Jane character made a negative comment about
-corporations the situation was made light of, the criticism did not
-stick. Same character went off on government, it went
-unanswered. Moreever the main plot of the movie turns a branch of
-government into an evil force. Cops were fine, naturally pictured as
-mostly helpless (because they are a public institution, an inventive
--enterpreneur-like?- "gifted" teenage kid will always best them). This
-other gov org however was bad, bad, bad.. They capture and torture
-"gifted", "special" characters (through them we are feeling sorry for
-other "special" people in society, enterpreneurs, business people
-perhaps? who can also alter fates of others like these gifted people),
-hell they even develop weapons against Spider-Man in case one day he
-goes berserk (which he did btw). Generally the technique was same old,
-same old, the usual corporate Holywood... They will badmouth, create
-an aura of suspicion around government always, because the rich people
-who fund their movies are afraid being taxed at higher rates one day,
-by that same government.
+"GeofCox@climatejustice.social
+
+.. Thomas Piketty has analysed what actually happened when most
+western economies had very high marginal tax rates (eg. 90%).  He
+calls it 'predistribution' - obviously, people stopped asking for
+astronomical salaries, or dividends.  What's the point ?  Instead,
+companies reinvested profit - and this is one of the reasons economic
+growth, wage growth, training programmes, etc were all higher in the
+period between the war and the 1980s, when marginal tax was highest -
+and, far from the 'trickle down' expectations of the neoliberals, all
+these declined once tax was cut."
 
 ---
 
-The Bobs - Psycho Killer
-
-[[-]](https://youtu.be/5zsElBZX1EI)
-
----
-
-"@jonny@neuromatch.social
-
-you know how much programming costs me now? ZERO DOLLARS AND ZERO
-CENTS."
-
----
-
-\#TheOnion
-
-[[-]](https://media.hachyderm.io/media_attachments/files/117/040/418/827/422/732/original/a5027dd4b6b176af.png)
+Lyndon LaRouche, *The Ugly Truth About Milton Friedman*: "[1980]
+Friedman cites his 'free market' predecessors to be Adam Smith, David
+Ricardo, Jeremy Bentham, and John Stuart Mill. Every one of these
+individuals was a senior official of the British East India Company,
+which was conducting the aboveboard opium trade as the world's biggest
+business. Smith drew up the plans for Company's plan for expansion
+into the great Chinese market, Ricardo sat on its board of directors,
+Bentham published the Company's official history, and Mill was chief
+of East India Company intelligence during the first Opium War."
 
 ---
 
