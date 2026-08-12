@@ -20,8 +20,8 @@ radiologists in the U.S. has grown by about 10%"
 
 
 NYT: Moderate Democrats Prepare for 'War' Against an Ascendant
-Left.. One moderate group says the progressive wins are ?deeply
-troubling? and is planning a $15 million effort against democratic
+Left.. One moderate group says the progressive wins are 'deeply
+troubling' and is planning a $15 million effort against democratic
 socialism.
 
 ---
@@ -113,3 +113,4 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
+    
