@@ -18,6 +18,18 @@ radiologists in the U.S. has grown by about 10%"
 
 ---
 
+The Lever: "Democrats Declare War On Their Own Voters.. Third Way is
+spending $15 million to crush the Democratic left. Its campaign could
+produce exactly the insurgency it fears."
+
+---
+
+The Lever: "How A Hedge Fund Billionaire Became The Democrats’ New
+Kingmaker.. Stephen Mandel is bankrolling a new political apparatus
+built to “redefine” the Democratic Party — but what does he actually
+want?"
+
+---
 
 NYT: Moderate Democrats Prepare for 'War' Against an Ascendant
 Left.. One moderate group says the progressive wins are 'deeply
