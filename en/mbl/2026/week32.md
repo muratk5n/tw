@@ -1,5 +1,154 @@
 # Week 32
 
+The Lever: "As war with Iran drove oil prices higher, Trump gave
+politically connected oil companies — not taxpayers — the chance to
+cash in on publicly owned oil."
+
+---
+
+F24: "US appeals court halts construction of Trump’s $400 million
+White House ballroom project.. The court added that a president cannot
+fundamentally reshape the White House without congressional approval."
+
+---
+
+The Guardian: "US to shut five consulates..  State department informs
+Congress of planned closures in Canada, Grenada, Japan, Indonesia and
+Cameroon"
+
+---
+
+The New Arab: "BDS hails end of 'Tech Zionism' experiment in Malaysia
+as Network School ordered to close..  The tech community, founded by
+US entrepreneur Balaji Srinivasan, came under investigation earlier
+this month after social media users raised concerns about the alleged
+presence of participants from Israel – a country with no formal
+diplomatic ties to Malaysia."
+
+---
+
+"@ShadowJonathan@tech.lgbt
+
+Apparently google [trains](https://www.reddit.com/r/IndieDev/comments/1vfwuf5/a_player_found_out_the_actual_name_of_my_games/)
+or indexes their AI on your PRIVATE Google Drive Documents:
+
+(TLDR; Indie dev had their audience ask Google highly specific
+questions about future content of their game, and it spat out an exact
+name of an upcoming enemy type. Furthermore it listed scrapped ideas
+and ideas that *only* existed in their *private* Google Docs.)"
+
+---
+
+"@jonny@neuromatch.social
+
+Uber driver had a reason for being vegetarian I hadn't heard before:
+'if you add up all the hamburgers people eat, there aren't enough cows
+for that, so meat must be fake'"
+
+---
+
+"@ethanschoonover@mastodon.social
+
+[H]and editing an rss feed and, honestly, so satisfying.  the web is
+really mostly still just text folks. reclaim it."
+
+---
+
+A lot of these lifestyle tubers seem to be loaded. Staying at a 5-star
+hotel during a quick transit trip in Istanbul? 3 bedroom apartment
+rental in Greece for a "lifestyle change" adventure? Side vacations in
+Montenegro? Daem.
+
+---
+
+TAC: "Tucker Carlson Releases 10-Point Manifesto for America.. State
+of the Union: The influential commentator is expected to announce the
+formation of a new political party."
+
+---
+
+Al-Monitor: "'A claim to be tested': Can Saudi Arabia-Turkey-Pakistan
+defense pact deter Iran?.. The pact commits the three countries to
+collective defense, bringing together NATO's second-largest army, the
+Muslim world's only nuclear power and the guardian of Islam's holiest
+sites."
+
+---
+
+Hogg: "I got kicked out of the DNC for daring to challenge old,
+corrupt, and asleep-at-the-wheel Democrats in safe blue
+districts. Now, [Leaders We Deserve's] first incumbent
+challenger.. has defeated Rep. Shri Thanedar. LFG!!!"
+
+>WaPo: 'Donavan McKinney wins Democratic nomination for U.S. House in
+>Michigan's 13th Congressional District. #APRaceCall at 9:55 a.m. EDT.'
+
+---
+
+"El-Sayed's Win Isn't Just Historic—It Proved Something Many Thought
+Impossible..  He was outspent 11 to 1. His opponents deployed more
+than $60 million in outside spending against him—including AIPAC
+money, corporate PAC money, and a coordinated, grotesque anti-Muslim
+disinformation campaign designed specifically to disqualify a brown
+Muslim man from seeking public office. He won anyway."
+
+---
+
+David Hogg: "To the young people that turned away from Dems in 2024:
+There is a growing movement across the country to build a better
+political system that actually represents you not AIPAC or the
+corporations that have fucked us our entire lives. But we can only win
+if you vote."
+
+---
+
+Roarty: "Democrats will remember 2026 as the year their party’s
+establishment lost its once total control of the primaries —
+outmaneuvered and overwhelmed by a progressive insurgency... Michigan
+is the latest example, but far from the only one."
+
+---
+
+"@mike_k@mstdn.social
+
+Jetbrains [programming tool / environment] calls coding without an AI
+'classic mode'"
+
+---
+
+Who gives a shit
+
+Le Monde: "Nolan's Odyssey is probably one of the most faithful
+cinematic adaptations of the Homeric text"
+
+---
+
+"GeofCox@climatejustice.social
+
+.. Thomas Piketty has analysed what actually happened when most
+western economies had very high marginal tax rates (eg. 90%).  He
+calls it 'predistribution' - obviously, people stopped asking for
+astronomical salaries, or dividends.  What's the point ?  Instead,
+companies reinvested profit - and this is one of the reasons economic
+growth, wage growth, training programmes, etc were all higher in the
+period between the war and the 1980s, when marginal tax was highest -
+and, far from the 'trickle down' expectations of the neoliberals, all
+these declined once tax was cut."
+
+---
+
+Lyndon LaRouche, *The Ugly Truth About Milton Friedman*: "[1980]
+Friedman cites his 'free market' predecessors to be Adam Smith, David
+Ricardo, Jeremy Bentham, and John Stuart Mill. Every one of these
+individuals was a senior official of the British East India Company,
+which was conducting the aboveboard opium trade as the world's biggest
+business. Smith drew up the plans for Company's plan for expansion
+into the great Chinese market, Ricardo sat on its board of directors,
+Bentham published the Company's official history, and Mill was chief
+of East India Company intelligence during the first Opium War."
+
+---
+
 The Lever: "The fight between Abdul El-Sayed and Haley Stevens is
 about far more than one Senate seat. It's a battle over who controls
 the Democratic Party—and whose interests it serves."

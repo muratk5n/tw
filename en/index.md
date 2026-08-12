@@ -18,77 +18,58 @@ radiologists in the U.S. has grown by about 10%"
 
 ---
 
-Hogg: "I got kicked out of the DNC for daring to challenge old,
-corrupt, and asleep-at-the-wheel Democrats in safe blue
-districts. Now, [Leaders We Deserve's] first incumbent
-challenger.. has defeated Rep. Shri Thanedar. LFG!!!"
 
->WaPo: 'Donavan McKinney wins Democratic nomination for U.S. House in
->Michigan's 13th Congressional District. #APRaceCall at 9:55 a.m. EDT.'
+NYT: Moderate Democrats Prepare for 'War' Against an Ascendant
+Left.. One moderate group says the progressive wins are ?deeply
+troubling? and is planning a $15 million effort against democratic
+socialism.
 
 ---
 
-"El-Sayed's Win Isn't Just Historic—It Proved Something Many Thought
-Impossible..  He was outspent 11 to 1. His opponents deployed more
-than $60 million in outside spending against him—including AIPAC
-money, corporate PAC money, and a coordinated, grotesque anti-Muslim
-disinformation campaign designed specifically to disqualify a brown
-Muslim man from seeking public office. He won anyway."
+There is a lot of boilerplate, drudge work with hacking other
+computers. Standard crackers / hackers apply one pre-cooked method
+after another, until success. They were called scriptkiddies, bcz they
+would be mostly young, and they would have enough times on their hands
+to apply one thing (script / program) after another. It's not a
+surprise "AI" shows some success here, just like scriptkiddies, the
+attacker doesn't have to be burdened with an abundence of a brain to
+show results.
 
 ---
 
-David Hogg: "To the young people that turned away from Dems in 2024:
-There is a growing movement across the country to build a better
-political system that actually represents you not AIPAC or the
-corporations that have fucked us our entire lives. But we can only win
-if you vote."
+Wiki: "Moravec's paradox is the observation that, as Hans Moravec
+wrote in 1988, 'it is comparatively easy to make computers exhibit
+adult level performance on intelligence tests or playing checkers, and
+difficult or impossible to give them the skills of a one-year-old when
+it comes to perception and mobility'. This counterintuitive pattern
+may happen because skills that appear effortless to humans, such as
+recognizing faces or walking, required millions of years of evolution
+to develop, while abstract reasoning abilities like mathematics are
+evolutionarily recent."
 
 ---
 
-Roarty: "Democrats will remember 2026 as the year their party’s
-establishment lost its once total control of the primaries —
-outmaneuvered and overwhelmed by a progressive insurgency... Michigan
-is the latest example, but far from the only one."
+\#Fireship \#Robotics
+
+[[-]](https://youtu.be/aB5LGrHISqY?t=97)
 
 ---
 
-"@mike_k@mstdn.social
+The electric based transport is inefficient carrying energy as it is
+with storing (eg batteries). We could transport 10 times more energy
+via pipes at eighth the cost.
 
-Jetbrains [programming tool / environment] calls coding without an AI
-'classic mode'"
-
----
-
-Who gives a shit
-
-Le Monde: "Nolan's Odyssey is probably one of the most faithful
-cinematic adaptations of the Homeric text"
+[[-]](2022/01/wirespipes_01.png)
 
 ---
 
-"GeofCox@climatejustice.social
+"@Victor@spore.social
 
-.. Thomas Piketty has analysed what actually happened when most
-western economies had very high marginal tax rates (eg. 90%).  He
-calls it 'predistribution' - obviously, people stopped asking for
-astronomical salaries, or dividends.  What's the point ?  Instead,
-companies reinvested profit - and this is one of the reasons economic
-growth, wage growth, training programmes, etc were all higher in the
-period between the war and the 1980s, when marginal tax was highest -
-and, far from the 'trickle down' expectations of the neoliberals, all
-these declined once tax was cut."
-
----
-
-Lyndon LaRouche, *The Ugly Truth About Milton Friedman*: "[1980]
-Friedman cites his 'free market' predecessors to be Adam Smith, David
-Ricardo, Jeremy Bentham, and John Stuart Mill. Every one of these
-individuals was a senior official of the British East India Company,
-which was conducting the aboveboard opium trade as the world's biggest
-business. Smith drew up the plans for Company's plan for expansion
-into the great Chinese market, Ricardo sat on its board of directors,
-Bentham published the Company's official history, and Mill was chief
-of East India Company intelligence during the first Opium War."
+Greece’s aging power grid blamed for catastrophic wildfires. Loose
+power lines in fire-prone forests have disproportionately set the
+country ablaze. According to the Arson Crimes unit, fires linked to
+the electricity grid account for about 75 percent of the land burned
+in Greece this year"
 
 ---
 
@@ -132,4 +113,3 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-    
