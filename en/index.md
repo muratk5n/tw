@@ -44,7 +44,7 @@ after another, until success. They were called scriptkiddies, bcz they
 would be mostly young, and they would have enough time on their hands
 to apply one thing (script / program) after another. It's not a
 surprise "AI" shows some success here, just like scriptkiddies, the
-attacker doesn't have to be burdened with an abundence of a brain to
+attacker doesn't have to be burdened with an abundence of brains to
 show results.
 
 ---
