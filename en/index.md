@@ -18,73 +18,6 @@ radiologists in the U.S. has grown by about 10%"
 
 ---
 
-The Lever: "Democrats Declare War On Their Own Voters.. Third Way is
-spending $15 million to crush the Democratic left. Its campaign could
-produce exactly the insurgency it fears."
-
----
-
-The Lever: "How A Hedge Fund Billionaire Became The Democrats’ New
-Kingmaker.. Stephen Mandel is bankrolling a new political apparatus
-built to “redefine” the Democratic Party — but what does he actually
-want?"
-
----
-
-NYT: Moderate Democrats Prepare for 'War' Against an Ascendant
-Left.. One moderate group says the progressive wins are 'deeply
-troubling' and is planning a $15 million effort against democratic
-socialism.
-
----
-
-There is a lot of boilerplate, drudge work with hacking other
-computers. Standard crackers / hackers apply one pre-cooked method
-after another, until success. They were called scriptkiddies, bcz they
-would be mostly young, and they would have enough time on their hands
-to apply one thing (script / program) after another. It's not a
-surprise "AI" shows some success here, just like scriptkiddies, the
-attacker doesn't have to be burdened with an abundence of brains to
-show results.
-
----
-
-Wiki: "Moravec's paradox is the observation that, as Hans Moravec
-wrote in 1988, 'it is comparatively easy to make computers exhibit
-adult level performance on intelligence tests or playing checkers, and
-difficult or impossible to give them the skills of a one-year-old when
-it comes to perception and mobility'. This counterintuitive pattern
-may happen because skills that appear effortless to humans, such as
-recognizing faces or walking, required millions of years of evolution
-to develop, while abstract reasoning abilities like mathematics are
-evolutionarily recent."
-
----
-
-\#Fireship \#Robotics
-
-[[-]](https://youtu.be/aB5LGrHISqY?t=97)
-
----
-
-The electric based transport is inefficient carrying energy as it is
-with storing (eg batteries). We could transport 10 times more energy
-via pipes at eighth the cost.
-
-[[-]](2022/01/wirespipes_01.png)
-
----
-
-"@Victor@spore.social
-
-Greece’s aging power grid blamed for catastrophic wildfires. Loose
-power lines in fire-prone forests have disproportionately set the
-country ablaze. According to the Arson Crimes unit, fires linked to
-the electricity grid account for about 75 percent of the land burned
-in Greece this year"
-
----
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
@@ -125,4 +58,4 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-    
+     

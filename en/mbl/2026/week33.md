@@ -1,5 +1,336 @@
 # Week 33
 
+"@Sustainable2050@mastodon.energy
+
+Climate bills are coming in now, big time: Rhine shipping cut in two
+as ships coming from Rotterdam can't get any further than Duisburg or
+Cologne anymore, instead of being able to reach Switzerland or even
+further via the Danube. Billions of damage for German industry."
+
+---
+
+NOS: "The first thing Roberto Spranzi checks in the morning is the
+water level of the Rhine. With the current drought, every centimeter
+counts for the transporter from Duisburg. Next, he calls customers to
+discuss what can still be transported. "Every plan from yesterday can
+go back into the trash today. I have never experienced a situation
+like this before."
+
+Due to the persistent drought, the water level in the Rhine is
+historically low . Here in Duisburg, the navigation channel is only
+1.85 meters deep, and about 1.30 meters at the critical point near
+Kaub. Outside the deepened channel, the Rhine could dry up there in
+the coming days. Virtually no cargo ship can pass this point anymore.
+
+With this, the Rhine has been de facto split in two for shipping,
+something that had not happened before. In the north, ships from the
+Netherlands no longer sail further than the Ruhr area and
+Cologne. Upstream, shipping from Mainz southwards and towards the
+Danube is still possible, but reaching a seaport is a bridge too far."
+
+---
+
+Despite their elevation of intellect to the highest status, some of
+the most foolish people I've met in US were centrist Democrats. Being
+a fan of something doesn't make you good at that something.
+
+---
+
+From diggers to cars.. It makes sense JCB was interested in H2 tech,
+they cannot get the power, sustainability they need from any other
+approach. Electric cuck engines have no chance in heavy-duty
+domains. Since TCO benefits will force clients to pursue one approach
+for all domains, electrification will have to be shelved, replaced
+with gasification / molecule based approaches.
+
+---
+
+Wiki: "JCB [a heavy equipment manufacturer] has been developing
+hydrogen engines to reduce emissions. Called the Hydromax, the car has
+two four-cylinder engines, totalling 800 hp"
+
+---
+
+[Andy Green] Sets Record for Hydrogen-Powered Vehicle at More Than 406
+M.P.H.. Mr. Green was driving a JCB Hydromax — which looks more like a
+rocket on wheels than a car — “ the fastest hydrogen-powered vehicle
+of any kind in history,' according to JCB, the British machinery
+company that manufactured it. Beyond setting a land speed record, the
+company is hoping to use hydrogen engines in the products it builds,
+Mr. Green said.
+
+No plumes of smoke were produced by this speed record: Hydrogen powers
+the vehicle and water comes out of the exhaust.
+
+'This is as zero carbon as it gets,' Mr. Green said."
+
+---
+
+Battery-electric cars were a stupid idea
+
+---
+
+Clearly Clintoncare / Obamacare did not work
+
+IC: "Yale Study: Medicare for All Would Save Over 114,000 Lives and $1
+Trillion a Year.. 'Do not tell me we cannot afford Medicare for All,'
+said Sen. Sanders. 'What we cannot afford is a broken healthcare
+system based on greed.'"
+
+---
+
+"@complexmath@hachyderm.io
+
+The AI bubble is temporary, but the knowledge that your boss does not
+value your work is forever."
+
+---
+
+A huge factor here is that the current LLM tech has stagnated. It is
+not a moving target anymore, so just like Unix, or SQL databases were
+back in the day, this makes them an easy target for commodatization.
+
+OSI: "The AI Era Arcs Toward Openness.. Several interrelated factors
+are driving the shift toward openness. Open weights and Open Source
+are attractive to those seeking a greater control
+surface. Auditability, modifiability, data privacy, security, and the
+ability to own and control implementation decisions are driving
+adoption. Additionally, a significant share of the growth in adoption
+can be explained by a cost-performance calculus that favors
+open-weight and Open Source AI over closed, proprietary models."
+
+---
+
+"@veronica@explains.social
+
+A decade ago, if I was slinging a few thousand lines of code, it was
+obvious that I, a living human being with an attention span of some
+description, had to have worked at it. I could potentially be trusted
+to continue working at it. Obviously, I cared enough to write this
+much code.
+
+That's not the case anymore. If I throw code at a problem, you don't
+know that I care enough to support it in a week, let alone a year or
+more.
+
+That alone feels like enough of a reason to distrust LLM-generated
+output in the FOSS world. To say nothing of all of the other reasons."
+
+---
+
+"@vwestlife@mastodon.social
+
+[Those](https://files.mastodon.social/media_attachments/files/117/079/336/158/710/584/original/19ab5700fbe13868.jpg)
+aren't CDs, mate. They're some weird mangled hybrid between CD jewel
+cases and cassette cases. And apparently YouTube's AI bot has no
+guardrails against ripping off the logos and album covers of major
+musical artists. (AI-generated Nirvana Kid is even creepier than the
+real thing.)"
+
+---
+
+"@vampiress@eigenmagic.net
+
+The world has reached the point where if someone gets an inkling that
+I'm tech-savvy and have worked with computers my whole life, I'm
+likely to deny it and claim I work in a less awful field, like arms
+manufacture or professional assassinations."
+
+---
+
+When they start whining "aw, but.. but.. no litmus test bro" you know
+you are on the right path. Push further.
+
+---
+
+The comment rings truer for people who remember the times Dem centrist
+came to power. They had a bunker mentality, they conspired, saw the
+left as the enemy, derided and tried to outmaneuver them at every
+turn. Now they have to be paid back in kind. We need *heads on
+spikes*.
+
+---
+
+"@jalefkowit@hachyderm.io
+
+An evergreen example of the type is people complaining that the
+Democratic Party establishment doesn't support harder-left candidates
+in the primaries.
+
+Buddy
+
+Have you ever heard of people with power giving it up voluntarily
+
+Have you ever heard of a successful revolution that began with asking
+for permission"
+
+---
+
+"Millions of Americans Are RETURNING to Old Cars"
+     
+[[-]](https://youtu.be/yjzMsZhZhzU?t=87)
+
+---
+
+LaRouche could be considered a non-establishment economist. He says US
+diverged from its foundational economic style, "the American System"
+and fell prey to the "British System", landing it to where it is
+today.
+
+I am currently not too keen on the Anglo in general, the post 80s
+shift in US happened a little too quickly and easily, but if this
+stuff rocks your boat, you could give it a try, there might some gems
+there... The domain has some sharp theories, that Lincoln, FDR were
+both *killed* because they were followers of the American Way (ie
+raising doubt FDR actually died from polio). Alex Kraner is mining
+this area, check him out.
+
+---
+
+Lyndon LaRouche: "After Leibniz, the next great writer on political
+economy was President George Washington's Secretary of the Treasury,
+Alexander Hamilton. Most notable are Hamilton's 1790 *Report on Public
+Credit*,..  *Report on a National Bank*, and his 1791 Report on the
+*Subject of Manufactures*. It is these three policy-papers of the
+George Washington administration, issued by Hamilton, which embody the
+foundation of what was defined during the subsequent century as 'The
+American System,' a system axiomatically opposed to every principal
+feature of the writings of Petty, the Physiocrats, Adam Smith, Thomas
+Malthus, and David Ricardo ... as totally opposed to the 'British
+System' of political economy as the bare facts of the American
+Revolution demonstrate conclusively."
+
+---
+
+The Guardian: "At least two U.S. Navy sailors have attempted to jump
+overboard on the USS Abraham Lincoln aircraft carrier, according to
+family members of the crew, after concerns were raised during an
+extended deployment for the war with Iran.
+
+Relatives of the roughly 5,000 sailors and Marines who have spent more
+than eight months aboard the Lincoln have raised the alarm over supply
+shortages, long work schedules and fears over the potential for
+self-harm, in multiple reports published in the past week."
+
+---
+
+@inthehands@hachyderm.io
+
+So many notes in this story sound familiar, echo posts that have
+crossed my TL:
+
+- initial skepticism
+- mandate from management who got swept up in the hype
+- found a way to work with it
+- “it honestly felt magical”
+- hard not to just use it for everything
+- just used it for everything
+- delivered a whole project without knowing how it worked
+- embarrassing mistake from over-reliance
+- “realized the AI chat was making me delusional”
+- hamster wheel feeling
+- loss of motivation, hints of depressive symptoms
+- creeping sense of purposelessness, existential dread
+- creeping realization of quality loss
+- creeping realization of ethical disaster
+- creeping realization of hidden human and environmental costs
+- re-finding joy and sense of purpose / self in doing work by hand
+- fuck it, I’m out
+
+---
+
+"@brettcodes@mastodon.social
+
+I wrote an essay about why I'm done using AI for coding, even if it
+costs me my job and career.. The basic gist is: AI made me a worse,
+apathetic programmer. I think it's bad for humanity, the planet, and
+the craft of software engineering. And I'm done using it."
+
+[[-]](https://brettcodes.com/im-done-using-ai/)
+
+---
+
+I bet it is "AI"
+
+"@jalefkowit@hachyderm.io
+
+Got a text from my giant chain pharmacy today reminding me to get my
+second shingles shot. Which I already got, two months ago. FROM THEM.
+
+I have no idea if stuff like this is just typical incompetence, or if
+it's driven by AI. But it sure feels like the businesses I deal with
+are shoveling a lot of the cognitive work they used to handle onto my
+plate these days"
+
+---
+
+The Lever: "Democrats Declare War On Their Own Voters.. Third Way is
+spending $15 million to crush the Democratic left. Its campaign could
+produce exactly the insurgency it fears."
+
+---
+
+The Lever: "How A Hedge Fund Billionaire Became The Democrats’ New
+Kingmaker.. Stephen Mandel is bankrolling a new political apparatus
+built to “redefine” the Democratic Party — but what does he actually
+want?"
+
+---
+
+NYT: Moderate Democrats Prepare for 'War' Against an Ascendant
+Left.. One moderate group says the progressive wins are 'deeply
+troubling' and is planning a $15 million effort against democratic
+socialism.
+
+---
+
+There is a lot of boilerplate, drudge work with hacking other
+computers. Standard crackers / hackers apply one pre-cooked method
+after another, until success. They were called scriptkiddies, bcz they
+would be mostly young, and they would have enough time on their hands
+to apply one thing (script / program) after another. It's not a
+surprise "AI" shows some success here, just like scriptkiddies, the
+attacker doesn't have to be burdened with an abundence of brains to
+show results.
+
+---
+
+Wiki: "Moravec's paradox is the observation that, as Hans Moravec
+wrote in 1988, 'it is comparatively easy to make computers exhibit
+adult level performance on intelligence tests or playing checkers, and
+difficult or impossible to give them the skills of a one-year-old when
+it comes to perception and mobility'. This counterintuitive pattern
+may happen because skills that appear effortless to humans, such as
+recognizing faces or walking, required millions of years of evolution
+to develop, while abstract reasoning abilities like mathematics are
+evolutionarily recent."
+
+---
+
+\#Fireship \#Robotics
+
+[[-]](https://youtu.be/aB5LGrHISqY?t=97)
+
+---
+
+The electric based transport is inefficient carrying energy as it is
+with storing (eg batteries). We could transport 10 times more energy
+via pipes at eighth the cost.
+
+[[-]](2022/01/wirespipes_01.png)
+
+---
+
+"@Victor@spore.social
+
+Greece’s aging power grid blamed for catastrophic wildfires. Loose
+power lines in fire-prone forests have disproportionately set the
+country ablaze. According to the Arson Crimes unit, fires linked to
+the electricity grid account for about 75 percent of the land burned
+in Greece this year"
+
+---
+
 LLM tech has nowhere to go but down.. It can't be improved, the
 current approach hit a brick wall, but futz around with it long enough
 thinking it can be improved, tech can definitely get much worse... If
