@@ -4,8 +4,6 @@
 
 [Myers-Briggs Types, Shadow](01/mbti.html)
 
-[Money](01/money.html)
-
 [Sonderweg](01/sonderweg.html)
 
 [Academic Publishing Is Broken](03/academic-publishing-is-broken.html)
@@ -20,7 +18,7 @@
 
 [The Structural Revolution](05/structural-revolution.html)
 
-[Status, Legitimacy](08/legitimacy.html)
+[A Functioning Society](08/functioning-society-drucker.html)
 
 [Q.E.P - Quantitative Easing for the People](08/qep-quantitative-easing-for-people.html)
 

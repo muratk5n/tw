@@ -198,6 +198,53 @@ def clean_html(to):
     d = to + "/tr"
     deleteDir(d)
 
+def generate_index_file(target_dir, year):
+    index_file = os.path.join(target_dir, "index.md")
+    lines = [f"# {year}\n\n"]
+    
+    # Matches markdown files one level down (e.g., target_dir/01/post.md)
+    md_files = sorted(glob.glob(os.path.join(target_dir, "*", "*.md")))
+    for f in md_files:
+        if os.path.basename(f) == "index.md":
+            continue
+        try:
+            with open(f, 'r', encoding='utf-8', errors='ignore') as fin:
+                first_line = fin.readline()
+                if first_line:
+                    title = first_line[2:].strip()
+                    rel_path = os.path.relpath(f, target_dir).replace("\\", "/")
+                    rel_html = rel_path.replace(".md", ".html")
+                    lines.append(f"[{title}]({rel_html})\n\n")
+        except Exception as e:
+            print(f"Error reading {f}: {e}")
+
+    with open(index_file, "w", encoding="utf-8") as fout:
+        fout.writelines(lines)
+
+def gen_title():
+    langs = ['en', 'tr']
+    years = range(2005, 2027)
+    legacy_years = range(2008, 2020)
+
+    for lang in langs:
+        if not os.path.exists(lang):
+            continue
+
+        # Standard year directories (e.g., en/2020, tr/2005)
+        for year in years:
+            target_dir = os.path.join(lang, str(year))
+            if os.path.isdir(target_dir):
+                generate_index_file(target_dir, year)
+
+        # Legacy 0119 subdirectories (e.g., en/0119/2008)
+        for year in legacy_years:
+            target_dir = os.path.join(lang, "0119", str(year))
+            if os.path.isdir(target_dir):
+                generate_index_file(target_dir, year)
+
+    print('title done')        
+
+        
 if __name__ == "__main__":
         
     fr = os.getcwd()
@@ -221,4 +268,5 @@ if __name__ == "__main__":
     if sys.argv[1] == 'zip':
         os.system("zip /opt/Downloads/dotbkps/tw.zip -r /home/burak/Documents/tw/.git/")
     
-        
+    if sys.argv[1] == 'title':
+        gen_title()

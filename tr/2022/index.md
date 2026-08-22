@@ -4,5 +4,5 @@
 
 [Güneş Kaynağı Haritası](01/solar-map.html)
 
-[Temel Enerji Verileri](02/base-energy-numbers.html) 
+[Temel Enerji Verileri](02/base-energy-numbers.html)
 

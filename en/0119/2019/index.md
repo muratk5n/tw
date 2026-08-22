@@ -10,8 +10,6 @@
 
 [X3 Ion Thruster](01/x3.html)
 
-[#brexitexit](02/brexitexit.html)
-
 [A Matter of Degrees](03/degrees.html)
 
 [H2@Scale](03/h2scale.html)
@@ -22,11 +20,11 @@
 
 [GE Unleashing a Hydrogen Gas Power Future](06/ge-h2.html)
 
-[Hurricanes, Integrated Kinetic Energy](06/ike.html)
-
 [Hope for Jaded Green Investors](06/jaded-h2.html)
 
 [Underactuated](06/underactuated.html)
+
+[Hurricanes, Integrated Kinetic Energy](06/wind_ike.html)
 
 [GenCell and Ammonia](07/gencell.html)
 

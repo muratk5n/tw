@@ -22,6 +22,8 @@
 
 [Damalische Kamalismus und Faschismus](05/damalische-kamalismus-und-faschismus.html)
 
+[El Habibi Göt Tabibi](05/el-habibi.html)
+
 [Taksim'de Soros büstü](05/taksimde-soros-bustu.html)
 
 [Bölücü terorist yakalandı](06/bolucu-terorist-yakaland.html)

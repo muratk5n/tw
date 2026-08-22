@@ -2,6 +2,8 @@
 
 [$320 Trillion](03/320-trillion.html)
 
+[Arrival of the Fittest](03/arrival-of-the-fittest.html)
+
 [The Audacity of Hope](03/audacity-of-hope.html)
 
 [Blockchain as an Exchange](03/blockchain-as-exchange.html)
@@ -9,8 +11,6 @@
 [#christie](03/cristie.html)
 
 [Hyperinflation](03/hyperinflation.html)
-
-[Life](03/life.html)
 
 [Markets, Leverage, Hedge Funds](03/markets-leverage-hedge-funds.html)
 
