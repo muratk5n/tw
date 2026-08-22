@@ -50,6 +50,8 @@
 
 [H2 From Methane (Natural Gas)](02/h2-natural-gas.html)
 
+[Nickel-Hydrogen Batteries](02/h2-nickel.html)
+
 [Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.html)
 
 [H2 Production Methods](02/h2-production.html)
