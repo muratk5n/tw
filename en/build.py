@@ -5,19 +5,6 @@ if len(sys.argv) < 2:
     print ("options: week | title")
     exit()  
     
-if sys.argv[1] == 'week':
-    my_date = datetime.date.today() # if date is 01/01/2018
-    #my_date = datetime.datetime.strptime('2022-3-22', "%Y-%m-%d")
-    year, week_num, day_of_week = my_date.isocalendar()
-    print (my_date)
-    print("Week #" + str(week_num) + " of year " + str(year))
-
-if sys.argv[1] == 'title':
-    for year in range(2020,2026):
-        os.system("echo '# %d\n' > %d/index.md" % (year,year))
-        os.system("python -u gen.py %d >> %d/index.md" % (year,year))
-    print ('title done')
-
 if sys.argv[1] == 'new-year':
     for week in range(53):
         os.system("echo '# Week %d\n' > /tmp/2026/week%02d.md" % (week+1,week+1))

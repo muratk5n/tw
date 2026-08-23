@@ -1,5 +1,5 @@
 import sys, glob, os, shutil, re, argparse
-import markdown, os, sys
+import markdown, os, sys, datetime
 
 def deleteDir(path):
     mswindows = (sys.platform == "win32")
@@ -243,7 +243,6 @@ def gen_title():
                 generate_index_file(target_dir, year)
 
     print('title done')        
-
         
 if __name__ == "__main__":
         
@@ -270,3 +269,11 @@ if __name__ == "__main__":
     
     if sys.argv[1] == 'title':
         gen_title()
+
+    if sys.argv[1] == 'week':
+        my_date = datetime.date.today() # if date is 01/01/2018
+        #my_date = datetime.datetime.strptime('2022-3-22', "%Y-%m-%d")
+        year, week_num, day_of_week = my_date.isocalendar()
+        print (my_date)
+        print("Week #" + str(week_num) + " of year " + str(year))
+        

@@ -317,7 +317,7 @@ The electric based transport is inefficient carrying energy as it is
 with storing (eg batteries). We could transport 10 times more energy
 via pipes at eighth the cost.
 
-[[-]](2022/01/wirespipes_01.png)
+[[-]](../../2022/01/wirespipes_01.png)
 
 ---
 
