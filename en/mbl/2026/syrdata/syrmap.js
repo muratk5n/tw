@@ -1,4 +1,5 @@
 
+
 function init() {
     map = L.map('map').setView([35,38], 6);
     
@@ -10,107 +11,32 @@ function init() {
 }    
 
 function plot_blocks(block, dashes) {
+    // Helper function to plot multi-ring blocks safely
+    function drawBlock(blockData, color) {
+        if (!blockData) return;
 
-    // ---------------------------------------------------
-    hts = blocks["HTS"];
-    bef = []
-    hts.forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'green', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
-    
-    // ---------------------------------------------------
-    tr = blocks["TR"];
-    bef = []
-    tr[0].forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'lightgreen', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
-    
-    tr = blocks["TR"];
-    bef = []
-    tr[1].forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'lightgreen', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
-    
-    // ---------------------------------------------------
-    saa = blocks["SAA"];
-    bef = []
-    saa.forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'blue', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
-    
-    // ---------------------------------------------------
-    idf = blocks["ISR"];
-    bef = []
-    idf.forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'black', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
-    
-    // ---------------------------------------------------
-    dr = blocks["DRUZE"];
-    bef = []
-    dr.forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'magenta', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
+        blockData.forEach(function(ring) {
+            var points = ring.map(function(coord) {
+                // Swap [longitude, latitude] to Leaflet's [latitude, longitude]
+                return [coord[1], coord[0]];
+            });
 
+            var line = new L.Polyline(points, {
+                color: color,
+                weight: 2,
+                dashArray: dashes,
+                dashOffset: '0'
+            });
+            line.addTo(map);
+        });
+    }
 
-    // ---------------------------------------------------
-    sdf = blocks["SDF"];
-    bef = []
-    sdf.forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'orange', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
-
-    // ---------------------------------------------------
-    sdf2 = blocks["SDF2"];
-    bef = []
-    sdf2.forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'orange', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
-
-
-    // ---------------------------------------------------
-    isis = blocks["ISIS"];
-    bef = []
-    isis.forEach(function(x) {
-	bef.push([x[1],x[0]]);
-    });
-    var linebef = new L.Polyline(bef, {
-	color: 'brown', weight: 2, dashArray: dashes, dashOffset: '0'
-    });
-    linebef.addTo(map);
-       
+    drawBlock(blocks["HTS"], 'green');
+    drawBlock(blocks["TR"], 'lightgreen');
+    drawBlock(blocks["ISR"], 'black');
+    drawBlock(blocks["DRUZE"], 'magenta');
+    drawBlock(blocks["SDF"], 'orange');
+    drawBlock(blocks["ISIS"], 'brown');
 }
 
 function plot(before,after) {
@@ -141,8 +67,8 @@ function plot(before,after) {
 
     legend.onAdd = function (map) {
 	var div = L.DomUtil.create('div', 'info legend'),
-	    grades = [["Alewites","blue"],["Druze","magenta"],
-		      ["TR","lightgreen"],["HTS","green"],
+	    
+	    grades = [["Druze","magenta"],["TR","lightgreen"],["HTS","green"],
 		      ["ISR","black"],["SDF","orange"],["ISIS","brown"]];
 
 	// loop through our density intervals and generate a label with a colored square for each interval

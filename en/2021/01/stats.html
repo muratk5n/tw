@@ -39,11 +39,11 @@ quarter growth compared to previous quarter,
 df['growann'] = (  (  (1+df.pct_change())**4  )-1.0  )*100.0
 print (df['growann'].tail(5))
 </code></pre>
-<pre><code class="language-text">2025-01-01   -0.648483
-2025-04-01    3.838033
+<pre><code class="language-text">2025-04-01    3.838033
 2025-07-01    4.375396
 2025-10-01    0.482248
-2026-01-01    1.621137
+2026-01-01    2.089189
+2026-04-01    1.500152
 Name: growann, dtype: float64
 </code></pre>
 <pre><code class="language-python">df = u.get_fred(1970,'GDPC1')
@@ -55,19 +55,19 @@ df['inf'] = df['inf'].interpolate()
 print (df[['inf']].tail(6))            
 </code></pre>
 <pre><code class="language-text">              gdpyoy
-2024-10-01  2.399788
 2025-01-01  2.019273
 2025-04-01  2.080467
 2025-07-01  2.335168
 2025-10-01  1.989300
-2026-01-01  2.566845
+2026-01-01  2.684743
+2026-04-01  2.101819
                  inf
-2025-11-01  2.735084
-2025-12-01  2.677081
-2026-01-01  2.386431
 2026-02-01  2.414113
 2026-03-01  3.256420
 2026-04-01  3.810845
+2026-05-01  4.248674
+2026-06-01  3.531425
+2026-07-01  3.364825
 </code></pre>
 <p><a name='taylor'></a></p>
 <h2>Wages and Unemployment</h2>
@@ -270,9 +270,9 @@ print (df.tail(3))
 plt.savefig('treasuries.png')
 </code></pre>
 <pre><code class="language-text">            DGS3MO  DGS2  DGS10  FEDFUNDS
-2026-05-05    3.69  3.93   4.43      3.64
-2026-05-06    3.69  3.87   4.36      3.64
-2026-05-07    3.69  3.92   4.41      3.64
+2026-08-18    3.86  4.19   4.71      3.63
+2026-08-19    3.86  4.19   4.65      3.63
+2026-08-20    3.87  4.19   4.69      3.63
 </code></pre>
 <p><img alt="" src="treasuries.png" /></p>
 <p><a name='tcurve'></a></p>

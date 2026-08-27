@@ -451,7 +451,7 @@ Persian influence in TR (and vica versa) is much larger than any other
 migratory peoples, including the Turks who represented only 10% of the
 inflow and were quickly assimilated away. Anatolia is not, and has
 never been culturally (and genetically) Turkish in its majority. The
-1923 historical narrative is based [on a lie](2020/07/migrations-anatolia.html).
+1923 historical narrative is based [on a lie](../../2020/07/migrations-anatolia.html).
 
 ---
 

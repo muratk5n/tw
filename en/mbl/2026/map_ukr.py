@@ -54,7 +54,7 @@ def get_merged_coordinates(xml_data, target_names):
 # --- Example Usage ---
 
 # Define your distinct target groups
-target_regions_1 = [
+target_regions = [
     "S. Zaporizhia-Russian Armed Forces",
     "E. Zaporizhia-Russian Armed Forces",
     "Luhansk People's Republic (North Luhansk)",
@@ -93,7 +93,7 @@ with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022
 all_combined_groups = []
 
 # List of all your region groups to process
-all_targets = [target_regions_1]
+all_targets = [target_regions]
 
 for group in all_targets:
     group_rings = get_merged_coordinates(xml_content, group)
