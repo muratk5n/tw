@@ -1,5 +1,175 @@
 # Week 35
 
+"@jonny@neuromatch.social
+
+A friend who just won a big grant just said to me 'I think not using
+AI might have made my grant more competitive than it would have been
+years ago' and like... As long as there are people who actually read
+the grants, it gives me a schadenfreude laugh to think of the prestige
+class pumping out what they think is 10x solid gold genius, but to
+everyone else it just looks like they are surrounded by a cloud of
+pink slime like pigpen in peanuts."
+
+---
+
+"@Victor@spore.social
+
+As some of the largest water reservoirs in the United States plunge to
+record lows, drought isn’t the only factor to blame. According to a
+new study, just 122 fossil fuel and cement companies are responsible
+for roughly half of the water lost to climate change in the American
+West" via \#FastCompany
+
+---
+
+"@Richard_Littler@mastodon.social
+
+Because the last years have seen one brainless absurdity after
+another, the NFT craze feels longer than 5 years ago. I just checked
+values. The Dorsey NFT, sold in 2021 for $2.9mill, was worth 280 by
+2022. From 2021-2025, sales lost 93% of their value. Now, "95% of NFT
+art has no value at all"."
+
+---
+
+Blood In The Machine: "With the backlash to data centers, Flock and AI
+glasses, a mass opposition to big tech is underway. Silicon Valley is
+in denial."
+
+---
+
+"@newyorktimes@flipboard.com
+
+Canada Hires 48 Scholars Away From Top U.S. Universities"
+
+---
+
+"…over the past six months, the U.S. has depleted an estimated
+one-quarter to one-third of its pre-war stockpile of Tomahawk
+missiles, one-quarter of its Joint Air-to-Surface Standoff Missiles,
+up to three-quarters of its 90 Precision Strike Missiles, and most of
+its defensive THAAD interceptors and Patriot missiles, The Washington
+Post reported."
+
+---
+
+TAC: "The Lee government is moving towards greater independence from
+the U.S... Though Lee does not want to abandon his country’s historic
+relationship with the United States, he does seek to increase South
+Korea’s ability to act independently in diplomatic, military, and
+economic matters. Soon after his inauguration, Lee announced plans to
+transfer the operational control of South Korean troops to Seoul in
+the event of war..
+
+It is in this context that President Trump’s recent decision to scale
+down U.S.-South Korea exercises must be understood. While much of the
+American press framed this negatively, seeing in it evidence of
+Trump’s affinity for dictators and disdain for alliances, Lee saw it
+as an opportunity. He praised the U.S. president’s decision, and used
+the occasion to reiterate his support for the accelerated development
+of nuclear subs and the expedited transfer of operational control..In
+doing so, Lee avoids an open rupture with the White House, even as he
+signals a path toward greater self-reliance—and a desire to distance
+himself from Trump’s more unpopular impulses."
+
+---
+
+TAC: "What South Korea's Israel Snub Means.. In May, after two South
+Korean nationals were detained trying to reach the Gaza Strip aboard
+humanitarian aid boats, South Korea’s progressive President Lee
+Jae-myung made a strongly worded attack on Israeli Prime Minister
+Benjamin Netanyahu, whom he labeled a war criminal. This followed
+Lee's earlier suggestions that the Israeli government’s conduct in
+Gaza resembled Nazi massacres during the Holocaust and—even more
+explosively for his South Korean audience—Japan’s “comfort women”
+system."
+
+---
+
+"Radical", "hard" left. In the good old days Mélenchon would be called
+just left. Now anything that doesn't jive with PMC centrists, the
+mainstream press becomes "radical left".
+
+---
+
+Le Monde: "Poll shows Le Pen's biggest challenger may be hard left's
+Mélenchon.. The radical left leader of La France Insoumise (LFI) would
+advance to the second round against far-right Marine Le Pen in three
+of five possible first-round scenarios, a poll has found."
+
+---
+
+"Frontline" LLMs have vision capabilities, it helps chat
+conversations, "look at this graph, describe this photo" etc, but such
+vision capabilities are appendages to LLM's text ability. Vision
+neural nets existed before LLM tech became famous. There was YOLO
+(2015), Mask R-CNN. If you wanted vision capability on a drone, you
+would not do it through an LLM, you would do it through one of those
+vision-only neural nets.
+
+But people are ignorant of these details, they keep hearing LLM is
+"AI" (it isn't), then hear self-guiding drone has "AI" (only has
+vision NN has nothing to do with recent LLM surge which isn't AI
+either), they add tomatoes and parsnips together and come up with
+4. Dystopia bro... At the same time missiles have been running
+on-board decisions algos for decades. How do they think the Phalanx
+system works, it shoots 75 rounds per second and from detection to
+engagement it reacts instantly. There is an algorithm handling that,
+in use since the 70s. Isn't this algo also "untethered to humans"?
+
+---
+
+This is a good thing, it can usher a new era of regulation. More
+government... limits on capitalism. 
+
+NYT: "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over
+Social Media Addiction Claims.. The social media giant settled with 47
+states, the District of Columbia and U.S. territories, and agreed to
+make major changes to its products over claims its platforms
+endangered children."
+
+---
+
+I don't care much for the Kennedy name, I am generally in favor of
+anything related to JFK demoted as much as possible as he provides a
+symbol for PMC centrist Democratic shitlibs. Kennedy Center being
+demolished, great.
+
+TDB: "Donald Trump’s threat to demolish the Kennedy Center unless it
+is named after him has prompted a fiery new legal response"
+
+---
+
+The overrepresentation must be directly proportional to their
+supression of the economic left. Just like their US counterparts, the
+UK mainstream has to divert attention from poverty to issues other
+than economic concerns, social left is the go-to play.
+
+Coulter, TAC: "[The UK is] more woke than the U.S... According to the
+2021 census, the UK is 2.5 percent black, but around half of all its
+TV advertisements feature black people.. Interracial couples in the UK
+are like gay-wedding planners in the U.S. Nobody has ever met one, but
+they seem to be everywhere."
+
+---
+
+Times of Israel: "[2025] We Do Not Believe in God, but He Nonetheless
+Promised Us Palestine..  Ilan Pappé nails the core
+contradiction. Early Zionism was, in large part, a secular nationalist
+movement; yet it reached for scripture like a real-estate deed."
+
+---
+
+CNBC: "Europe’s gas stores are running low — and prices could top 100
+euros this winter"
+
+---
+
+Politico: "CIA chief used Moscow visit to warn Russia against attacks
+on NATO allies, helping Iran"
+
+---
+
 BBC: "China hits out at 'illegal' new US sanctions on Iran and trading
 partners"
 
