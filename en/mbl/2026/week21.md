@@ -34,12 +34,6 @@ House Democrats’ big-money machine."
 
 ---
 
-\#Ukraine 05/07 - 05/22
-
-[[-]](ukrdata/map09.html)
-
----
-
 Politico: "The $5.02 ghost: Trump’s team faces a symbolic blow to one
 of its favorite economic talking points.. Trump officials are
 'absolutely, totally freaked' about the political symbolism of

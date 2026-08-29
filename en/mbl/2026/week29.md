@@ -591,12 +591,6 @@ that, it's too early.
 
 ---
 
-\#Ukraine 07/02 - 07/11
-
-[[-]](ukrdata/map14.html)
-
----
-
 TCN: "Graham Platner's fall is not really about sex or tattoos. The
 establishment cared so much about getting him canceled because he
 opposed their economic and foreign policy programs that serve the

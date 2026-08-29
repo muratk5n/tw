@@ -62,12 +62,6 @@ the mirror is the backup, updated less often.
 
 ---
 
-\#Ukraine 01/15 - 01/31
-
-[[-]](ukrdata/map03.html)
-
----
-
 I listened to some of the testimony on CSPAN, KR says something like
 "we need to copy what Europe does". Daem.
 

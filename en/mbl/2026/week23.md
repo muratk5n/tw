@@ -568,12 +568,6 @@ recently. It's a theory.
 
 ---
 
-\#Ukraine - 05/22 - 06/02
-
-[[-]](ukrdata/map10.html)
-
----
-
 IC: "How Israel’s War Crimes are Coming Home.. Opposition voices—initially
 led by Yair Lapid and his Yesh Atid party—began demanding Netanyahu's
 resignation and snap elections"

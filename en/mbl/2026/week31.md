@@ -202,12 +202,6 @@ in funding PAC ads to defeat Bowman."
 
 ---
 
-\#Ukraine 07/23 - 07/30
-
-[[-]](ukrdata/map16.html)
-
----
-
 John Garnham: "It has been suggested in some quarters that the Burnham
 premiership will take the country back to the 1970s. Here are just a
 few of the things that existed then. No food banks, little

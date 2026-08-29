@@ -110,12 +110,6 @@ Peace Deal, Putin Says"
 
 ---
 
-\#Ukraine  06/21 - 07/02
-
-[[-]](mbl/2026/ukrdata/map13.html)
-
----
-
 CNN: "How a new super PAC formed to counter AIPAC is fueling
 democratic socialists’ wins.. Now AIPAC’s opponents believe that they
 are on the offensive – and a new group called American Priorities has

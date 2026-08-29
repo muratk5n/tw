@@ -114,12 +114,6 @@ a gold frame to match the Oval Office decor"
 
 ---
 
-\#Ukraine 1/1 - 1/15
-
-[[-]](ukrdata/map02.html)
-
----
-
 "@jwz@mastodon.social
 
 CA DROP is finally live.

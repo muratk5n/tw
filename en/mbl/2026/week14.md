@@ -325,12 +325,6 @@ https://joinmastodon.org/sponsors#donate
 
 ---
 
-\#Ukraine 03/10 - 03/31
-
-[[-]](ukrdata/map06.html)
-
----
-
 NHK World Japan: "[03/18] A British newspaper has reported that a
 senior UK official attended US-Iran talks held late February and
 judged that the offer made by Tehran 'was significant enough to

@@ -6,16 +6,6 @@ by."
 
 ---
 
-Coding changed for UKR frontline mapping.. Before / after is not
-available for this one, differencing is reset with this new
-version. Next update will have the before / after comparison.
-
-\#Ukraine 07/23
-
-[[-]](ukrdata/map15.html)
-
----
-
 Win some lose some.. country still divided. Sad
 
 \#Sudan 2025/10/30 - 2026/07/24

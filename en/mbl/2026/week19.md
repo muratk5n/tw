@@ -158,14 +158,6 @@ Gavin Newsom"
 
 ---
 
-\#Ukraine 04/22 - 05/07
-
-New front opened in Kursk
-
-[[-]](ukrdata/map08.html)
-
----
-
 "@nutjob4life@fosstodon.org
 
 I'm not vegan because I love animals. It's because I HATE PLANTS."

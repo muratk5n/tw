@@ -563,12 +563,6 @@ quantities of waste."
 
 ---
 
-\#Ukraine 01/31 - 02/16
-
-[[-]](ukrdata/map04.html)
-
----
-
 Paper: "AIs have made rapid progress on research-oriented benchmarks
 of knowledge and reasoning, but it remains unclear how these gains
 translate into economic value and automation. To measure this, we

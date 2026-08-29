@@ -726,12 +726,6 @@ blanks. Make the LLM your bitch.
 
 ---
 
-\#Ukraine 06/10 - 06/21
-
-[[-]](ukrdata/map12.html)
-
----
-
 "@GeofCox@climatejustice.social
 
 The Israel/US regime-change assassination strategy backfired

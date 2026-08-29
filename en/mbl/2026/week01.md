@@ -376,11 +376,3 @@ Saxons. They picked the perfect token Norman, Sean Bean.
 
 ---
 
-RU is taking bigger and bigger chunks now.. They are even advancing
-south of Vovchansk. The pocket around Myrnohrad finally closed.
-
-\#Ukraine 2025/12/18 - 2026/01/01
-
-[[-]](ukrdata/map01.html)
-
----

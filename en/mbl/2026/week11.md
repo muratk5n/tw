@@ -315,12 +315,6 @@ Starmers Labour is embracing another war, legal or not"
 
 ---
 
-\#Ukraine 02/16 - 03/10
-
-[[-]](ukrdata/map05.html)
-
----
-
 The Guardian: "Sanctions on Israeli settlements are working – even
 without the US.. Israeli institutions are still scrambling to manage
 the fallout from economic sanctions imposed by other countries. At a

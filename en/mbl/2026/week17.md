@@ -333,9 +333,4 @@ If you find the right hammer, every problem can be a nail
 
 ---
 
-\#Ukraine 03/31 - 04/22
-
-[[-]](ukrdata/map07.html)
-
----
 
