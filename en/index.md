@@ -1,4 +1,34 @@
 
+
+The Lever: "In the race to secure the Democratic ticket for
+Massachusetts’ upcoming Senate race, Rep. Seth Moulton has put out a
+not-so-subtle call for ads targeting 'voters under 40' highlighting
+that he’s 'one of Massachusetts’ rising progressive stars'..
+
+Progressive standard bearers say Moulton’s pivot is an example of
+establishment Democrats attempting to capitalize on their base’s
+leftward shift and fool voters into supporting them over actual
+progressive candidates. 'We’ve seen this in the wake of Sen. [Bernie]
+Sanders’ presidential campaigns, where you have a lot of establishment
+consulting firms or elected officials painting themselves with that
+brush in an effort to appeal to progressive voters, but it’s a
+smokescreen,' said Robert Dempsey, national political director of Our
+Revolution..
+
+Moulton, who has represented the congressional district just north of
+Boston for 11 years, has raked in more than $1.7 million in campaign
+donations from private equity, Wall Street, healthcare industry, and
+tech donors this election cycle. What’s more, a Wall Street-funded
+super PAC supporting Moulton has spent at least $5.4 million boosting
+his campaign and opposing incumbent candidate Sen. Ed Markey"
+
+---
+
+Al-Monitor: "Libya rivals agree roadmap for elections within 24 months
+at UN-led talks"
+
+---
+
 Old Trucks Are Better Than New Trucks
 
 [[-]](https://www.tiktok.com/@therealclawboss/video/7489581377545915678)
@@ -40,6 +70,12 @@ FT: "US corporate profits surge to record as worker payouts
 wilt.. Pre-tax earnings hit an annualised $4.8tn in the second
 quarter, or 18 per cent of national income, according to Bureau of
 Economic Analysis"
+
+---
+
+Politico: "Russia preparing ‘massive strikes against Ukraine’s energy
+facilities’.. The Russian announcement comes amid intensfying drone
+strikes against Ukraine."
 
 ---
 
