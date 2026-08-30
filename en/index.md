@@ -60,7 +60,7 @@ Kingdom."
 
 ---
 
-That is the SecTreas' mentor
+That is SecTreas' mentor
 
 Druckenmiller, WSJ: "Let the Bond Market Speak.. Rising interest rates
 are a signal of trouble ahead. Artificially suppressing it heightens
