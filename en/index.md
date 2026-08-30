@@ -1,5 +1,5 @@
 
-Old Trucks Better Than New Trucks
+Old Trucks Are Better Than New Trucks
 
 [[-]](https://www.tiktok.com/@therealclawboss/video/7489581377545915678)
 
