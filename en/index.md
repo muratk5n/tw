@@ -19,7 +19,7 @@ Moulton, who has represented the congressional district just north of
 Boston for 11 years, has raked in more than $1.7 million in campaign
 donations from private equity, Wall Street, healthcare industry, and
 tech donors this election cycle. What’s more, a Wall Street-funded
-super PAC supporting Moulton has spent at least $5.4 million boosting
+super PAC supporting Moulton has spent at least 5.4 million boosting
 his campaign and opposing incumbent candidate Sen. Ed Markey"
 
 ---
@@ -140,3 +140,4 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
+    
