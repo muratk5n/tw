@@ -91,8 +91,8 @@ strikes against Ukraine."
 
 ---
 
-There is serious UA resistance around Lyman, and other places. Will it
-do them any good? Is RU cooking up something big? 
+There is serious UA resistance around Zaphorizhia, Lyman, and other
+places. Will it do them any good? Is RU cooking up something big?
 
 \#Ukraine 08/16 - 08/30
 
