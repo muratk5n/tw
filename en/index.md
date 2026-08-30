@@ -54,6 +54,12 @@ shortages."
 
 ---
 
+WaPo: "British far-right provocateur Milo Yiannopoulos deported by
+ICE.. The Trump supporter turned critic was flown to the United
+Kingdom."
+
+---
+
 That is the SecTreas' mentor
 
 Druckenmiller, WSJ: "Let the Bond Market Speak.. Rising interest rates
