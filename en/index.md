@@ -49,7 +49,8 @@ Economic Analysis"
 
 ---
 
-There is some serious UA resistance around Lyman and Zaporizhia. 
+There is serious UA resistance around Lyman, and other places. Will it
+do them any good? Is RU cooking up something big? 
 
 \#Ukraine 08/16 - 08/30
 
