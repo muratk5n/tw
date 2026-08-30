@@ -61,7 +61,7 @@ target_regions = {
         "Armed Groups(SNA)-Hasakah [Operation Peace Spring]",
         "Armed Groups(SNA)-N Aleppo [Operation Eufrates Shield]"
     ],
-    "SDF": [
+    "Kurds": [
         "Asayish/MOI deployment-Kobane",
         "YPG/Asayish-E. Hasakah",
         "YPG/Asayish-Hasakah",

@@ -35,7 +35,7 @@ function plot_blocks(block, dashes) {
     drawBlock(blocks["TR"], 'lightgreen');
     drawBlock(blocks["ISR"], 'black');
     drawBlock(blocks["DRUZE"], 'magenta');
-    drawBlock(blocks["SDF"], 'orange');
+    drawBlock(blocks["Kurds"], 'orange');
     drawBlock(blocks["ISIS"], 'brown');
 }
 
@@ -69,7 +69,7 @@ function plot(before,after) {
 	var div = L.DomUtil.create('div', 'info legend'),
 	    
 	    grades = [["Druze","magenta"],["TR","lightgreen"],["HTS","green"],
-		      ["ISR","black"],["SDF","orange"],["ISIS","brown"]];
+		      ["ISR","black"],["Kurds","orange"],["ISIS","brown"]];
 
 	// loop through our density intervals and generate a label with a colored square for each interval
 	for (var i = 0; i < grades.length; i++) {
