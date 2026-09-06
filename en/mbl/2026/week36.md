@@ -1,5 +1,284 @@
 # Week 36
 
+Volvo Group: "For the first time in Europe, Germany is bringing
+together the full ecosystem needed to scale the deployment of hydrogen
+trucks by 2030, combining supportive policy frameworks, a strong OEM
+offering and an integrated hydrogen supply chain and infrastructure"
+
+---
+
+TAC: "Iran War Day 189: White House Downplays War in Press Conference,
+as U.S. Diesel Prices Hit Record High"
+
+---
+
+Techcrunch: "The United States’ top automotive safety regulator has
+opened an investigation into Tesla’s decision to launch its new
+Cybercab on public roads with no steering wheel or pedals.
+
+The National Highway Traffic Safety Administration (NHTSA) announced
+Friday morning that it opened the probe mere hours after Tesla put the
+first Cybercabs on the streets of Austin, Texas. Federal vehicle
+safety regulations require manual controls like brake pedals, though
+the Department of Transportation recently proposed removing those
+requirements for vehicles that are designed to be autonomously driven."
+
+---
+
+WaPo: "[W]ages are falling behind inflation, an economic warning
+sign.. Inflation beat out wage growth again in August"
+
+---
+
+Tom Mille-Feuille looks standoff-ish in interviews, Chris Wallace of
+Youtube?
+
+---
+
+\#Reshare
+
+US did not support Bancor when it was proposed because its ruling
+class (the business sector, private complex, surface state) did not
+want it. This class always wants to exploit slave labor abroad whose
+output would show up as trade deficit in the books for US. Since
+Bancor is designed to automatically prevent trade imbalances, the
+surface state could not accept this.
+
+---
+
+The Lever: "The Billionaire-Backed Democrat With An Enron-Sized
+Problem.. New Hampshire congressional candidate Maura Sullivan worked
+for a biotech giant accused of using 'shell' customers to inflate its
+business — and its executives are now campaign donors."
+
+---
+
+The Guardian: "Almost half of world’s farmers poisoned by pesticides
+every year, experts find"
+
+---
+
+\#Reshare
+
+"@jonny@neuromatch.social
+
+So the reason that Claude Code [agent / harness] is capable of
+outputting valid json is because if the prompt text suggests it should
+be JSON then it enters a special loop in the main query engine that
+just validates it against JSON schema.. and then feeds the data with
+the error message back into itself until it is valid JSON or a retry
+limit is reached.
+
+This code is so eye wateringly spaghetti... just mind blowingly
+expensive"
+
+---
+
+"@timnitGebru@dair-community.social
+
+Another thing that I find funny is that Anthropic is making all these
+claims about security while they themselves couldn't stop their own
+source code from leaking. And from analyzing that code, people have
+seen how things are done now with "vibe coding" using Claude. Even
+things that can be done simply are done with brute force, i.e. trying
+all possible scenarios before arriving at an answer or solution."
+
+---
+
+CNBC: "Dutch central bank moves gold bars out of U.S. and Canada,
+citing ‘crisis preparedness’"
+
+---
+
+Politico: "The Trump administration is shaking up federal involvement
+in the mining, tech, energy and defense sectors by making the
+government part-owner of dozens of U.S. companies -- and sparking a
+conversation among progressives about how a future Democratic
+president might reboot the party’s approach to climate and labor
+policy."
+
+---
+
+The Guardian: "It could take Ukraine several years to start building
+Patriot air defence interceptors and doing so is not an immediate
+solution for Kyiv, Marco Rubio has said"
+
+---
+
+Internal division means things are not going good over there
+
+---
+
+The Guardian: "Zelenskyy blasted Ukraine’s SBU and GUR after a
+shootout in Kyiv between the two intelligence and security services
+reportedly left three officers injured"
+
+---
+
+The closing sentence was obviously a dig to the famous JFK quote "ask
+what you can do for your country". Most do not realize the first part
+of that quote "ask **not** what your country can do for you" is a
+synonym for "dont ask services from government". Today that's like
+saying STFU about Medicare For All, die on your own and in debt as
+that would be a service to your country.
+
+No wonder Dem shitlibs love the flamboyant fuck.
+
+---
+
+I really liked how Markey beat a Kennedy last time. Check out his ad
+
+[[-]](https://youtu.be/86-3yuzn5UU?t=152)
+
+---
+
+NBC News: "Democratic Sen. Ed Markey easily fends off Massachusetts
+primary challenge from Rep. Seth Moulton"
+
+---
+
+US did not support Bancor when it was proposed because its ruling
+class (the business sector, private complex, surface state) did not
+want it. This class always wants to exploit slave labor abroad whose
+output would show up as trade deficit in the books for US. Since
+Bancor is designed to automatically prevent trade imbalances, the
+surface state could not accept this.
+
+---
+
+A teenager can learn how to drive in a few days, using only vision,
+why can't these "intelligent" machines do that?
+
+LLM can spit out bazillion words about driving, rules, cars, even how
+to drive. Stick that shit in there, will it drive? If not, why not?
+
+---
+
+The tech is again wholly disconnected from LLMs (which are not
+intelligent either) - a recent advance in the latter has nothing to do
+with the former.
+
+---
+
+Autonomous cars, like Waymo's know exactly how far objects are, thanks
+to their Lidar. Humans don't work that way, we compute distance using
+vision. I would hesitate to call autonomous cars AI. They are not
+exactly intelligent, they just have better sensors.
+
+Waymo: "Lidar, or Light Detection and Ranging, paints a 3D picture of
+the vehicle’s surroundings. Lidar sensors are located all around the
+vehicle in order to send millions of laser pulses in all directions,
+then measure how long it takes for them to bounce back off objects. No
+matter the time of day, our lidar system gives the Waymo Driver a
+bird’s eye view of what’s around."
+
+---
+
+"@jalefkowit@hachyderm.io
+
+Is it too much to hope that this turns into a Grizzly Man scenario"
+
+>Google is sending MrBeast into the wilderness, armed with AI.. ﻿One of
+>YouTube’s biggest creators has a new deal to promote Gemini and Google
+>Health.
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+MrBeast has signed a multi year overall deal to base his videos on
+using GenAI. His first show is about using GenAI searches to survive
+in the wilderness."
+
+---
+
+NYT: "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a
+Break"
+
+---
+
+Politico: "Republicans struggle for footing on data center response
+ahead of midterms.. Vulnerable House Republicans are eager for
+Congress to take action, but leadership is not yet ready to charge
+ahead."
+
+---
+
+NYT: "A.I. Is to Be Banned in N.Y.C. Elementary and Middle Schools"
+
+---
+
+JFK is an idol for the centrist Dems. That idol must be destroyed.
+
+---
+
+Election fraud trumps Watergate IMO, assuming it was even true 
+
+---
+
+Wallace, *Countdown 1960*: "In 1983, years after Nixon resigned the
+presidency, he sat down for a series of interviews with Frank Gannon,
+one of his former White House staffers. Gannon asked, 'What was
+Watergate?'  'Let’s start with what Watergate was not,' Nixon
+responded. 'No election was affected or stolen by it, as some believe
+the election of 1960 was stolen.'
+
+Gannon asked later, 'Do you think that you were elected president of
+the United States in 1960?'  'Well, many objective observers believe
+that I was,' Nixon said... 'There was no question, and these are
+facts, that there was immense fraud in Chicago, and it was all on
+[Dem] side, not on our side'"
+
+---
+
+LA Times: "The money, muscle and influence of organized crime helped
+John F. Kennedy win the closely contested 1960 election, investigative
+journalist Seymour M. Hersh contends in a new book on the Kennedy
+presidency... In *The Dark Side of Camelot* Hersh claims that the
+Mafia was brought into the Kennedy presidential campaign--and helped
+the Democrat carry the key state of Illinois--mainly at the
+instigation of Joseph P. Kennedy Sr., founder of the family political
+dynasty."
+
+---
+
+The Lever: "He Champions Centrist Dems On Cable. He Also Works For Big
+AI... Former Rep. Max Rose helps lead an influential network
+intervening in Democratic primaries — while quietly advising a
+tech-funded political operation targeting AI regulation."
+
+---
+
+"EPA Announces More Than $2.3 Million to Help Protect Drinking Water in
+Indiana from Cyberattacks and Extreme Weather Events"
+
+---
+
+"@Amoeba_Girl@awful.systems
+
+>If I have a billion trillion dollars but 20% of the population hates
+>me, but I get to live in a giant solid gold mansion with an army of
+>servants keeping the 20% away from me, have I really failed?
+
+I don’t know, you tell me."
+
+---
+
+F24: "Chinese President Xi Jinping on Wednesday called on 'the people
+of the Middle East' to oppose 'external interference' and consider
+reshaping the region's security order during a visit to Egypt."
+
+---
+
+It is hilarious to me how an intervention against a "middle weight",
+regional power brought about this crisis in the country who is
+supposed to be able to fight two concurrent wars at the same time if
+the need arised.
+
+TAC: "Trump’s Wars Have Created a Disturbing Military Readiness Crisis"
+
+---
+
 Selfa: "Perhaps there is no greater myth in U.S. politics than the
 idea, promoted by popular films like Oliver Stone’s JFK, that the
 Kennedy administration had planned to wind down the Vietnam War at the

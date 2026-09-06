@@ -51,19 +51,16 @@ function plot(before,after) {
     var linetr = new L.Polyline(trlist, {
 	color: 'red', weight: 2, opacity: 0.5, smoothFactor: 1
     });
-    linetr.addTo(map);
-    
-    
+    linetr.addTo(map);        
 }
 
 function init() {
     map = L.map('map').setView([48.42210044869243, 37.534354896519474], 9);
-    
-    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
-	maxZoom: 19,
-	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
+
+    L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+	maxZoom: 20,
+	subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+	attribution: '&copy; Google Maps | <a href="https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV">Suriyak Maps</a>'
     }).addTo(map);
-    
+
 }
-
-
