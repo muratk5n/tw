@@ -9,7 +9,9 @@ from io import StringIO
 import numpy as np
 import statsmodels.formula.api as smf
 import pandas as pd
-s="""year,gdp_growth,net_approval,two_terms,incumbent_vote
+
+s="""
+year,gdp_growth,net_approval,two_terms,incumbent_vote
 2012,1.3,-0.8,0,52
 2008,1.3,-37,1,46.3
 2004,2.6,-0.5,0,51.2
@@ -52,19 +54,19 @@ print ('\nobama/romney'); print (f(2012))
 ```text
 
 bush/clinton
-(array([45.5545006 , 51.63342375]), 48.59396217652096)
+(array([45.5545006 , 51.63342375]), np.float64(48.593962176520975))
 
 gore/bush
-(array([43.62406671, 64.45632856]), 54.04019763636963)
+(array([43.62406671, 64.45632856]), np.float64(54.04019763636969))
 
 bush/kerry
-(array([48.66180994, 54.92965126]), 51.79573059909151)
+(array([48.66180994, 54.92965126]), np.float64(51.795730599091534))
 
 mccain/obama
-(array([46.28829965, 42.88150912]), 44.58490438148577)
+(array([46.28829965, 42.88150912]), np.float64(44.58490438148586))
 
 obama/romney
-(array([48.16757318, 53.57914149]), 50.87335733434571)
+(array([48.16757318, 53.57914149]), np.float64(50.87335733434571))
 ```
 
 The run on past elections is above, uses 95% confidence interval for
