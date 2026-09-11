@@ -1,22 +1,87 @@
 # Week 37
 
+"[Marginalia Search](https://marginalia-search.com/)
+
+- Prioritizes non-commercial content
+- Tools for both search and discovery
+- Find lost old websites
+- Custom index and crawler software
+- Simple technology, no AI
+- AGPL license"
+
+---
+
+"@alda@topspicy.social
+
+Reliable sources claim that Matt Mullenweg is being sacked from
+Automattic.
+
+WordPress.org being Matt's 'personal website', running on the
+company's infrastructure and wp-admin on self hosted sites depending
+on that domain name being reachable to work at all, this could have
+far reaching consequences."
+
+---
+
+"Every year, the OECD surveys students around the world for the
+Programme for International Student Assessment [PISA]. The 2025
+results were just released today.  Around the world, results have gone
+down over the past ten years. But PISA includes an AI measurement. How
+do students do when they use the chatbot in school? It turns out that
+winners don’t do chatbots. The graphs show that students with little
+or no AI use trounce the students who do use the AI"
+
+---
+
+"@ingram@mastodon.social
+
+If I wanted 100% of the time ambient transcription I'd just buy an LG
+TV. Who needs a watch for that?"
+
+---
+
+9to5Mac: "The new Apple Watch will use microphone and other sensors to
+generate AI recaps of your day"
+
+---
+
+"@prism@infosec.exchange
+
+Good idea
+
+'United cancels planned 9/11 flyover featuring passenger plane escorted
+by fighter jets.. Denver's Office of Emergency Management was working
+to alert citizens and prepare for public reaction about the planned
+flyover.'"
+
+---
+
+"[LA] draws [water] from four separate systems, only one of which
+touches the Colorado, and the Colorado's share of its supply is
+smaller than most people assume. The bigger risk is not that the taps
+stop but that the substitutes are all constrained in their own ways,
+and that the cheapest of them was exhausted decades ago."
+
+---
+
 Jack Matlock: "But later when the people in Kosovo, the Albanian
 speaking people began to rebel against Serbia, the US actually sided
 with the rebels, and in effect used NATO to make war against
 Serbia. Now Serbia had not attacked or threatened any NATO
 member. That could only have been considered a an offensive use of the
 [org]. And of course, this made a very bad impression on Russians
-because Serbia had not a traditional Russian ally and to see the NATO
-actually going to war. [US] didn't invade it at first but simply
-bombed until until they capitulated and then NATO.. occupied
-Kosovo. Then just based upon a vote of the Kosovo legislature which
-declared independence that independence was recognized.
+because Serbia was a traditional Russian ally and to see the NATO
+actually going to war [made a bad impression. US] didn't invade it at
+first but simply bombed until until they capitulated and then
+NATO.. occupied Kosovo. Then just based upon a vote of the Kosovo
+legislature which declared independence that independence was
+recognized.
 
-Now when that was done by the NATO powers they violated one of the
-important agreements that we had negotiated that had helped end the
-Cold War.. the Helsinki final agreement and [it said] there should be
-no changes of borders without the mutual consent. Now, for the first
-time after the end of the Cold War, we used NATO in an offensive way
+[With that act] the NATO powers violated one of the important
+agreements that we had negotiated that had helped end the Cold
+War.. the Helsinki final agreement.. [it said] there should be no
+changes of borders without the mutual consent. Now, for the first time
+after the end of the Cold War, we used NATO in an offensive way
 against a country that had not attacked any member. And then we
 recognized the the independence [of Kosovo] without a referendum or
 anything else. I would say now that that set a direct precedent later
