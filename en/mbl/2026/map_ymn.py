@@ -65,6 +65,7 @@ target_regions = [
     "Ansarallah-Al Bayda",
     "Ansarallah-Shabwah",
     "Ansarallah-Taiz",
+    "Ansarallah-S.Taiz",
     "Ansarallah-Dhale",
     "Ansarallah-Ibb",
     "Ansarallah-Mareb",

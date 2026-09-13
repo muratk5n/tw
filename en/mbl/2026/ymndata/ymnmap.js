@@ -41,7 +41,7 @@ function plot(before,after) {
 }
 
 function init() {
-    map = L.map('map').setView([15.1027, 45.203], 5);
+    map = L.map('map').setView([15.1027, 45.203], 7);
 
     L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
 	maxZoom: 20,
@@ -50,4 +50,3 @@ function init() {
     }).addTo(map);
 
 }
-   

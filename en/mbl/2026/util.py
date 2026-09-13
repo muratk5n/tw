@@ -191,6 +191,22 @@ def map_coords(center, coords, lines={}, zoom=5, colors={}, outfile="/tmp/out.ht
         folium.PolyLine(val, color=c, popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
 
+def map_polys(center, coords, poi={}, zoom=5, outfile="/tmp/out.html"):
+    """
+    Simply plot multiple polygons that are lists of list of lists (coordinates)
+    """
+    m = folium.Map(location=center, zoom_start=zoom)
+    folium.TileLayer(tiles="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}",
+            name='subdomains2',
+            attr='attribution',
+            subdomains= ['mt0', 'mt1', 'mt2', 'mt3'],
+    ).add_to(m)
+    for key,val in poi.items():
+        folium.Marker(val, popup=folium.Popup(key, show=False)).add_to(m)
+    for poly in coords:
+        folium.Polygon(poly, color="red").add_to(m)        
+    m.save(outfile)
+    
 def schiller_conv():
     
     file_path = '/opt/Downloads/ie_data.xls'  # Update this if your file is named differently

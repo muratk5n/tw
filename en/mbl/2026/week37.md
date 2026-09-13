@@ -1,5 +1,286 @@
 # Week 37
 
+Epoch Times: "China’s Export Surge Fuels Global Backlash Over Trade
+Imbalance"
+
+---
+
+IC: "The September 11 Memorial Needs a Counter-Monument: Victims of
+Our Post-9/11 Wars Deserve Remembrance, Too"
+
+---
+
+"@vampiress@eigenmagic.net
+
+I was re-watching some episodes of Deadwood the other day, and
+suddenly became curious about a specific actor playing a minor role.
+
+Without stopping the TV episode, I opened a browser tab and opened
+chatGPT, asking a direct question about the character, the actor who
+played him, and the episode.
+
+I got total garbage as a response, getting names of characters wrong,
+which actors played them wrong, and even total wrong info about what
+the episode was about.
+
+Like, not even 'one or two minor things wrong', just total lies.
+
+I only checked with the lying machine out of idle curiosity if it'd
+somehow gotten better but no, it hasn't"
+
+---
+
+TAC: "Twenty-Five Years After 9/11, We Owe the Next Generation a
+Better Strategy.. Political leaders failed the troops and their
+families. Americans must wake up and demand better."
+
+---
+
+CNBC: "Saudi Arabia shut down East-West crude oil pipeline after
+multiple attacks by drones from Iraq"
+
+---
+
+"@tristanbuckmaster@mastodon.social
+
+Just to point something out to Open AI since they do not seem to have
+any mathematicians capable of understanding what they put out. They
+like to point out that their work was inspired by unforced Euler. As I
+said in my statement, our hypodissipative result (which is not
+public), but as I understand it part of their training data was
+already pointing to the fact that unforced Euler was possible.
+
+[This below](https://files.mastodon.social/media_attachments/files/117/237/560/596/148/018/original/1aec22cbb90ca67e.png)
+is absolute academic malpractice:"
+
+---
+
+"@emilymbender@dair-community.social
+
+The Boosters say: AI is a thing, it's inevitable, it's imminent and
+it's going to solve all of our problems.
+
+The Doomers say: AI is a thing, it's inevitable, it's imminent and
+it's going to kill us all.
+
+These are obviously the same story, with just different twists at the
+end. And both are nonsense... Nadella, Pichai, Huang, Zuckerberg,
+Huang, Dean --- you all own this unhinged narrative just as much as
+the Doomers do. Of course, they're happy to own this, because they
+benefit.. from keeping the policymakers focused on fantasies."
+
+---
+
+I like their approach, they massively constrain the tool, and, well
+use it like a tool, not some magical wand that will solve everything
+once it is waved.
+
+Shopify: "Preventing slop.. It’s tempting to just point an LLM to the
+React Native [existing] codebase and try to one-shot the same features
+in native [another programming language, LLM converts], but it doesn’t
+work. Even if you ask it to gather as much information as it can up
+front, freeze that into specs, task files, and then implement it, you
+end up with a huge amount of unmaintainable code that can’t be
+shipped.
+
+To solve this problem, we built a system called Helix that takes a
+more gradual approach. It doesn't expect the first output to be
+correct, and builds a loop where an imperfect attempt simply cannot
+move forward until it becomes a good result.
+
+The developer points Helix at a screen. Helix reads the React Native
+code and proposes a sequence of checkpoints (small, ordered slices of
+the work) that can be reviewed in minutes. Then, checkpoint by
+checkpoint, it builds: each one must prove its behavior with tests,
+match the running app in a visual review, survive two adversarial code
+reviewers, and get a human's nod before it's committed and the next
+one starts. Feedback from every review is remembered, so the loop gets
+more autonomous as the migration progresses."
+
+---
+
+MIT News: "An electrochemical approach turns ammonia into pure
+hydrogen.. An MIT team has demonstrated a more efficient way to
+extract pure hydrogen gas from hydrogen carrier molecules."
+
+---
+
+CNBC: "Houthis reportedly advance to key Red Sea island [Perim],
+further threatening crucial oil choke point.. The advance raises the
+threat to shipping near the Bab el-Mandeb Strait, a waterway that
+connects the Red Sea to the Gulf of Aden to global markets."
+
+---
+
+This is our first Yemen map, before/after will be available after the next release
+
+---
+
+Houthi areas are marked in red.
+
+\#Yemen \#Houthi 09/11
+
+[[-]](ymndata/map01.html)
+
+---
+
+"@akareilly@hachyderm.io
+
+I don’t want a new phone. I want my perfectly good hardware to keep
+getting updates until it actually stops working. I want replaceable
+batteries that get recycled. If a company stops giving updates I want
+to be able to change the OS."
+ 
+---
+
+\#Gibney
+
+[[-]](https://www.youtube.com/shorts/az0rD4gYrYI)
+
+---
+
+"[A..] Tesla Model Y struck a sidewalk shed outside 315 Madison Ave.,
+a bus stop pole and a mailbox on East 42nd Street, according to the
+NYPD. The car kept moving several more blocks before stopping near
+Second Avenue. Both women inside, each 27, were taken to Bellevue
+Hospital, where the passenger was pronounced dead."
+
+---
+
+The Guardian: "UK datacentres will create just 25% of jobs predicted
+by tech sector, analysis finds.. Facilities likely to employ 10,400
+workers, compared with 40,000 in industry estimates, thinktank says"
+
+---
+
+Excerpt 1
+
+>Ornstein: "The landmark Citizens United was a narrow case, brought on
+>an as-applied basis.. Roberts and his allies pulled it back to
+>broaden it - without any request from the plaintiffs and without
+>briefs or hearings - and redo it in a way that would subvert over a
+>century of established campaign law"
+
+Excerpt 2
+
+>Time: "[2015 T]o avoid upending Obamacare’s operation as he assumes
+>Congress wanted, Chief Justice John Roberts rewrote three parts of it:
+>turning the individual mandate into a tax, reworking the Medicaid
+>expansion, and now finding that 'established by the state' means
+>'established by the federal government.'"
+
+Roberts saved the ACA, also helped create the mess known as *Citizens
+United*. These two cases are not at the opposite ends of the
+spectrum. In both cases, corporations benefited. 
+
+---
+
+"Jew York"...? I don't know about that one
+
+---
+
+♪ It's a case of divide-and-conquer ♪
+
+♪♪ 'Cause you let a Jew break up my crew ♪
+
+♪ House n..a gotta run and hide ♬ ♬
+
+♪♪ Yellin' Compton, but you moved to Riverside. ♬
+
+NV - widely seen as the best diss track of all time. The scene on
+*Straight Outa Compton* shows the backdrop. Paul Giamatti plays
+J. Heller (the Jew).
+
+---
+
+That sounds borrowed from *No Vaseline* \#IceCube
+
+---
+
+The Jew Crew 😂
+
+---
+
+Asked around before visit, learned it wasn't like Warsaw 1944 over
+there, but still.. Hey most tourists aren't lucky to get a Kush,
+Witkoff visit to create a ceasefire over a city.
+
+---
+
+A compass can came in handy, yep surprisingly while navigating a
+modern city in 2026. Use offline map (find location by landmark) then
+use dead-reckoning and compass to navigate.
+
+---
+
+How are things in Russia? I was recently in Moscow, life seemed
+uneffected by the ongoing war. But of course it is still a f-ing war,
+there is a massive EW umbrella that stretches for tens of kilometers
+over the city that basically renders GPS useless (to thwart UA drones
+that might utilize the service to target). GPS is a Western system,
+but Russian GLONASS is effected too, delivery services, taxis get lost
+sometimes, it hinders the flow of the economy. Most famous Western
+sites / online services are inaccessible. No Western connected ATM
+cards, credit cars will work. It sucks esp. for foreigners. It makes
+you think, no one would willingly put themselves into this position,
+unless provoked
+
+---
+
+In this account LLMs were involved but they filled in the blanks, did
+not discover a new direction, nor propose genuine new ideas. Treat
+LLMs as a postdoc slave or a knowledgeable junior programmer that need
+to be managed. They are not human-like, nor sentient, nor
+superintelligent.
+
+[[-]](https://cims.nyu.edu/~tristanb/statement.pdf)
+
+---
+
+NY Post: "OpenAI stunned the mathematics world when it announced
+Tuesday that its artificial intelligence model cracked a legendary
+math problem left unsolved for nearly a century in just 88 hours. But
+an NYU academic has chimed in — saying the AI giant tried to
+strong-arm him into helping the bots solve the dizzyingly complex
+equation, and may have cribbed the work he had already done...
+[P]rofessor Tristan Buckmaster.. has come forward alleging OpenAI may
+have copied his work after asking him to collaborate — with one of the
+company’s scientists allegedly warning he might 'ruin his career' if
+he refused...
+
+He said scientists from OpenAI approached him and tried to convince
+him to jointly announce the solution, claiming they had independently
+solved Navier-Stokes [fluid eqn]. Buckmaster questioned the timing of
+their finding the solution in a blog post, noting OpenAI had only done
+so 'in the past few days' — after the company became aware of his
+work... He asked OpenAI experts whether its AI systems used to solve
+the equation had been 'trained on, or had access to' his research, but
+said they declined to answer"
+
+---
+
+Villi Iltchev: "Ben Thompson said it well. Every 10-15 years people
+relearn the same lesson. The only consumer business model is ads and
+you cannot charge consumers for software."
+
+---
+
+"@LukaszOlejnik@mastodon.social
+
+LG smart TVs scan user’s local network for phones and watches, log
+location and nearby Wi-Fi names. Then send it to LG Ad Solutions. Pull
+the cable and it keeps recording, stores the audio, uploads when
+reconnected. Automatic Content Recognition samples whatever comes
+through HDMI, so the console counts too."
+
+---
+
+The Verge: "LG smart TVs are almost constantly logging and uploading
+data about owners and their homes, even when offline or on standby
+mode, according to a new report from YouTube channel Gamers Nexus."
+
+---
+
 "[Marginalia Search](https://marginalia-search.com/)
 
 - Prioritizes non-commercial content
