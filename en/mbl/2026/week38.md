@@ -285,7 +285,7 @@ jd = json.loads(open("shia.json").read())
 u.map_polys([22, 47.3], jd, poi=sa_fields, zoom=4,outfile="map04.html")
 ```
 
-[[-]](mbl/2026/map04.html)
+[[-]](map04.html)
 
 ---
 

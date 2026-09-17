@@ -191,7 +191,7 @@ def map_coords(center, coords, lines={}, zoom=5, colors={}, outfile="/tmp/out.ht
         folium.PolyLine(val, color=c, popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
 
-def map_polys(center, coords, poi={}, zoom=5, outfile="/tmp/out.html"):
+def map_polys(center, polys, poi={}, lines={}, zoom=5, outfile="/tmp/out.html"):
     """
     Simply plot multiple polygons that are lists of list of lists (coordinates)
     """
@@ -203,8 +203,10 @@ def map_polys(center, coords, poi={}, zoom=5, outfile="/tmp/out.html"):
     ).add_to(m)
     for key,val in poi.items():
         folium.Marker(val, popup=folium.Popup(key, show=False)).add_to(m)
-    for poly in coords:
+    for poly in polys:
         folium.Polygon(poly, color="red").add_to(m)        
+    for key,val in lines.items():
+        folium.PolyLine(val, color='red', popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
     
 def schiller_conv():
