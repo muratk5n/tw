@@ -1,5 +1,112 @@
 # Week 37
 
+"Most of Russia’s tiny first-person-view drones now send and receive
+signals via jam-proof fiber optic cable instead of wireless radio. For
+heavier one-way attack drones that travel too far for fiber optics,
+the Russians have mostly switched to jam-resistant mesh radio networks
+made up of many interconnected senders and receivers.. It’s possible
+to jam a mesh radio network, but it’s hard. Every drone in a given
+network is a node. It’s not enough to jam a few of them; you have to
+jam all of them."
+
+---
+
+Drones are starting to resemble cruise missiles.. 
+
+CSIS: "[New RU drone models Geran-4 and Geran-5] were introduced in
+2026 and have many subsystems in common with the Geran-2 and
+Geran-3. Like the Geran-3, both fly with a Chinese Telefly turbojet
+engine.. Where they differ is the airframe. The Geran-4 features a
+more aerodynamic variant of the original delta shape, plus a
+reinforced structure that allows it to withstand significant G
+loads. It can maneuver at speeds of 186–249 miles per hour and achieve
+a maximum speed of 311 miles per hour. The Geran-5, on the other hand,
+eschews the delta-winged design entirely for a structure more typical
+of a cruise missile."
+
+---
+
+Science Alert: "Researchers Discover a Green Hydrogen 'Goldmine'
+Beneath Australia's Red Dirt.. 'Australia could be sitting on a
+massive, untapped energy reserve - and the potential is enormous,'
+says chemical engineer Alireza Keshavarz, from Edith Cowan
+University. 'There is enough hydrogen for Australia to benefit for
+generations, and potentially enough for us to become a major exporter
+of clean energy to the rest of the world'"
+
+---
+
+The war with Iran already did wonders for the American hegemony (as in
+decrease it). It might even help Israel being leashed properly in near
+future. Anti-war people wanted to get out of the Middle East,
+complained about bases, well, US had Iran bomb them, undermining its
+standing, power in the region. So there you go, u r getting out of the
+Middle East.
+
+---
+
+There'd be a fine line between working with Democrats and not being
+impeached (again)... but those could be part of the same
+discussions... if the Machivellian angle is true. We'll see what
+happens after the elections.
+
+---
+
+Reuters: "Trump says Iran war will end right after U.S. midterm
+elections"
+
+---
+
+And WH starts a stupid war endangering the House and Senate
+majority. Does Trump dislike his own party this much?
+
+---
+
+AP News: "Hakeem Jeffries.. and Jared Kushner met privately recently
+in New York, a signal that the White House is seeking ways to work
+with Democrats if they wrest majority control from Republicans in the
+midterm elections."
+
+---
+
+The Hill: "[06/22] Trump relationship with Senate GOP crumbling after
+repeated clashes"
+
+---
+
+AA: "Merz clashed with opposition AfD co-leader Alice Weidel in
+parliament on Wednesday over Russia policy and Germany’s energy
+supply... 'You stood by wordlessly and idly while the Nord Stream
+pipeline was blown up in front of your noses,' Weidel said. Instead of
+preparing to resume deliveries through remaining pipeline sections,
+she added, the government 'continues to reward the suspected
+masterminds of the attack in Kyiv with billion payments at Germany’s
+expense.'"
+
+---
+
+"AI" leaders want to slowdown because they don't want to bring about
+AGI "just yet". Don't flatter yourself. You can't.
+
+---
+
+Al-Jazeera: "1,400 Yemenis flee to Djibouti within 24 hours.. Yemeni
+refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten
+their grip on the Bab al-Mandeb strait."
+
+---
+
+NYT: "Houthis Seize a Key Red Sea Island, Threatening Another Global
+Oil Route"
+
+---
+
+\#Yemen 09/11 - 09/13
+
+[[-]](ymndata/map02.html)
+
+---
+
 Epoch Times: "China’s Export Surge Fuels Global Backlash Over Trade
 Imbalance"
 

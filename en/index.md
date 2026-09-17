@@ -1,13 +1,4 @@
 
-Pinned Post
-
-Michell Clark: "They made healthcare a commodity, education a debt
-trap, and housing a speculation market - then told you that poverty is
-a personal failing. They privatized survival and called it freedom."
-
----
-
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
