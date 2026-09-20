@@ -211,7 +211,7 @@ def map_polys(center, polys, poi={}, lines={}, zoom=5, outfile="/tmp/out.html"):
     
 def schiller_conv():
     
-    file_path = '/opt/Downloads/ie_data.xls'  # Update this if your file is named differently
+    file_path = os.environ['HOME'] + '/Downloads/ie_data.xls'  # Update this if your file is named differently
     df = pd.read_excel(file_path, sheet_name='Data', skiprows=7)
     df.columns = df.columns.str.strip()
     required_columns = ['Date', 'P', 'E','CPI']
@@ -301,7 +301,35 @@ def calc_roce(ticker):
         roce = (ttm_ebit / capital_employed) if capital_employed != 0 else 0
         print(f"TTM ending {date_label}: {roce:.2%}")
 
-    
+def get_sp500_pe():
+    df = pd.read_csv('schiller.csv')
+    df['Date'] = pd.to_datetime(df['Date'])
+    df['YoY'] = df['Earnings E'].pct_change(periods=12) * 100
+    df['PE_Ratio'] = df['S&P Comp P'] / df['Earnings E']
+    return df[['Date','PE_Ratio']]
+
+def plot_modis_fire(outfile):
+    url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
+    f = 'MODIS_C6_1_Global_7d.csv'
+    if not os.path.isfile("/tmp/" + f):
+        data = urllib.request.urlretrieve(url + "/" + f, "/tmp/" + f)
+    THRESHOLD = 400.0
+    df = pd.read_csv('/tmp/MODIS_C6_1_Global_7d.csv')
+    df = df[df['brightness'] > THRESHOLD]
+    df['brightness'] = 1.0 - (df['brightness'] / df['brightness'].max())
+    m = folium.Map(location=[0,0], zoom_start=2) 
+    folium.TileLayer(tiles="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}",
+            name='subdomains2',
+            attr='attribution',
+            subdomains= ['mt0', 'mt1', 'mt2', 'mt3'],
+    ).add_to(m)
+    for i, row in df.iterrows():
+        folium.CircleMarker([row['latitude'],row['longitude']],
+                            color='red',
+                            radius=2.0).add_to(m)        
+    m.save(outfile)
+
+
 if __name__ == "__main__": 
     if sys.argv[1] == "approv":
         trump_approval()
