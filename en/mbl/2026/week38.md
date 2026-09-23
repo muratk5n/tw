@@ -1,5 +1,117 @@
 # Week 38
 
+Politico: "Anthropic, OpenAI, SpaceXAI, Google sued over call to
+'pace' AI development.. The lawsuit alleges comments about need to
+'pace the frontier' of AI represent illegal coordination between
+competitors."
+
+---
+
+"@cwebber@social.coop
+
+So: you started vibecoding your FOSS project? And now you don't really
+understand your codebase anymore *without* asking agents what's
+happening? And you basically outsourced all your favorite part of your
+passion project to managing a robot that doesn't care? And you're more
+burnt out than ever?
+
+I have to say that it's very difficult for me to feel sympathy for
+this. I see more people reporting on this, but it feels fairly
+predictable. But it also feels like it was clearly where it was going."
+
+---
+
+Time to buy bonds and commodities?
+
+---
+
+YF data goes back only 15 years, but it looks right
+
+```python
+# GD=F: Commodities, ^GSPC: SP500
+df = u.get_yahoo_tickers(1970, ["GD=F","^GSPC"])
+df['Ratio'] = df["GD=F"] / df["^GSPC"]
+df['Ratio'].plot()
+```
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/297/628/107/066/756/original/772468feffe8fb24.jpg'/>
+
+---
+
+BigGo Finance: "[08/31] Commodity-to-Equity Ratio Hits 50-Year Low as
+Wall Street Sounds Alarm on a 'Perfect Storm' in Hard Assets.. Wall
+Street's major institutions are rapidly converging on a rare
+consensus: a systemic shortage of physical resources has quietly
+begun."
+
+---
+
+Notice yields for stocks is calculated by *inverting* the P/E ratio,
+meaning if an equity has price that is wayyy above its earnings, its
+yield expectation will go *down*, not up. P/E ratio 20 means 1/20 =
+0.05 -> 5% yield. The higher the PE, the lower the yield.
+
+---
+
+Bonds are higher than SP 500 yields, first time in a few decades.. \#RossGivens
+
+```python
+pe = u.get_sp500_pe()
+df = u.get_fred(1970,['DGS10'])
+
+pe['Yield'] = pe['PE_Ratio'].rdiv(1) * 100
+dfc = pe.join(df, how='left',on='Date').interpolate(method='linear')
+dfc = dfc.set_index('Date')
+dfc = dfc[dfc.index > "1980-01-01"]
+dfc[['Yield','DGS10']].plot()
+```
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/301/754/436/649/808/original/dd8adf48c5b35df5.jpg'/>
+
+---
+
+Let's check it out
+
+Investopedia: "Earnings yield, the inverse of the P/E ratio, shows the
+return per dollar invested.. Earnings yield helps compare stock
+returns to other investment types like bonds."
+
+---
+
+"@dangillmor@mastodon.social
+
+The AI panic looks like an orchestrated con: The bosses of these
+rapacious, sleazy, and infinitely sloppy companies are angling for
+government permission to be a cartel. This would be followed, as
+certain as day follows night, by the bailout they all know they'll
+need when their bubble deflates."
+
+---
+
+CNN: " US military had close call after using AI for false
+intelligence report.. The intelligence report, circulated across the
+US military this spring in the midst of the war with Iran, immediately
+set off alarm bells: A Chinese ship in the Middle East was
+transporting components of a nuclear weapons program... It was only
+just before the planned operation that officials dug deeper into the
+report put together by a special operations command analyst and found
+it had been generated with the help of artificial intelligence (AI) —
+and that a chatbot the analyst had used inaccurately identified the
+material the ship was carrying."
+
+---
+
+"@kralcttam@mastodon.social
+
+Oil crisis is moving west.
+
+Saudi Aramco told at least two oil refining customers in Europe that
+they will be allocated no crude oil next month.
+
+The decision applies to all European buyers, they said."
+
+---
+
 Motor1: "Toyota just put a number on the hydrogen Hilux, and it is
 bigger than anything the electric version can manage. At IAA
 Transportation 2026 in Hannover the automaker outlined plans for a
