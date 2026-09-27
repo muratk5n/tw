@@ -273,7 +273,7 @@ Read more: 👉 [URL](https://tuta.com/blog/microsoft-office-free-for-non-profit
 
 "Why Did ChatGPT Hit a Wall? w/ Prof. Cal Newport | The Rob Montz Show"
 
-[[-]](https://www.youtube.com/embed/emHCav2pxLA?start=745&end=950)
+[[-]](https://youtu.be/emHCav2pxLA?t=740)
 
 ---
 
