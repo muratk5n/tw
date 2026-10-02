@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt, folium, json, re, codecs, yfinance as yf
 import requests, urllib.request, os, fredapi, bdm, zipfile
 from bs4 import BeautifulSoup
 from curl_cffi import requests
+import sentinel2
 
 def trump_approval():
     # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
@@ -20,7 +21,9 @@ def trump_approval():
 
 def get_pd(): return pd
 
-def get_bdm(): return bdm    
+def get_bdm(): return bdm
+
+def get_sentinel2(): return sentinel2
 
 def two_plot(df, col1, col2):
     plt.figure(figsize=(12,5))
@@ -329,6 +332,17 @@ def plot_modis_fire(outfile):
                             radius=2.0).add_to(m)        
     m.save(outfile)
 
+def plot_real_ir_gold(year,outfile='/tmp/out.jpg'):
+    gold = get_yahoo_ticker(year, "GC=F")
+    cpi = get_fred(year, "CPIAUCSL")
+    nominal_ir = get_fred(year, "FEDFUNDS")
+    df = cpi.join(gold, how='left')
+    df = df.join(nominal_ir, how='left')
+    df['inf_yoy'] = df['CPIAUCSL'].pct_change(12) * 100
+    df = df.interpolate(method='linear').dropna(axis=0)
+    df['real_ir'] = df.FEDFUNDS - df['inf_yoy']
+    two_plot(df, "GC=F","real_ir")
+    
 
 if __name__ == "__main__": 
     if sys.argv[1] == "approv":

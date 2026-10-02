@@ -1,5 +1,184 @@
 # Week 40
 
+"Paramount takeover of Warner Bros. Discovery clears legal hurdle"
+
+---
+
+MEE: "UAE-owned club [Manchester City] found guilty of financial
+violations charges.. The club engaged in "sham" commercial contracts
+to artificially inflate revenues and reduce costs by more than $1bn,
+the findings showed."
+
+---
+
+\#Stallone \#War \#MIC
+
+[[-]](https://www.youtube.com/shorts/vZN0Ihfp4Pk)
+
+---
+
+A sign of anti-Israel sentiment or false flag to create symphaty for
+the "Zionist entity"? 
+
+NYT: "Passengers intervened after a clash broke out in the cockpit of
+a flight to Tel Aviv from Dubai, forcing the plane to make an
+emergency landing in Saudi Arabia, according to accounts from those on
+board"
+
+---
+
+"If we have about 85% to 90% of the US federal tax receipts are coming
+from workers in some form, direct or indirect, then ultimately we're
+going to have to have a significant redesigning of the tax collection
+system, which is..  consistent with Peter Turchin's elite
+over-production work, in the sense that you have the rise of the DSA,
+and these.. redistributive policy platforms. Ultimately what's going
+to happen is they're going to start taxing where the money is and
+where it's being generated... So you can follow the bouncing ball,
+it's going to be folks like us on the call who have the privilege of
+talking about financial markets for a living. It's going to be the
+companies that are making all the money in AI..  Ultimately, in a
+weird way, the profit rainbow that is justifying trillions of dollars
+of capex is ultimately, in my opinion, a mirage. Now that's when the
+market really starts to break down.. There's going to be a Wile Coyote
+moment where we realize, how does Uncle Sam pay for all this?  And
+they're gonna go 'Nvidia'.  That's.. Jensen Wang. So you're gonna get
+a big a big check in a few years, my friend"
+
+"Luke Gromen & Darius Dale: Which Inning Are We In?" \#Taggart \#Reshare
+
+[[-]](https://youtu.be/0-Bw776zKNg?t=5316)
+
+---
+
+"Luke Gromen & Darius Dale: Which Inning Are We In?" \#Taggart
+
+[[-]](https://youtu.be/0-Bw776zKNg?t=5316)
+
+---
+
+FT: "Corporate America embraces cheaper 'open' AI models.. Corporate
+America is turning to lower-cost.. AI models, as spiralling IT
+expenses push executives to look for alternatives to Anthropic and
+OpenAI"
+
+---
+
+"@pikesley@mastodon.me.uk
+
+Is it 'Exploding Rockets Are Good For Rocketry, Actually' Day again
+already? It comes around so fast"
+
+---
+
+Sometimes it feels like Potus wants ME warmongering to be voted down
+in the midterms so via the electoral aftermath US can leave
+faster. Already via Iran the bases are destroyed, US credibility in
+the region damaged.
+
+---
+
+Except some recent outliers (!), DJT is consistent - allowed Kurds
+getting their ass kicked by Iraq (1st term), then did the same for
+Syria (2nd term). Prepared the plans to leave Afghanistan (which Biden
+followed).
+
+---
+
+AP News: "The US military says its withdrawal of troops from Iraq is complete"
+
+---
+
+The Lever: "Banks make billions underpaying depositors — and Wall
+Street just admitted that consumers finding better deals could
+threaten the system."
+
+---
+
+NYT: "German Town Votes to Stop Adding Memorials Outside Homes of
+Slain Jews"
+
+---
+
+They are betting on the wrong thing.. GPT is stagnant tech with no
+promise of improving with no chance against scalers, even small open
+source players
+
+---
+
+From the people who bet 'big' on WeWork
+
+Financial Times: "SoftBank launches one of biggest junk bond deals to
+fund OpenAI bet"
+
+---
+
+The keyword with such news is always "monkey with a chainsaw"
+
+F24: "OpenAI cancels release of new AI model over safety concerns"
+
+---
+
+"@mattblaze@federate.social
+
+The 'AI changes everything' people rhyme remarkably well with the
+"blockchain changes everything" people."
+
+---
+
+Osenilo: "It is customary to read the death of the ether out of
+[Michelson's] experiment. That is wrong, and Michelson’s
+contemporaries knew it. Back in 1845 Stokes.. proposed that the Earth
+carries its medium with it, as a carriage carries its own air. Inside
+the carriage there is no wind, and Michelson’s instrument is bound to
+stay silent"
+
+---
+
+Defense Mirror: "The US Navy has withdrawn its warships from the
+blockade line around Iran after Tehran's first operational use of the
+advanced Qasem Basir 'carrier killer' anti-ship ballistic
+missile.. recent satellite imagery shows no US carriers or destroyers
+in the Gulf of Oman or Arabian Sea since early September, per
+open-source intelligence and Sentinel-2 data..
+
+The Qasem Basir has a declared range of roughly 1,200 kilometers -
+enough to cover nearly the entire Gulf of Oman and the US fleet's
+previous positions - and is reportedly equipped with electro-optical
+and thermal imaging seekers designed to track naval targets. A senior
+Iranian official Mohsen Rezaei earlier said the missile 'created
+hell for the Americans'..
+
+Satellite imagery shows the USS George Washington, USS George
+H.W. Bush, USS Tripoli and Arleigh Burke-class destroyers are no
+longer visible in the designated blockade zone, with the line
+reportedly pushed beyond the missile's range."
+
+---
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/352/844/532/665/008/original/e699585b8257f14e.jpg'/>
+
+Chemistry World: "300MW electrolyser construction starts off Spanish
+‘hydrogen valley’.. In September, Spanish energy company Moeve started
+building a 300MW solar-powered electrolyser to make CO2-emission-free
+‘green’ hydrogen in Huelva, in the south of the country. The Spanish
+government is contributing €300 million (£260 million) towards the
+over €1 billion cost of the site."
+
+---
+
+The Tribune: "India launches world’s first nuclear heat-based hydrogen
+production facility.. India has launched the world’s first hydrogen
+production facility using the copper-chlorine thermochemical cycle
+powered by nuclear heat from the fast breeder test reactor. The
+pioneering facility expands the role of nuclear energy beyond
+electricity generation, opening new avenues for decarbonising goals
+while strengthening India’s long-term energy security. The facility is
+developed at the Indira Gandhi Centre for Atomic Research (IGCAR),
+Kalpakkam."
+
+---
+
 I still think (visual, physical) world models are necessary for the
 grand final model. All aspects of human condition needs to be included
 in the training. 
