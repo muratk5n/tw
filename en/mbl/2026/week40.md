@@ -1,5 +1,89 @@
 # Week 40
 
+The Lever: "A landmark settlement confronts decades of PFAS pollution
+— but not the corporate system that keeps moving the toxic waste
+elsewhere... After years of public outcry, state officials announced a
+breakthrough earlier this month. The state had reached a $590 million
+deal with Chemours and associated companies to provide residents with
+clean water and repair the damage the pollution has
+caused. Politicians hailed the payout — the largest
+environmental-damages settlement in North Carolina history — as a
+major step forward in holding the company accountable for decades of
+damage.
+
+But the agreement stops at the state line — while the contamination
+does not.
+
+I had assumed, when I began researching Chemours’ pollution, that it
+was a local problem. But I quickly learned that it’s not just North
+Carolina struggling to navigate a new forever-chemical normal; it’s
+not even just the United States. The fluorochemical industry has a
+pattern of shuffling around PFAS production and waste, from North
+Carolina to Texas, from Italy to India. Every stop leaves a trail of
+contamination in its wake."
+
+[[-]](https://www.levernews.com/the-global-shell-game-hiding-forever-chemicals/)
+
+---
+
+F24: "Fake BBC report falsely implicates Indian passenger and pilot in
+Flydubai hijacking attempt"
+
+[[-]](https://youtu.be/3e8VEt-eb58?t=9)
+
+---
+
+Clean Core gets it
+
+MIT Technology Review: "[08/29] For just the second time in nearly two
+decades, the United States has granted an export license to an
+American company planning to sell nuclear technology to India.. The
+decision to greenlight Clean Core Thorium Energy’s license is a major
+step toward closer cooperation between the two countries on atomic
+energy and marks a milestone in the development of thorium as an
+alternative to uranium for fueling nuclear reactors."
+
+---
+
+Who cares.. Holtec's technology is mediocre, they built a smaller
+version of the same old light-water reactor tech. They need to use a
+better coolant. They need better fuel.
+
+Reuters: "Holtec Nuclear shelves US IPO as AI trade hits turbulence"
+
+---
+
+The events described below rhyme with LLM tech evolution and their
+ongoing commodatization IMO
+
+---
+
+Oracle, a big klunky piece of.. software, made its bucks by charging
+obscene amts of money for enterprise "backend" usage. People would get
+the hardware to run their Oracle, somehow, Jew Ellison did not
+care. I've been in some hardware scaling meetings planning the
+deployment of Oracle DBs, and the license prices that were thrown
+around would make any IT manager cry.
+
+But slowly, surely that klunky product was becoming commodatized,
+along with the entire stack of software necessary to run it (eg
+Linux). When the cloud arrived, they started offering services around
+such commodatized databases, open source solutions, and now such
+solutions could be scaled massively on a cheap(er) cloud. Postgresql
+is the prime example for this. Start ups I saw around mid 2010s all
+used FOSS DBs like Postgres, none of them would touch Oracle with a
+ten foot pole. Jew Ellison decried the cloud bcz it was such a foreign
+approach to his style of business.
+
+---
+
+Reuters: "[2012] Ellison famously mocked cloud computing as 'complete
+gibberish' in a 2008 tirade after a Wall Street analyst asked him to
+comment on the trend. He described it as a fad, comparing the computer
+industry to the fashion world."
+
+---
+
 "Paramount takeover of Warner Bros. Discovery clears legal hurdle"
 
 ---
@@ -43,7 +127,7 @@ of capex is ultimately, in my opinion, a mirage. Now that's when the
 market really starts to break down.. There's going to be a Wile Coyote
 moment where we realize, how does Uncle Sam pay for all this?  And
 they're gonna go 'Nvidia'.  That's.. Jensen Wang. So you're gonna get
-a big a big check in a few years, my friend"
+a big check in a few years, my friend"
 
 "Luke Gromen & Darius Dale: Which Inning Are We In?" \#Taggart \#Reshare
 
@@ -122,7 +206,7 @@ F24: "OpenAI cancels release of new AI model over safety concerns"
 "@mattblaze@federate.social
 
 The 'AI changes everything' people rhyme remarkably well with the
-"blockchain changes everything" people."
+'blockchain changes everything' people."
 
 ---
 
@@ -255,7 +339,6 @@ Ukraine off from the Black Sea"
 [[-]](ukrdata/map21.html)
 
 ---
-
 
 W. E. B. Du Bois: "[1953] Work is service, not gain. The object of
 work is life, not income. The reward of production is plenty, not
@@ -398,3 +481,5 @@ DW: "The socialist Left Party won the Berlin election partly on the
 promise to implement the city's 2021 expropriation referendum"
 
 ---
+
+
