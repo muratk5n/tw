@@ -208,13 +208,14 @@ plt.savefig('profitmargin.png')
 <pre><code class="language-python">df = u.get_yahoo_ticker(1980, &quot;DX-Y.NYB&quot;).interpolate()
 df.tail(1000).plot()
 plt.grid(True)
+print (df.tail(4))
 plt.savefig('dollar.png')
 </code></pre>
-<pre><code class="language-text">             DX-Y.NYB
-2026-05-07  98.250000
-2026-05-08  97.839996
-2026-05-10  97.908497
-2026-05-11  97.976997
+<pre><code class="language-text">              DX-Y.NYB
+2026-10-01  102.099998
+2026-10-02  101.930000
+2026-10-04  102.047001
+2026-10-05  102.164001
 </code></pre>
 <p><img alt="" src="dollar.png" /></p>
 <p><a name='schiller'></a></p>
@@ -232,12 +233,23 @@ plt.savefig('schiller2.jpg')
 1920s. Lows and highs arrive 10 years after the market is most
 expensive and cheapest, respectively. The two graphs should show
 perfect reverse correlation. </p>
-<pre><code class="language-python">df = pd.read_csv('../../mbl/2024/sp500.csv',index_col='Date',parse_dates=True)
-df['schiller'] = pd.read_csv('../../mbl/2024/schiller.csv',index_col='Date',parse_dates=True)['Schiller']
-df = df[df.index &gt; '1940-01-01']
-df['SPY10'] = df.SPY.shift(-12*10)
-df['chg'] = ((df.SPY10 - df.SPY) / df.SPY)*100
-u.two_plot2(df.chg, 'spy', df['schiller'], 'schiller')
+<pre><code class="language-python">df = pd.read_csv('../../mbl/2026/schiller.csv', index_col='Date', parse_dates=True)
+df['real_price'] = df['S&amp;P Comp P'] * df['CPI'].iloc[-1] / df['CPI']
+df['real_earnings'] = df['Earnings E'] * df['CPI'].iloc[-1] / df['CPI']
+df['real_earnings_10y_avg'] = df['real_earnings'].rolling(window=120).mean()
+df['CAPE'] = df['real_price'] / df['real_earnings_10y_avg']
+df['return_10y_trailing'] = (df['real_price'] / df['real_price'].shift(120)) ** (1/10) - 1
+df['CAPE_shifted'] = df['CAPE'].shift(120)
+df_filtered = df.loc['1920-01-01':]
+u.two_plot(df_filtered, 'CAPE_shifted', 'return_10y_trailing')
+plt.axvspan('1929-08-01', '1933-03-01', color='y', alpha=0.5, lw=0)
+plt.axvspan('1960-04-01', '1961-02-01', color='y', alpha=0.5, lw=0)
+plt.axvspan('1961-12-12', '1962-06-26', color='y', alpha=0.5, lw=0)
+plt.axvspan('1969-12-01', '1970-11-01', color='y', alpha=0.5, lw=0)
+plt.axvspan('1990-09-01', '1991-07-01', color='y', alpha=0.5, lw=0)
+plt.axvspan('2001-03-01', '2001-10-27', color='y', alpha=0.5, lw=0)
+plt.axvspan('2007-12-22', '2009-05-09', color='y', alpha=0.5, lw=0)
+plt.axvspan('2020-02-01', '2020-07-01', color='y', alpha=0.5, lw=0)
 plt.savefig('schiller.jpg')
 </code></pre>
 <p><img alt="" src="schiller.jpg" /></p>
