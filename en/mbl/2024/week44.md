@@ -172,45 +172,30 @@ somehow "it's fine until you see inflation".
 
 ---
 
-We need to see the big picture however.. Gold is going through the
-roof because the market is betting on low growth, low rates, which
-will raise the price of assets, ie gold.
-
----
-
-Use it for trading I don't care
-
----
-
-The regression below can be predictive, shift gold price back, it
-still works.
-
----
-
-$R^2$ is ridiculously high. Reverse correlation with oil, Euro,
-positive correlation w SP 500, silver (makes sense, related
-comodities). Oil is an indicator of econ activity, high activity means
-high demand for oil, therefore high price. Low activity means low
-rates, a boon for gold, since it is considered an asset.
-
----
-
 ```python
 import statsmodels.formula.api as smf
+import numpy as np
+
+# Download data and convert to daily returns
 df = u.get_yahoo_tickers(2015, ['^GSPC','GLD','USO','SLV','EURUSD=X'])
 df = df.rename(columns={'EURUSD=X': "EURUSD","^GSPC": "SPX"})
-r = smf.ols('GLD ~ SPX + USO + SLV + EURUSD', data=df).fit()
-print ('R^2', np.round(r.rsquared,2), '%')
-print (r.params)
+
+# Drop NaNs after computing percentage changes
+returns_df = df.pct_change().dropna()
+
+r = smf.ols('GLD ~ SPX + USO + SLV + EURUSD', data=returns_df).fit()
+print('R^2:', np.round(r.rsquared, 4))
+print(r.params)
+
 ```
 
 ```text
-R^2 0.93 %
-Intercept    121.862326
-SPX            0.018018
-USO           -0.193925
-SLV            2.887015
-EURUSD       -63.320880
+R^2: 0.6228
+Intercept    0.000237
+SPX         -0.094231
+USO         -0.009647
+SLV          0.419720
+EURUSD       0.018615
 dtype: float64
 ```
 

@@ -73,6 +73,8 @@ target_regions = [
     "Ansarallah-Amran",
     "Ansarallah-Lahij",
     "Ansrallah-N.Abyan",
+    "Ansarallah-Hudaydah",
+    "Polígono 58"
 ]
 
 with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra civil Yemen.kmz') as myzip:
