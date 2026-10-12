@@ -1,5 +1,114 @@
 # Week 41
 
+The American Conservative: "Mike Huckabee Should Resign.. The New York
+Times reports that.. Huckabee’s senior adviser, David Milstein,
+suppressed an embassy report and obstructed efforts by our elected
+representatives in Congress to obtain information... In March,
+U.S. senators wrote to Huckabee demanding answers about American
+citizens killed in the West Bank since January 2022... [The] report
+cites 15 U.S. officials and dozens of documents, collectively pointing
+to a sustained effort to sanitize reporting about the government of
+the corrupt and unpopular Israeli Prime Minister Benjamin Netanyahu."
+
+---
+
+The Lever: "Susan Collins’ Hard-Luck Story Has An Assault-Rifle
+Twist.. An assault-rifle manufacturer helped Collins land a job after
+a failed gubernatorial campaign. She later backed legislation
+shielding gunmakers from lawsuits."
+
+---
+
+Al-Monitor: "Hunger and malnutrition stalk Gazans, a year on from
+ceasefire"
+
+---
+
+Saw a few eps of WV, didn't like it.. AAA, didn't even watch.
+
+The new show will probably suck. I'll check it out of course. SG fans
+are up in arms about the writer selection. Social media is full of
+\#RIP tags.
+
+"WandaVision creator Jac Schaeffer is reportedly developing a new
+Stargate series for Amazon MGM Studios months after the previous
+reboot was scrapped. The writer, who is also known for her work on
+Agatha All Along, Black Widow, and The Hustle, is said to be
+developing the series as part of her overall deal at Amazon"
+
+---
+
+There is some controversy around *Lanterns* ratings - comparing finale
+ratings, it did better than *Penguin*, *Euphoria*, pulled in abt half
+the view count of GoT finale (a high bar). Not bad.
+
+---
+
+*Lanterns* dabbled in some Wokery, they tried too hard for Pierre to
+"represent", and the ending was a snoozer. But generally the show was
+good enough.
+
+---
+
+Politico: "Judy Shelton has been a longtime advocate for tying the
+dollar’s value to gold, a policy the U.S. fully abandoned in 1971."
+
+---
+
+"United States Department of the Treasury Announces New Appointment..
+Dr. Judy Shelton will serve as a Counselor in the Office of the
+Secretary."
+
+---
+
+"@Nadsec@cyberplace.social
+
+Mythos 5.1 review after having used it for exploit dev:
+
+Is the the best at surfacing new vulns and chaining exploits? YES
+
+Is it economical? NO it literally would cost more than paying people
+to do the work by hand by an order of magnitude unless you get really
+lucky.
+
+TL;DR it’s practically a worthless heap of shit Anthropic cooked up to
+drum up attention. It’s seems to be the same as any other model, just
+using waaaay more compute. Nothing special."
+
+---
+
+"@collabmarkov@soc.mldkyt.com
+
+Exhausted because we're not living in a country with universal healthcare."
+
+---
+
+"@Victor@spore.social
+
+US Water Bills Surged 62% in 10 Years. A New Map Reveals Where
+Americans Pay the Most. The report blames corporate control of water
+systems, climate change, and federal disinvestment in infrastructure"
+
+[[-]](https://gizmodo.com/us-water-bills-surged-62-in-10-years-a-new-map-reveals-where-americans-pay-the-most-2000822302)
+
+---
+
+Futurism: "Finland Orders Google to Suspend New Data Centers After
+Contractors Pave Over Protected Forests"
+
+---
+
+CNBC: "President Donald Trump announced Russia will supply diesel fuel
+to the global market... Trump claimed the move, unveiled with less
+than a month left in an affordability-focused midterm election, would
+swiftly bring down record-high diesel prices."
+
+---
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/415/040/942/600/439/original/8f15674118b9d94c.jpg'/>
+
+---
+
 "[The UK] has its own nuclear weapons system, Trident, which is based
 in Britain and ostensibly operates independently.. However, Trident is
 closely linked to the US’s nuclear programme, raising concerns about

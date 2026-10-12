@@ -76,6 +76,7 @@ target_regions = [
     "Nykolaiv-Russian Forces",
     "N.Kharkov-Russian Armed Forces",
     "Polígono 81",
+    "Polígono 84",
     "Polígono 92",
     "Belgorod-Russian Armed Forces",
     "Polígono 78",
