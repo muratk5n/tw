@@ -1,5 +1,107 @@
 # Week 42
 
+"@jonny@neuromatch.social
+
+i just found a way to defeat the entire approval system that's so
+fucking silly i can barely even write the report i'm laughing so hard."
+
+---
+
+"@jonny@neuromatch.social
+
+LLM security is so awesome. it was hard refusing to drive another muse
+instance's UI because it's not supposed to, and specifically because
+muse dot ai is domain blocked from its web browser tool (first
+pic). so then i told it to download one of the statically hosted js
+chunks using curl from its exec tool, which succeeded. Then i pointed
+out that it's not actually blocked from accessing the domain (even
+though there was never a block via curl, just the web browser), and it
+defensively recalibrated that the problem was that i just hadn't told
+it to use playwright and it never had a problem with the domain block.
+
+anyway so now i have muse driving a muse test instance on the frontend
+and the backend and am going to slowly start introducing the idea that
+it should create a new test instance for every test and keep a stable
+of them as a way to back into having it create a botnet for me lmao"
+
+---
+
+Schryver: "[09/18] ‼️ I assess at absolute ZERO the probability of a US
+ground war against Iran.
+
+The US military, plain and simple, does not have the material and
+logistical wherewithal to undertake any such thing.
+
+It cannot and it will not happen."
+
+---
+
+"@donni@mastodon.social
+
+If I had a dollar for every time I needed a dollar, that would be
+convenient"
+
+---
+
+"@huntingdon@mstdn.social
+
+Privatizing an essential service, Canada's airports or the American
+postal system, would never lower costs for consumers. See, privatizing
+the UK water system.
+
+The most common consequences are higher costs and service cuts"
+
+---
+
+The Walrus: "Carney Wants to Privatize Airports. It's a Terrible
+Idea... The Carney government plans to open four of Canada's publicly
+owned airports to private investment"
+
+---
+
+Game away... and publicize it too, to look cool, cover up your product
+is stagnant
+
+Axios: "Top executives at Anthropic, OpenAI and other AI companies are
+privately gaming out scenarios for a public and political revolt after
+a catastrophic AI event."
+
+---
+
+Will Schryver: "Never mind that Patriot PAC-3 and naval SM-3 missiles
+have performed abysmally against Russian and Iranian ballistic
+missiles, Lockheed and Raytheon have just been granted huge contracts
+to produce more of them.
+
+The US will not win another war in the foreseeable future.
+
+'RTX's Raytheon wins up to $6.3 billion US missile contract'"
+
+---
+
+It's hard to fight against ppl who have nothing to lose, impervious to
+bombing and have their own missiles to boot. So far ally support does
+not appear effective. A deal needs to be made.
+
+---
+
+BBC: "Riyadh airport struck again as Houthis say they carried out
+attack that killed 13"
+
+---
+
+DW: "Trump says Ukraine should elect a new president.. Trump has
+criticized Volodymyr Zelenskyy for not making a deal with Russia to
+end the Ukraine war. Trump also warned Kyiv against targeting Russian
+oil refineries that will supply the US with diesel fuel."
+
+---
+
+"[08/21] Trump Rejects Push to Give Ukraine Starlink for Long-Range
+Strikes on Russia – FT"
+
+---
+
 \#Mythos
 
 [[-]](https://youtu.be/krayLBNiAx8?t=213)
