@@ -1,5 +1,209 @@
 # Week 42
 
+"@eniko@mastodon.gamedev.place
+
+i miss the social contract"
+
+---
+
+If the usual Dem centrist cohort appears in favor of regulation, it's
+not necessarily bcz they are regulation loving ppl in general, the
+reason is more likely they are helping oligarchs
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+AI safety = regulation which protects the current market
+leaders. They’re begging Daddy to be regulated, because they know it’s
+the way to get locked in as The market"
+
+---
+
+"@Techmeme@techhub.social
+
+Analysis: AI safety groups and individual donors have spent $48M in
+the midterm election cycle across bipartisan races to back candidates
+favoring AI regulation (Maria Curi/Axios)"
+
+---
+
+The news from such parabolic eps rise is not necessarily good.
+
+- S&P 500 companies repurchase trillions of dollars of their own
+  stock, reducing the denominator (total outstanding shares of eps)
+  which mechanically increases earnings per share ($E$).
+
+- Large enterprise binness have high pricing power, they can pass
+  along higher input costs (even widen gross margins in the process),
+  resulting in record nominal profits.
+
+- S&P 500 is a market-cap weighted index, the weight effects eps calc
+  too, and AI boom, its capex along with its circular financing causes
+  a blow up in all related numbers.
+
+True Unemployment is still at 24.3% from Ludwig Institute.
+
+---
+
+How are SP 500 earnings per share graph (data from Schiller)?
+
+```python
+df = pd.read_csv('mbl/2026/schiller.csv',index_col='Date',parse_dates=True)
+df['Earnings E'].tail(200).plot()
+```
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/439/007/530/887/453/original/b45d246e035958b4.jpg'/>
+
+Parabolic near the end there...
+
+---
+
+The Register: "[10/09] SpaceX to buy key spectrum that could help Starlink
+Mobile become major US cell carrier.. Low-band frequencies can reach
+devices inside buildings"
+
+---
+
+Thomas Hayes: "Starlink Mobile can't work inside buildings without
+cell towers... [E]veryone figured it out..  [before] they thought..
+Verizon, AT&T, Sprint would cease to exist, [SPCX] wouldn't need any
+towers because the signal would miraculously go through cement walls
+with perfection and the world would be changed. It's turned out that's
+not the case. Starlink Mobile is.. great on your private plane, but
+for everyone else that works in in buildings, they want to have a
+decent signal and the cell towers are the way to play it. So that
+stock..  galloped"
+
+---
+
+What happened?
+
+```python
+u.get_yahoo_tickers(2026, ["SPCX"]).tail(7)
+```
+
+```text
+Out[1]: 
+                  SPCX
+2026-10-05  171.089996
+2026-10-06  171.919998
+2026-10-07  167.600006
+2026-10-08  160.570007
+2026-10-09  162.570007
+2026-10-12  163.419998
+2026-10-13  156.539993
+```
+
+---
+
+French leftist leader Mélenchon doesn't drink Coca-Cola because it is
+American? Good for him. I personally never liked the shit and don't
+drink it on its dietary value aspect (or the absence thereof). I guess
+my reason is indirectly because it is an American product, the type
+that is more snake oil than beverage (started as a "medicinal tonic")
+the type of concoction that could only take off in America, the land
+of snake oil salesman.
+
+---
+
+Another theory: It still doesn't make sense RDJ playing a bad Doom, or
+Stark being a VVD variant, such choices would lessen the value of TS
+sacrifice that MCU said they would not touch.  Cillian Murphy is the
+bad Doom, RDJ will come back as Stark, infuse his suit with magick
+(ala Iron Heart), act / dress like Doom to infiltrate the other side.
+In a way RDJ will be "playing" VVD, be "a" Doom (remember during the
+announcement on that stage RDJ was one among many), just not in the
+way Russo brothers led people to believe (they have lied before).
+
+OK.. maybe
+
+---
+
+\#Ziwe
+
+[[-]](https://www.youtube.com/shorts/EQ_kQgOUs-U)
+
+---
+
+"@malwaretech@infosec.exchange
+
+Machine Speed is a lie: stop trying to fight AI with AI
+
+Marketing departments are screaming that attackers are moving at
+'machine speed' and only AI-powered defenses can stop them. But
+cyberattacks have always been automated, and proactive defense beats
+reactive AI."
+
+---
+
+This is Marcus Hutchins, the security pro who stopped the WannaCry
+ransomware attack.
+
+"@malwaretech@infosec.exchange
+
+Cybersecurity has an AI doomer problem.. The AI industry's proximity
+to cybersecurity is causing clueless AI doomers to flood the
+zone. Experts and real issues are now being drowned out by
+increasingly absurd cyber-apocalypse fantasies imagined by people with
+no real world experience. From self-replicating AI models, to turning
+the entire internet into a botnet. The doomers are losing their minds
+and taking the cybersecurity industry with them."
+
+---
+
+The Guardian: "Threat of AI share crash puts world financial stability
+at risk, says IMF.. High valuations and debt put sector in danger"
+
+---
+
+"@eniko@mastodon.gamedev.place
+
+My business is more profitable than Anthropic"
+
+---
+
+"@exador23@m.ai6yr.org
+
+lol.
+
+CNBC: As Anthropic barrels toward a potential $2 trillion market cap
+on the Nasdaq, one research firm is valuing the artificial
+intelligence company at a mere 150 billion and says Wall Street is
+about to face an 'unprecedented test of investor gullibility.' In a
+report on Tuesday, independent financial research provider New
+Constructs called Anthropic's upcoming offering the 'most ridiculous
+IPO of 2026.'
+
+To reach its desired valuation, the firm estimates Anthropic would
+need to record double the trailing year of profit for Nvidia, the
+world's most valuable tech company. Nvidia's net income over the past
+four quarters topped $190 billion. Meanwhile, Anthropic's revenue in
+2025 was 4.6 billion as the company racked up a net loss of 42
+billion, according to Reuters, which cited a leaked copy of the
+company's prospectus.
+
+Anthropic's mounting operating losses coupled with emerging
+competition from a plethora of open-source models led New Constructs
+to conclude that, 'We don't think Anthropic has a viable business....'"
+
+Anthropic didn't respond to a request for comment"
+
+---
+
+"@rmondello@hachyderm.io
+
+The most succinct way I’ve found to describe X is, 'A social network
+for punching down'"
+
+---
+
+\#Ukraine 09/28 - 10/12
+
+[[-]](ukrdata/map22.html)
+
+---
+
 "@jonny@neuromatch.social
 
 i just found a way to defeat the entire approval system that's so
