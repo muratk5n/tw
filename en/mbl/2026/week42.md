@@ -1,5 +1,184 @@
 # Week 42
 
+"@amethyst@n7.gg
+
+@jalefkowit it still feels like it should be illegal for an $11B
+company to buy out a 78B company."
+
+---
+
+"@jalefkowit@hachyderm.io
+
+Any fool can burn $40 billion over a long enough timespan. It takes a
+real business genius to do it in a week"
+
+---
+
+Variety: "As of Oct. 5, the last day of trading for WBD and Paramount
+Skydance.. Warner Bros. Discovery had a market capitalization of $77.7
+billion and Paramount was around 11 billion. Today, Skydance has a
+market cap of under 40 billion — less than half the predecessor
+companies’ combined value."
+
+---
+
+Did France gov made the admission system worse in order to encourage
+the use of the private system? It's a type of a thing econ
+right-winger centrists would do.
+
+---
+
+French Tuber Alice Cappelle: "And there is also another major source
+of anxiety, *parkoursup*, the French online university admissions
+system. For students in their final years of high school, *parkoursup*
+can feel as if the platform is deciding their future. Just to give you
+an idea, in 2026, around 18% of registered students received none of
+their choices during the main admissions phase. That's incredibly
+stressful. You don't know where to go. And that compares with 12% in
+2025 and 10% in 2024. When I was on *parkoursup* just before Macron
+became president, it was expected that you would get what you put as
+your first or second choice.  Now it's impossible to know. And that's
+why costly private institutions have emerged all around the country
+profiting off the situation and providing a way out for students and
+parents too panicked to wait for *parkoursup* to determine their
+fate. So from the students point of view all these problems are
+connected. They're being asked to work harder in crowded classrooms,
+sometimes without teachers, in buildings that may be uncomfortable or
+deteriorating, while at the same time facing an increasingly stressful
+selection process for university. All those frustrations explain why
+the movement spreads so quickly because this is not your average
+strike or protest."
+
+---
+
+Bonobo - Cycles \#music
+
+[[-]](https://youtu.be/DlGKi709uQ0)
+
+---
+
+Gibbs: "There is no reason to think that globalization is in any way
+incompatible with the influence of the military–industrial
+complex. Indeed, as Western capital expands globally into unstable
+regions of the world – such as the Persian Gulf or sub-Saharan Africa
+- it becomes even more dependent on military protection of its
+investments, a process that enhances the influence of the military
+sector within the policymaking process. Thomas Friedman stated the
+matter quite well:
+
+>The hidden hand of the market will never work without a hidden fist -
+>McDonald’s cannot flourish without McDonnell-Douglas, the designer of
+>the F-­15.  And the hidden fist that keeps the world safe for Silicon
+>Valley’s technologies is called the United States Army, Air Force,
+>Navy, and Marine Corps.
+
+---
+
+David Gibbs, *Corporate Power and Globalization in US Foreign Policy*:
+"The [MIC] also maintain close ties with universities, whose faculties
+have long received grants and financial support (see Simpson 1996). It
+should not be forgotten that one of Eisenhower's greatest concerns was
+the MIC's ability to corrupt university faculty..
+
+Following from these military ties, academic researchers in
+international relations have shown little interest in the
+military–industrial complex. Instead, academics have emphasized the
+realist tradition, which views the military as an instrument of the
+larger 'national interest,' rather than being an influential interest
+group in its own right (see for example Krasner 1978). Despite lack of
+attention by the academic mainstream, the idea of a
+military-industrial complex -as an interest group- is well recognized
+among retired officers, beginning of course with former General
+Eisenhower, as well as such figures as Major General Smedley Butler
+(2003), General David Shoup (1969), and Colonel Andrew Bacevich
+(2006)"
+
+---
+
+Tony Hitchcliffe loses it, as funny as the imitation itself
+
+\#KillTony \#Dunnigan
+
+[[-]](https://youtu.be/RHMxddxSEd8)
+
+---
+
+Everyone should learn from MCU here on pursuing, nabbing talent. After
+*Picard* Matalas should've been given the task of perhaps rebooting
+*Stargate*, direct a new Trek movie, hell manage a whole Trek
+universe. 
+
+---
+
+*VisionQuest* - never cared much abt its central character, did not
+like the previous shows Bettany's character was in. VQ appears
+well-made thanks to Terry Matalas (who saved the show *Picard* from
+ending as the Woke shitshow it had become), I'm just not interested in
+the subject matter. Paul Bettany, James Spader are all great actors
+(some say the best of their generation, along with RDJ), they deliver.
+
+---
+
+Russians are war-like people, they always want to fight wars, they
+were looking for the tiniest reason to attack Ukraine, and they
+did. Europe is next. They can start wars without provocation and there
+was none here.
+
+---
+
+RAND: "[2019] This report documents research and analysis conducted as
+part of the RAND Corporation research project Extending Russia:
+Competing from Advantageous Ground, sponsored by the Army Quadrennial
+Defense Review Office, Office of the Deputy Chief of Staff G-8,
+Headquarters, Department of the Army. The purpose of the project was
+to examine a range of possible means to extend Russia. By this, we
+mean nonviolent measures that could stress Russia’s military or
+economy or the regime's political standing at home and abroad. The
+steps we posit would not have either defense or deterrence as their
+prime purpose, although they might contribute to both. Rather, these
+steps are conceived of as measures that would lead Russia to compete
+in domains or regions where the United States has a competitive advan-
+tage, causing Russia to overextend itself militarily or economically
+or causing the regime to lose domestic and/or international prestige
+and influence...
+
+CHAPTER FOUR Geopolitical Measures
+
+- Measure 1: Provide Lethal Aid to Ukraine
+- Measure 2: Increase Support to the Syrian Rebels
+- Measure 3: Promote Regime Change in Belarus  
+- Measure 4: Exploit Tensions in the South Caucasus
+- Measure 5: Reduce Russian Influence in Central Asia
+- Measure 6: Challenge Russian Presence in Moldova"
+
+[[-]](https://www.rand.org/pubs/research_reports/RR3063.html)
+
+---
+
+Lettuce lasts much longer doesn't it? "Lettuce" Liz was PM for 40+
+days.
+
+---
+
+That wasn't even half a Buttafuoco \#Zacharia
+
+---
+
+"@jonny@neuromatch.social
+
+When a 30 day window passes and I feel like I have given ethically
+appropriate warning to patch reported vulns this shit is going to be
+so much funnier, because i passed pretty hard into 'wait this is too
+ridiculous to be real' territory awhile back and have had to hold back
+most of the best parts because they are legitimately dangerous
+flaws"
+
+---
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/448/807/459/138/424/original/287ed9c5c3e167d7.png'/>
+
+---
+
 CNBC: "Russia returns to G20 table in Bangkok on U.S. invitation that
 angers Europe"
 
