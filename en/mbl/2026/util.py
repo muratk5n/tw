@@ -217,7 +217,7 @@ def schiller_conv():
     file_path = os.environ['HOME'] + '/Downloads/ie_data.xls'  # Update this if your file is named differently
     df = pd.read_excel(file_path, sheet_name='Data', skiprows=7)
     df.columns = df.columns.str.strip()
-    required_columns = ['Date', 'P', 'E','CPI']
+    required_columns = ['Date', 'P', 'E', 'D', 'CPI']
     df_filtered = df[required_columns].dropna().copy()
 
     def format_shiller_date(date_val):    
@@ -240,6 +240,7 @@ def schiller_conv():
     df_filtered = df_filtered.dropna(subset=['Date'])
     df_filtered = df_filtered.rename(columns={
         'P': 'S&P Comp P',
+        'D': 'Dividends D',
         'E': 'Earnings E',
         'C': 'Consumer Price Index CPI'
     })
@@ -343,7 +344,16 @@ def plot_real_ir_gold(year,outfile='/tmp/out.jpg'):
     df['real_ir'] = df.FEDFUNDS - df['inf_yoy']
     two_plot(df, "GC=F","real_ir")
     
-
+def yf_pegy(ticker_symbol):
+    stock = yf.Ticker(ticker_symbol)
+    info = stock.info
+    current_price = info.get("currentPrice", info.get("regularMarketPrice", 0))
+    pe_ratio = info.get("trailingPE")
+    div_yield = info.get("dividendYield")
+    eps_growth = info.get("earningsGrowth") * 100
+    denominator = eps_growth + div_yield
+    print('PEGY:', np.round(pe_ratio / denominator,2))
+    
 if __name__ == "__main__": 
     if sys.argv[1] == "approv":
         trump_approval()
