@@ -1,5 +1,77 @@
 # Week 43
 
+*Dissenting POWs: From Vietnam`s Hoa Lo Prison to America Today* by
+Tom Wilber and Jerry Lembcke
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/474/558/543/412/821/original/eedbb62f209802a3.jpg'/>
+
+---
+
+First use of GPUs for general purpose sci computation tasks appears to
+have started around 2003, thanks to researchers at Technical
+University Munich and independently at Caltech. 
+
+---
+
+For the first time I saw Ecosia beating Google Search - found what I
+was looking for on the first page \#Ecosia
+
+---
+
+"@futurebird@sauropods.win
+
+How the heck is a girl supposed to write a creepy SF micro fiction
+when these goobers keep just literally doing the thing that I wanted
+to be ominous and portend dark futures about???"
+
+---
+
+\#TheNewMiddleEast \#AlJazeera
+
+[[-]](https://youtu.be/qRrtN8YSoVQ?t=685)
+
+---
+
+\#Yemen 10/07 - 10/20
+
+[[-]](ymndata/map09.html)
+
+---
+
+Seymour Hersh, *The Dark Side of Camalot*: "The crisis worsened later
+that afternoon, when it was learned that a Soviet surface-to-air
+missile had shot down an American U-2 spy plane during an
+intelligence-gathering overflight of the island... [RFK wrote] 'There
+was the realization that the Soviet Union and Cuba apparently were
+preparing to do battle. And there was the feeling that the noose was
+tightening on all of us, on Americans, on mankind, and that the
+bridges to escape were crumbling.'.. Kennedy was losing control..
+
+In *Kennedy*, his 1965 insider's memoir, Ted Sorensen described what
+happened next.. Sorensen wrote, the Kremlin announced that 'Kennedy's
+terms were being accepted.. I [was] hardly able to believe
+it'.. Sorensen's published account was a half-truth. As he knew, and
+would not reveal for twenty-seven years, the crisis was resolved when
+Bobby Kennedy, on behalf of his brother, held a last-minute meeting
+with Dobrynin and made a secret arrangement to give Nikita Khrushchev
+the trade he wanted - Jupiter missiles removed from Turkey in exchange
+for withdrawal of Soviet missiles from Cuba."
+
+---
+
+Noam Chomsky, *Rethinking Camalot*: "Another favored idea is that JFK
+had become a demon to the military-industrial complex because he was
+going to end the Cold War. To assess the thesis, we may turn again to
+the speech he was to give in Dallas on the day of the assassination,
+with its proud boast about his vast increases in Polaris submarines,
+Minuteman missiles, strategic bombers on 15-minute alert, nuclear
+weapons in strategic alert forces, readiness of conventional forces,
+procurement, naval construction and modernization, tactical aircraft,
+and special forces. JFK military Keynesianism had raised Pentagon
+spending from $45.3 billion in 1960 to 52.1 billion in 1962"
+
+---
+
 "@bridget@beige.party
 
 The only death penalty i support is a corporate death
