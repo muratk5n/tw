@@ -1,4 +1,19 @@
 
+Pinned Post
+
+Noam Chomsky, *Rethinking Camalot*: "Another favored idea is that JFK
+had become a demon to the military-industrial complex because he was
+going to end the Cold War. To assess the thesis, we may turn again to
+the speech he was to give in Dallas on the day of the assassination,
+with its proud boast about his vast increases in Polaris submarines,
+Minuteman missiles, strategic bombers on 15-minute alert, nuclear
+weapons in strategic alert forces, readiness of conventional forces,
+procurement, naval construction and modernization, tactical aircraft,
+and special forces. JFK military Keynesianism had raised Pentagon
+spending from $45.3 billion in 1960 to 52.1 billion in 1962"
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
@@ -39,4 +54,3 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-    

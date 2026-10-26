@@ -353,6 +353,27 @@ def yf_pegy(ticker_symbol):
     eps_growth = info.get("earningsGrowth") * 100
     denominator = eps_growth + div_yield
     print('PEGY:', np.round(pe_ratio / denominator,2))
+
+def comp_bond_yield(ticker):
+    url = f"https://www.tradingview.com/symbols/NASDAQ-{ticker}/bonds/"
+    response = requests.get(url, impersonate="chrome")
+    html_content = response.text
+
+    rows = re.findall(r'<tr[^>]*>.*?</tr>', html_content, re.DOTALL)
+
+    coupon_values = []
+    for row in rows:
+        # Extract all <td> cells within the row
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        # The 4th cell (index 3) is the CurrentCoupon column
+        if len(cells) >= 4:
+            # Clean HTML tags and trailing '%' sign
+            cell_text = re.sub(r'<[^>]+>', '', cells[3]).strip()
+            if cell_text.endswith('%'):
+                coupon_values.append(cell_text[:-1])
+                
+    cvals = np.array([float(x) for x in coupon_values])
+    return float(np.mean(cvals))
     
 if __name__ == "__main__": 
     if sys.argv[1] == "approv":
