@@ -14,7 +14,6 @@ spending from $45.3 billion in 1960 to 52.1 billion in 1962"
 
 ---
 
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
