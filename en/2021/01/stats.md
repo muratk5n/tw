@@ -277,7 +277,17 @@ df['real_earnings'] = df['Earnings E'] * df['CPI'].iloc[-1] / df['CPI']
 df['real_earnings_10y_avg'] = df['real_earnings'].rolling(window=120).mean()
 df['CAPE'] = df['real_price'] / df['real_earnings_10y_avg']
 df['CAPE'].tail(400).plot()
+print (df['CAPE'].tail(4))
 plt.savefig('schiller2.jpg')
+```
+
+```text
+Date
+2026-03-01    36.789586
+2026-04-01    37.874575
+2026-05-01    39.808584
+2026-06-01    39.837161
+Name: CAPE, dtype: float64
 ```
 
 ![](schiller2.jpg)
@@ -621,9 +631,9 @@ plt.savefig('livingst.jpg')
 ```
 
 ```text
-2026-03-01    0.852390
-2026-04-01    0.849487
-2026-05-01    0.847631
+2026-07-01    0.880272
+2026-08-01    0.877008
+2026-09-01    0.873275
 Freq: MS, Name: super_index, dtype: float64
 ```
 
