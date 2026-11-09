@@ -47,8 +47,10 @@ experimental data.  They are reverse engineered from data, they do not
 arise from fundamental mathematical deduction.</p>
 <p>I'll give an example. Let's say a scientist is looking at some data
 collected from nature,</p>
-<pre><code class="language-python">df = u.data_synth_1()
+<pre><code class="language-python">import impl as u
+df = u.data_synth_1()
 df.plot(grid=True)
+plt.savefig('../../mbl/2026/img/freepar1.jpg')
 </code></pre>
 <p><a href="../../mbl/2026/img/freepar1.jpg">Graph</a></p>
 <p>And he is asked to find the formulation for this. He looks at the data
@@ -70,9 +72,11 @@ df.plot(grid=True)
 places, though overall not great.</p>
 <p>Then the genius says "I can reverse engineer those adjustable knobs
 from data!". He uses <code>polyfit</code>, and voila</p>
-<pre><code class="language-python">coef = np.polyfit(df.index, df.ydata, degree)
+<pre><code class="language-python">degree = 7
+coef = np.polyfit(df.index, df.ydata, degree)
 df['ypred'] = np.polyval(coef,df.index)
 df.plot(grid=True)
+plt.savefig('../../mbl/2026/img/freepar3.jpg')
 </code></pre>
 <p><a href="../../mbl/2026/img/freepar3.jpg">Graph</a></p>
 <p>That is a good fit</p>
@@ -86,6 +90,7 @@ anything about the phenomena. Those free parameters represent our
 (with some added noise to make it look like experimental data).</p>
 <pre><code class="language-python">df['ypred'] = np.sin(df.index)
 df.plot(grid=True)
+plt.savefig('../../mbl/2026/img/freepar4.jpg')
 </code></pre>
 <p><a href="../../mbl/2026/img/freepar4.jpg">Graph</a></p>
 <p>The sine function, $y = sin(x)$, has no free parameters. It is

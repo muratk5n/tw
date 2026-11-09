@@ -1,2 +1,184 @@
 # Week 46
 
+That is a good move for France - NATO is a tool for the US MIC, whose
+aims are antithetical to Europe's and France's interests. Removing
+that piece off the board will go far in gaining true independence on
+foreign policy matters.
+
+Politis: "Jean-Luc Mélenchon’s La France Insoumise (France Unbowed)
+has published a presidential programme proposing that France leave
+NATO and that major defence companies be nationalised. The 222-page
+document, released on Friday ahead of the 2027 presidential election,
+sets out two stages. France would first withdraw immediately from
+NATO’s military command structure and then gradually leave the
+alliance itself."
+
+---
+
+Business Insider: "'Mainstream corporate America is pulling back and
+starting to view [LLM] token spending not as a source of growth but as
+a cost center that weighs on margins,' Torsten Slok, a partner and
+chief economist at Apollo, said in the report. 'The technology has
+delivered zero financial payoff to corporate America outside of
+tech.. The question looking ahead is whether, even as models become
+commoditized, mainstream corporate America can turn increasingly cheap
+intelligence into higher revenue growth and higher profit margins,'
+[he] said."
+
+---
+
+WSJ: "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in
+the Market.. Elliott Investment Management compared the current state
+of the markets, laden with debt-fueled risk-taking and bubbling with
+hype over new technologies, to the Roaring ‘20s that preceded the
+Great Depression'"
+
+---  
+
+Congressional Progressive Caucus: "Reps. Casar, Waters Lead Democratic
+Resolution Opposing A.I. Bubble Bailout for Big Tech, Commit to
+Protecting American People Instead.. In the resolution, the Democratic
+lawmakers note that 'artificial intelligence-related firms hold
+trillions of dollars in debt, much of which is raised in opaque and
+unregulated private credit markets,' and 'the price-to-earnings ratio
+of the stock market is currently almost as high as it was at the peak
+of the 1990s tech bubble'"
+
+[[-]](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
+
+---
+
+Why does the effect of a program decrease / increase depending on who
+is the President? Because the CIA does whatever the executive tells
+them to do. There is no deep state.
+
+---
+
+Truthout: "Neoliberal Policies Associated With Reaganomics Actually
+Started With Carter.. Historian David N. Gibbs, author of 'The Revolt
+of the Rich,' says we mustn’t whitewash President Carter’s record."
+
+---
+
+You have to watch for these f-ing Democrats esp. if they are
+econ-right types.
+
+---
+
+Stephen Kinzer says US' anti-Russia-pro-Ukraine project started way
+back in 1947 (cultinating in the Maidan coup).. The lowest intensity
+it ever reached was under Nixon oddly enough (or maybe not, bcz Nixon
+was seeking detente w/ the Soviets -he later also pulled out of
+Vietnam which was why the military-industrial complex framed him w/
+Watergate-), intensified under Jimmy Carter.  
+
+---
+
+CIA: "[1953] The purpose of Project AERODYNAMIC is to provide for the
+exploitation and expansion of the Anti-Soviet Ukrainian resistance
+movement for cold war and hot war purposes."
+
+[[-]](https://www.cia.gov/readingroom/docs/AERODYNAMIC%20%20%20VOL.%201_0113.pdf)
+
+---
+
+This is what you get when you are associated with "Bushism, but even
+more evil and retarded" to borrow a phrase from Jude Russo. That was
+exactly what Trump placed on the ballot, and Bushism 2.0 was voted
+down. 
+
+Ted Cruz: "As we sit here today, I am the only statewide electe
+Republican who remains in Texas. That's not something I ever thought I
+would say"
+
+---
+
+Truthout: "Trump Says US Is Ending Annual Aid to Israel, Amid Push for
+Military Integration"
+
+---
+
+The Lever: "Earlier this year, The Lever published the definitive
+investigative series exposing a billionaire front group aiming to
+stealthily shape the Democratic Party’s agenda and its primary
+elections. Now, our journalists are facing retribution for this
+reporting: The organization, Majority Democrats, is attempting to
+block our reporters from covering its upcoming meeting with top
+Democrats to sculpt the party’s policy agenda. The strong-arm tactics
+come even as the group has been offering access to corporate media
+outlets. Why are top Democrats meeting with a billionaire group right
+after an anti-oligarch election? And what deals are being cut?"
+
+---
+
+CNBC: "Tesla and SpaceX lose over $420 billion in combined market cap
+after midterms"
+
+---
+
+I'm pretty sure if the war starts again, Iran will hit Rammstein
+
+---
+
+"WeWork with GPUs"
+
+[[-]](https://youtu.be/uERBdnUJtOE?t=158)
+
+---
+
+CNBC: "Investors brace for lower Anthropic valuation, calling $1.5
+trillion a 'stretch'"
+
+---
+
+Kyrgyzstan is there to appear with Kazakhstan hoping it may lead to
+more gas. Tajikistan is completely in Russia's orbit, maybe reports
+back to them. "Turkey" the most deluded of them all having picked a
+wrong identity from start during the ethnofascist wave of 20s now
+needs the constant reminder, reinforcement of its choice to even
+mildly believe in it. Uzbekistan is a basket case, appearing in any
+event probably gives them a high, some kind of confirmation they still
+matter after losing the leadership race in the region to another
+"Stan", Kazakhstan.
+
+---
+
+He did, did he? 😂 Here is proof on what our "cousin" thinks about his
+supposed kinship - they don't give a flying fuck about it. Inviting
+Russia into OTS is like inviting stamp collectors into bird watching
+society. Mixing apples and oranges.
+
+"Speaking at the 13th summit of the Organization of Turkic States
+(OTS).. on October 29-30, Kazakh President.. Tokayev proposed inviting
+Russia into the organization"
+
+---
+
+The Lever: "El-Sayed: Fire The Parliamentarian If She Blocks
+Healthcare Reform"
+
+---
+
+Bernie is right.. The Congress should pass the M4A law no matter
+what. The time is now.
+
+---
+
+\#MedicareForAll
+
+[[-]](https://youtu.be/EIavGrcp4xg?t=296)
+
+---
+
+"What could RED IV mean for Europe’s renewable hydrogen market? A
+leaked draft of the EU’s post-2030 renewable energy framework points
+towards a significant change in how renewable hydrogen demand could be
+supported. If adopted, the proposals could shift the market away from
+binding EU-level quotas and towards greater national flexibility,
+wider eligibility and an indicative long-term target... Broadening
+eligibility to include additional forms of low-carbon hydrogen
+could.. give policymakers another way to support hydrogen deployment
+while maintaining decarbonisation objectives."
+
+---
+

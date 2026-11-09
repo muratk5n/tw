@@ -25,6 +25,8 @@ def get_bdm(): return bdm
 
 def get_sentinel2(): return sentinel2
 
+def get_gmd(): return pd.read_csv("/opt/Downloads/gmd/gmd.csv")
+
 def two_plot(df, col1, col2):
     plt.figure(figsize=(12,5))
     ax1 = df[col1].plot(color='blue', grid=True, label=col1)

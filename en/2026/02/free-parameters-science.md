@@ -25,8 +25,10 @@ I'll give an example. Let's say a scientist is looking at some data
 collected from nature,
 
 ```python
+import impl as u
 df = u.data_synth_1()
 df.plot(grid=True)
+plt.savefig('../../mbl/2026/img/freepar1.jpg')
 ```
 
 [Graph](../../mbl/2026/img/freepar1.jpg)
@@ -60,15 +62,16 @@ Then the genius says "I can reverse engineer those adjustable knobs
 from data!". He uses `polyfit`, and voila
 
 ```python
+degree = 7
 coef = np.polyfit(df.index, df.ydata, degree)
 df['ypred'] = np.polyval(coef,df.index)
 df.plot(grid=True)
+plt.savefig('../../mbl/2026/img/freepar3.jpg')
 ```
 
 [Graph](../../mbl/2026/img/freepar3.jpg)
 
 That is a good fit
-
 
 But the 7 coefficients tell us nothing in scientific terms because
 using the same coefficients / free parameters / "constants" approach I
@@ -83,6 +86,7 @@ Now we reveal where the data comes from: it is the **SINE FUNCTION**
 ```python
 df['ypred'] = np.sin(df.index)
 df.plot(grid=True)
+plt.savefig('../../mbl/2026/img/freepar4.jpg')
 ```
 
 [Graph](../../mbl/2026/img/freepar4.jpg)
