@@ -167,31 +167,6 @@ poisoning Washington? Can they actually lower costs — from housing and
 groceries to health care?.. Can they end America’s endless wars
 and reform a Congress designed to block change?"</p>
 <hr />
-<p>Crysis was an FPS game</p>
-<hr />
-<p>I think a combination of <em>real</em> exchange rates, current account,
-exports could work as leading indicator for crysis. I'd compute RER
-diy - CPI, official exch rates needed for the calc are all there. The
-idea would be RER captures purchasing power parity, so compare two
-CPIs.</p>
-<hr />
-<pre><code class="language-python">df = u.get_gmd()
-df = df[(df.ISO3 == &quot;ARG&quot;) &amp; (df.year &gt; 1970) &amp; (df.year &lt; 2027)].set_index(&quot;year&quot;)
-
-df.CA_GDP.plot()
-crisis_years = df[df['CurrencyCrisis'] == 1].index
-for cy in crisis_years:
-  plt.axvline(x=cy,color='red',linestyle='--',alpha=0.7)
-</code></pre>
-<p><img width='340' src='https://media.mastodontech.de/media_attachments/files/117/556/531/730/957/699/original/3c8e1b178e329fb2.jpg'/></p>
-<hr />
-<p><code>cons</code> and <code>cons_GDP</code> for consumption</p>
-<hr />
-<p><code>CA_GDP</code> current account as a percentage of GDP.. nice</p>
-<hr />
-<p>Global Macro Database is like an all you can eat buffet.. What can I
-<em>not</em> do with that...</p>
-<hr />
 <p>CNBC: "Treasury yields fall as investors crowd into bonds for safety
 amid election stock sell-off"</p>
 <hr />
@@ -214,7 +189,7 @@ Susan Collins' three-decade Senate run"</p>
 Republican strongholds fall"</p>
 <hr />
 <p>#Yemen 10/20 - 11/04</p>
-<p><a href="mbl/2026/ymndata/map10.html">[-]</a></p>
+<p><a href="ymndata/map10.html">[-]</a></p>
 <hr />
 <p>LLM travel planning is still in shambles. The reason likely is because
 LLM does not think algorithmically, it thinks textually. Whatever

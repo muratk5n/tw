@@ -204,45 +204,6 @@ and reform a Congress designed to block change?"
 
 ---
 
-Crysis was an FPS game
-
----
-
-I think a combination of *real* exchange rates, current account,
-exports could work as leading indicator for crysis. I'd compute RER
-diy - CPI, official exch rates needed for the calc are all there. The
-idea would be RER captures purchasing power parity, so compare two
-CPIs.
-
----
-
-```python
-df = u.get_gmd()
-df = df[(df.ISO3 == "ARG") & (df.year > 1970) & (df.year < 2027)].set_index("year")
-
-df.CA_GDP.plot()
-crisis_years = df[df['CurrencyCrisis'] == 1].index
-for cy in crisis_years:
-  plt.axvline(x=cy,color='red',linestyle='--',alpha=0.7)
-```
-
-<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/556/531/730/957/699/original/3c8e1b178e329fb2.jpg'/>
-
----
-
-`cons` and `cons_GDP` for consumption
-
----
-
-`CA_GDP` current account as a percentage of GDP.. nice
-
----
-
-Global Macro Database is like an all you can eat buffet.. What can I
-*not* do with that...
-
----
-
 CNBC: "Treasury yields fall as investors crowd into bonds for safety
 amid election stock sell-off"
 
@@ -278,7 +239,7 @@ Republican strongholds fall"
 
 \#Yemen 10/20 - 11/04
 
-[[-]](mbl/2026/ymndata/map10.html)
+[[-]](ymndata/map10.html)
 
 ---
 

@@ -25,17 +25,114 @@
       </div>
       <div id="main_content_wrap" class="outer">        
         <section id="main_content" class="inner">
-<p>Pinned Post</p>
-<p>Noam Chomsky, <em>Rethinking Camalot</em>: "Another favored idea is that JFK
-had become a demon to the military-industrial complex because he was
-going to end the Cold War. To assess the thesis, we may turn again to
-the speech he was to give in Dallas on the day of the assassination,
-with its proud boast about his vast increases in Polaris submarines,
-Minuteman missiles, strategic bombers on 15-minute alert, nuclear
-weapons in strategic alert forces, readiness of conventional forces,
-procurement, naval construction and modernization, tactical aircraft,
-and special forces. JFK military Keynesianism had raised Pentagon
-spending from $45.3 billion in 1960 to 52.1 billion in 1962"</p>
+<p>"@chiefsez@threads.net</p>
+<p>@jonnolen@threads.net Working Americans paying $1000 per person per
+month. Pretty much across the board. For the privilege to pay
+thousands more for actual care. They clearly don’t fear us enough. But
+they will. This might be the thing that gets us to pitchforks and
+torches"</p>
+<hr />
+<p>"@dgmor85@threads.net</p>
+<p>@jonnolen@threads.net Just my wife and I, $32k"</p>
+<hr />
+<p>"@jonnolen@threads.net</p>
+<p>My health insurance premiums are 46,800 but go on and tell me how we
+can't fucking afford Universal Single Payer health care. (Family of 4)"</p>
+<hr />
+<p>"@top_news@mastodon.social</p>
+<p>Nvidia live updates: Stock tanks after new affair allegations, board
+reportedly preparing to oust Jensen Huang"</p>
+<hr />
+<p>"@pikesley@mastodon.me.uk</p>
+<p>People repeating the phrase Frontier Model like it means something"</p>
+<hr />
+<p>The Conversation: "Police 'sniffer dogs' are less accurate, and more
+harmful, than courts assume.. Research shows that 'sniffer dogs' have
+a high rate of false alerts"</p>
+<hr />
+<p>"@kibblesmith.bsky.social</p>
+<p>Maybe the global economy should stop being the eight weirdest men
+alive at the same time"</p>
+<hr />
+<p>It looks like US GDP growth will slow 2027. If that continues in 2028,
+and DJT net popularity remains as low as it is now, no Republican
+candidate has any chance of winning the next election.</p>
+<hr />
+<p>After years of electrification talk we get around 20% renewable usage
+for most countries. This is abysmal. It mostly has to do with having
+chosen the wrong technology. Electrification, batteries were the
+inefficient route. Clean gasification / hydrogen and nextgen nuclear
+would have worked better.</p>
+<hr />
+<p>It is hydro (units in TWh)</p>
+<pre><code class="language-python">df[df.iso_code == 'NOR'][['hydro_consumption','primary_energy_consumption']].tail(1)
+</code></pre>
+<pre><code class="language-text">hydro_consumption  primary_energy_consumption
+
+       340.429                     555.626
+</code></pre>
+<hr />
+<p>That has to be hydro</p>
+<hr />
+<p>Norway's is always very high</p>
+<hr />
+<p>Percentage of low carbon (renewable plus nuclear) consumption per
+country</p>
+<pre><code class="language-python">import pandas as pd
+
+df = pd.read_csv('/opt/Downloads/energy-data-master/owid-energy-data.csv')
+df = df.set_index('year')
+
+countries = ['NOR','USA','DEU']
+fig, axes = plt.subplots(len(countries), 1)
+fig.suptitle('Low Carbon Consumption Percentage')
+
+for i,code in enumerate(countries):
+   dfm = df.copy()[df.iso_code == code]
+   dfm['pct'] = dfm['low_carbon_consumption'] / dfm['primary_energy_consumption'] * 100
+   dfm['pct'].plot(ax=axes[i],title=code)
+
+plt.tight_layout()   
+</code></pre>
+<p><img width='340' src='https://media.mastodontech.de/media_attachments/files/117/599/041/936/702/038/original/a1c328d88c56af98.jpg'/></p>
+<hr />
+<p>BP used to have a usable energy production / consumption dataset,
+listed by energy source, now it is dead. The project below seems to
+have taken the mantle.</p>
+<p><a href="https://github.com/owid/energy-data/">[-]</a></p>
+<hr />
+<p>VulnCheck: "<code>curl</code> [Project] Gives Anthropic's OSS Scanner a Reality
+Check..  Three days ago, Daniel Stenberg, who maintains <code>curl</code>,
+announced that the project had received a batch of 45 vulnerability
+reports from Anthropic. Anthropic rated only one as medium severity
+and the rest as low. Daniel is moving them over to GitHub at a
+deliberate pace "to soften the impact for the team," with plans to
+have them all published by the end of the week. This gives us a rare
+look at what Anthropic's findings look like once a maintainer actually
+validates them.</p>
+<p>Of the 34 reports published so far, 19 have been marked as not a
+vulnerability, 6 have been confirmed as low severity, and 9 are still
+awaiting assessment. That puts the false positive rate at 55.9% so
+far, and only 17.6% of findings have been confirmed, all of them low
+severity. That's a lot of work dumped on open source maintainers for a
+small handful of low-impact bugs, and when a maintainer has to pace
+reports just to protect his team, that says plenty about the burden."</p>
+<hr />
+<p>I did hear execs absolutely disliked the new Gunn movie, <em>Man of
+Tomorrow</em>, which, some suggest was the real event triggering his
+firing. Did he go Tarantino on it like he did for Peacemaker S2?</p>
+<hr />
+<p>Matalas shined that turd as best as he could, he was handed down a
+garbage backstory. And I still don't care about this
+character. #VisionQuest</p>
+<hr />
+<p>"@GossiTheDog@cyberplace.social</p>
+<p>Pass the bong"</p>
+<blockquote>
+<p>Newsweek: "'I think for most people in this room, the most likely
+reason they will die is because of an AI accident,' OpenAI board
+member Paul Christiano told an audience"</p>
+</blockquote>
 <hr />
 <h2>Reference</h2>
 <p><a href="0119/2013/02/nations-and-nationalism.html">Nations and Nationalism, Culture, Narratives</a></p>

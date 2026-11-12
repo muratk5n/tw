@@ -82,7 +82,8 @@ target_regions = [
     "Polígono 78",
     "Kursk-Russian Armed Forces",
     "C. Sumy-Russian Armed Forces",
-    "Sumy-Russian Armed Forces"
+    "Sumy-Russian Armed Forces",
+    "NW. Kharkiv-Russian Armed Forces"
 ]
 
 with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022.kmz') as myzip:

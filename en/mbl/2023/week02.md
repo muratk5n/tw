@@ -124,7 +124,7 @@ power supply fits into 1.5 m² of space"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1otuHBcDGHQmSAm0DUzDX71v0eNQN85vY)
+[Link](https://www.dropbox.com/scl/fi/zr4qeo8zcy0jrb5lyyg19/dubya_gore_debate_1.gif?rlkey=fzjo1uzhnyu3yjb4ufji6xrst&st=wyts4xnq&raw=1)
 
 ---
 
