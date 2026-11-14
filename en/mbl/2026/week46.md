@@ -1,5 +1,284 @@
 # Week 46
 
+"Humble Bundle, the PC storefront behind various charity game bundles,
+has been updated with what appears to be an all-new vibe-coded
+redesign, and it seems to be extremely flawed. As a few people have
+noted, the update appears to have stripped the site of various
+security features, potentially putting user accounts and saved credit
+card information at risk...
+
+Various standard security features are missing following the new
+update: there are no authentication checks when changing passwords or
+email addresses, potentially making it easier for anyone to gain
+control of an account without a user’s permission. If logged in, you
+can simply enter a new password without having to know the current
+one. Additionally, when attempting to change your email addresses, no
+verification is sent to the old email address, with information only
+being directed toward the newly inputted email account. We’ve tested
+this too, and incredibly it’s the case."
+
+---
+
+"But LLMs contain all the world's knowledge".. they should, but sadly
+they don't.  They are more like "combination of all (written) human
+knowledge, somewhat retarded.". We know this because experiments show
+when you feed the output of an LLM to re-train another version of the
+LLM, and repeat this a few cycles, at the end you get complete
+gibberish. That means every trained LLM is a somewhat corrupted /
+stupider version of what it *should* have become (greater than the sum
+of its parts). That corruption at each iteration adds up and at the
+end you end up with a stochastic imbecile, not even a parrot.
+
+---
+
+"@jaykuo@universeodon.com
+
+We need universal health care. Not these for-profit insurance
+companies denying our claims. When Ronan was born, he spent 10 days in
+the NICU. The insurance company insists the last days were not
+'medically necessary' — even though the doctor insisted he wasn’t
+cleared to leave. Now the insurance company, Anthem Blue Cross, wants
+to stick us with a $35K bill. We’ve been fighting it for over a year,
+but it shouldn’t be this way."
+
+---
+
+"@trond_solberg71@threads.net
+
+Hi 😊 Norwegian here.
+
+When a woman finds out she's pregnant, here's what happens:
+
+She calls her GP or midwife.
+Appointment within a week.
+
+7 check-ups across the pregnancy.
+Two ultrasounds included.
+All antenatal care is 100% free.
+
+The birth itself is also free.
+After the birth: A year of paid leave.
+Then daycare at $124/month.
+
+No insurance.
+No denied claims.
+No bill.
+
+Just a system that says: we've got you.
+
+Follow for more from a social democracy, where dignity is not a
+privilege."
+
+---
+
+"@thepurpleoctopus@lgbtqia.space
+
+Never underestimate the political significance of having enough time
+to sit in a park, read a book, drink coffee and exist without
+producing anything of economic value."
+
+---
+
+The index fell from its 1992 highs never to return. The adverse
+effects started to be felt around 2010s, and US politics became
+combative.
+
+---
+
+The Living Standards Index shows flatline for Trump 2.0, nothing changed, and
+Reps were punished for it.
+
+[[-]](2021/01/stats.html#livingst)
+
+---
+
+"@Mjack@petrous.vislae.town
+
+Oh hey remember when people fretted about Wikipedia not being
+accurate? Good times."
+
+---
+
+Tom Siwik: "Omarchy folks. Less slop, more code reviews, please.
+
+v3 -> v4 migration just deleted my network setup without warning. SSH
+gone, tailscale gone. And migration never finished bc of a browser
+bug.
+
+That's not called a migration"
+
+---
+
+"[Omarchy] Beautiful, fun & agentic Linux by DHH"
+
+---
+
+Paper: "When Modernization Breaks Working Code: A Single-File Study of
+LLMs on Legacy PHP.. Pasting a legacy file into an LLM and asking it
+to 'modernize this' is an easy shortcut. But is the result better than
+leaving the code alone? In this paper, we study this single-file
+setting with five LLMs, each asked to modernize 100 WordPress 4.0 PHP
+files to PHP 8.3 while preserving behavior, with no project context or
+execution feedback. We evaluate every output with 630 hidden
+behavioral checks and 511 Rector-detected modernization findings. We
+compare against two baselines: the unchanged originals and the
+rule-based tool Rector. Often, the answer is no."
+
+[[-]](https://arxiv.org/abs/2610.40269)
+
+---
+
+AP News: "Mississippi elects Democrat Scott Colom as state’s first
+Black US senator since Reconstruction"
+
+---
+
+"@chiefsez@threads.net
+
+@jonnolen@threads.net Working Americans paying $1000 per person per
+month. Pretty much across the board. For the privilege to pay
+thousands more for actual care. They clearly don’t fear us enough. But
+they will. This might be the thing that gets us to pitchforks and
+torches"
+
+---
+
+"@dgmor85@threads.net
+
+@jonnolen@threads.net Just my wife and I, $32k"
+
+---
+
+"@jonnolen@threads.net
+
+My health insurance premiums are 46,800 but go on and tell me how we
+can't fucking afford Universal Single Payer health care. (Family of 4)"
+
+---
+
+"@top_news@mastodon.social
+
+Nvidia live updates: Stock tanks after new affair allegations, board
+reportedly preparing to oust Jensen Huang"
+
+---
+
+"@pikesley@mastodon.me.uk
+
+People repeating the phrase Frontier Model like it means something"
+
+---
+
+The Conversation: "Police 'sniffer dogs' are less accurate, and more
+harmful, than courts assume.. Research shows that 'sniffer dogs' have
+a high rate of false alerts"
+
+---
+
+It looks like US GDP growth will slow 2027. If that continues in 2028,
+and DJT net popularity remains as low as it is now, no Republican
+candidate has any chance of winning the next election.
+
+---
+
+After years of electrification talk we get around 20% renewable usage
+for most countries. This is abysmal. It mostly has to do with having
+chosen the wrong technology. Electrification, batteries were the
+inefficient route. Clean gasification / hydrogen and nextgen nuclear
+would have worked better.
+
+---
+
+It is hydro (units in TWh)
+
+```python
+df[df.iso_code == 'NOR'][['hydro_consumption','primary_energy_consumption']].tail(1)
+```
+
+```text
+hydro_consumption  primary_energy_consumption
+                                          
+       340.429                     555.626
+```
+
+---
+
+That has to be hydro
+
+---
+
+Norway's is always very high
+
+---
+
+Percentage of low carbon (renewable plus nuclear) consumption per
+country
+
+```python
+import pandas as pd
+
+df = pd.read_csv('/opt/Downloads/energy-data-master/owid-energy-data.csv')
+df = df.set_index('year')
+
+countries = ['NOR','USA','DEU']
+fig, axes = plt.subplots(len(countries), 1)
+fig.suptitle('Low Carbon Consumption Percentage')
+
+for i,code in enumerate(countries):
+   dfm = df.copy()[df.iso_code == code]
+   dfm['pct'] = dfm['low_carbon_consumption'] / dfm['primary_energy_consumption'] * 100
+   dfm['pct'].plot(ax=axes[i],title=code)
+   
+plt.tight_layout()   
+```
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/599/041/936/702/038/original/a1c328d88c56af98.jpg'/>
+
+---
+
+BP used to have a usable energy production / consumption dataset,
+listed by energy source, now it is dead. The project below seems to
+have taken the mantle.
+
+[[-]](https://github.com/owid/energy-data/)
+
+---
+
+VulnCheck: "`curl` [Project] Gives Anthropic's OSS Scanner a Reality
+Check..  Three days ago, Daniel Stenberg, who maintains `curl`,
+announced that the project had received a batch of 45 vulnerability
+reports from Anthropic. Anthropic rated only one as medium severity
+and the rest as low. Daniel is moving them over to GitHub at a
+deliberate pace "to soften the impact for the team," with plans to
+have them all published by the end of the week. This gives us a rare
+look at what Anthropic's findings look like once a maintainer actually
+validates them.
+
+Of the 34 reports published so far, 19 have been marked as not a
+vulnerability, 6 have been confirmed as low severity, and 9 are still
+awaiting assessment. That puts the false positive rate at 55.9% so
+far, and only 17.6% of findings have been confirmed, all of them low
+severity. That's a lot of work dumped on open source maintainers for a
+small handful of low-impact bugs, and when a maintainer has to pace
+reports just to protect his team, that says plenty about the burden."
+
+---
+
+Matalas shined that turd as best as he could, he was handed down a
+garbage backstory. And I still don't care about this
+character. \#VisionQuest
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+Pass the bong"
+
+>Newsweek: "'I think for most people in this room, the most likely
+>reason they will die is because of an AI accident,' OpenAI board
+>member Paul Christiano told an audience"
+
+---
 
 \#DrBenMiles
 

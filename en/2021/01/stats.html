@@ -39,11 +39,11 @@ quarter growth compared to previous quarter,
 df['growann'] = (  (  (1+df.pct_change())**4  )-1.0  )*100.0
 print (df['growann'].tail(5))
 </code></pre>
-<pre><code class="language-text">2025-04-01    3.838033
-2025-07-01    4.375396
-2025-10-01    0.482248
-2026-01-01    2.089189
-2026-04-01    1.500152
+<pre><code class="language-text">2025-07-01    3.880334
+2025-10-01    0.207735
+2026-01-01    2.491776
+2026-04-01    2.220208
+2026-07-01    3.369619
 Name: growann, dtype: float64
 </code></pre>
 <pre><code class="language-python">df = u.get_fred(1970,'GDPC1')
@@ -55,21 +55,20 @@ df['inf'] = df['inf'].interpolate()
 print (df[['inf']].tail(6))            
 </code></pre>
 <pre><code class="language-text">              gdpyoy
-2025-01-01  2.019273
-2025-04-01  2.080467
-2025-07-01  2.335168
-2025-10-01  1.989300
-2026-01-01  2.684743
-2026-04-01  2.101819
+2025-04-01  2.420614
+2025-07-01  2.600682
+2025-10-01  2.046041
+2026-01-01  2.639173
+2026-04-01  2.191575
+2026-07-01  2.065739
                  inf
-2026-02-01  2.414113
-2026-03-01  3.256420
-2026-04-01  3.810845
 2026-05-01  4.248674
 2026-06-01  3.531425
 2026-07-01  3.364825
+2026-08-01  3.396548
+2026-09-01  3.737685
+2026-10-01  3.737685
 </code></pre>
-<p><a name='taylor'></a></p>
 <h2>Wages and Unemployment</h2>
 <p><a name='wages'></a></p>
 <p>Wages</p>
@@ -159,29 +158,13 @@ print (df1[['UNRATE','U6RATE','REAL_UNRATE','REAL_UNEMP_LEVEL']].tail(5))
 plt.savefig('unemploy.png')
 </code></pre>
 <pre><code class="language-text">            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
-2026-04-01     4.3     8.2     9.385570           15955.0
-2026-05-01     4.3     8.1     9.346594           15896.5
 2026-06-01     4.2     7.9     9.140106           15479.5
 2026-07-01     4.1     7.9     9.011556           15238.0
 2026-08-01     4.1     7.7     8.819216           14973.0
+2026-09-01     4.2     7.6     8.897758           15149.5
+2026-10-01     4.1     7.9     9.088193           15512.0
 </code></pre>
 <p><img alt="" src="unemploy.png" /></p>
-<p><a name='vacrate'></a></p>
-<p>Vacancy rate, job openings divided by unemployed people</p>
-<pre><code class="language-python">df = u.get_fred(2000, ['JTSJOL','UNEMPLOY'])
-df = df.dropna()
-df['VRATE'] = df.JTSJOL / df.UNEMPLOY
-df.VRATE.plot()
-print (df.VRATE.tail(3))
-plt.savefig('vrate.png')
-</code></pre>
-<pre><code class="language-text">DATE
-2025-08-01    0.979268
-2025-09-01    1.006969
-2025-11-01    0.918391
-Name: VRATE, dtype: float64
-</code></pre>
-<p><img alt="" src="vrate.png" /></p>
 <h2>Companies</h2>
 <p><a name='pm'></a></p>
 <p>Profit Margins</p>
@@ -196,10 +179,10 @@ print (df.tail(4))
 plt.savefig('profitmargin.png')
 </code></pre>
 <pre><code class="language-text">                  CP    FINSLC1         PM
-2025-04-01  3355.897  23765.563  14.120839
-2025-07-01  3591.344  24029.136  14.945789
-2025-10-01  3792.207  24049.784  15.768154
-2026-01-01  3792.207  24144.450  15.706330
+2025-10-01  3783.725  24132.356  15.679053
+2026-01-01  3948.352  24270.589  16.268052
+2026-04-01  4279.937  24436.345  17.514636
+2026-07-01  4279.937  24541.742  17.439418
 </code></pre>
 <p><img alt="" src="profitmargin.png" /></p>
 <h2>Finance</h2>
@@ -212,10 +195,10 @@ print (df.tail(4))
 plt.savefig('dollar.png')
 </code></pre>
 <pre><code class="language-text">              DX-Y.NYB
-2026-10-01  102.099998
-2026-10-02  101.930000
-2026-10-04  102.047001
-2026-10-05  102.164001
+2026-11-09  101.650002
+2026-11-10  102.230003
+2026-11-11  102.910004
+2026-11-12  103.147003
 </code></pre>
 <p><img alt="" src="dollar.png" /></p>
 <p><a name='schiller'></a></p>
@@ -269,12 +252,12 @@ df.plot()
 plt.savefig('junkbond.png')
 </code></pre>
 <pre><code class="language-text">            BAMLH0A2HYBEY
-2026-04-30           7.14
-2026-05-01           7.07
-2026-05-04           7.14
-2026-05-05           7.11
-2026-05-06           7.01
-2026-05-07           7.09
+2026-11-03           8.36
+2026-11-04           8.19
+2026-11-05           8.28
+2026-11-06           8.25
+2026-11-09           8.17
+2026-11-11           8.29
 </code></pre>
 <p><img alt="" src="junkbond.png" /></p>
 <p><a name='treas'></a></p>
@@ -289,9 +272,9 @@ print (df.tail(3))
 plt.savefig('treasuries.png')
 </code></pre>
 <pre><code class="language-text">            DGS3MO  DGS2  DGS10  FEDFUNDS
-2026-08-18    3.86  4.19   4.71      3.63
-2026-08-19    3.86  4.19   4.65      3.63
-2026-08-20    3.87  4.19   4.69      3.63
+2026-11-05    4.17  4.46   4.84      3.88
+2026-11-06    4.19  4.51   4.86      3.88
+2026-11-09    4.24  4.56   4.88      3.88
 </code></pre>
 <p><img alt="" src="treasuries.png" /></p>
 <p><a name='tcurve'></a></p>
@@ -453,10 +436,10 @@ plt.text('2020-03-01',0.48,'Biden')
 plt.text('2023-06-01',0.42,'DJT')
 plt.savefig('gini.png')
 </code></pre>
-<pre><code class="language-text">2024-10-01    0.440
-2025-01-01    0.440
-2025-04-01    0.440
-2025-07-01    0.442
+<pre><code class="language-text">2025-07-01    0.444
+2025-10-01    0.444
+2026-01-01    0.443
+2026-04-01    0.447
 dtype: float64
 </code></pre>
 <p><img alt="" src="gini.png" /></p>
@@ -484,6 +467,14 @@ plt.savefig('top10-2.jpg')
 <p><img alt="" src="top10-2.jpg" /></p>
 <p><a name='livingst'></a></p>
 <h2>Living Standards Index</h2>
+<p>We divide income by seperate spending items, you would get "units of
+that item can be bought by a regular person". If median income in 2010
+is 100, education is 10, I could buy 10 units of education for that
+year, same for housing etc.</p>
+<p><code>MEHOINUSA646N</code> - Median Household Income in the US, <code>MSPUS</code> - Median
+Sales Price of Houses Sold, <code>HLTHSCPCHCSA</code> - Health Expenditures per
+Capita, <code>CUSR0000SEEB</code> - Tuition, <code>CPIAUCSL</code> Consumer Price Index, for
+everyday shopping. </p>
 <pre><code class="language-python">targets = ['MSPUS','HLTHSCPCHCSA','CUSR0000SEEB','CPIAUCSL']
 income = ['MEHOINUSA646N']
 df = u.get_fred(1992, income + targets)
@@ -498,9 +489,9 @@ ratios_df['super_index'].plot(title='Living Standards Index', grid=True)
 print (ratios_df['super_index'].tail(3))
 plt.savefig('livingst.jpg')
 </code></pre>
-<pre><code class="language-text">2026-07-01    0.880272
-2026-08-01    0.877008
-2026-09-01    0.873275
+<pre><code class="language-text">2026-08-01    0.889256
+2026-09-01    0.885523
+2026-10-01    0.883520
 Freq: MS, Name: super_index, dtype: float64
 </code></pre>
 <p><img alt="" src="livingst.jpg" /></p>
@@ -512,11 +503,10 @@ df.plot()
 print (df.tail(3))
 plt.savefig('medhouse.jpg')
 </code></pre>
-<pre><code class="language-text">             MSPUS
-DATE              
-2024-10-01  419300
-2025-01-01  423100
-2025-04-01  410800
+<pre><code class="language-text">               MSPUS
+2026-01-01  408500.0
+2026-04-01  413500.0
+2026-07-01  393300.0
 </code></pre>
 <p><img alt="" src="medhouse.jpg" /></p>
 <p><a name='chex'></a></p>
@@ -527,11 +517,11 @@ plt.savefig('exchina.jpg')
 print (df.tail(5))
 </code></pre>
 <pre><code class="language-text">            XTEXVA01CNM667S
-2025-08-01     3.177898e+11
-2025-09-01     3.158886e+11
-2025-10-01     3.083828e+11
-2025-11-01     3.232409e+11
-2025-12-01     3.237949e+11
+2026-04-01     3.594083e+11
+2026-05-01     3.789126e+11
+2026-06-01     3.947403e+11
+2026-07-01     3.875077e+11
+2026-08-01     3.962539e+11
 </code></pre>
 <p><img alt="" src="exchina.jpg" /></p>
 <hr />
