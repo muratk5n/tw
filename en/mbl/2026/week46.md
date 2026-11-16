@@ -1,5 +1,68 @@
 # Week 46
 
+The Lever: "Voters Said No To Data Centers — Now So Is Josh
+Hawley.. The data center revolt just got a new high-ranking new ally."
+
+---
+
+The Independent: "Using air purifiers for a month helped cut levels of
+harmful air pollution tied to spikes in blood sugar and developing
+diabetes by 36%, according to the study presented at a conference of
+the American Heart Association."
+
+---
+
+They sound cautious, almost apologetic about the use..
+
+"Friendslop du jour Big Walk.. have been confirmed to use generative
+AI in their production, with developers House House clarifying their
+use of it in a statement... House House state that 'LLMs were used
+sparingly by House House to help work through difficult technical
+challenges and bugs', and that 'well under 0.1% of Big Walk’s code had
+anything to do with this usage', but are quick to note that
+'generative AI was not used in any other context when making the
+game.'...
+
+A specific example is given in the case of Unity's apparent weirdness
+around shadow casters in its rendering pipeline, as it's seemingly
+difficult to have unnecessary shadow casters behind the player culled,
+which resulted in the game running at half speed around sunrise and
+sunset. House House explain that they couldn't find a solution
+themselves, asked a Unity engineer for help who said it was
+impossible, and then decided the only answer was to ask an LLM
+chatbot; "after a few dead ends, it suggested a possible fix, and
+while we had to modify the suggestion extensively, it worked. This fix
+represented about 10 lines of code.' While absolutely not the most
+pressing thing to mention here, it is very funny to me for House House
+to clarify that they 'had to modify the suggestion extensively',
+almost as if this tech isn't actually helpful in giving useful
+answers"
+
+---
+
+XDA: "[09/24] The Netherlands joins Europe's gradual migration from
+Windows to Linux on government PCs."
+
+---
+
+"@eniko@mastodon.gamedev.place
+
+Chris Van Hollen is way too young to be senate majority leader, he's
+only 67!"
+
+---
+
+Yahoo Finance: "A Wall Street Mystery Seller Is Now Trying to Dump
+$500 Million of Data Center Loans"
+
+---
+
+\#Ukraine 10/28 - 11/13
+
+[[-]](ukrdata/map24.html)
+
+---
+
 "Humble Bundle, the PC storefront behind various charity game bundles,
 has been updated with what appears to be an all-new vibe-coded
 redesign, and it seems to be extremely flawed. As a few people have

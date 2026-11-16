@@ -1,17 +1,4 @@
 
-Pinned Post
-
-"@chiefsez@threads.net
-
-@jonnolen@threads.net Working Americans paying $1000 per person per
-month. Pretty much across the board. For the privilege to pay
-thousands more for actual care. They clearly don’t fear us enough. But
-they will. This might be the thing that gets us to pitchforks and
-torches"
-
----
-
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
@@ -52,4 +39,3 @@ Also on
 [Mastodon](https://mastodontech.de/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/tw/en/),
 [Github](https://muratk5n.github.io/tw/en/)
-    
