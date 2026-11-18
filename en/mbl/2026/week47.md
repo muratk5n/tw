@@ -1,5 +1,106 @@
 # Week 47
 
+
+Gasworld: "US start-up Eclipse Energy has completed the second
+successful trial of its microbial biotechnology, producing hydrogen
+from a disused oil well in West Texas.
+
+The pilot saw hydrogen produced for 30 consecutive days through the
+process which injects water, microbes, and nutrients into depleted oil
+wells to break down hydrocarbons into hydrogen-rich gas.
+
+Eclipse said the resulting gas was gathered through existing natural
+gas infrastructure, then processed and sold by the firm alongside
+natural gas."
+
+---
+
+Vampire, Batman, Bond. RP plays "dark and edgy" roles, is that a sign
+JB will be "dark and edgy"?
+
+F24: "Robert Pattinson: British actor will be the next James Bond"
+
+---
+
+"Nvidia board is not considering bringing Jensen Huang back as CEO,
+source tells CNBC"
+
+---
+
+Uncle Jensen Dong gives some money to Space X which uses that
+investment to raise debt and buy more NVidia GPUs. Balance
+sheet-as-a-service. No wonder they whine like whiny little bitches
+when Dong goes away.
+
+"[01/31] NVIDIA’s Planned $2B SPV Investment in xAI: Accounting
+Treatment Explained.. NVIDIA is reported to be investing up to 2
+billion into a Special Purpose Vehicle (SPV) tied to.. xAI. This has
+raised questions because SPVs are often associated with
+'off-balance-sheet' investing."
+
+---
+
+One rumor has it Skydance is considering pausing DC content generation
+for 10 years, essentially shelving the brand. Sure, reboots, reboots
+of reboots can get tiresome, and fatally damage the brand if it hasn't
+already. A pause can be a good idea.
+
+---
+
+"60 people report to Ho Chow Wang, he is irreplacable". No one is
+irreplacable. Take 4 out of that 60, have them manage 15 each, those 4
+report to you, problem solved.
+
+---
+
+"The banker for the unbanked" :) Obviously when the money dries up the
+guy with the money is the bank for the unbanked. NO CAP. That is
+Jensen Chow Wang
+
+---
+
+F--ing Huang Dong.. Ho Lee Fuk. Yu Suk Wang. Chow Wang.. 
+
+---
+
+IC: "Gaza is protected by international law. Why are its people still
+unprotected?"
+
+---
+
+IC: "Climate Breakdown: October 2026 was warmest on Record"
+
+---
+
+The Lever: "A new report alleges that politically connected players
+advanced a massive data center project in drought-stricken New Mexico
+through corruption and backroom dealings."
+
+---
+
+"@mhoye@cosocial.ca
+
+My daughter is wandering around the house pretending to be a LinkedIn
+NPC, saying things like 'I'm soft launching a synergy. I'm MVPmaxxing!
+I own four navy suits and I hate myself. I'm looking forward to
+wearing my Funny Tie to Funny Tie Friday. I'm focusing on the
+shareholder! Let's circle back on that. My wife just left me and
+here's what it taught me about B2B sales. We're going public! 10x
+Macbook'
+
+I'm dying here."
+
+---
+
+The resistance near Bab al-Mandab did not last. The encirclement
+closed in the west. Aden is likely next, fighting reported in Lahj.
+
+\#Yemen 11/14 - 11/17
+
+[[-]](ymndata/map13.html)
+
+---
+
 "@renegadejade@chaosfem.tw
 
 My retirement plan is the collapse of society and money being meaningless anyway"

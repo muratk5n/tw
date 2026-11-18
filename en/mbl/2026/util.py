@@ -148,7 +148,12 @@ def data_synth_1():
 
 def map_usnavy(infile,outfile):
     df = pd.read_csv(infile,sep=',')
-    m = folium.Map(location=[0,0], zoom_start=3) 
+    m = folium.Map(location=[0,0], zoom_start=3)
+    folium.TileLayer(tiles="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}",
+            name='subdomains2',
+            attr='attribution',
+            subdomains= ['mt0', 'mt1', 'mt2', 'mt3'],
+    ).add_to(m)    
     for idx, (ship,lat,lon) in df.iterrows():
         folium.Marker([lat + np.random.uniform(-0.5,0.5),
                        lon + np.random.uniform(-0.5,0.5)],
@@ -370,7 +375,7 @@ def comp_bond_yield(ticker):
         # The 4th cell (index 3) is the CurrentCoupon column
         if len(cells) >= 4:
             # Clean HTML tags and trailing '%' sign
-            cell_text = re.sub(r'<[^>]+>', '', cells[3]).strip()
+            cell_text = re.sub(r'<[^>]+>', '', cells[1]).strip()
             if cell_text.endswith('%'):
                 coupon_values.append(cell_text[:-1])
                 
@@ -381,7 +386,7 @@ if __name__ == "__main__":
     if sys.argv[1] == "approv":
         trump_approval()
     if sys.argv[1] == "usnavy":
-        map_usnavy("usnavy-0302.csv","map03.html")
+        map_usnavy("usnavy-1117.csv","map06.html")
     if sys.argv[1] == "stats1":
         stats1()
     if sys.argv[1] == "stats2":
