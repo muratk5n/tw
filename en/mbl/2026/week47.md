@@ -1,5 +1,190 @@
 # Week 47
 
+"@thomasfuchs@hachyderm.io
+
+The Internet was designed for decentralized services.
+
+Personal computers were designed for running things locally and get
+away from mainframes and terminals.
+
+Laws were designed to prevent monopolies.
+
+Fast forward 30–40 years and we now have like two mainframe rental
+providers used by essentially everyone: individuals, companies of all
+sizes, the military, governments.
+
+And of course instead of breaking this shit up we’re stuffing this
+dependency into every last device remotely possible.
+
+So like all problems this is a social problem, and social problems are
+political problems: if we don’t forcibly break the fucking giant
+corporations up this will only get worse."
+
+---
+
+\#BrendanDell \#LLM \#Metrics
+
+[[-]](https://youtu.be/0U4r8zRwpMs?t=1282)
+
+---
+
+*Mayor of Kingstown* good show
+
+---
+
+"@policy@opensource.org
+
+We're back for a fourth year! Join us at #FOSDEM on Sunday, January
+31st 2027 in the Open Source & EU policy devroom for a day of
+discussions with policymakers!
+
+Read the call for Proposals and submit your talk proposal here! 📣 ⬇️"
+
+[[-]](https://softwarefreedom.net/fosdem-27-open-source-and-eu-policy-call-for-papers)
+
+<img width='340' src='https://cdn.masto.host/socialopensourceorg/media_attachments/files/117/558/237/392/246/785/original/e9fb9918b949e3bf.png'/>
+
+---
+
+LLMs spit out vulnerabilities by the kilos, and offer sometimes
+dubious patches to correct them. The sheer amount of patches mean less
+testing time.  Everyone is applying this stuff all at once, and shit
+code w/ less testing time means systems go fubar, BOHICA in unison
+these days.
+
+---
+
+I was hoping with multitude of sensors and a lot of jury-rigging,
+hand-coded action/reaction software self-driving comps could get
+somewhere, but it turns out without a massive improvement in
+fundamental AI science, full self-driving will not happen. We already
+know neural-net based reverse engineered 'driving AI' from data (like
+LLMs did for text) is not possible.
+
+If fundamental research is not there, for-profit busybody tards with
+their "Try Harder Bro" mentality can not get it done.
+
+---
+
+The Guardian: "California bans Waymo self-driving cars from
+freeways.. State DMV says vehicles pose ‘imminent hazard’ after cars
+entered closed zone and tried to bypass highway patrol"
+
+---
+
+"@evanprodromou@threads.net
+
+Free Palestine
+
+Feed Gaza
+
+Ceasefire Now"
+
+---
+
+\#NVidia \#TomHayes
+
+[[-]](https://youtu.be/Q2siHM2fFYE?t=83)
+
+---
+
+The Lever: "The Dark Money Machine Shaping Democrats’
+Mandate... Banks, cryptocurrency firms, and the Israel lobby poured
+millions into super PACs tied to Democratic caucuses. Now those groups
+are vying to shape the party’s agenda."
+
+---
+
+"@malwaretech@infosec.exchange
+
+Its fun watching people try to form conspiracies. 'You really think
+all these outages are a coincidence? The government is hiding
+something!'. Yeah, they're hiding the fact that every tech company
+replaced like 80% of their employees with bots that guess words,
+hardly anyone left knowns wtf they're doing, and admitting it's not
+working out would implode the economy because people invested half the
+US GDP into this shit."
+
+---
+
+\#MIC \#TCN
+
+[[-]](https://youtu.be/-_KjC6_34mE)
+
+---
+
+"@markwyner@mas.to
+
+There’s a fine line between a numerator and a denominator.
+
+Only a fraction of people will find this funny."
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+One of the weird but very corporate things is that critical
+infrastructure has been left on mainframes - itself fine - but then
+they’ve redirected all the IT budget to GenAI.
+
+So now the wheels are falling after the load bearing architecture at
+companies while they faff around with Copilot presentations instead."
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+For no particular reason I’d like to remind everybody that United
+Airlines went all in on GenAI and vibe coding after their CEO vibe
+coded a gambling app one weekend.
+
+They now use generative AI for customer flight-delay messaging and
+internal technology modernization."
+
+---
+
+"@deepcutnews.bsky.social
+
+[Oz] Labor's rushing through an insane Defence Bill that could jail
+you seven years for taking a photo..  The Bill, as written, and which
+looks set to be waved through parliament, would allow for militarised
+datacentres wherever Defence wanted... It’s being done largely without
+debate, in a stitch up between the major parties, and rushed through
+parliament."
+
+---
+
+CNBC: "Widespread outages hit banks, air travel, the NSA and Apple,
+disrupting seemingly everything"
+
+---
+
+LLM is not at genius hacker tool, their capabilities are scriptkiddie
+level bundled up in one place. They can however lower the
+barrier-to-entry for hacking, they can make it easy for the layperson
+to create damage. Their disadvantage of being somewhat retarded can
+even help creating more chaos.
+
+---
+
+ProPublica: "Corporations Are Using Trump’s Tariff Refunds on Bonuses
+Rather Than Reimbursing Consumers.. Stanley Black & Decker is getting
+at least $298 million in tariff refunds. The parent firm of TJ Maxx
+received 331 million. Both companies, and others, are using the money
+for corporate bonuses instead of repaying shoppers."
+
+---
+
+\#USNavy
+
+[[-]](map06.html)
+
+---
+
+Colin Jost: "Jensen Huang had a midlife crisis so bad, you might lose
+your house in his divorce"
+
+---
 
 Gasworld: "US start-up Eclipse Energy has completed the second
 successful trial of its microbial biotechnology, producing hydrogen
