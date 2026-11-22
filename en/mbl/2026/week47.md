@@ -1,5 +1,134 @@
 # Week 47
 
+
+"In another example, an employee using Muse on her personal phone
+reported it had surprised her with a reminder to respond to a message
+from her sister on Signal, an end-to-end encrypted messaging service
+popular with privacy advocates that competes with Meta’s WhatsApp.
+
+Reuters illustration showing an internal post by a Meta employee (top)
+and the person's chat with their Muse (bottom).
+
+'This seems like an extreme privacy violation. I definitely did not
+grant it access to other apps, or recall being asked about this,' the
+employee said in her post"
+
+---
+
+Was the Python below vibe coded 🤨 ?? No. 
+
+---
+
+Sad
+
+```python
+u.get_yahoo_tickers(2026, ['NVDA','ANT']).tail(20).plot(subplots=True)
+plt.tight_layout()
+```
+
+<img width='340' src='https://media.mastodontech.de/media_attachments/files/117/650/119/436/113/431/original/24272d80fd5dba1c.jpg'/>
+
+---
+
+\#LLM \#Doctor
+
+[[-]](https://youtu.be/cFQuO7WLaGc?t=2387)
+
+---
+
+Circular IPO.. Good one #Anthropic
+
+---
+
+CNBC: "Jensen Huang's ouster tests Nvidia's role as the 'central bank
+of AI'"
+
+---
+
+"@dmwalker24@youtube.com
+
+Massive amounts of AI coded patches for security vulnerabilities
+supposedly found by AI, patching mountains of AI coded features that
+didn't work well before, and work even less-well now. Digital
+Kessler Syndrome [a type of snowball effect]."
+
+---
+
+"@kevincollier.bsky.social@bsky.brid.gy
+
+New! My colleague Jared Perlo (who doesn't appear to be on Bluesky)
+and I tested three AI toys for 3-year-olds we found on Amazon. The
+educational one can't spell most words ('Apple' is 'Apppl'). One
+frequently switches to Mandarin. The third graphically describes any
+historical atrocity you ask it."
+
+---
+
+"@me@social.jlamothe.net
+
+@eniko I too have used LLMs in the past. The problem I most
+immediately found was that they give plausible sounding but wrong
+answers.
+
+The thing I will usually tell someone who relies on AI is this:
+
+Ask it some obscure question about some obscure topic about which you
+know a great deal, and see how long it takes to give you a plausible
+sounding but very wrong answer. Then ask yourself if you really trust
+it with other topics. If you didn't have the knowledge you did, would
+you have known it was feeding you nonsense?
+
+In my case, I asked it about a small company I had a job at. It
+hallucinated an entirely fictitious board of directors. That was
+enough for me to never trust it again."
+
+---
+
+Reuters: "Meta’s AI agent Muse, embodied by a smiley, fuzzy mascot
+named Jolly, has burrowed into encrypted personal messages, supplied
+made-up information about purchases and sent users chats seemingly
+meant for other people, a fraught start for a bot meant to simplify
+life for consumers, according to internal company posts reviewed by
+Reuters.
+
+The unbidden actions by Muse – one of the fastest-growing apps on
+record, with more than 10 million downloads since its September
+launch.. have prompted unnerved employees to raise concerns it could
+be mixing up conversations between different accounts and exposing
+users’ private data, the posts showed.
+
+In some of those cases, Meta staffers reported the agent sending them
+messages about a childcare request they had not made, career advice
+they had not sought, product orders they had not placed and bank
+account balances that were not theirs."
+
+---
+
+NYT: "NYC, LA and Chicago School Districts Weigh Breaking Up With
+Google Search Over A.I."
+
+via @Techmeme@techhub.social
+
+---
+
+The Conversation: "An executive assistant told me she uses AI tools
+for drafting itineraries and briefings, but she’s caught enough issues
+that she now builds time into her workflow to thoroughly check for
+inaccuracies and biases.
+
+Therein lies the catch: AI responses can improve productivity, but the
+gains are often countered by time and mental energy spent determining
+whether the output is accurate and appropriate. This is the
+verification burden."
+
+---
+
+As usual Americans went all in for the DREAM, the thing that offers
+something for nothing, distorted with heavy business lies and
+collusion.
+
+---
+
 "@thomasfuchs@hachyderm.io
 
 The Internet was designed for decentralized services.
@@ -159,7 +288,7 @@ disrupting seemingly everything"
 
 ---
 
-LLM is not at genius hacker tool, their capabilities are scriptkiddie
+LLM is not a genius hacker tool, their capabilities are scriptkiddie
 level bundled up in one place. They can however lower the
 barrier-to-entry for hacking, they can make it easy for the layperson
 to create damage. Their disadvantage of being somewhat retarded can
