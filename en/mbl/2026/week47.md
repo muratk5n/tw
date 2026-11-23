@@ -1,5 +1,95 @@
 # Week 47
 
+alt-J (∆) Tessellate - Broadbandits afro remix \#music
+
+[[-]](https://youtu.be/NwreVcplP6M)
+
+---
+
+Because most of the world bet on inefficient technologies for clean
+energy, they are now trying to fix resulting problems at the
+negotiating table. It's not going to work.
+
+BBC: "Fossil fuel dispute threatens to derail COP31 climate deal"
+
+---
+
+"@jonny@neuromatch.social
+
+'I'm glad th[e Reuter] piece came together, Muse's security is badly
+under-reported. There's one thing that I think is being dramatically
+understated here though re: 'muse reads your Signal messages'
+
+[I]f you grant muse access to read your notifications, it proactively
+reads EVERY notification.
+
+As in, the whole contents of every notification, otherwise known as *a
+timestamped log of everything that happens on your phone* is sent
+directly to Meta"
+
+---
+
+"@jk@mastodon.social
+
+LA Times, November 30th 2001"
+
+[[-]](https://files.mastodon.social/media_attachments/files/117/651/398/287/978/752/original/52efdb53fc5bd4be.png)
+
+---
+
+\#Trumpcare 
+
+[[-]](https://www.youtube.com/shorts/ALZX043Wq_w)
+
+---
+
+<img width='340' src='https://pbs.twimg.com/media/HW8VGZAXAAAI_UE?format=jpg&name=small'/>
+
+'Donald, This Is on the Table': El-Sayed Unveils Gold 'Trumpcare'
+Cards That Every American Could Have in Their Wallet"
+
+---
+
+"Abdul El-Sayed has proposed 'TrumpCare,' a golden insurance card
+providing universal healthcare, dangling the president's name on the
+ambitious Democratic plan.
+
+James Talarico has suggested Donald Trump could become a man of
+history like Lyndon B. Johnson, who was seen as a master of
+congressional dealmaking"
+
+---
+
+"Shoppers Are Panic-Buying Generators at Costco After the Outage
+Wave.. None of those outages cut power to homes. But after a week in
+which banking apps, airlines, and government systems all went down at
+different points, a lot of shoppers clearly decided they wanted a
+backup plan of their own."
+
+---
+
+That sounds like a gabagool last name, is he Asia Minor paisan 
+
+---
+
+True
+
+Christian Ekrem: "If you stop writing code, you also get worse at reviewing it"
+
+---
+
+Vibe coding would not be advised for any large scale software. For
+open source project management I would chose the Zig route, no LLM
+contributions allowed.
+
+---
+
+Daita: "In 1978, [famous computer scientist] Edsger Dijkstra wrote a
+short essay arguing that programming in natural language would be a
+disaster, not because machines couldn't parse it, but because natural
+language is fundamentally hostile to precision."
+
+---
 
 "In another example, an employee using Muse on her personal phone
 reported it had surprised her with a reminder to respond to a message
