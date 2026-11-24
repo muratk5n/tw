@@ -473,12 +473,6 @@ families – is woefully behind."
 
 ---
 
-\#LLM \#IlyaSutskever 
-
-[[-]](https://tubechop.com/videos/K7jftArYkF2bNDfDf05gL)
-
----
-
 Chat GPT "revealed" a conspiracy? You read the text it is bunch of
 bullshit, mostly a summary of others' theories. "They push centralised
 control by promoting lab-grown meat". ???

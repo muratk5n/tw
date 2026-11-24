@@ -53,7 +53,7 @@ as a rough and cruel betrayal."
 
 "How to Lose $19.5 Billion: The Ford EV Disaster!"
 
-[[-]](https://tubechop.com/videos/ehPig4N9GbLU15ABJEdko)
+[[-]](https://youtu.be/C4OWkuOWzMo)
 
 ---
 
@@ -260,12 +260,6 @@ Trump Media via a $6bn merger that it promises will propel it to build
 
 ---
 
-\#Singularity \#SH
-
-[[-]](https://tubechop.com/videos/IU6as1RtkOFESy3Mdao7H)
-
----
-
 WaPo: "They survived a Cybertruck crash. An inferno led to a race
 against time...[we] found at least a dozen cases since 2019 in which
 Tesla drivers, passengers or first responders were unable to
@@ -286,12 +280,6 @@ lights go out"
 
 Gaetz: "Anti-semitism used to mean someone who didn't like Jews. Now
 it means someone Jews don't like"
-
----
-
-\#Gaetz \#Congress
-
-[[-]](https://tubechop.com/videos/IkvMvkQUHJVip0VAZqKYw)
 
 ---
 
@@ -366,12 +354,6 @@ Oceans Heat Up"
 
 ---
 
-"How to Lose $19.5 Billion: The Ford EV Disaster!"
-
-[[-]](https://tubechop.com/videos/ehPig4N9GbLU15ABJEdko)
-
----
-
 Interesting claim.. 
 
 The New Arab: "[2024] Russian state news agency Tass is boosting
@@ -384,8 +366,7 @@ of the country unharmed."
 
 \#Limits \#GPT \#Wooldridge
 
-[Part 1](https://tubechop.com/videos/YizgISrh48ardlltSDIdB),
-[Part 2](https://youtu.be/FkuxTpWzo8M?t=1961)
+[[-]](https://youtu.be/FkuxTpWzo8M?t=1961)
 
 ---
 
@@ -523,7 +504,7 @@ advocating going back to the drawing board these days.
 
 "The future of intelligence | Demis Hassabis (Co-founder and CEO of DeepMind)"
 
-[[-]](https://tubechop.com/videos/qoInF4fHRQjZ2NndfH7tm)
+[[-]](https://youtu.be/PqVbypvxDto?t=1071)
 
 ---
 

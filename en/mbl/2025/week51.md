@@ -325,14 +325,6 @@ fewer enforcement cases against trucking companies."
 
 ---
 
-Aether can explain even time dilation
-
-\#Time \#GravityAsRefraction
-
-[[-]](https://tubechop.com/videos/7N3P_EPpjsEE0PmtXyY2C)
-
----
-
 "@pervocracy.bsky.social
 
 The older I get, the more my politics mature from childish, naïve
@@ -365,7 +357,7 @@ peace talks in April of 2022, but again chose not to."
 
 Do LLMs Understand? \#YannLeCun
 
-[[-]](https://tubechop.com/videos/vpKpW2PRpKsXabsUCpaDi)
+[[-]](https://youtu.be/ykfQD1_WPBQ)
 
 ---
 
